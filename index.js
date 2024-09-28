@@ -51,7 +51,7 @@ const downloadXmlPackages = async (toc) => {
     var downloadProgressBar = new progressBar("Downloading laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
     for (const [key, value] of Object.entries(toc)) {
         const response = await axios.get(value.link, { responseType: 'stream' });
-        const writer = fs.createWriteStream(path.join(__dirname, "xml", key + ".zip"));
+        const writer = fs.createWriteStream(path.join(__dirname, "laws", "xml", key + ".zip"));
         response.data.pipe(writer);
         downloadProgressBar.tick();
     }
@@ -62,9 +62,9 @@ const unzipXmlPackages = async (toc) => {
     var unzipProgressBar = new progressBar("Unzipping laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
     for (const [key, value] of Object.entries(toc)) {
         await new Promise((resolve, reject) => {
-            const zip = new admZip(path.join(__dirname, "xml", key + ".zip"));
-            fs.mkdirSync(path.join(__dirname, "xml", key), { recursive: true });
-            zip.extractAllToAsync(path.join(__dirname, "xml", key), true, (err) => {
+            const zip = new admZip(path.join(__dirname, "laws", "xml", key + ".zip"));
+            fs.mkdirSync(path.join(__dirname, "laws", "xml", key), { recursive: true });
+            zip.extractAllToAsync(path.join(__dirname, "laws", "xml", key), true, (err) => {
                 if (err) {
                     reject(err);
                 } else {
