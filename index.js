@@ -74,6 +74,23 @@ const unzipXmlPackages = async (toc) => {
         });
         unzipProgressBar.tick();
     }
+    // There is only one xml file per zip so move it to /xml/SHORTNAME.xml
+    var moveProgressBar = new progressBar("Moving laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        const file = fs.readdirSync(path.join(__dirname, "laws", "xml", key))[0];
+        fs.renameSync(path.join(__dirname, "laws", "xml", key, file), path.join(__dirname, "laws", "xml", key + ".xml"));
+        moveProgressBar.tick();
+    }
+}
+
+// Cleanup xml data
+const cleanupXmlData = async (toc) => {
+    var cleanupProgressBar = new progressBar("Cleaning up " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        fs.rmSync(path.join(__dirname, "laws", "xml", key), { recursive: true });
+        fs.rmSync(path.join(__dirname, "laws", "xml", key + ".zip"));
+        cleanupProgressBar.tick();
+    }
 }
 
 // Main
@@ -89,5 +106,6 @@ const main = async () => {
     // Prepare xml-packages
     await downloadXmlPackages(tocPrepared);
     await unzipXmlPackages(tocPrepared);
+    await cleanupXmlData(tocPrepared);
 }
 main();
