@@ -3,12 +3,19 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const xml2js = require('xml2js');
+const progressBar = require('progress');
 
 // Config
 const config = {
     tocLocation: process.env.TOC_LOCATION || "https://www.gesetze-im-internet.de/gii-toc.xml",
-    tocLocation: process.env.TOC_LOCATION || configLoaded.tocLocation || "https://www.gesetze-im-internet.de/gii-toc.xml",
-
+    progressBars: {
+        enabled: process.env.PROGRESS_BARS || true,
+        showPercentage: true,
+        chars: {
+            completed: "█",
+            incomplete: "░"
+        }
+    }
 }
 
 // Download toc
