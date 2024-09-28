@@ -1,6 +1,7 @@
-# de-gesetze-md
+# de-gesetze
 
-This repository contains the German laws in markdown format. The laws are taken from the [Gesetze im Internet](https://www.gesetze-im-internet.de) dataset.
+This repository contains a converter for german laws. The laws are taken from the [Gesetze im Internet](https://www.gesetze-im-internet.de) dataset.
+All Information about the dataset can be found [here](https://www.govdata.de/suche/daten/gesetze-im-internet). All information about the license can be found in the [license information file](https://raw.githubusercontent.com/CuzImBisonratte/de-gesetze/refs/heads/main/LICENSE.md).
 
 It downloads the laws from the [Gesetze im Internet](https://www.gesetze-im-internet.de) dataset. After downloading the laws, it converts them to JSON and then to markdown.
 
