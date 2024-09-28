@@ -5,8 +5,8 @@ const axios = require('axios');
 const xml2js = require('xml2js');
 
 // Config
-const configLoaded = fs.existsSync(path.join(__dirname, 'config.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname, 'config.json'), 'utf8')) : {};
 const config = {
+    tocLocation: process.env.TOC_LOCATION || "https://www.gesetze-im-internet.de/gii-toc.xml",
     tocLocation: process.env.TOC_LOCATION || configLoaded.tocLocation || "https://www.gesetze-im-internet.de/gii-toc.xml",
 
 }
@@ -42,5 +42,6 @@ const main = async () => {
     // Prepare toc
     const toc = await downloadToc();
     const tocPrepared = prepareToc(toc);
+    console.log(tocPrepared);
 }
 main();
