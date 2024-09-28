@@ -78,11 +78,15 @@ const unzipXmlPackages = async (toc) => {
 
 // Main
 const main = async () => {
+    // Create directories
+    fs.mkdirSync(path.join(__dirname, "laws"), { recursive: true });
+    fs.mkdirSync(path.join(__dirname, "laws", "xml"), { recursive: true });
+    fs.mkdirSync(path.join(__dirname, "laws", "json"), { recursive: true });
+    fs.mkdirSync(path.join(__dirname, "laws", "md"), { recursive: true });
     // Prepare toc
     const toc = await downloadToc();
     const tocPrepared = prepareToc(toc);
     // Prepare xml-packages
-    fs.mkdirSync(path.join(__dirname, "xml"), { recursive: true });
     await downloadXmlPackages(tocPrepared);
     await unzipXmlPackages(tocPrepared);
 }
