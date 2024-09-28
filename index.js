@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const xml2js = require('xml2js');
+const admZip = require('adm-zip');
 const progressBar = require('progress');
 
 // Config
@@ -17,6 +18,7 @@ const config = {
         }
     }
 }
+const progressBarOptions = ":elapseds... :current/:total (:percent) [:bar] :etas remaining";
 
 // Download toc
 const downloadToc = async () => {
@@ -44,11 +46,44 @@ const prepareToc = (toc) => {
     return tocPrepared;
 }
 
+// Download all xml-packages
+const downloadXmlPackages = async (toc) => {
+    var downloadProgressBar = new progressBar("Downloading laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        const response = await axios.get(value.link, { responseType: 'stream' });
+        const writer = fs.createWriteStream(path.join(__dirname, "xml", key + ".zip"));
+        response.data.pipe(writer);
+        downloadProgressBar.tick();
+    }
+}
+
+// Unzip all xml-packages
+const unzipXmlPackages = async (toc) => {
+    var unzipProgressBar = new progressBar("Unzipping laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        await new Promise((resolve, reject) => {
+            const zip = new admZip(path.join(__dirname, "xml", key + ".zip"));
+            fs.mkdirSync(path.join(__dirname, "xml", key), { recursive: true });
+            zip.extractAllToAsync(path.join(__dirname, "xml", key), true, (err) => {
+                if (err) {
+                    reject(err);
+                } else {
+                    resolve();
+                }
+            });
+        });
+        unzipProgressBar.tick();
+    }
+}
+
 // Main
 const main = async () => {
     // Prepare toc
     const toc = await downloadToc();
     const tocPrepared = prepareToc(toc);
-    console.log(tocPrepared);
+    // Prepare xml-packages
+    fs.mkdirSync(path.join(__dirname, "xml"), { recursive: true });
+    await downloadXmlPackages(tocPrepared);
+    await unzipXmlPackages(tocPrepared);
 }
 main();
