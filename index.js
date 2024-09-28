@@ -93,6 +93,21 @@ const cleanupXmlData = async (toc) => {
     }
 }
 
+// Parse xml data to json
+const convertToJson = async (toc) => {
+    var parseProgressBar = new progressBar("Parsing laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        const parser = new xml2js.Parser();
+        const xml = fs.readFileSync(path.join(__dirname, "laws", "xml", key + ".xml"));
+        parser.parseString(xml, (err, result) => {
+            if (err) console.error(err);
+            fs.writeFileSync(path.join(__dirname, "laws", "json", key + ".json"), JSON.stringify(result, null, 4));
+        });
+        parseProgressBar.tick();
+    }
+}
+
+
 // Main
 const main = async () => {
     // Create directories
@@ -107,5 +122,7 @@ const main = async () => {
     await downloadXmlPackages(tocPrepared);
     await unzipXmlPackages(tocPrepared);
     await cleanupXmlData(tocPrepared);
+    // Prepare json
+    await convertToJson(tocPrepared);
 }
 main();
