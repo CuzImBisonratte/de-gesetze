@@ -107,6 +107,18 @@ const convertToJson = async (toc) => {
     }
 }
 
+// Format json data
+const formatJson = (toc) => {
+    var formatProgressBar = new progressBar("Formatting laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
+    for (const [key, value] of Object.entries(toc)) {
+        const json = JSON.parse(fs.readFileSync(path.join(__dirname, "laws", "json", key + ".json"))).dokumente;
+        // Gather metadata
+        var metadata = {};
+        metadata.title = json.norm[0].metadaten[0].langue[0];
+        metadata.shortTitle = json.norm[0].metadaten[0].jurabk[0];
+        metadata.date = json.norm[0].metadaten[0]["ausfertigung-datum"][0]._;
+    }
+}
 
 // Main
 const main = async () => {
