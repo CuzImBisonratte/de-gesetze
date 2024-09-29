@@ -2,9 +2,6 @@
 name: Convert laws and push to branch
 
 on:
-  push:
-    branches:
-      - main # Remove this line if your primary branch is "master"on:
   schedule:
     - cron: '0 0 */7 * *'
   workflow_dispatch:
