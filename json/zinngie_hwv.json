@@ -1,0 +1,452 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405124412",
+            "doknr": "BJNR000370969"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1969-01-08",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1969, 37"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung über das Berufsbild des Zinngießer-Handwerks"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 16.1.1969 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969BJNE000100326"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S. 1) wird im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung verordnet:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969BJNE000200326"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Dem Zinngießer-Handwerk sind folgende Tätigkeiten (Arbeitsgebiet) und folgende Fertigkeiten und Kenntnisse zuzurechnen, die bei der Ordnung der Berufsausbildung zugrunde zu legen sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "B": [
+                                                                            "Arbeitsgebiet:"
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "_": "Entwurf, Herstellung und Instandsetzung von Geräten und Gefäßen aus Zinn, insbesondere",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Tisch- und Ziergeräte wie Krüge, Kannen, Becher, Teller, Platten, Schalen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "kirchliche Geräte wie Altar-Leuchter; Kelche, Abendmahlskannen, Taufgeschirr, Versehgarnituren;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "technische Geräte und Geräteteile;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Krugbeschläge wie Deckel und Fußreifen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "B": [
+                                                                            "Fertigkeiten und Kenntnisse:"
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "_": "Entwerfen, Skizzieren, Zeichnen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Herstellen der Zinn-Schmelzmasse;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Gießen in Formen, Abkühlen und Ausschlagen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Feinbearbeiten (Versäubern) der Gußstücke von Hand und mit Maschinen durch Feilen, Stechen, Schaben und Polieren;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Abdrehen mit Handstählen und Schablonenmessern auf der Drehbank;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Löten (Zusammenfügen) einzelner Gußteile mit Lötkolben oder Lötvorrichtungen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Anfertigen und Anbringen von Krugbeschlägen (Deckel und Fußreifen);",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Maschinelles Oberflächenbehandeln durch Schleifen, Polieren und Bürsten;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Entfetten, chemisches Oberflächenbehandeln, Farbtönen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Verformen von Zinnblechen unter Verwendung von Drückwerkzeugen und Drückvorrichtungen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Bearbeiten und Verzieren von Zinngeräten und -gefäßen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Konstruieren und Anfertigen von Modellen sowie von Formen für Zinnguß;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Anfertigen von Drehwerkzeugen und Drehfuttern;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Instandhalten von Werkzeugen und Maschinen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnisse in der Werkstoffkunde, insbesondere über Zinn und seine Legierungsstoffe;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnis der handelsüblichen Rohzinn-Sorten und der Legierungsbezeichnungen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnis der gesetzlichen Bestimmungen über die Verwendung von Blei für Zinnlegierungen, der Erkennungsmerkmale dieser Zinnlegierungen sowie der Verfahren zur Prüfung des Legierungsverhältnisses;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnis der Qualitätsbezeichnungen (Qualitätsmarken) von Zinngeräten;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnisse in der Stilkunde;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnisse über Arten, Eigenschaften, Herstellung, Verwendung und Verarbeitung der Werk- und Hilfsstoffe;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Kenntnis der Unfallverhütungsvorschriften.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969BJNE000300326"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969BJNE000400326"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124412",
+                    "doknr": "BJNR000370969BJNE000500326"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZinnGießHwV"
+                        ],
+                        "enbez": [
+                            "Schlußformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Der Bundesminister für Wirtschaft"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

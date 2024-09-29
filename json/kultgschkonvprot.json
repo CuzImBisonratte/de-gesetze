@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150604",
+            "doknr": "BJNR213000967"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150604",
+                    "doknr": "BJNR213000967"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KultgSchKonvProt"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1954-05-14",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1967, 1300"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten\nKonflikten vom 14. Mai 1954)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 11.4.1967 II 1233 Inkraft gem. Bek. v. 26.10.1967 II 2471 mWv 11.11.1967",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

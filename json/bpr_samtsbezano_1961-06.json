@@ -1,0 +1,141 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125143",
+            "doknr": "BJNR007340961"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125143",
+                    "doknr": "BJNR007340961"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1961-06"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1961-06-12",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1961, 734"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung von\nAmtsbezeichnungen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis Geltung ab:  1. 1.1964 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125143",
+                    "doknr": "BJNR007340961BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1961-06"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 2 des Bundespolizeibeamtengesetzes vom 19. Juli 1960 (Bundesgesetzbl. I S. 569) in Verbindung mit § 81 Abs. 1 des Bundesbeamtengesetzes setze ich die Amtsbezeichnung fest.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Leitender Regierungskriminaldirektor",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

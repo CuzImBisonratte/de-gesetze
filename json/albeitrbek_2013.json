@@ -1,0 +1,1028 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130603220014",
+            "doknr": "BJNR246300012"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130603220014",
+                    "doknr": "BJNR246300012"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ALBeitrBek 2013"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2012-12-05",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2012, 2463"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2013"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 11.12.2012 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130603220014",
+                    "doknr": "BJNR246300012BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ALBeitrBek 2013"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 33 Absatz 1 und der §§ 68, 114 und 120 des Gesetzes über die Alterssicherung der Landwirte, von denen § 33 Absatz 1 und § 68 zuletzt durch Artikel 17 Nummer 13 und 23 geändert und die §§ 114 und 120 durch Artikel 17 Nummer 36 und 38 des Gesetzes vom 20. April 2007 (BGBl. I S. 554) neu gefasst worden sind, wird bekannt gemacht:",
+                                            {
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            {
+                                                                "_": "4.",
+                                                                "BR": [
+                                                                    "",
+                                                                    ""
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2013 monatlich 222 Euro.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2013 monatlich 189 Euro.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der monatliche Zuschussbetrag für das Kalenderjahr 2013 wird wie folgt festgesetzt:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "BR": [
+                                                                            "",
+                                                                            ""
+                                                                        ],
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "frame": "top",
+                                                                                    "pgwide": "1",
+                                                                                    "tabstyle": "Einkommen",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "center",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "2"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col1",
+                                                                                                    "colnum": "1",
+                                                                                                    "colwidth": "4*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col2",
+                                                                                                    "colnum": "2",
+                                                                                                    "colwidth": "2*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "thead": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "bottom"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "Einkommensklasse",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "1",
+                                                                                                                    "rowsep": "1",
+                                                                                                                    "valign": "middle"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "monatlicherZuschussbetrag",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "align": "center",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "1",
+                                                                                                                    "valign": "middle"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "bis        8 220 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "align": "center",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "133 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 8 221 bis  8 740 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "124 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 8 741 bis  9 260 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "115 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 9 261 bis  9 780 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "107 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 9 781 bis 10 300 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 98 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "10 301 bis 10 820 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 89 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "10 821 bis 11 340 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 80 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "11 341 bis 11 860 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 71 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "11 861 bis 12 380 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 62 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "12 381 bis 12 900 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 53 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "12 901 bis 13 420 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 44 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "13 421 bis 13 940 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 36 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "13 941 bis 14 460 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 27 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "14 461 bis 14 980 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 18 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "14 981 bis 15 500 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "  9 Euro.",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2013 wird wie folgt festgesetzt:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "BR": [
+                                                                            "",
+                                                                            ""
+                                                                        ],
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "frame": "top",
+                                                                                    "pgwide": "1",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "center",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "2"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col1",
+                                                                                                    "colnum": "1",
+                                                                                                    "colwidth": "4*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col2",
+                                                                                                    "colnum": "2",
+                                                                                                    "colwidth": "2*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "thead": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "bottom"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "Einkommensklasse",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "1",
+                                                                                                                    "rowsep": "1",
+                                                                                                                    "valign": "middle"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "monatlicherZuschussbetrag(Ost)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "align": "center",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "1",
+                                                                                                                    "valign": "middle"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    "",
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "bis        8 220 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "align": "center",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "113 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 8 221 bis  8 740 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "106 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 8 741 bis  9 260 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 98 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 9 261 bis  9 780 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 91 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": " 9 781 bis 10 300 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 83 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "10 301 bis 10 820 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 76 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "10 821 bis 11 340 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 68 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "11 341 bis 11 860 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 60 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "11 861 bis 12 380 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 53 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "12 381 bis 12 900 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 45 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "12 901 bis 13 420 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 38 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "13 421 bis 13 940 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 30 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "13 941 bis 14 460 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 23 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "14 461 bis 14 980 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": " 15 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "14 981 bis 15 500 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "  8 Euro.",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130603220014",
+                    "doknr": "BJNR246300012BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ALBeitrBek 2013"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Bundesministerium für Arbeit und Soziales"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

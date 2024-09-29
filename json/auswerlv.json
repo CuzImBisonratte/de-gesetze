@@ -1,0 +1,2707 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20140127141604",
+            "doknr": "BJNR080500013"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "amtabk": [
+                            "AuswErlV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2013-04-10",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2013, 805"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Auswandererberatungserlaubnisverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung über die Erlaubnis zur Auswandererberatung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 20.4.2013 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 1 Absatz 5 Nummer 2 und 3 des Auswandererschutzgesetzes in der Fassung der Bekanntmachung vom 12. März 2013 (BGBl. I S. 443) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Antragsverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Der Antrag auf Erteilung der Erlaubnis zur Auswandererberatung muss enthalten: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "personenbezogene Daten des Antragstellers: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)",
+                                                                                    "g)",
+                                                                                    "h)",
+                                                                                    "i)",
+                                                                                    "j)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Familienname,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Geburtsname,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Vornamen,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Geschlecht,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Geburtsdatum,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Geburtsort,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Staatsangehörigkeit,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Beruf,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Wohnsitz oder gewöhnlicher Aufenthalt,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Telekommunikationsdaten;"
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "geschäftsbezogene Daten: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Anschrift der Hauptniederlassung,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Anschrift jeder Zweigniederlassung."
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Für den Antrag ist das Muster nach der Anlage zu verwenden.",
+                                            "(3) Soweit es im Einzelfall zur Beurteilung der Zuverlässigkeit oder Sachkunde eines Antragstellers erforderlich ist, kann das Bundesverwaltungsamt nachträglich zum Antrag verlangen, dass ihm über die nach den folgenden Bestimmungen vorgeschriebenen Unterlagen hinaus weitere bestimmte Unterlagen vorgelegt werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beurteilung der Persönlichen Zuverlässigkeit",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Zur Beurteilung der persönlichen Zuverlässigkeit im Sinne des § 1 Absatz 1 Satz 2 des Auswandererschutzgesetzes hat der Antragsteller mit seinem Antrag folgende Unterlagen vorzulegen: Mit dem Antrag auf die Erlaubnis ist nach § 30, auch in Verbindung mit § 30b, des Bundeszentralregistergesetzes ein Führungszeugnis zur Vorlage beim Bundesverwaltungsamt zu beantragen.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Lebenslauf,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Kopie des Personalausweises oder des Reisepasses oder im Falle der Staatsangehörigkeit eines anderen Staates eine gleichwertige Unterlage."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Wird der Antrag auf die Erlaubnis von einer selbständig tätigen Person oder von einer juristischen Person für unselbständig beschäftigte Mitarbeiter gestellt, so kann das Bundesverwaltungsamt zusätzlich eine Unbedenklichkeitsbescheinigung des zuständigen Finanzamtes oder bei ausländischen Antragstellern ein vergleichbares Dokument verlangen.",
+                                            "(3) Wird der Antrag auf die Erlaubnis von einer anerkannten gemeinnützigen Organisation für ihre Mitarbeiter gestellt, so ist von dieser ein zum Zeitpunkt der Antragstellung wirksamer Freistellungsbescheid des zuständigen Finanzamtes vorzulegen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beurteilung der Sachkunde",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Der Bewerber hat zur Beurteilung seiner Sachkunde Unterlagen vorzulegen, aus denen seine Qualifikation für die Beratertätigkeit deutlich wird. Die Sachkunde kann insbesondere durch im Studium und in Aus- und Fortbildungen erworbene Zeugnisse, Zertifikate und ähnliche Urkunden belegt werden. Die erforderliche Sachkunde umfasst insbesondere: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Berufstätigkeit/Berufserfahrung,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Auslandsaufenthalte,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Kenntnisse des einschlägigen deutschen Rechts,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Kenntnisse des ausländischen Rechts hinsichtlich der Staaten, für die die Auswandererberatung erbracht werden soll, insbesondere hinsichtlich des jeweiligen Einwanderungsrechts, Staatsangehörigkeitsrechts, Arbeitsrechts und Sozialversicherungsrechts."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Mitteilungspflicht",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Änderungen zu den nach den vorstehenden Vorschriften gemachten Angaben sind dem Bundesverwaltungsamt unverzüglich und unaufgefordert mitzuteilen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20140127141604",
+                    "doknr": "BJNR080500013BJNE000700000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AuswErlV"
+                        ],
+                        "enbez": [
+                            "Anlage"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(zu § 1 Absatz 2)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "noindex": [
+                                                    {
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BGBl. I 2013, 807 - 810)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "Ort, Datum",
+                                            "Absender",
+                                            {
+                                                "_": "Bundesverwaltungsamt Referat II B 6 50728 Köln",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ]
+                                            },
+                                            {
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "B": [
+                                                    "Antrag/Anträge auf Erlaubnis zur Auswanderungsberatung gemäß § 1 des Auswandererschutzgesetzes (AuswSG)"
+                                                ]
+                                            },
+                                            {
+                                                "_": "Sehr geehrte Damen und Herren,",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            },
+                                            {
+                                                "_": "in der Anlage übersende(n) ich/wir Ihnen den Antrag/die Anträge für folgende Personen mit der Bitte um weitere Veranlassung.",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            },
+                                            "Ort, Datum",
+                                            "Absender",
+                                            {
+                                                "_": "Bundesverwaltungsamt Referat II B 6 50728 Köln",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ]
+                                            },
+                                            {
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "B": [
+                                                    "Antrag auf Erlaubnis zur Auswanderungsberatung gemäß § 1 des Auswandererschutzgesetzes (AuswSG)"
+                                                ]
+                                            },
+                                            {
+                                                "_": "Sehr geehrte Damen und Herren,",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ]
+                                            },
+                                            {
+                                                "_": "ich beantrage die Erlaubnis zur Auswanderungsberatung.",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            },
+                                            {
+                                                "_": "Antragsbegründende Unterlagen habe ich diesem Antrag beigefügt: ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "4"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col4",
+                                                                            "colwidth": "65*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "weitere Unterlagen sind noch nachzureichen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "(Zutreffendes bitte ankreuzen)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "colsep": "1",
+                                                            "frame": "all",
+                                                            "rowsep": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Änderungen zu den genannten Daten sind unverzüglich zur Kenntnis zu bringen bzw. nachzureichen.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "75*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Unterschrift, (ggf. Stempel)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "B": [
+                                                    {
+                                                        "_": "I. Personenbezogene Daten",
+                                                        "BR": [
+                                                            "",
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Anrede (Titel, Frau, Herr): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Familienname:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Geburtsname:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Vorname(n):",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Geschlecht:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Geburtsdatum:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Geburtsort/Land:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Staatsangehörigkeit(en):",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Beruf(e):",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Wohnsitz oder gewöhnlicher Aufenthalt:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "Telekommunikationsdaten:",
+                                            {
+                                                "_": "Telefon",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "E-Mail-Adresse (optional)",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "B": [
+                                                    "II. Geschäftsbezogene Daten"
+                                                ]
+                                            },
+                                            {
+                                                "_": "Hauptniederlassung (Adresse): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Zweigniederlassung (Adresse): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "B": [
+                                                    "III. Nachweis der persönlichen Zuverlässigkeit"
+                                                ]
+                                            },
+                                            {
+                                                "_": "(Zutreffendes bitte ankreuzen) ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "5"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col4",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col5",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Polizeiliches Führungszeugnis (Original)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Lebenslauf",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Kopie des Personalausweises/Reisepasses",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "colsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "colsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "colsep": "0"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "B": [
+                                                    "IV. Nachweis der Sachkunde"
+                                                ]
+                                            },
+                                            {
+                                                "_": "(Zutreffendes bitte ankreuzen) ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "5"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col4",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col5",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Berufstätigkeit/ Berufserfahrung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Wenn ja, Nachweise (Kopien): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "5"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col4",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col5",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Auslandsaufenthalte",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ja",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        },
+                                                                                        "F": [
+                                                                                            "☐"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Wenn ja, Nachweise (Kopien): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Wenn ja, Nachweise (Kopien): ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Wenn ja, Nachweise (Kopien):",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "B": [
+                                                    "Hinweis:"
+                                                ]
+                                            },
+                                            "Gegebenenfalls können weitere Unterlagen gefordert werden."
+                                        ],
+                                        "BR": [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ],
+                                        "table": [
+                                            {
+                                                "$": {
+                                                    "frame": "all",
+                                                    "pgwide": "1",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
+                                                    {
+                                                        "$": {
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "1"
+                                                        },
+                                                        "colspec": [
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col1"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                },
+                                                                                "BR": [
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    ""
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "$": {
+                                                    "frame": "none",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
+                                                    {
+                                                        "$": {
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "2"
+                                                        },
+                                                        "colspec": [
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col1",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "25.02*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col2",
+                                                                    "colwidth": "74.98*"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "Unterschrift, (ggf. Stempel)",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                },
+                                                                                "BR": [
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2",
+                                                                                    "rowsep": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "$": {
+                                                    "frame": "all",
+                                                    "pgwide": "1",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
+                                                    {
+                                                        "$": {
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "1"
+                                                        },
+                                                        "colspec": [
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col1"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                },
+                                                                                "BR": [
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    ""
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "$": {
+                                                    "frame": "none",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
+                                                    {
+                                                        "$": {
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "5"
+                                                        },
+                                                        "colspec": [
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col1",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "40*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col2",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "5*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col3",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "25*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col4",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "5*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col5",
+                                                                    "colwidth": "25*"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "Kenntnisse des einschlägigen deutschen Rechts (z. B. Sozialgesetzbuch, Bürgerliches Gesetzbuch, etc…)",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                },
+                                                                                "F": [
+                                                                                    "☐"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "Ja",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4"
+                                                                                },
+                                                                                "F": [
+                                                                                    "☐"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "Nein",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col5"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "$": {
+                                                    "frame": "none",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
+                                                    {
+                                                        "$": {
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "5"
+                                                        },
+                                                        "colspec": [
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col1",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "40*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col2",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "5*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col3",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "25*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col4",
+                                                                    "colsep": "0",
+                                                                    "colwidth": "5*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col5",
+                                                                    "colwidth": "25*"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "Kenntnisse des einschlägigen ausländischen Rechts (insbesondere Einwanderungsrecht, Staatsangehörigkeitsrecht, Arbeitsrecht, Sozialversicherungsrecht, etc…)",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                },
+                                                                                "F": [
+                                                                                    "☐"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "Ja",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4"
+                                                                                },
+                                                                                "F": [
+                                                                                    "☐"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "Nein",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col5"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

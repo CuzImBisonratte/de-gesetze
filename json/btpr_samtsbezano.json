@@ -1,0 +1,138 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125202",
+            "doknr": "BJNR007610968"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125202",
+                    "doknr": "BJNR007610968"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BTPräsAmtsbezAnO"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1968-06-18",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1968, 761"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Präsidenten des Deutschen Bundestages über die Festsetzung\neiner Amtsbezeichnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab:  1. 7.1968 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125202",
+                    "doknr": "BJNR007610968BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BTPräsAmtsbezAnO"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund der mir am 29. März 1968 übertragenen Befugnis (Bundesgesetzbl. I S. 252) setze ich für den Leiter der Verwaltung des Deutschen Bundestages folgende Amtsbezeichnung fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Direktor des Deutschen Bundestages.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,728 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405130023",
+            "doknr": "BJNR021050965"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV"
+                        ],
+                        "amtabk": [
+                            "WerkeRegV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1965-12-18",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1965, 2105"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung über das Register anonymer und pseudonymer Werke"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 26 G v. 13.12.2001 I 3656"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Überschrift: Bezeichnung idF d. Art. 26 Nr. 1 G v. 13.12.2001 I 3656 mWv 1.1.2002; Buchstabenabkürzung eingef. durch Art. 26 Nr. 1 G v. 13.12.2001 I 3656 mWv 1.1.2002",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis Geltung ab: 1.7.1970 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000101377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1273) wird verordnet:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000201377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Form des Antrags",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.",
+                                            {
+                                                "_": "(2) In dem Antrag sind anzugeben ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Name des Urhebers, der Tag und der Ort seiner Geburt und, wenn der Urheber verstorben ist, das Sterbejahr; ist das Werk unter einem Decknamen veröffentlicht, so ist auch der Deckname anzugeben;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Titel, unter dem das Werk veröffentlicht ist, oder, wenn das Werk ohne Titel veröffentlicht ist, eine sonstige Bezeichnung des Werkes; ist das Werk erschienen, so ist auch der Verlag anzugeben;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000301377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inhalt der Eintragung",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In das Register anonymer und pseudonymer Werke sind die laufende Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt eingegangen ist, sowie die in § 1 Abs. 2 bezeichneten Angaben einzutragen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000401377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Alphabetisches Register",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches Register der eingetragenen Urhebernamen einschließlich der Decknamen sowie der eingetragenen Titel oder sonstigen Bezeichnungen der Werke geführt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000501377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Eintragungsschein",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dem Antragsteller ist auf Verlangen eine Bescheinigung über die Eintragung auszustellen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000602377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Kosten",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym veröffentlichten Werkes in das Register werden folgende Gebühren erhoben:  ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "4",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colnum": "3",
+                                                                            "colwidth": "35*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col4",
+                                                                            "colnum": "4",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bei einem Werk",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "12 Euro;",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "2.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bei mehreren Werken, deren Eintragung gleichzeitig beantragt wird,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "morerows": "2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "a)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "für das erste Werk",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "12 Euro;",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "b)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "für das zweite bis zehnte Werk je",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "5 Euro;",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "c)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "ab dem elften Werk je",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Für das Verfahren bei der Erhebung der Gebühren nach Absatz 1 ist die Verordnung über die Verwaltungskosten beim Deutschen Patent- und Markenamt entsprechend anzuwenden.",
+                                            "(3) (weggefallen)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000702377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den bisherigen Vorschriften."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130023",
+                    "doknr": "BJNR021050965BJNE000801377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrhRollV",
+                            "WerkeRegV"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am 1. Januar 1966 in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

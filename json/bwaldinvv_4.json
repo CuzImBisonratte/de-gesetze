@@ -1,0 +1,757 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20230614213515",
+            "doknr": "BJNR089000019"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4"
+                        ],
+                        "amtabk": [
+                            "4. BWI-VO"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2019-06-16",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2019, 890"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Vierte Bundeswaldinventur-Verordnung"
+                        ],
+                        "langue": [
+                            "Verordnung über die Durchführung einer vierten Bundeswaldinventur"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Aufh"
+                                ],
+                                "standkommentar": [
+                                    "Die V tritt gem. § 4 Satz 2 mit Ablauf des 31.12.2024 außer Kraft"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Geändert durch Art. 2a V v. 9.3.2023 I Nr 61"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.10.2019 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 41a Absatz 5 des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), § 41a Absatz 5 zuletzt geändert durch Artikel 413 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), verordnet das Bundesministerium für Ernährung und Landwirtschaft:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000201377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zeitpunkt",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In der Zeit vom 1. April 2021 bis zum Ablauf des 31. Dezember 2024 wird eine Bundeswaldinventur durchgeführt. Stichtag für die Auswertung der Daten ist der 1. Oktober 2022."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Stichprobenverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Bundeswaldinventur ist nach einem einheitlichen terrestrischen Stichprobenverfahren mit gleichmäßig systematischer Stichprobenverteilung über das gesamte Gebiet der Bundesrepublik Deutschland in dem nach § 2 Satz 1 der Zweiten Bundeswaldinventur-Verordnung vom 28. Mai 1998 (BGBl. I S. 1180) eingerichteten 4 x 4 km-Quadratverband durchzuführen. Verdichtungen sind nach Maßgabe der Anlage vorzunehmen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Grunddaten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "An den Stichprobenpunkten werden nachstehende Grunddaten gemessen oder beschrieben: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8.",
+                                                            "9.",
+                                                            "10.",
+                                                            "11."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Betriebsart,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Eigentumsart,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Waldstruktur,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Baumarten,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Alter,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Baumdurchmesser,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Baumhöhe an ausgewählten Probebäumen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Geländemerkmale,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "besondere Baummerkmale,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Totholz,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Landnutzung vor oder nach Wald."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden Quartals in Kraft. Sie tritt mit Ablauf des 31. Dezember 2024 außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230614213515",
+                    "doknr": "BJNR089000019BJNE000700000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BWaldInvV 4",
+                            "4. BWI-VO"
+                        ],
+                        "enbez": [
+                            "Anlage"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(zu § 2 Satz 2)Verdichtung der Bundeswaldinventur",
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "BR": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "noindex": [
+                                                    {
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BGBl. I 2019, 891)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "Das Stichprobengrundnetz im 4 x 4 km-Quadratverband ist wie folgt zu verdichten:",
+                                            {
+                                                "_": "Auf einen 2,83 x 2,83 km-Quadratverband in ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "Dash"
+                                                        },
+                                                        "DT": [
+                                                            "–",
+                                                            "–",
+                                                            "–"
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Bayern im Bereich der Regierungsbezirke Schwaben und Mittelfranken,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Niedersachsen in den Wuchsgebieten Niedersächsischer Küstenraum und Mittel-Westniedersächsisches Tiefland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Thüringen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "Auf einen 2 x 2 km-Quadratverband in ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "Dash"
+                                                        },
+                                                        "DT": [
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–",
+                                                            "–"
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Baden-Württemberg,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Berlin,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Brandenburg,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Mecklenburg-Vorpommern,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Nordrhein-Westfalen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Rheinland-Pfalz,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Saarland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sachsen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sachsen-Anhalt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Schleswig-Holstein.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "Sowohl der 2,83 x 2,83 km-Quadratverband wie auch der 2 x 2 km-Quadratverband sind nach der folgenden Abbildung in das 4 x 4 km-Grundnetz einzupassen:",
+                                            {
+                                                "IMG": [
+                                                    {
+                                                        "$": {
+                                                            "Align": "center",
+                                                            "Height": "304",
+                                                            "Pos": "inline",
+                                                            "SRC": "bgbl1_2019_j0890-1_0010.jpg",
+                                                            "Type": "jpg",
+                                                            "Units": "72",
+                                                            "Width": "358",
+                                                            "alt": ""
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "BR": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

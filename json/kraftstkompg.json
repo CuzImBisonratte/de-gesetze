@@ -1,0 +1,543 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150458",
+            "doknr": "BJNR117010009"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150458",
+                    "doknr": "BJNR117010009"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KraftStKompG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2009-05-29",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2009, 1170"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zur Regelung der finanziellen Kompensation zugunsten der Länder infolge der Übertragung der Ertragshoheit der Kraftfahrzeugsteuer auf den Bund"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 1 des G 603-14/1 v. 29.5.2009 I 1170 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 11 dieses G am 1.7.2009 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.7.2009 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150458",
+                    "doknr": "BJNR117010009BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KraftStKompG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Finanzierung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Den Ländern steht wegen der Übertragung der Kraftfahrzeugsteuer auf den Bund ab dem 1. Juli 2009 aus dem Steueraufkommen des Bundes ab 2010 jährlich ein Betrag von 8 991 764 000 Euro zu. Für das Jahr 2009 ist ein Betrag von 4 570 882 000 Euro zu Grunde zu legen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150458",
+                    "doknr": "BJNR117010009BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KraftStKompG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Verteilung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Der in § 1 festgelegte Betrag wird nach folgenden Prozentsätzen auf die Länder verteilt: ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "0",
+                                                            "tabstyle": "Laender",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "2*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "1*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Baden-Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "14,51618",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "17,22275",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 2,35275",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Brandenburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 2,98641",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 0,61711",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 1,80560",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 7,68565",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Mecklenburg-Vorpommern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 1,81271",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 9,96509",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nordrhein-Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "21,16979",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Rheinland-Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 5,37339",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 1,32661",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 4,47004",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen-Anhalt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 2,58331",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Schleswig-Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 3,54935",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Thüringen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 2,56326.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150458",
+                    "doknr": "BJNR117010009BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KraftStKompG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zahlungsverkehr",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die nach § 1 in Verbindung mit § 2 festgelegten jeweiligen Jahresbeträge werden den Ländern zu jeweils einem Viertel am 15. Februar, 15. Mai, 15. August und 15. November überwiesen; für 2009 wird den Ländern jeweils die Hälfte des jeweiligen Jahresbetrages am 15. August und 15. November überwiesen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

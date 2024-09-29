@@ -1,0 +1,138 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221020213516",
+            "doknr": "BJNR014650973"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221020213516",
+                    "doknr": "BJNR014650973"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1973-09"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1973-09-26",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1973, 1465"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung einer\nAmtsbezeichnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 12.10.1973 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213516",
+                    "doknr": "BJNR014650973BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1973-09"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Direktor bei der Bundesstelle für Umweltangelegenheiten.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

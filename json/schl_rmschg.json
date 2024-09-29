@@ -1,0 +1,1058 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20220530213007",
+            "doknr": "BJNR280410017"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "amtabk": [
+                            "SchlärmschG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2017-07-20",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2017, 2804"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Schienenlärmschutzgesetz"
+                        ],
+                        "langue": [
+                            "Gesetz zum Verbot des Betriebs lauter Güterwagen"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Geändert durch Art. 3 G v. 9.6.2021 I 1730"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 1 des G v. 20.7.2017 I 2804 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 3 dieses G am  29.7.2017 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 27.7.2017 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Anwendungsbereich des Gesetzes",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dieses Gesetz findet Anwendung auf laute Güterwagen, die auf der regelspurigen öffentlichen Eisenbahninfrastruktur in Deutschland zum Einsatz kommen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Begriffsbestimmungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) „Lauter Güterwagen“ im Sinne dieses Gesetzes ist ein Güterwagen, der bei der Inbetriebnahme nicht den Anforderungen der Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems „Fahrzeuge – Lärm“ sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses  (ABl. L 356 vom 12.12.2014, S. 421) oder des Beschlusses 2011/229/EU der Kommission vom 4. April 2011 über die Technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem „Fahrzeuge – Lärm“ des konventionellen transeuropäischen Bahnsystems (ABl. L 99 vom 13.4.2011, S. 1) entsprochen hat.",
+                                                "NB": [
+                                                    "2011/229/EU"
+                                                ]
+                                            },
+                                            "(2) „Maximal zulässige Schallemission“ im Sinne dieses Gesetzes ist eine Schallemission, die den fiktiven Schallleistungspegel nicht überschreitet.",
+                                            {
+                                                "_": "(3) „Fiktiver Schallleistungspegel“ im Sinne dieses Gesetzes ist der Wert, der sich ergibt, wenn der Pegel der längenbezogenen Schallleistung für einen Zug berechnet wird, der Bei der Berechnung werden lediglich Fahrzeuge nach Anlage 2 Beiblatt 1 Kategorie 10 Zeile 5, 8, 18 oder 21 der Verkehrslärmschutzverordnung vom 12. Juni 1990 (BGBl. I S. 1036), die zuletzt durch Artikel 1 der Verordnung vom 18. Dezember 2014 (BGBl. I S. 2269) geändert worden ist, berücksichtigt.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "hinsichtlich Fahrzeuganzahl und Fahrzeugbauarten mit Ausnahme der Bremsausrüstung mit dem Güterzug identisch ist, für den eine Trasse beantragt und zugewiesen wird, und"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "ausschließlich aus Güterwagen besteht, die keine lauten Güterwagen sind."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Verbot lauter Güterwagen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Mit Beginn des Netzfahrplans 2020/2021 am 13. Dezember 2020 ist das Fahren oder Fahrenlassen von Güterzügen, in die laute Güterwagen eingestellt sind, auf dem deutschen Schienennetz verboten.",
+                                            {
+                                                "_": "(2) Folgende Güterwagen sind einem Güterwagen gleichgestellt, der bei der Inbetriebnahme die Voraussetzungen der in § 2 Absatz 1 genannten Vorschriften erfüllt hat: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "ohne Erbringung eines Nachweises ein Güterwagen, der von Grauguss-Bremssohlen auf Verbundstoff-Bremssohlen oder Scheibenbremsen umgerüstet worden ist, oder"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "mit Erbringung eines Nachweises ein Güterwagen, der auf andere als die in Nummer 1 genannte Weise so umgebaut worden ist, dass er die für die Inbetriebnahme nachzuweisenden Emissionsgrenzwerte der in § 2 Absatz 1 genannten Vorschriften einhält."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Ein Personenzug, in den ein oder mehrere laute Güterwagen eingestellt sind, ist einem Güterzug gleichgestellt, in den ein oder mehrere laute Güterwagen eingestellt sind."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ausnahmen vom Verbot",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Abweichend von § 3 ist der Betrieb lauter Güterwagen zulässig, ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "sofern die Schallemission, die beim Betrieb eines Güterzuges mit lauten Güterwagen entsteht, aufgrund einer aus der Zuweisung der Schienenwegkapazität folgenden und im Fahrplan festgelegten niedrigen Geschwindigkeit den fiktiven Schallleistungspegel nicht überschreitet, oder"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "auf Schienenwegen, an denen die Außenpegel der Immissionsgrenzwerte der Verkehrslärmschutzverordnung wegen folgender Merkmale auch dann durchgehend eingehalten werden, wenn die dort verkehrenden Güterzüge laute Güterwagen umfassen: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Art und Umfang des Eisenbahnbetriebes,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Schallschutzmaßnahmen,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "lärmabschirmende Bebauung,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Topografie oder"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen."
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Befreiungen vom Verbot",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Auf Antrag eines Zugangsberechtigten oder eines Halters von Eisenbahnfahrzeugen kann die zuständige Behörde Befreiungen von dem Verbot nach § 3 für den Betrieb einzelner Güterwagen erteilen, ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "wenn nachgewiesen wird, dass es noch keine zugelassene Technologie gibt, bei deren Verwendung die Güterwagen keine lauten Güterwagen mehr wären,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "wenn die Güterwagen im Vor- oder Nachlauf zu ihrem Hauptlauf auf Steilstrecken verkehren und ausschließlich für Verkehre mit Fahrtanteil auf Steilstrecken zum Einsatz kommen, solange keine Betriebsgenehmigung für eine Technologie erteilt ist, die an Stelle der Grauguss-Bremssohle auf Steilstrecken zum Einsatz kommen kann; die Güterwagen sind zu kennzeichnen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "wenn die Güterwagen ausschließlich aus Gründen des historischen Interesses oder zu touristischen Zwecken betrieben werden; hierzu gehört auch die Einstellung dieser Güterwagen in Züge zur Zufahrt oder Abfahrt zu eisenbahnhistorischen oder touristischen Veranstaltungen."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Die Befreiung ist in den Fällen des Absatzes 1 Nummer 1 und 2 bis zum Ablauf von fünf Netzfahrplanperioden, die auf die Netzfahrplanperiode folgen, in der die Befreiung erteilt wurde, zu befristen. Sie kann vorzeitig widerrufen werden, sobald eine zugelassene Technologie zur Verfügung steht, bei deren Verwendung die befreiten Güterwagen keine lauten Güterwagen mehr wären und die Restlaufzeit der Befreiung mehr als 18 Monate beträgt.",
+                                            "(3) In den Fällen des Absatzes 1 Nummer 3 ist die Befreiung unbefristet zu erteilen. Sie erlischt, wenn der Güterwagen nicht mehr ausschließlich für einen der beiden in Absatz 1 Nummer 3 genannten Zwecke vorgehalten wird."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Berechnung der Schallemission und Schallimmission",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Bei der Ermittlung des fiktiven Schallleistungspegels wird unterstellt, dass der Zug mit der für Güterwagen dieser Bauart zulässigen Höchstgeschwindigkeit fährt. Liegt die zulässige Streckenhöchstgeschwindigkeit unter der bauartbedingten Höchstgeschwindigkeit, so ist die zulässige Streckenhöchstgeschwindigkeit für die Berechnung des fiktiven Schallleistungspegels heranzuziehen. Für die Vergleichsrechnung sind die Fahrbahneigenschaften gemäß Anlage 2 der Verkehrslärmschutzverordnung zugrunde zu legen.",
+                                            "(2) Die beim Betrieb entstehende Schallemission nach § 4 Nummer 1 wird durch Berechnung des Pegels der längenbezogenen Schallleistung nach den in Anlage 2 der Verkehrslärmschutzverordnung festgelegten Verfahren, Werten und Definitionen bestimmt. In den Fällen nach § 4 Nummer 2 ist der Beurteilungspegel für den jeweiligen Beurteilungszeitraum und für das vollständige Betriebsprogramm unter Einschluss aller für diese Schienenwege vorgesehenen Güterzüge, die laute Güterwagen umfassen, maßgeblich.",
+                                            "(3) Ein Güterzug, der mindestens einen lauten Güterwagen umfasst, geht in die Berechnung als vollständig aus lauten Güterwagen bestehender Zug ein. Bei der Berechnung eines lauten Güterzugs sind ausschließlich Güterwagen nach Anlage 2 Beiblatt 1 Kategorie 10 Zeile 2 oder 15 Verkehrslärmschutzverordnung zu berücksichtigen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000700000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Pflichten der Betreiber der Schienenwege und der Zugangsberechtigten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die Ausnahmen gemäß § 4 gelten ausschließlich für den Gelegenheitsverkehr. Dabei darf die Schienenwegkapazität für laute Güterzüge frühestens fünf Arbeitstage vor der beabsichtigten Trassennutzung an den Zugangsberechtigten vergeben werden. Bei der Trassenkonstruktion zu berücksichtigen ist die Kapazität, die bis fünf Arbeitstage vor der beabsichtigten Trassennutzung nicht für andere Trassen in Anspruch genommen wurde.",
+                                            "(2) Die Betreiber der Schienenwege dürfen nur solche Schienenwegkapazität zuweisen, bei der das Geschwindigkeitsprofil so konstruiert ist, dass der maximal zulässige Schallleistungspegel nicht überschritten wird. Kann der Zugangsberechtigte bei der Beantragung von Schienenwegkapazität nicht ausschließen, dass ein Güterzug, für den die Zuweisung der Schienenwegkapazität beantragt wird, auch laute Güterwagen umfasst, darf nur die Zuweisung solcher Schienenwegkapazität beantragt werden, bei der aufgrund ihrer Konstruktion, insbesondere durch einen besonderen Fahrwegverlauf oder verminderte Geschwindigkeiten, sichergestellt werden kann, dass die maximal zulässige Schallemission durch den betroffenen Güterzug nicht überschritten wird. Dies gilt nicht, falls für sämtliche der für den Einsatz vorgesehenen lauten Güterwagen eine Befreiung gemäß § 5 erteilt ist. Die Betreiber der Schienenwege unterstützen die Zugangsberechtigten bei der sachgerechten Beantragung der Schienenwegkapazität.",
+                                            "(3) Die Betreiber der Schienenwege dürfen bei Güterzügen mit lauten Güterwagen nur solche Schienenwegkapazität zuweisen und solche Nutzungen der Schienenwegkapazität zulassen, bei denen eine Ausnahme gemäß § 4 oder eine Befreiung gemäß § 5 Absatz 1 vorliegen. Die Betreiber der Schienenwege müssen regelmäßig und in Stichproben bei der Nutzung der Schienenwegkapazität prüfen, dass die Voraussetzungen nach Satz 1 erfüllt sind.",
+                                            "(4) Güterzüge, in die auch laute Güterwagen eingestellt sind, für die keine Befreiung erteilt wurde, dürfen nur mit dem durch den Betreiber der Schienenwege gemäß Absatz 2 Satz 1 vorgegebenen Geschwindigkeitsprofil gefahren werden. Die Zugangsberechtigten müssen dem Triebfahrzeugführer die Geschwindigkeitsprofile vor Beginn der Fahrt zugänglich machen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000801125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 8"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Auskunftspflichten für Betreiber der Schienenwege und für Zugangsberechtigte",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die Zugangsberechtigten sind verpflichtet, dem Betreiber der Schienenwege bei der Beantragung von Schienenwegkapazität sowohl zum Netzfahrplan als auch im Gelegenheitsverkehr mitzuteilen, ob laute Güterwagen in den Zug eingestellt werden. Liegt für die lauten Güterwagen eine Befreiung nach § 5 vor, ist die Befreiung bei der Antragstellung anzugeben und vor der Nutzung der Schienenwegkapazität dem Betreiber der Schienenwege nachzuweisen.",
+                                            {
+                                                "_": "(2) Die Betreiber der Schienenwege und die Zugangsberechtigten sind verpflichtet, den zuständigen Behörden auf deren Verlangen innerhalb von einem Monat folgende Daten zu übermitteln: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Daten, die zur Überwachung der Einhaltung des Verbots nach § 3 Absatz 1 erforderlich sind,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Daten, die zum Nachweis des Ausnahmetatbestands nach § 4 erforderlich sind,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Daten, die zum Nachweis des Befreiungstatbestands nach § 5 Absatz 1 erforderlich sind."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Die Übermittlung hat kostenfrei zu erfolgen. Die zuständige Behörde kann Einzelheiten zur Art und Aufbereitung der Daten bestimmen. Die Daten nach Absatz 2 sind auf Verlangen der zuständigen Behörde elektronisch zu übermitteln.",
+                                            "(4) Die Betreiber der Schienenwege und die Zugangsberechtigten sind verpflichtet, die in Absatz 2 genannten Daten nach Durchführung der Zugfahrt auf der zugewiesenen Trasse für mindestens zwölf Monate bereitzuhalten."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE000900000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 9"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zuständige Behörden",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Zuständige Behörde für die Durchführung und Überwachung dieses Gesetzes auf den Schienenwegen der Eisenbahnen des Bundes ist das Eisenbahn-Bundesamt. Auf anderen Schienenwegen nimmt die nach Landesrecht zuständige Behörde diese Aufgabe wahr. Die Zuständigkeit der Regulierungsbehörde bleibt unberührt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE001000000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 10"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Überwachung durch die zuständigen Behörden",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die zuständigen Behörden überwachen, dass das Verbot nach § 3 eingehalten wird. Sie prüfen für mehrere Streckenabschnitte im Streckennetz des Betreibers der Schienenwege und für ein ausgewähltes Datum für die Tag- und Nachtzeit, anhand von Wagenlisten und Fahrplanunterlagen, ob Güterwagen zum Einsatz gekommen sind, die nach diesem Gesetz nicht zum Betrieb zugelassen sind oder die bei einer Fahrt mit der im Fahrplan festgelegten Geschwindigkeit den maximal zulässigen Schallleistungspegel nicht einhalten. Bei der Festlegung der Streckenabschnitte, auf denen die Schallemissionswerte überprüft werden, sind die Hauptabfuhrstrecken zu berücksichtigen. Die Prüfung kann auch nachträglich erfolgen.",
+                                            "(2) Die zuständigen Behörden überwachen, dass Zugangsberechtigte und Betreiber der Schienenwege die Verpflichtung nach § 7 zur Beantragung und Zuweisung ordnungsgemäßer Zugtrassen einhalten. Hierzu überprüfen sie, ob die zur Trassenanmeldung erforderlichen Angaben vollständig und zutreffend waren und ob die zugewiesene Zugtrasse den Vorgaben dieses Gesetzes entspricht. Die Prüfung erfolgt nachträglich.",
+                                            "(3) Die für Eisenbahnen des Bundes zuständige Behörde führt die jeweilige Prüfung mindestens einmal pro Kalendervierteljahr durch. Die für nicht bundeseigene Eisenbahnen zuständige Behörde führt die Prüfung für Güterzüge, die nicht auf Schienenwege der Eisenbahnen des Bundes übergehen, mindestens einmal im Kalenderjahr durch.",
+                                            "(4) Die zuständigen Behörden veröffentlichen die Ergebnisse ihrer Überprüfung jährlich."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE001101125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 11"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Maßnahmen bei Verstößen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Stellt die zuständige Behörde fest, dass für einen bestimmten Streckenabschnitt wiederholt gegen das Verbot nach § 3 Absatz 1 Satz 1 oder gegen die Verpflichtungen nach § 7 Absatz 2 Satz 1, Absatz 3 oder 4, oder nach § 8 Absatz 1, 2, 3 Satz 3 oder Absatz 4 verstoßen wurde, so kann sie dem Betreiber der Schienenwege und dem Zugangsberechtigten für diesen Streckenabschnitt folgende Maßnahmen auferlegen: Dem Betreiber der Schienenwege kann sie unter den in Satz 1 genannten Voraussetzungen auferlegen, die Güterwagen des Zugangsberechtigten vor Fahrtantritt dahingehend zu überprüfen, ob ausschließlich Güterwagen in den Zug eingestellt wurden, mit denen der maximal zulässige Schallleistungspegel bei Einhaltung der im Fahrplanprofil festgelegten Geschwindigkeiten möglich ist.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "strecken- und tageszeitbezogene Höchstgeschwindigkeiten oder"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "nächtliche Fahrverbote."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Soweit der Zugang zu Schienenwegen betroffen ist, setzen sich die zuständigen Behörden vor dem Erlass von Maßnahmen mit der zuständigen Regulierungsbehörde ins Benehmen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE001200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 12"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zwangsgeld",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die nach diesem Gesetz zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE001301125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 13"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Bußgeldvorschriften",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 3 Absatz 1 einen Güterwagen fährt oder fahren lässt,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 7 Absatz 2 Satz 1 Schienenwegkapazität zuweist,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 7 Absatz 3 Satz 1 eine Nutzung der Schienenwegkapazität zulässt,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 7 Absatz 4 Satz 1 ein dort genanntes Geschwindigkeitsprofil nicht einhält,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 7 Absatz 4 Satz 2 ein Geschwindigkeitsprofil nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zugänglich macht,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 8 Absatz 2 oder 3 Satz 3 Daten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 8 Absatz 4 Daten nicht oder nicht mindestens zwölf Monate bereithält."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 3, 5 und 7 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 6 mit einer Geldbuße bis zu dreißigtausend Euro und in den Fällen des Absatzes 1 Nummer 4 mit einer Geldbuße bis zu eintausend Euro geahndet werden.",
+                                            "(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist für Schienenwege der Eisenbahnen des Bundes das Eisenbahn-Bundesamt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220530213007",
+                    "doknr": "BJNR280410017BJNE001400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlärmschG"
+                        ],
+                        "enbez": [
+                            "§ 14"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Abweichungsfestigkeit",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Von den in den § 10 getroffenen Regelungen des Verwaltungsverfahrens darf durch Landesrecht nicht abgewichen werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

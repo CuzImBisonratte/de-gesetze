@@ -1,0 +1,825 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625152807",
+            "doknr": "BJNR040700998"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1998-03-04",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1998, 407"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung zur Übertragung von Aufgaben der\nOberfinanzdirektionen Berlin, Bremen, Chemnitz,\nDüsseldorf, Erfurt, Frankfurt am Main, Hannover,\nKiel, Magdeburg, München, Münster, Rostock,\nSaarbrücken und Stuttgart"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die V ist mit dem GG vereinbar gem. BVerfGE v. 27.6.2002 - 2 BvF 4/98 -",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab:  1. 8.1998 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998BJNE000100310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427) verordnet das Bundesministerium der Finanzen im Benehmen mit den für die Finanzverwaltung zuständigen obersten Landesbehörden:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998BJNE000200310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 4 des Finanzverwaltungsgesetzes (Zoll- und Verbrauchsteuerabteilung) werden wie folgt übertragen:  ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "von der Oberfinanzdirektion",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "auf die Oberfinanzdirektion",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Cottbus",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hannover",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Düsseldorf",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Köln",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Erfurt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Chemnitz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Frankfurt am Main",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Koblenz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Kiel",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Magdeburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hannover",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "München",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nürnberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Münster",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Köln",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Rostock",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Saarbrücken",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Koblenz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Stuttgart",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Karlsruhe",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998BJNE000300310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 5 des Finanzverwaltungsgesetzes (Bundesvermögensabteilung) werden wie folgt übertragen:  ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "von der Oberfinanzdirektion",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "auf die Oberfinanzdirektion",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Chemnitz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Erfurt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Frankfurt am Main",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Koblenz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hannover",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Magdeburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Kiel",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Rostock",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "München",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nürnberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Münster",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Köln",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Stuttgart",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Karlsruhe",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998BJNE000400310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Zuständigkeit der Oberfinanzpräsidenten nach § 1 Abs. 1 Nr. 2, Abs. 2 bis 4 des Vermögenszuordnungsgesetzes in der Fassung der Bekanntmachung vom 29. März 1994 (BGBl. I S. 709) bleibt unberührt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152807",
+                    "doknr": "BJNR040700998BJNE000500310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OFDAufgÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am 1. August 1998 in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

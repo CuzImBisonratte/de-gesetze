@@ -1,0 +1,144 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125152",
+            "doknr": "BJNR007490974"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125152",
+                    "doknr": "BJNR007490974"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1974-03"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1974-03-06",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1974, 749"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung einer\nAmtsbezeichnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 21. 3.1974 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125152",
+                    "doknr": "BJNR007490974BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1974-03"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Direktor des Bundesinstituts",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "für Bevölkerungsforschung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

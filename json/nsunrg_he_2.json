@@ -1,0 +1,69 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625152352",
+            "doknr": "HENR002230946"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625152352",
+                    "doknr": "HENR002230946"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "NSUnrG HE 2"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1946-11-13",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "GVBl HE"
+                                ],
+                                "zitstelle": [
+                                    "1946, 223"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in\nder Strafrechtspflege"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Partielles Recht für Hessen:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

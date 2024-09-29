@@ -1,0 +1,80 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240424214522",
+            "doknr": "BJNR508810994"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240424214522",
+                    "doknr": "BJNR508810994"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "LuftVODV 144"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1994-04-12",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1994, Nr 88, 4969"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1994, 4969"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Einhundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Anwendung von Sekundärradar in der Bundesrepublik Deutschland)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Nur mit Überschrift aufgenommen"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

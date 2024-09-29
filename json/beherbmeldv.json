@@ -1,0 +1,918 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20200715212502",
+            "doknr": "BJNR121800020"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "amtabk": [
+                            "BeherbMeldV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2020-06-05",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2020, 1218"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Beherbergungsmeldedatenverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung über die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsstätten"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 18.6.2020 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Anwendungsbereich",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Dateispezifische Anforderungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.",
+                                            "(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.",
+                                            {
+                                                "_": "(3) Die Datei ist nach dem Muster „JJJJMMTT__Zaehler.xml“ zu benennen. Dabei ist einzusetzen: ",
+                                                "NB": [
+                                                    "BeherbMeldeschein"
+                                                ],
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bei „JJJJ“ das Jahr des ersten Beherbergungstags mit vier Ziffern,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bei „MM“ der Monat des ersten Beherbergungstags mit zwei Ziffern,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bei „TT“ der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bei „Zaehler“ eine fortlaufende Nummerierung der Datensätze eines Tages beginnend mit der Zahl 1."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Die Datensätze sind sortiert in Ordnerstrukturen nach Jahren und Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.",
+                                            "(5) In jedem Datensatz sind die zu erhebenden Daten nach der Anlage zu dieser Verordnung zu speichern.",
+                                            "(6) Landesrechtliche Vorgaben zur Ausführung des Bundesmeldegesetzes bleiben unberührt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Bereitstellung der Daten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Verlangt eine nach § 30 Absatz 4 Satz 3 des Bundesmeldegesetzes berechtigte Behörde gespeicherte Dateien, so hat der Leiter der Beherbergungsstätte oder der Einrichtung die Datensätze entsprechend den Anforderungen des § 2 zur Einsichtnahme bereitzustellen und eine Übertragung auf Datenträger oder Speichersysteme zu ermöglichen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200715212502",
+                    "doknr": "BJNR121800020BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeherbMeldV"
+                        ],
+                        "enbez": [
+                            "Anlage"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(zu § 2 Absatz 5)Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner",
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "BR": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "noindex": [
+                                                    {
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BGBl. I 2020, 1219)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "1",
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "rowsep": "1",
+                                                            "tabstyle": "Anlage",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "4*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "justify",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "66*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bezeichner",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "middle"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Erläuterung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "middle"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 1.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "DatumAnkunft",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Datum der Ankunft der beherbergten Person (JJJJMMTT)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 2.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "DatumAbreise",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Datum der voraussichtlichen Abreise (JJJJMMTT)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 3.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Familienname",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vollständiger derzeitiger Familienname mit Namensbestandteilen, jeweils durch Leerzeichen getrennt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 4.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Vornamen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "sämtliche Vornamen, jeweils durch Leerzeichen getrennt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 5.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Geburtsdatum",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Geburtsdatum (JJJJMMTT)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 6.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Staatsangehoerigkeiten",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "sämtliche Staatsangehörigkeiten",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 7.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Anschrift",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bestehend aus ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        },
+                                                                                        "DL": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal",
+                                                                                                    "Type": "alpha"
+                                                                                                },
+                                                                                                "DT": [
+                                                                                                    "a)",
+                                                                                                    "b)",
+                                                                                                    "c)",
+                                                                                                    "d)",
+                                                                                                    "e)",
+                                                                                                    "f)",
+                                                                                                    "g)"
+                                                                                                ],
+                                                                                                "DD": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Staat, in dem sich der Wohnort befindet",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Postleitzahl des Wohnorts",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Wohnortbezeichnung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "sofern vorhanden, Zusätze zum Wohnort",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Straßenbezeichnung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Hausnummerziffern sowie gegebenenfalls zusätzlich Buchstaben oder Zusatzziffern",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "sofern vorhanden, Ergänzungen zur Anschrift",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 8.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "AnzahlAngehoerige",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": " 9.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "AnzahlMitreisende",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "StaatsangehoerigkeitMitreisende",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "sämtliche Staatsangehörigkeiten der Mitreisenden der Reisegesellschaften",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "SeriennummerPass",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Seriennummer des anerkannten und gültigen Passes oder Passersatzpapiers ausländischer Personen oder Angaben zu Abweichungen oder Nichtvorlage",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zahlungszuordnungsnummer",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bestehend aus der zweckgebunden Zuordnungsnummer des elektronischen Zahlungsvorganges (Token) und aus dem Namen des Zahlungsdienstleisters der Beherbergungsstätte, der den Token generiert",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Beherbergungsstaette",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bestehend aus Namen und Anschrift der Beherbergungsstätte oder Einrichtung, die die Daten speichert",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

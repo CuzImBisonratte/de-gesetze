@@ -1,0 +1,996 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154408",
+            "doknr": "BJNR464110002"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154408",
+                    "doknr": "BJNR464110002"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BGL 2003"
+                        ],
+                        "amtabk": [
+                            "BGL 2003"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2002-12-23",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2002, 4637, 4641"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Beitragsgesetz-Landwirtschaft 2003"
+                        ],
+                        "langue": [
+                            "Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse\nin der Alterssicherung der Landwirte für 2003"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 1.1.2003 +++)",
+                                            {
+                                                "_": " Das G wurde als Art. 9 d. G 860-5/10 v. 23.12.2002 I 4637 vom Bundestag beschlossen. Es ist gem. Art. 13 Abs. 3 dieses G mWv 1.1.2003 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625154408",
+                    "doknr": "BJNR464110002BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BGL 2003"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beitrag in der Alterssicherung der Landwirte",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Kalenderjahr 2003 monatlich 198 Euro.",
+                                            "(2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das Beitrittsgebiet für das Kalenderjahr 2003 monatlich 166 Euro."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625154408",
+                    "doknr": "BJNR464110002BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BGL 2003"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beitragszuschuss in der Alterssicherung der Landwirte",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Kalenderjahr 2003 wie folgt festgesetzt:  ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "55*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Einkommensklasse",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "monatlicher Zuschussbetrag",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bis 8.220 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "119 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "8.221 - 8.740 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "111 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "8.741 - 9.260 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "103 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.261 - 9.780 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "95 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.781 - 10.300 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "87 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10.301 - 10.820 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "79 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10.821 - 11.340 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "71 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11.341 - 11.860 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "63 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11.861 - 12.380 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "55 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12.381 - 12.900 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "48 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12.901 - 13.420 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "40 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13.421 - 13.940 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "32 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13.941 - 14.460 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "24 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "14.461 - 14.980 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "16 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "14.981 - 15.500 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "8 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte wird der monatliche Zuschussbetrag für das Beitrittsgebiet für das Kalenderjahr 2003 wie folgt festgesetzt:  ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Einkommensklasse",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "monatlicher Zuschussbetrag (Ost)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bis 8.220 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "100 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "8.221 - 8.740 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "93 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "8.741 - 9.260 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "86 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.261 - 9.780 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "80 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.781 - 10.300 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "73 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10.301 - 10.820 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "66 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10.821 - 11.340 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "60 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11.341 - 11.860 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "53 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11.861 - 12.380 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "46 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12.381 - 12.900 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "40 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12.901 - 13.420 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "33 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13.421 - 13.940 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "27 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13.941 - 14.460 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "20 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "14.461 - 14.980 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "13 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "14.981 - 15.500 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "7 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

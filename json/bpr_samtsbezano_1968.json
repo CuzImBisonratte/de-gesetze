@@ -1,0 +1,152 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125304",
+            "doknr": "BJNR008680968"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125304",
+                    "doknr": "BJNR008680968"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1968"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1968-07-15",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1968, 868"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung von\nAmtsbezeichnungen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab:  3. 7.1968 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125304",
+                    "doknr": "BJNR008680968BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1968"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnungen fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Präsident des Deutschen Institutes für medizinische Dokumentation und Information",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Direktor beim Bundesbeauftragten für den Steinkohlenbergbau und die Steinkohlenbergbaugebiete.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

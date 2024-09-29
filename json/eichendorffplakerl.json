@@ -1,0 +1,149 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405131051",
+            "doknr": "BJNR109350983"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405131051",
+                    "doknr": "BJNR109350983"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EichendorffPlakErl"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1983-07-14",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1983, 935"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Erlaß über die Stiftung der Eichendorff-Plakette"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 20. 7.1983 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405131051",
+                    "doknr": "BJNR109350983BJNE000100307"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EichendorffPlakErl"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Als Auszeichnung für Gebirgs- und Wandervereine, die sich in langjährigem Wirken besondere Verdienste um die Pflege und Förderung des Wanderns, des Heimatgedankens und des Umweltbewußtseins erworben haben, stifte ich die Die Einzelheiten der Verleihung werden durch besondere Richtlinien festgelegt.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Eichendorff-Plakette.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "SP": [
+                                                    "Der Bundespräsident",
+                                                    "Der Bundeskanzler",
+                                                    "Der Bundesminister des Innern"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

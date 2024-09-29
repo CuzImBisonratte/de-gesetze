@@ -1,0 +1,138 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20131008093432",
+            "doknr": "BJNR001920970"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20131008093432",
+                    "doknr": "BJNR001920970"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1970-02"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1970-02-16",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1970, 192"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung einer\nAmtsbezeichnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 21. 2.1970 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20131008093432",
+                    "doknr": "BJNR001920970BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1970-02"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Präsident der Bundesstelle für Entwicklungshilfe.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,607 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20210527212011",
+            "doknr": "BJNR187100007"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2007-08-08",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2007, 1816, 1871"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung mit lebensmittelrechtlichen Vorschriften zur Überwachung von Zoonosen und Zoonoseerregern"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 1 V v. 19.6.2020 I 1480"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die V wurde als Artikel 4 der V v. 8.8.2007 I 1816 von den Bundesministerien für Ernährung, Landwirtschaft und Verbraucherschutz und für Gesundheit im Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie, für Umwelt, Naturschutz und Reaktorsicherheit, der Finanzen und der Justiz mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 23 dieser V am 15.8.2007 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 15.8.2007 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zweck der Verordnung",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Verordnung regelt die von Lebensmittelunternehmern zu ergreifenden lebensmittelrechtlichen Maßnahmen zur frühzeitigen Erfassung von Zoonosen und Zoonoseerregern als Grundlage für die Bewertung ihrer Herkunft und der Entwicklungstendenzen ihres Vorkommens."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Begriffsbestimmungen",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Im Sinne dieser Verordnung sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Zoonosen:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Krankheiten oder Infektionen, die auf natürliche Weise direkt oder indirekt zwischen Menschen und Tieren übertragen werden können,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Zoonoseerreger:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Viren, Bakterien, Pilze, Parasiten oder sonstige biologische Agenzien, die Zoonosen verursachen können.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007BJNE000301119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Betriebseigene Kontrollen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Wer im Rahmen von Kontrollen nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom 22.12.2005, S. 1) oder anderen betriebseigenen Kontrollen Untersuchungen durchführt hat zum Zweck der Durchführung von weitergehenden Untersuchungen Rückstellproben des Probenmaterials soweit möglich anzufertigen und bis zum Vorliegen des Ergebnisses der Untersuchungen in geeigneter Weise aufzubewahren.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von Lebensmitteln auf Zoonoseerreger,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von Produktresten von Lebensmitteln oder Schmierwasser in der Käseherstellung bei der Herstellung und Bearbeitung von verzehrfertigen Lebensmitteln auf Listeria monocytogenes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "nach Artikel 5 Absatz 2 Unterabsatz 1 und 2 der Verordnung (EG) Nr. 2073/2005 einschließlich Untersuchungen zur Prüfung des Reinigungs- und Desinfektionserfolgs insbesondere von Arbeitsflächen, Rohrleitungssystemen oder Transportbehältnissen, die mit verzehrfertigen Lebensmitteln nach Artikel 2 Buchstabe g der Verordnung (EG) Nr. 2073/2005 in Berührung kommen können, auf Listeria monocytogenes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Wer durch Untersuchungen nach Absatz 1 Zoonoseerreger nachgewiesen hat, hat",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Untersuchungsergebnis unverzüglich nach Kenntnisnahme der zuständigen Behörde mitzuteilen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Isolate der nachgewiesenen Zoonoseerreger herzustellen, soweit eine Erregerkultur zu einem Isolat führt, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Rückstellproben des Probenmaterials und die Isolate",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "während eines von der zuständigen Behörde festzusetzenden Zeitraumes, jedoch nicht länger als drei Monate, in geeigneter Weise aufzubewahren und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "der zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Eine Mitteilung nach Absatz 2 Nr. 1 oder eine Aushändigung einer Rückstellprobe oder eines Isolates nach Absatz 2 Nr. 3 darf nicht zur strafrechtlichen Verfolgung des Mitteilenden oder Aushändigenden oder für ein Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den Mitteilenden oder Aushändigenden verwendet werden.",
+                                            "(4) Wer zur Durchführung von Untersuchungen nach Absatz 1 verpflichtet ist, hat hierüber zeitlich geordnet Nachweise zu führen. Die Nachweise sind zwei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007BJNE000500377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "enbez": [
+                            "§ 3a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178/2002",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Lebensmittelunternehmer, die der zuständigen Behörde eine Mitteilung nach Artikel 19 Absatz 3 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1) machen, müssen von Lebensmitteln der gleichen Partie, die noch nicht in den Verkehr gebracht worden sind, eine Rückstellprobe von mindestens 150 Gramm anfertigen und für die Dauer von mindestens sieben Tagen vom Zeitpunkt der Mitteilung an aufbewahren. Rückstellproben nach Satz 1 sind der zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20210527212011",
+                    "doknr": "BJNR187100007BJNE000401119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ZoonoseV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ordnungswidrigkeiten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen § 3 Abs. 1 eine Rückstellprobe nicht oder nicht rechtzeitig anfertigt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen § 3 Abs. 1 oder Abs. 2 Nr. 3 Buchstabe a eine Rückstellprobe oder ein Isolat nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen § 3 Absatz 2 Nummer 1 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen § 3 Abs. 2 Nr. 3 Buchstabe b oder Abs. 4 Satz 2 eine Rückstellprobe, ein Isolat oder einen Nachweis nicht, nicht richtig oder nicht rechtzeitig vorlegt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

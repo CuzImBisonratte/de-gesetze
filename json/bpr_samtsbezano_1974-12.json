@@ -1,0 +1,156 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405124610",
+            "doknr": "BJNR002050975"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405124610",
+                    "doknr": "BJNR002050975"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1974-12"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1974-12-11",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1975, 205"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Festsetzung von\nAmtsbezeichnungen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 11. 1.1975 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405124610",
+                    "doknr": "BJNR002050975BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsAmtsbezAnO 1974-12"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnungen fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Präsident des Umweltbundesamtes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Vizepräsident des Umweltbundesamtes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Erster Direktor und Professor beim Umweltbundesamt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Direktor beim Umweltbundesamt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

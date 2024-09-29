@@ -1,0 +1,965 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20201207213012",
+            "doknr": "BJNR207210020"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20201207213012",
+                    "doknr": "BJNR207210020"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "COV19GewStAusglG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2020-10-06",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2020, 2072"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 1 des G v. 6.10.2020 I 2072 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 5 Abs. 1 dieses G am 15.10.2020 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 15.10.2020 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20201207213012",
+                    "doknr": "BJNR207210020BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "COV19GewStAusglG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Pauschaler Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Der Bund gewährt den Gemeinden zu gleichen Teilen mit dem jeweiligen Land für im Jahr 2020 erwartete Gewerbesteuermindereinnahmen einen pauschalen Ausgleich nach Artikel 143h des Grundgesetzes. Hierzu erhalten die Länder aus dem Bundeshaushalt einen Betrag in Höhe von insgesamt 6,134 Milliarden Euro. In dem Betrag nach Satz 2 sind die den Ländern zuzurechnenden Wirkungen der erwarteten Gewerbesteuermindereinnahmen auf die Bundesergänzungszuweisungen enthalten.",
+                                            {
+                                                "_": "(2) Der Betrag nach Absatz 1 Satz 2 wird wie folgt auf die Länder verteilt: ",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Baden-Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "841 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 052 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "282 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Brandenburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "127 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "71 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "210 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "552 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Mecklenburg-Vorpommern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "108 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "476 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nordrhein-Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 381 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Rheinland-Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "209 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "84 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "275 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen-Anhalt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "137 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Schleswig-Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "183 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Thüringen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "146 Millionen Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "In den Beträgen nach Satz 1 sind die den jeweiligen Ländern zuzurechnenden Wirkungen der erwarteten Gewerbesteuermindereinnahmen auf die Zu- und Abschläge im Finanzkraftausgleich sowie die Bundesergänzungszuweisungen enthalten.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "justify",
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Die Auszahlung der Beträge nach Absatz 2 an die Länder erfolgt durch das Bundesministerium der Finanzen unverzüglich nach Inkrafttreten dieses Gesetzes."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20201207213012",
+                    "doknr": "BJNR207210020BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "COV19GewStAusglG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Verteilung auf die Gemeinden",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Die Länder stellen ihren Gemeinden unverzüglich bis spätestens zum 31. Dezember 2020 nach Zahlungseingang der Beträge nach § 1 Absatz 3 zum pauschalen Ausgleich der Gewerbesteuermindereinnahmen 2020 die folgenden Beträge zur Verfügung: ",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Baden-Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 881 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 398 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Brandenburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "186 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "126 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 213 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Mecklenburg-Vorpommern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "120 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "814 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nordrhein-Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 720 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Rheinland-Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "412 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "129 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "312 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen-Anhalt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "162 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Schleswig-Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "330 Millionen Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Thüringen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "165 Millionen Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Die Verteilung auf die Gemeinden orientiert sich an den erwarteten Gewerbesteuermindereinnahmen und obliegt im Einzelnen den Ländern. Die Länder berichten dem Bundesministerium der Finanzen bis spätestens Ende März 2021 gemeindescharf über die erfolgte Weitergabe der Bundes- und Landesmittel an die Gemeinden, ihr Vorgehen bei der Verteilung der Mittel und insbesondere über die jeweilige Höhe der ihnen bekannten Gewerbesteuereinnahmen und die jeweilige Höhe der ihnen bekannten Gewerbesteuerstundungen gemeindescharf für 2020.",
+                                            "(3) Ausgleichszahlungen für krisenbedingt entgangene Gewerbesteuereinnahmen, die Länder an ihre Gemeinden im Jahr 2020 bereits vor Erhalt der Bundesbeiträge geleistet haben, werden nach Darlegung durch das Land gegenüber dem Bundesministerium der Finanzen und im Einvernehmen mit diesem auf die Ausgleichszahlungen an die Gemeinden angerechnet. Die Berücksichtigung von Ausgleichszahlungen an die Gemeinden setzt zumindest voraus, dass diese ausdrücklich der Kompensation von Gewerbesteuermindereinnahmen dienen und keiner Zweckbindung durch das Land unterliegen. Der für das jeweilige Land in Absatz 1 ausgewiesene Betrag verringert sich entsprechend."
+                                        ],
+                                        "BR": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ § 2: zur Nichtanwendung vgl. § 3 Satz 2 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20201207213012",
+                    "doknr": "BJNR207210020BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "COV19GewStAusglG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Sondervorschriften für Berlin und Hamburg",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In Berlin und Hamburg steht der Betrag nach § 1 Absatz 2 vollständig dem Land zu. § 2 findet keine Anwendung."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

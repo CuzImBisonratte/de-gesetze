@@ -1,0 +1,691 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221019213603",
+            "doknr": "BJNR248710005"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221019213603",
+                    "doknr": "BJNR248710005"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "amtabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2005-08-20",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2005, 2487"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Binnenschiffs-Abgasemissionsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 7 V v. 5.1.2022 I 2 ("
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die V wurde als Artikel 1 der V v. 20.8.2005 I 2487 vom Bundesministerium für Verkehr, Bau- und Wohnungswesen und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit den Bundesministerien für Wirtschaft und Arbeit und der Finanzen erlassen. Sie ist gem. Art. 4 dieser V am 27.8.2005 in Kraft getreten.  Diese Verordnung dient der Umsetzung der Richtlinie 2004/26/EG des Europäischen Parlaments und des Rates vom 21. April 2004 zur Änderung der Richtlinie 97/68/EG zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EU Nr. L 146 S. 1, Nr. L 255 S. 3).",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 27. 8.2005 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    },
+                                                    {
+                                                        "_": "(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:     Umsetzung der       EGRL 26/2004         (CELEX Nr: 304L0026) +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            "",
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221019213603",
+                    "doknr": "BJNR248710005BJNE000104119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Anwendungsbereich",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Diese Verordnung gilt für das Inverkehrbringen von Motoren für Binnenschiffe und deren Einbau in Binnenschiffe.",
+                                            {
+                                                "_": "(2) Im Sinne dieser Verordnung sind ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Binnenschiffe:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "für den Einsatz auf Binnenwasserstraßen bestimmte",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Schiffe mit einer Länge von 20 m oder mehr oder einem Volumen von 100 m (hoch) 3 oder mehr,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "ABWFORMAT": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "typ": "A"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Schleppboote oder Schubboote, die dazu gebaut sind, Schiffe mit einer Länge von 20 m oder mehr zu schleppen, zu schieben oder seitlich gekuppelt mitzuführen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Fahrgastschiffe,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Fähren,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "schwimmende Geräte,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Dienstfahrzeuge der Aufsichtsbehörden,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Binnenwasserstraßen:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Bundeswasserstraßen der Zonen 1 bis 4 nach dem Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Landesgewässer, soweit sie dem allgemeinen Verkehr dienen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Seeschiff:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "ein Schiff, das zur See- oder Küstenfahrt zugelassen ist und vorwiegend dazu verwendet wird,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Richtlinie:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG 1998 Nr. L 59 S. 1), die zuletzt durch die Richtlinie 2012/46/EU (ABl. L 353 vom 21.12.2012, S. 80) geändert worden ist.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(3) Diese Verordnung gilt nicht für ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sportfahrzeuge mit einer Länge von nicht mehr als 24 m,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Feuerlöschboote, Militärfahrzeuge,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Fischereifahrzeugregister der Gemeinschaft verzeichnete Fischereifahrzeuge sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Seeschiffe.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221019213603",
+                    "doknr": "BJNR248710005BJNE000205119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Technische Vorschriften",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Ein Motor für Binnenschiffe darf nur dann auf dem Markt bereitgestellt oder in ein Binnenschiff eingebaut werden, wenn der Motor oder die Motorenfamilie oder die Motorengruppe, zu der der Motor gehört, Satz 1 gilt auch für einen Motor der Kategorie V1:3 nach Anhang I Abschnitt 4.1.2.4 der Richtlinie mit einer Nennleistung ab 75 kW, der in Artikel 9 Abs. 3e der Richtlinie nicht berücksichtigt wird. § 6 Absatz 1 und 2 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) gilt entsprechend.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "nach Artikel 4 Abs. 1 in Verbindung mit Artikel 9 Abs. 3e und 4a der Richtlinie typgenehmigt ist und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Emissionsgrenzwerte nach Anhang I Abschnitt 4.1.2.4 oder der Stufe II nach Anhang XV der Richtlinie einhält.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Ein Motor muss eingebaut werden nach Maßgabe der Bestimmungen des Kapitels 9 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1 (ES-TRIN), der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221019213603",
+                    "doknr": "BJNR248710005BJNE000303119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zuständige Behörde und Aufgaben",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige Behörde nach Maßgabe der Artikel 4 bis 6, 11 und 12 der Richtlinie. § 7 Absatz 2, § 8 Absatz 2 Satz 1, § 9 Absatz 1 sowie § 19 des Marktüberwachungsgesetzes gelten entsprechend.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "überprüft die Konformität der Produktion und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "erteilt, ändert und entzieht die Typgenehmigung",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221019213603",
+                    "doknr": "BJNR248710005BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BinSchAbgasV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ordnungswidrigkeiten",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 1 Satz 1 oder 2 einen Motor in den Verkehr bringt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

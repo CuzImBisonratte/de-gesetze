@@ -1,0 +1,318 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240319214503",
+            "doknr": "BJNR290210997"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240319214503",
+                    "doknr": "BJNR290210997"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BABauRaumOG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1997-12-15",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1997, 2902"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 2 G v. 19.12.2022 I 2507"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Art. 1 des G v. 15.12.1997 I 2902 vom Bundestag beschlossen und  ist gem. Art. 5 Abs. 1 dieses G am 1.1.1998 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.1998 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240319214503",
+                    "doknr": "BJNR290210997BJNE000105116"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BABauRaumOG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Im Geschäftsbereich des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen ist ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.",
+                                            "(2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in Bonn."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240319214503",
+                    "doknr": "BJNR290210997BJNE000206116"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BABauRaumOG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Aufgaben",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Das Bundesamt für Bauwesen und Raumordnung erledigt Verwaltungsaufgaben auf den Gebieten des Bauwesens, der Raumordnung, des Städtebaus und des Wohnungswesens, die ihm durch dieses Gesetz, auf Grund dieses Gesetzes oder durch andere Bundesgesetze zugewiesen werden.",
+                                            {
+                                                "_": "(2) Das Bundesamt für Bauwesen und Raumordnung ist zuständig für die Durchführung der Bauangelegenheiten ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Verfassungsorgane des Bundes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der obersten Bundesbehörden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Bundesrepublik Deutschland im Ausland mit Ausnahme einfacher Baumaßnahmen sowie der Bauten im Geschäftsbereich des Bundesministeriums der Verteidigung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "des Bundes in Berlin und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Geschäftsbereich eines Bundesministeriums bei überwiegendem Interesse des Bundes, soweit in diesem Fall das Bundesministerium im Einvernehmen mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen dem Bundesamt die Aufgabe übertragen hat.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen fachlich bei der Wahrnehmung seiner Aufgaben auf den in den Absätzen 1 und 2 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.",
+                                            "(3a) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen bei der Festlegung von übergeordneten baupolitischen und baukulturellen Vorgaben und Standardsetzungen für den zivilen Bundesbau.",
+                                            "(4) Das Bundesamt für Bauwesen und Raumordnung betreibt zur Erledigung seiner Aufgaben wissenschaftliche Forschung auf den Gebieten der Raumordnung, des Städtebaus, des Bau- und Wohnungswesens. Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen dem Bundesamt in entsprechender Anwendung von § 16 Abs. 6 des Bundesstatistikgesetzes Einzelangaben übermitteln, soweit dies zur Erfüllung der in Satz 1 genannten Forschungsaufgaben erforderlich ist. Die Daten dürfen nur für diesen Zweck und in von den anderen Aufgabenbereichen des Bundesamtes räumlich, organisatorisch und personell getrennten Organisationseinheiten gespeichert und genutzt werden.",
+                                            "(5) Das Bundesamt für Bauwesen und Raumordnung erledigt, soweit nicht die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist, weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang stehende Aufgaben des Bundes, mit deren Durchführung es vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen oder von der sachlich zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen beauftragt wird.",
+                                            "(6) Die Verfassungsorgane des Bundes können ihre Bauangelegenheiten im Einzelfall auch jeweils in eigener Zuständigkeit regeln."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240319214503",
+                    "doknr": "BJNR290210997BJNE000306116"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BABauRaumOG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Aufsicht",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Aufsicht über das Bundesamt für Bauwesen und Raumordnung wird durch das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen ausgeübt. Die Zuständigkeit des Bundesministeriums der Verteidigung für seine Bauangelegenheiten bleibt insoweit unberührt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

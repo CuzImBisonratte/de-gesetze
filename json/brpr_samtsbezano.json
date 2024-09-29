@@ -1,0 +1,138 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405131034",
+            "doknr": "BJNR107610968"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405131034",
+                    "doknr": "BJNR107610968"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BRPräsAmtsbezAnO"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1968-06-20",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1968, 761"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Präsidenten des Bundesrates über die Festsetzung einer\nAmtsbezeichnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab:  1. 7.1968 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405131034",
+                    "doknr": "BJNR107610968BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BRPräsAmtsbezAnO"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund der mir am 29. März 1968 übertragenen Befugnis (Bundesgesetzbl. I S. 252) setze ich folgende Amtsbezeichnung fest: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Direktor des Bundesrates.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

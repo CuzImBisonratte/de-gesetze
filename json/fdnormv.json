@@ -1,0 +1,272 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125254",
+            "doknr": "BJNR008500999"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125254",
+                    "doknr": "BJNR008500999"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FDNormV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1999-02-04",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1999, 85"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Fernsehdienstnormenverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zur Anwendung von Normen für voll digitale\nFernsehdienste"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 19. 2.1999 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125254",
+                    "doknr": "BJNR008500999BJNE000100308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FDNormV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 3 Abs. 1 Satz 2 des Fernsehsignalübertragungs-Gesetzes vom 14. November 1997 (BGBl. I S. 2710) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705), dem Organisationserlaß vom 17. Dezember 1997 (BGBl. 1998 I S. 68) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125254",
+                    "doknr": "BJNR008500999BJNE000200308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FDNormV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Normen",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Für Übertragungssysteme für voll digitale Fernsehdienste müssen nachstehende Normen des Europäischen Instituts für Telekommunikationsnormen ETSI angewendet werden:  ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "a)",
+                                                            "b)",
+                                                            "c)"
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Terrestrische Übertragungssysteme:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "DIN ETS 300744 \"Digitaler Fernsehrundfunk (DVB); Rahmenstruktur, Kanalcodierung und Modulation für das digitale terrestrische Fernsehen (DVB-T)\"",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Satelliten-Übertragungssysteme:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "DIN ETS 300421 \"Digitale Rundfunk-Systeme für Fernsehen, Ton und Datendienste; Rahmenstruktur, Kanalcodierung und Modulation für Dienste über Satellit bei 11/12 GHz\"",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Kabel-Übertragungssysteme:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "DIN ETS 300429 \"Digitale Rundfunk-Systeme für Fernsehen, Ton und Datendienste; Rahmenstruktur, Kanalcodierung und Modulation bei Kabelsystemen\"",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Für die unter Absatz 1 genannten Normen gilt die jeweilige aktuelle Fassung unter der Voraussetzung, daß die Abwärtskompatibilität gewährleistet ist. Dies schließt das Überführen der Normen von DIN ETS nach DIN EN ein."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125254",
+                    "doknr": "BJNR008500999BJNE000300308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FDNormV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tage nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

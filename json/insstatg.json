@@ -1,0 +1,1860 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20231231214354",
+            "doknr": "BJNR258900011"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "amtabk": [
+                            "InsStatG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2011-12-07",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2011, 2582, 2589"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Insolvenzstatistikgesetz"
+                        ],
+                        "langue": [
+                            "Gesetz über die Insolvenz- und Restrukturierungsstatistik"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 37 G v. 10.8.2021 I 3436"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 7 G v. 7.12.2011 I 2582 vom Bundestag beschlossen. Es tritt gem. Art. 10 Satz 2 dieses G am 1.1.2013 in Kraft. Überschrift: IdF d. Art. 9 Nr. 1 G v. 22.12.2020 I 3256 mWv 1.1.2022",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2013 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000101125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Insolvenz- und Restrukturierungsstatistik",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für wirtschaftspolitische Planungsentscheidungen werden über Insolvenzverfahren und Restrukturierungssachen monatliche und jährliche Erhebungen als Bundesstatistik durchgeführt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000202125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Erhebungsmerkmale in Insolvenzverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Erhebungen erfassen folgende Erhebungsmerkmale: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Stellung des Antrags auf Eröffnung des Insolvenzverfahrens: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Datum der Antragstellung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Antragsteller,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Schuldner, die in den letzten drei Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens die Bestätigung eines Restrukturierungsplans in einer Restrukturierungssache erlangt haben;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Eröffnung des Insolvenzverfahrens oder dessen Abweisung mangels Masse: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Art des Verfahrens und des internationalen Bezugs,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Datum der Verfahrenseröffnung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Eröffnungsgrund,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anordnung oder Ablehnung der Eigenverwaltung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "voraussichtliche Summe der Forderungen;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Annahme eines Schuldenbereinigungsplans, bei Eröffnung eines Verbraucherinsolvenzverfahrens oder bei der Abweisung des Antrags auf Eröffnung eines solchen Verfahrens mangels Masse: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Summe der Forderungen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "geschätzte Summe der zu erbringenden Leistungen;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Einstellung oder Aufhebung des Insolvenzverfahrens: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)",
+                                                                                    "g)",
+                                                                                    "h)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Art der erfolgten Beendigung des Verfahrens,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Höhe der befriedigten Absonderungsrechte und die Höhe der nicht befriedigten Absonderungsrechte,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Höhe der quotenberechtigten Insolvenzforderungen und Höhe des zur Verteilung an die Insolvenzgläubiger verfügbaren Betrags, bei öffentlich-rechtlichen Insolvenzgläubigern zusätzlich deren jeweiliger Anteil,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angaben zur Betriebsfortführung, zum Sanierungserfolg und zur Eigenverwaltung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angaben über die Vorfinanzierung von Arbeitsentgelt im Rahmen der Gewährung von Insolvenzgeld,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Datum der Einreichung des Schlussberichts bei Gericht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angaben über Abschlagsverteilungen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Datum der Beendigung des Verfahrens;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Restschuldbefreiung: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Ankündigung der Restschuldbefreiung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Entscheidung über die Restschuldbefreiung und das Datum der Entscheidung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Versagung der Restschuldbefreiung das Datum und die Gründe für die Versagung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Widerruf der erteilten Restschuldbefreiung und das Datum des Widerrufs,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Sonstige Beendigung des Verfahrens und das Datum der sonstigen Beendigung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Höhe des zur Verteilung an die Insolvenzgläubiger verfügbaren Betrages, bei öffentlich-rechtlichen Insolvenzgläubigern zusätzlich deren jeweiliger Anteil;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Kostenfestsetzung: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "festgesetzte Höhe der Gerichtskosten sowie der Vergütungen und Auslagen von Insolvenzverwalter, Sachwalter, Treuhänder und Mitgliedern des Gläubigerausschusses,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Datum der Festsetzung.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000303125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Hilfsmerkmale in Insolvenzverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Hilfsmerkmale der Erhebungen sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Datum der Verfahrenshandlungen nach § 2,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name oder Firma und Anschrift oder Mittelpunkt der selbstständigen wirtschaftlichen Tätigkeit des Schuldners,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Unternehmen die Umsatzsteuernummer,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name, Nummer und Aktenzeichen des Amtsgerichts,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name und Anschrift des Insolvenzverwalters, Sachwalters oder des Treuhänders,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name, Rufnummern und E-Mail-Adressen der für eventuelle Rückfragen zur Verfügung stehenden Personen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Hilfsmerkmale für die Vollzähligkeitsprüfung der nach § 4 Absatz 1 Nummer 2 zu übermittelnden Angaben sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8.",
+                                                            "9."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Nummer und Name des Amtsgerichts,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name oder Firma des Schuldners,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Art der vom Insolvenzverwalter, Sachwalter oder Treuhänder abzugebenden Meldung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "ursprüngliches Aktenzeichen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Datum des Eröffnungsbeschlusses,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Verfahrens-Identifikationsnummer,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Kalenderjahr, für das die Meldung erfolgen musste,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name, Anschrift, Rufnummer und E-Mail-Adresse des Insolvenzverwalters, Sachwalters oder Treuhänders,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name, Rufnummer und E-Mail-Adresse einer Ansprechperson im Amtsgericht.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000402125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Auskunftspflicht und Erteilung der Auskunft in Insolvenzverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 3 Absatz 1 Nummer 6 und Absatz 2 Nummer 9 sind freiwillig. Auskunftspflichtig sind ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bezüglich der Angaben nach § 2 Nummer 1 bis 3 und 6 sowie nach § 3 Absatz 1 Nummer 1, 2, 4, 5 und 7 sowie Absatz 2 Nummer 1 bis 8: die zuständigen Amtsgerichte,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bezüglich der Angaben nach § 2 Nummer 4 und 5 sowie nach § 3 Absatz 1 Nummer 1 bis 5 und 7: die zuständigen Insolvenzverwalter, Sachwalter oder Treuhänder.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Die Angaben nach Absatz 1 werden den statistischen Ämtern von den Auskunftspflichtigen aus den vorhandenen Unterlagen übermittelt. Die Angaben nach Absatz 1 Satz 3 Nummer 1 mit Ausnahme der Angaben nach § 3 Absatz 2 Nummer 1 bis 8 werden von den statistischen Ämtern monatlich erfasst. Die Angaben nach Absatz 1 Satz 3 Nummer 2 und nach § 3 Absatz 2 Nummer 1 bis 8 werden von den statistischen Ämtern jährlich erfasst.",
+                                            {
+                                                "_": "(3) Die Angaben sind innerhalb der folgenden Fristen zu übermitteln: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Angaben der Amtsgerichte mit Ausnahme der Angaben zu § 3 Absatz 2 Nummer 1 bis 8: innerhalb von zwei Wochen nach Ablauf des Kalendermonats, in dem die jeweilige gerichtliche Entscheidung erlassen wurde; die Merkmale nach § 2 Nummer 1 sind zeitgleich mit den Angaben zu § 2 Nummer 2 zu übermitteln,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Angaben der Amtsgerichte zu § 3 Absatz 2 Nummer 1 bis 8: bis zum 31. März für alle Verfahren, für die nach Absatz 1 Satz 3 Nummer 2 für das vorangegangene Kalenderjahr Angaben zu melden waren,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Angaben der Insolvenzverwalter, Sachwalter oder Treuhänder mit Ausnahme der Angaben zu § 2 Nummer 5 Buchstabe b bis e: innerhalb von sechs Wochen nachdem das Insolvenzverfahren eingestellt oder aufgehoben wurde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Angaben der Insolvenzverwalter oder Treuhänder zu § 2 Nummer 5 Buchstabe b bis e: innerhalb von sechs Wochen nach Rechtskraft der Entscheidung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Für die Übermittlung der Angaben der Insolvenzverwalter, Sachwalter und Treuhänder gilt § 11a Absatz 2 und 3 des Bundesstatistikgesetzes entsprechend. Die statistischen Ämter prüfen unter Mithilfe der zuständigen Amtsgerichte die Vollzähligkeit der durch die Insolvenzverwalter, Treuhänder und Sachwalter übermittelten Angaben."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000801125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 4a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Erhebungsmerkmale in Restrukturierungssachen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Erhebungen erfassen folgende Erhebungsmerkmale: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Anzeige des Restrukturierungsvorhabens: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Datum der Anzeige,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Art des Rechtsträgers oder der Vermögensmasse (Schuldner); zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung, Zahl der Arbeitnehmer und die Eintragung in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "ob der Schuldner in den letzten drei Jahren vor der Anzeige des Restrukturierungsvorhabens die Bestätigung eines Restrukturierungsplans in einer Restrukturierungssache erwirkt hat;"
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Verlust der Wirkung der Anzeige des Restrukturierungsvorhabens: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Bestätigung oder Versagung der Bestätigung des Restrukturierungsplans und Datum der Rechtskraft der Bestätigung oder Versagung,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Höhe der befriedigten Anwartschaften und die Höhe der nicht befriedigten Anwartschaften der Inhaber von Absonderungsanwartschaften gemäß dem rechtskräftig bestätigten Restrukturierungsplan,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Summe der Forderungen von Restrukturierungsgläubigern und die Höhe des zur Verteilung verfügbaren Betrages gemäß dem rechtskräftig bestätigten Restrukturierungsplan,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Rücknahme der Anzeige und Datum der Rücknahme,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Aufhebung der Restrukturierungssache und Datum der Aufhebung,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Datum, zu dem die Anzeige ihre Wirkung kraft Zeitablaufs verloren hat;"
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Kostenfestsetzung: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "festgesetzte Höhe der Gerichtskosten sowie der Vergütungen und Auslagen eines Restrukturierungsbeauftragten und Sanierungsmoderators,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Datum der Festsetzung."
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000901125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 4b"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Hilfsmerkmale in Restrukturierungssachen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Hilfsmerkmale der Erhebungen sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Datum der Verfahrenshandlungen nach § 4a,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Name oder Firma und Anschrift oder Mittelpunkt der selbständigen wirtschaftlichen Tätigkeit des Schuldners,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Umsatzsteuernummer,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Name, Nummer und Aktenzeichen des Amtsgerichts,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Name und Kontaktdaten der für eventuelle Rückfragen zur Verfügung stehenden Personen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bei Schuldnern, die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind, die Art und der Ort des Registers und die Nummer der Eintragung."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE001000125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 4c"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Auskunftspflicht und Erteilung der Auskunft in Restrukturierungssachen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4b Nummer 5 sind freiwillig. Auskunftspflichtig sind bezüglich der Angaben nach den §§ 4a und 4b die zuständigen Amtsgerichte.",
+                                            "(2) Die Angaben nach Absatz 1 werden den statistischen Ämtern von den Auskunftspflichtigen aus den vorhandenen Unterlagen übermittelt. Die Angaben nach Absatz 1 werden von den statistischen Ämtern monatlich erfasst.",
+                                            "(3) Die Angaben der Amtsgerichte zu den §§ 4a und 4b sind innerhalb von zwei Wochen nach Ablauf des Kalendermonats, in dem die jeweilige gerichtliche Entscheidung erlassen oder die jeweilige Verfahrenshandlung vorgenommen wurde, zu übermitteln."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000501125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Veröffentlichung und Übermittlung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die statistischen Ämter dürfen Ergebnisse veröffentlichen, auch wenn Tabellenfelder nur einen einzigen Fall ausweisen, sofern diese Tabellenfelder keine Angaben zur Summe der Forderungen und zur Zahl der betroffenen Arbeitnehmer enthalten.",
+                                            "(2) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen Tabellen mit statistischen Ergebnissen, auch wenn Tabellenfelder nur einen einzigen Fall ausweisen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder an die fachlich zuständigen obersten Bundes- und Landesbehörden übermittelt werden.",
+                                            {
+                                                "_": "(3) Das Statistische Bundesamt übermittelt der Europäischen Kommission jährlich bis zum 31. Dezember des auf das Erhebungsjahr folgenden Kalenderjahres auf dem Übermittlungsformular nach Artikel 29 Absatz 7 der Richtlinie (EU) 2019/1023 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über präventive Restrukturierungsrahmen, über Entschuldung und über Tätigkeitsverbote sowie über Maßnahmen zur Steigerung der Effizienz von Restrukturierungs-, Insolvenz- und Entschuldungsverfahren und zur Änderung der Richtlinie (EU) 2017/1132 (ABl. L 172 vom 26.6.2019, S. 18) die folgenden Daten über Insolvenz- und Restschuldbefreiungsverfahren sowie Restrukturierungssachen, aufgeschlüsselt nach jeder Verfahrensart: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8.",
+                                                            "9.",
+                                                            "10."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Zahl der eröffneten, anhängigen und beendeten Insolvenz- und Restschuldbefreiungsverfahren,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittliche Dauer der Insolvenz- und Restschuldbefreiungsverfahren von der Verfahrenseröffnung bis zur Beendigung des Verfahrens,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittlichen Befriedigungsquoten der befriedigten Absonderungsrechte und der quotenberechtigten Insolvenzgläubiger in Insolvenz- und Restschuldbefreiungsverfahren,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittlichen Kosten in Insolvenz- und Restschuldbefreiungsverfahren,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Zahl der angezeigten und anhängigen Restrukturierungssachen sowie die Zahl der Restrukturierungssachen, in denen die Anzeige ihre Wirkung verloren hat,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittliche Dauer der Restrukturierungssachen von der Anzeige des Restrukturierungsvorhabens bis die Anzeige ihre Wirkung verloren hat,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittlichen Befriedigungsquoten der Inhaber von Absonderungsanwartschaften und Restrukturierungsforderungen in Restrukturierungssachen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die durchschnittlichen Kosten in Restrukturierungssachen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Zahl der Restrukturierungssachen, in denen die Anzeige des Restrukturierungsvorhabens zurückgenommen, die Bestätigung des Restrukturierungsplans rechtskräftig versagt oder die Restrukturierungssache aufgehoben worden ist oder die Anzeige des Restrukturierungsvorhabens ihre Wirkung kraft Zeitablaufs verloren hat,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "die Zahl der Schuldner, die Gegenstand eines Insolvenzverfahrens oder einer Restrukturierungssache waren und in den letzten drei Jahren vor der Eröffnung des Insolvenzverfahrens oder vor Anzeige des Restrukturierungsvorhabens die Bestätigung eines Restrukturierungsplans in einer Restrukturierungssache erlangt haben."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(4) Die nach Absatz 3 Nummer 1 bis 8 zu übermittelnden Daten sind ferner aufzuschlüsseln: Die Übermittlung nach Absatz 3 erfolgt erstmals für das Erhebungsjahr, das dem Tag der erstmaligen Anwendung des Durchführungsrechtsaktes nach Artikel 29 Absatz 7 der Richtlinie (EU) 2019/1023 folgt.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "nach Größe der Schuldner, die keine natürlichen Personen sind, gemäß der Zahl der Arbeitnehmer,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "danach, ob die Schuldner in Insolvenzverfahren oder Restrukturierungssachen natürliche oder juristische Personen sind,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "danach, ob das Restschuldbefreiungsverfahren nur Unternehmer oder sonstige natürliche Personen betrifft."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000701125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 5a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Nutzung der Insolvenzbekanntmachungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Betreiber des elektronischen Informations- und Kommunikationssystems für öffentliche Bekanntmachungen in Insolvenzverfahren im Internet nach § 9 Absatz 1 der Insolvenzordnung sowie der Betreiber des elektronischen Informations- und Kommunikationssystems für öffentliche Bekanntmachungen in Restrukturierungssachen im Internet nach § 86 Absatz 1 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes dürfen im Rahmen der technischen Möglichkeiten den statistischen Ämtern jeweils für ihren Zuständigkeitsbereich Daten über die öffentlichen Bekanntmachungen übermitteln. Die Übermittlung kann auch in einem Abrufverfahren erfolgen. Die übermittelten Daten dürfen nur für Zwecke der Plausibilisierung der Insolvenz- und Restrukturierungsstatistiken sowie zur Erfüllung von anderen gesetzlich festgelegten Aufgaben der amtlichen Statistik verwendet werden. Personenbezogene Daten, die für die Erfüllung dieser Aufgaben nicht erforderlich sind, sind nach dem Empfang der Daten zu löschen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231231214354",
+                    "doknr": "BJNR258900011BJNE000601125"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "InsStatG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übergangsregelung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die Insolvenzverwalter, Sachwalter und Treuhänder sind nach § 4 Absatz 1 auskunftspflichtig bezüglich der Angaben, die sich auf Insolvenzverfahren beziehen, die nach dem 31. Dezember 2008 eröffnet wurden.",
+                                            "(2) Erfolgte die Einstellung oder Aufhebung des Insolvenzverfahrens oder die Ankündigung der Restschuldbefreiung nach dem 1. Januar 2009, aber vor dem Inkrafttreten dieses Gesetzes, sind die Angaben innerhalb von vier Monaten nach Inkrafttreten dieses Gesetzes zu übermitteln.",
+                                            "(3) Die Amtsgerichte sind nach § 4c Absatz 1 auskunftspflichtig bezüglich der Angaben, die sich auf Restrukturierungssachen beziehen, in denen nach dem 31. Dezember 2021 eine Anzeige des Restrukturierungsvorhabens vorgenommen wurde."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

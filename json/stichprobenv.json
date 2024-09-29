@@ -1,0 +1,1410 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20181022212002",
+            "doknr": "BJNR083000010"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "amtabk": [
+                            "StichprobenV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2010-06-25",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2010, 830"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Stichprobenverordnung Zensusgesetz 2011"
+                        ],
+                        "langue": [
+                            "Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.7.2010 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 7 Absatz 2 Satz 2 des Zensusgesetzes 2011 vom 8. Juli 2009 (BGBl. I S. 1781) verordnet die Bundesregierung:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zweck",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die in dieser Verordnung festgelegten einheitlichen Regelungen zum Stichprobenverfahren und zum Stichprobenumfang für die nach § 7 des Zensusgesetzes 2011 durchzuführende Haushaltsstichprobe stellen sicher, dass der registergestützte Zensus 2011 in einem nachvollziehbaren, wissenschaftlichen Standards entsprechenden Verfahren verlässliche statistische Daten zu den in § 1 Absatz 3 des Zensusgesetzes 2011 genannten Zwecken liefert.",
+                                            "(2) Die Verfahrensvorgaben und die methodisch-statistischen Festlegungen in den §§ 2 bis 4 dienen dazu, dass die Qualitätsvorgaben des § 7 Absatz 1 Satz 2 Nummer 1 und 2 des Zensusgesetzes 2011 sowohl bei der Ermittlung der amtlichen Einwohnerzahl als auch bei den Zensusmerkmalen eingehalten werden, die nicht aus Verwaltungsregistern gewonnen werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Stichprobenverfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Das Statistische Bundesamt legt den bundesweiten Stichprobenplan fest, zieht die Stichproben nach § 7 Absatz 3 des Zensusgesetzes 2011 bundesweit jeweils am gleichen Datum und dokumentiert das Auswahlverfahren sowie die einbezogenen Anschriften.",
+                                            "(2) Bei der Erstellung des Stichprobenplans und bei der Stichprobenziehung sind die Qualitätsvorgaben aus dem vom Statistischen Bundesamt in Auftrag gegebenen Forschungsprojekt zur Entwicklung des Stichprobenverfahrens zu berücksichtigen.",
+                                            {
+                                                "_": "(3) Für den Stichprobenplan und die Stichprobenziehung ist Folgendes maßgebend: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Auswahlgrundlage ist der Bestand aller Anschriften mit Wohnraum in dem nach § 2 des Zensusvorbereitungsgesetzes 2011 vom 8. Dezember 2007 (BGBl. I S. 2808) erstellten Anschriften- und Gebäuderegister. Die Stichprobenziehung erfolgt mit Stand vom 1. September 2010. Für Anschriften mit Wohnraum, die zwischen der Stichprobenziehung und dem Berichtszeitpunkt des Zensus 2011 (9. Mai 2011) neu in das Anschriften- und Gebäuderegister aufgenommen werden, ist eine ergänzende Stichprobe zu ziehen."
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Bestand aller Anschriften mit Wohnraum ist regional nach Erhebungsgebieten zu gliedern. Erhebungsgebiete sind Gemeinden mit mindestens  Einwohnern, in Städten mit mindestens  Einwohnern auch Teile der Stadt mit durchschnittlich etwa 200 000 Einwohnern und die auf der Kreisebene zusammengefassten Gemeinden unter  Einwohnern.",
+                                                                        "NB": [
+                                                                            "10 000",
+                                                                            "400 000",
+                                                                            "10 000"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Für jedes Erhebungsgebiet ist der jeweilige Anschriftenbestand zunächst aufsteigend nach der Zahl der an der Anschrift mit alleinigem Wohnsitz oder mit Haupt- oder Nebenwohnsitz gemeldeten Personen zu ordnen und anschließend in acht überschneidungsfreie Schichten mit etwa der gleichen Anzahl an Personen zu gliedern. Für Anschriften mit Sonderbereichen nach § 8 Absatz 5 Satz 2 des Zensusgesetzes 2011 wird zusätzlich eine eigene Schicht gebildet."
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Innerhalb der Schichten werden die Anschriften nach einem mathematischen Zufallsverfahren ausgewählt."
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Das Stichprobenverfahren wird so ausgerichtet, dass für Gemeinden unter 10 000 Einwohnern die gleiche Auswahlwahrscheinlichkeit für alle Anschriften und Personen gegeben ist."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "§ 2 Abs. 2 u. 3: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Stichprobenumfang",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Auf Grund der in den Stichprobenplan übernommenen qualitätssichernden Vorgaben errechnet sich bundesweit ein Bedarf von rund 1,4 Millionen Anschriften, an denen Haushaltsbefragungen auf Stichprobenbasis durchgeführt werden. Der bundesweite Stichprobenumfang wird auf 9,6 Prozent der Bevölkerung festgelegt. Grundlage dafür ist die amtliche Einwohnerzahl zum Stichtag 31. Dezember 2009.",
+                                            {
+                                                "_": "(2) Bezogen auf die Länder ergibt sich unter Berücksichtigung methodisch-statistischer Kriterien des § 2 Absatz 2 und des § 3 Absatz 1 rechnerisch folgende vorläufige Verteilung: ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "1",
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "rowsep": "1",
+                                                            "tabstyle": "Stichproben",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "5"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "6*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colnum": "3",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col4",
+                                                                            "colnum": "4",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col5",
+                                                                            "colnum": "5",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Land",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "middle"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Anschriften Stichprobe",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Anschriften gesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Personen Stichprobe",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Personen gesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "BW",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "191 791",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 335 600",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 135 058",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "10 749 506",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "BY",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "216 204",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 889 523",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 185 080",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "12 519 728",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "BE",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "7 416",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "301 566",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "144 450",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "3 431 675",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "BB",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "58 519",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "631 278",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "304 654",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 522 493",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "HB",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "3 302",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "136 981",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "31 647",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "661 866",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "HH",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "5 868",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "247 069",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "77 736",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 772 100",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "HE",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "123 670",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 350 002",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "723 197",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "6 064 953",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "MV",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "26 355",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "374 758",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "155 469",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 664 356",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "NI",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "176 261",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 138 494",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "820 543",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "7 947 244",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "NW",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "243 411",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "3 777 691",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 519 479",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "17 933 064",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "RP",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "124 772",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 116 391",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "551 138",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "4 028 351",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "SL",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "31 118",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "298 507",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "132 526",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 030 324",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "SN",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "60 509",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "801 012",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "377 745",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "4 192 801",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "ST",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "47 747",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "560 792",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "253 682",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 381 872",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "SH",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "57 450",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "776 914",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "287 909",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 834 260",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "TH",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "34 803",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "514 430",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "199 688",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 267 763",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "D",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 409 196 (7,72 %)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "top"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "18 251 008",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "7 900 001 (9,65 %)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4",
+                                                                                            "valign": "top"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "82 002 356",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "§ 3 Abs. 2: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Fragebogen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Haushaltsstichprobe wird mit Hilfe eines einheitlichen Fragebogens erhoben, den das Statistische Bundesamt in Zusammenarbeit mit den statistischen Ämtern der Länder erstellt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zusammenarbeit der statistischen Ämter",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die statistischen Ämter der Länder arbeiten bei der Haushaltsstichprobe mit dem Statistischen Bundesamt zusammen, um insbesondere das Erhebungsverfahren sowie die Datenverarbeitung und die Datenaufbereitung bundesweit einheitlich durchzuführen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000700000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20181022212002",
+                    "doknr": "BJNR083000010BJNE000800000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "StichprobenV"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

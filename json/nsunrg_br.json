@@ -1,0 +1,69 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20131008093948",
+            "doknr": "BRNR000840947"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20131008093948",
+                    "doknr": "BRNR000840947"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "NSUnrG BR"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1947-06-27",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BremGBl"
+                                ],
+                                "zitstelle": [
+                                    "1947, 84"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der\nStrafrechtspflege"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Partielles Recht für Bremen:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

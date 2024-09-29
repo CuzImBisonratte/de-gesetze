@@ -1,0 +1,606 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625153438",
+            "doknr": "BJNR180300002"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625153438",
+                    "doknr": "BJNR180300002"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglAnglFaktorBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2002-06-07",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2002, 1803"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Angleichungsfaktoren für den\nVersorgungsausgleich in der Rentenversicherung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 12. 6.2002 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625153438",
+                    "doknr": "BJNR180300002BJNE000100305"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglAnglFaktorBek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des Versorgungsausgleichs-Überleitungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606, 1702), der durch Artikel 27 des Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310) eingefügt worden ist, wird bekannt gemacht: Die Angleichungsfaktoren zur Ermittlung des Wertes von angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-Überleitungsgesetzes sind bei Entscheidungen über den Versorgungsausgleich, die nach dem 30. Juni 2002 ergehen, der nachstehenden Tabelle zu entnehmen: ",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "1",
+                                                                    "rowsep": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "70*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Der Angleichungsfaktor beträgt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bei einem Ehezeitende in der Zeit",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "2,1782737",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1990 bis 31. Dezember 1990",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,8933768",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1991 bis 30. Juni 1991",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,7231729",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1991 bis 31. Dezember 1991",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,5433254",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1992 bis 30. Juni 1992",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,4083841",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1992 bis 31. Dezember 1992",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,3274482",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1993 bis 30. Juni 1993",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,2139720",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1993 bis 31. Dezember 1993",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,1713701",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1994 bis 30. Juni 1994",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,1707441",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1994 bis 31. Dezember 1994",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,1390399",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1995 bis 30. Juni 1995",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,1170068",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1995 bis 31. Dezember 1995",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0701703",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Januar 1996 bis 30. Juni 1996",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0674073",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1996 bis 30. Juni 1997",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0279684",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1997 bis 30. Juni 1998",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0234240",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1998 bis 30. Juni 1999",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0090248",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 1999 bis 30. Juni 2000",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0090794",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 2000 bis 30. Juni 2001",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1,0071855",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "vom 1. Juli 2001 bis 30. Juni 2002",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "Bundesministerium für Arbeit und Sozialordnung"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

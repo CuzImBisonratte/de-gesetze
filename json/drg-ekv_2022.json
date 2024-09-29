@@ -1,0 +1,545 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20211123213050",
+            "doknr": "BJNR632610021"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20211123213050",
+                    "doknr": "BJNR632610021"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "DRG-EKV 2022"
+                        ],
+                        "amtabk": [
+                            "DRG-EKV 2022"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2021-11-19",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "AT 22.11.2021 V1"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "DRG-Entgeltkatalogverordnung 2022"
+                        ],
+                        "langue": [
+                            "Verordnung zu den Entgeltkatalogen für DRG-Krankenhäuser für das Jahr 2022"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die V wurde als Artikel 1 der V v. 19.11.2021 BAnz AT 22.11.2021 V1 vom Bundesministerium für Gesundheit beschlossen. Sie ist gem. Art. 3 dieser V am 23.11.2021 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 23.11.2021 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20211123213050",
+                    "doknr": "BJNR632610021BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "DRG-EKV 2022"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Fallpauschalen-Katalog nach § 9 Absatz 1 Nummer 1 des Krankenhausentgeltgesetzes, der Katalog ergänzender Zusatzentgelte nach § 9 Absatz 1 Nummer 2 des Krankenhausentgeltgesetzes und der Pflegeerlöskatalog nach § 9 Absatz 1 Nummer 2a des Krankenhausentgeltgesetzes werden für das Jahr 2022 mit den Entgeltkatalogen nach den Anlagen 1 bis 8 dieser Verordnung vorgegeben."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20211123213050",
+                    "doknr": "BJNR632610021BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "DRG-EKV 2022"
+                        ],
+                        "enbez": [
+                            "Anlagen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "noindex": [
+                                                    {
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BAnz AT 22.11.2021 V1)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "",
+                                            {
+                                                "FILE": [
+                                                    {
+                                                        "$": {
+                                                            "PREVIEW": "banzat_2021_20211122v1.pdf_thumb.gif",
+                                                            "SRC": "banzat_2021_20211122v1.pdf",
+                                                            "Type": "pdf",
+                                                            "title": "PDF-Dokument wird in eigenem Fenster angezeigt"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "0",
+                                                            "frame": "none",
+                                                            "rowsep": "0",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "20*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "12*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colwidth": "138*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 1",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Fallpauschalen-Katalog und Pflegeerlöskatalog (Entgelte nach § 9 Absatz 1 Nummer 1 und 2a des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teil a",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bewertungsrelationen bei Versorgung durch Hauptabteilungen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teil b",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bewertungsrelationen bei Versorgung durch Belegabteilungen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teil c",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bewertungsrelationen bei teilstationärer Versorgung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teil d",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der Median-Fallzahl bei Versorgung durch Hauptabteilung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teil e",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bewertungsrelationen mit gezielter Absenkung in Abhängigkeit der Median-Fallzahl bei Versorgung durch Belegabteilung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 2",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zusatzentgelte-Katalog – Liste – (Entgelte nach § 9 Absatz 1 Nummer 2 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 3a",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nicht mit dem Fallpauschalen-Katalog vergütete vollstationäre Leistungen und Pflegeerlöskatalog (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 3b",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nicht mit dem Fallpauschalen-Katalog vergütete teilstationäre Leistungen und Pflegeerlöskatalog (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 4",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zusatzentgelte-Katalog – Liste – (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 5",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zusatzentgelte-Katalog – Definition und differenzierte Beträge – (Entgelte nach § 9 Absatz 1 Nummer 2 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 6",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zusatzentgelte-Katalog – Definition – (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 7",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zusatzentgelte-Katalog – Blutgerinnungsstörungen – (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Anlage 8",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ergänzende Informationen zur Abrechnung von bewerteten Zusatzentgelten aus dem Zusatzentgelte-Katalog (Anlage 2 und Anlage 5)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

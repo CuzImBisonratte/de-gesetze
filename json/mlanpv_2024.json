@@ -1,0 +1,1181 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240430220019",
+            "doknr": "BJNR07F0A0024"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240430220019",
+                    "doknr": "BJNR07F0A0024"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "MLAnpV 2024"
+                        ],
+                        "amtabk": [
+                            "MLAnpV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2024-04-11",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2024, Nr. 127"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Mindestleistungsanpassungsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zur Anpassung der Mindestleistung nach dem Unterhaltssicherungsgesetz"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Ersetzt V 53-10-1 v. 9.5.2022 I 775 (MLAnpV)"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.5.2024 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240430220019",
+                    "doknr": "BJNR07F0A0024BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "MLAnpV 2024",
+                            "MLAnpV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des Unterhaltssicherungsgesetzes vom 4. August 2019 (BGBl. I S. 1147, 1179) verordnet das Bundesministerium der Verteidigung:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240430220019",
+                    "doknr": "BJNR07F0A0024BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "MLAnpV 2024",
+                            "MLAnpV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Höhe der Tagessätze ab dem 1. Mai 2024",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Ab dem 1. Mai 2024 gelten für die Mindestleistung nach § 8 Absatz 1 des Unterhaltssicherungsgesetzes die folgenden Tagessätze: ",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "1",
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "rowsep": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "6"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col1",
+                                                                            "colwidth": "7*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "36*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col4",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col5",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col6",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Dienstgrad",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Tagessatz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "nameend": "col6",
+                                                                                            "namest": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 1",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 2",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 3",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 4",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 5",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Reservistendienst Leistende oder Reservistendienst Leistender",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col6",
+                                                                                            "namest": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "ohne unterhaltsberechtigtes Kind",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mit einem unterhaltsberechtigten Kind",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mit zwei unterhaltsberechtigten Kindern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mit drei unterhaltsberechtigten Kindern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            ""
+                                                                                        ],
+                                                                                        "FnR": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "ID": "F829703_01_BJNR07F0A0024BJNE000200000"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "76,85 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "89,52 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "93,90 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "105,34 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "2",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Obergefreiter, Hauptgefreiter",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "78,04 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "90,88 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "95,10 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "106,29 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "3",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "78,48 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "91,39 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "95,40 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "106,44 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "4",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Stabsunteroffizier, Obermaat",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "80,31 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "93,29 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "96,76 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "107,26 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "5",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "82,74 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "96,04 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "99,48 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "109,89 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "6",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "86,35 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "100,09 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "103,44 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "113,81 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "7",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "91,66 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "106,29 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "109,62 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "119,88 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "8",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Oberleutnant, Oberleutnant zur See",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "96,75 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "111,74 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "115,27 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "125,24 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hauptmann, Kapitänleutnant",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "106,84 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "123,11 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "126,51 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "136,56 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "10",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "126,36 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "145,38 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "148,81 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "158,91 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "11",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant, Fregattenkapitän",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "128,97 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "148,44 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "151,90 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "161,76 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "12",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "148,97 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "172,69 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "176,03 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "185,57 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "13",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär und höhere Dienstgrade",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "160,07 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "186,02 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "189,34 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col5"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "198,70 €",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col6"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "FnArea": [
+                                                    {
+                                                        "$": {
+                                                            "Line": "1"
+                                                        },
+                                                        "FnR": [
+                                                            {
+                                                                "$": {
+                                                                    "ID": "F829703_01_BJNR07F0A0024BJNE000200000"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "Footnotes": [
+                                    {
+                                        "Footnote": [
+                                            {
+                                                "_": "Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach den Spalten 4 und 5 erhöht.",
+                                                "$": {
+                                                    "FnZ": "*",
+                                                    "Group": "manuell",
+                                                    "ID": "F829703_01_BJNR07F0A0024BJNE000200000",
+                                                    "Pos": "normal"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240430220019",
+                    "doknr": "BJNR07F0A0024BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "MLAnpV 2024",
+                            "MLAnpV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am 1. Mai 2024 in Kraft. Gleichzeitig tritt die Mindestleistungsanpassungsverordnung vom 9. Mai 2022 (BGBl. I S. 775) außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

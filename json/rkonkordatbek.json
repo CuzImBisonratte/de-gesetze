@@ -1,0 +1,188 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405132034",
+            "doknr": "BJNR206790933"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405132034",
+                    "doknr": "BJNR206790933"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "RKonkordatBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1933-09-12",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "RGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1933, 679"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung über das Konkordat zwischen dem Deutschen Reich und dem\nHeiligen Stuhl"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis Geltung ab:  1. 1.1964 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405132034",
+                    "doknr": "BJNR206790933BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "RKonkordatBek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Zur Ausführung des Konkordats ist das im Reichsgesetzblatt von 1933 Teil I S. 625 veröffentlichte Gesetz vom 12. September 1933 ergangen.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "SP": [
+                                                                            "Absatz 1 und 2"
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "SP": [
+                                                                            "Absatz 3"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "SP": [
+                                                                            "Der Reichsminister des Auswärtigen"
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "SP": [
+                                                                            "Der Reichsminister des Innern"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

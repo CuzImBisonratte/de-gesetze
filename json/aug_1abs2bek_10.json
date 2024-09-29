@@ -1,0 +1,145 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405125312",
+            "doknr": "BJNR008830991"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405125312",
+                    "doknr": "BJNR008830991"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AUG§1Abs2Bek 10"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1991-03-27",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1991, 883"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Zehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1\nAbs. 2 des Auslandsunterhaltsgesetzes"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 18. 4.1991 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405125312",
+                    "doknr": "BJNR008830991BJNE000100308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AUG§1Abs2Bek 10"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes verbürgt ist im Verhältnis zu der Provinz Kanadas Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 28. Januar 1991 (BGBl. I S. 285). ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            ""
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Prinz-Eduard-Insel.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "SP": [
+                                                    "Der Bundesminister der Justiz"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

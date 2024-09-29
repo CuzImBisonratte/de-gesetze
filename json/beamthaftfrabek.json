@@ -1,0 +1,122 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625152121",
+            "doknr": "BJNR018550961"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625152121",
+                    "doknr": "BJNR018550961"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeamtHaftFRABek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1961-09-28",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1961, 1855"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre\nBeamten gegenüber den Angehörigen der Französischen Republik"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis Geltung ab:  1. 1.1964 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152121",
+                    "doknr": "BJNR018550961BJNE000100303"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BeamtHaftFRABek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine Beamten vom 22. Mai 1910 (Reichsgesetzbl. S. 798) wird bekanntgemacht, daß durch die Gesetzgebung der Französischen Republik die Gegenseitigkeit verbürgt ist.",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "SP": [
+                                                    "Der Bundesminister der Justiz"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

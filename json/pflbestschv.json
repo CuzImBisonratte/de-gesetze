@@ -1,0 +1,1057 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20231018213507",
+            "doknr": "BJNR1150B0023"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "amtabk": [
+                            "PflBestSchV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2023-10-13",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2023, Nr. 277"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Pflanzenbeständeschutzverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die V wurde als Artikel 1 der V v. 13.10.2023 I Nr. 277 vom Bundesministerium für Ernährung und Landwirtschaft mit Zustimmung des Bundesrates beschlossen. Sie ist gem. Art. 6 dieser V am 19.10.2023 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 19.10.2023 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Anwendungsbereich",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung regelt den Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie von Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen, die Regelungen in Rechtsakten der Europäischen Union unterliegen (unionsgeregelten Nicht-Quarantäneschadorganismen)."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Begriffsbestimmungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Im Sinne dieser Verordnung sind ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "besondere unionsgeregelte Nicht-Quarantäneschadorganismen: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Feuerbrand: die durch den Schadorganismus  (Burril) Winslow et al. hervorgerufene Krankheit insbesondere bei Wirtspflanzen folgender Art bzw. Gattungen: ",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "I": [
+                                                                                                    "Erwinia amylovora"
+                                                                                                ],
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "tocentry": "%yes;"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "align": "left",
+                                                                                                                    "char": "",
+                                                                                                                    "charoff": "50",
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "colname": "col1",
+                                                                                                                            "colwidth": "60*"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "colname": "col2",
+                                                                                                                            "colwidth": "95*"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "valign": "top"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Medik.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Amelanchier"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Felsenbirne",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Medik.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Aronia"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Apfelbeere",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Lindl.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Chaenomeles"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Zier- oder Scheinquitte",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Medik.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Cotoneaster"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Zwergmispel",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Tourn. ex L.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Crataegus"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Weiß- oder Rotdorn",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Mill.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Cydonia"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Quitte",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Lindl.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Eriobotrya"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Wollmispel",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Mill.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Malus"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Apfel",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Bosc ex Spach",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Mespilus"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Mispel",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " Decne",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Photinia davidiana"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Glanzmispel",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " M. Roem.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Pyracantha"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Feuerdorn",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " L.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Pyrus"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Birne",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2",
+                                                                                                                                            "rowsep": "0"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": " L.",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col1",
+                                                                                                                                            "colsep": "0"
+                                                                                                                                        },
+                                                                                                                                        "I": [
+                                                                                                                                            "Sorbus"
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "Mehlbeere, Eberesche",
+                                                                                                                                        "$": {
+                                                                                                                                            "VJ": "1",
+                                                                                                                                            "colname": "col2"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Scharka: die durch den Schadorganismus Plum pox virus hervorgerufene Krankheit bei Wirtspflanzen der Gattung  L.;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "I": [
+                                                                                                    "Prunus"
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Birnenverfall: die durch den Schadorganismus  Phytoplasma pyri hervorgerufene Krankheit bei Wirtspflanzen der Gattung  L.;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "I": [
+                                                                                                    "Candidatus",
+                                                                                                    "Pyrus"
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Apfeltriebsucht: die durch den Schadorganismus  Phytoplasma mali hervorgerufene Krankheit bei Wirtspflanzen der Gattung  MILL.;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "I": [
+                                                                                                    "Candidatus",
+                                                                                                    "Malus"
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Europäische Steinobstvergilbung: die durch den Schadorganismus  Phytoplasma prunorum hervorgerufene Krankheit bei Wirtspflanzen der Gattung  L.;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "I": [
+                                                                                                    "Candidatus",
+                                                                                                    "Prunus"
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Bestände zur Erzeugung oder zum Erhalt von Obstanbaumaterial: Bestände, die zur Erhaltung, Erzeugung von Obstanbaumaterial der Gattungen  Mill.,  Mill.,  L. oder  L. im Sinne des § 2 Nummer 1 Buchstabe b in Verbindung mit Anlage 1 Abschnitt C der Anbaumaterialverordnung bestimmt sind;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "I": [
+                                                                            "Cydonia",
+                                                                            "Malus",
+                                                                            "Prunus",
+                                                                            "Pyrus"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Erwerbsobstbestände: Bestände, in welchen sich Pflanzen der Gattungen  Mill.,  Mill.,  L. oder  L. zur gewerblichen Obsterzeugung befinden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "I": [
+                                                                            "Cydonia",
+                                                                            "Malus",
+                                                                            "Pyrus",
+                                                                            "Prunus"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Festlegung von Gebieten zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die zuständige Behörde kann im Umfeld von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial oder Erwerbsobstbeständen ein Gebiet festlegen, innerhalb dessen unter Berücksichtigung Maßnahmen nach § 5 Absatz 1 angeordnet werden können.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "der regionalen Gegebenheiten,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "von Pflanzen, die zur Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen bestimmt sind,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "des Typs des Anbaumaterials oder des Erwerbsobstbestandes,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "der Biologie des jeweiligen besonderen unionsgeregelten Nicht-Quarantäneschadorganismus und"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "der damit einhergehenden Risiken für die Gesundheit und die Qualität von Pflanzen"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Untersuchungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die zuständige Behörde kann Wirtspflanzen und Bestände auf die in § 2 Nummer 1 genannten Schadorganismen untersuchen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213507",
+                    "doknr": "BJNR1150B0023BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Maßnahmen zur Verhinderung der Ausbreitung von besonderen unionsgeregelten Nicht-Quarantäneschadorganismen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Die zuständige Behörde kann in einem nach § 3 festgelegten Gebiet, soweit es zur Verhinderung des Befalls mit den in § 2 Nummer 1 genannten Schadorganismen erforderlich ist, anordnen: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "den Befall an Wirtspflanzen zu bekämpfen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Wirtspflanzen zu vernichten,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Bienenvölker in dem festgelegten Gebiet nicht zu halten oder während eines Befalls in ein oder aus einem Gebiet zu verlegen oder nicht zu verlegen,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Grundstücke oder Anbauflächen von Wirtspflanzen freizumachen oder freizuhalten,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "das Anpflanzen von Wirtspflanzen zu verbieten,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "bestimmte Verfahren des Pflanzenschutzes vorzuschreiben oder zu verbieten."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Verfügungsberechtigte oder Besitzer von Wirtspflanzen haben die Durchführung der Untersuchung der Pflanzen auf besondere unionsgeregelte Nicht-Quarantäneschadorganismen durch die zuständige Behörde sowie deren Bekämpfung oder die Vernichtung der Wirtspflanzen auf ihrem Grundstück zu dulden.",
+                                            "(3) Verfügungsberechtigte oder Besitzer von Wirtspflanzen sind verpflichtet, die von der zuständigen Behörde nach Absatz 1 Nummer 1, 2 und 4 angeordneten Maßnahmen oder die nach Absatz 1 Nummer 6 angeordneten Verfahren durchzuführen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213508",
+                    "doknr": "BJNR1150B0023BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Versuchszwecke",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Wer Versuche mit den unter § 2 Nummer 1 aufgeführten besonderen unionsgeregelten Nicht-Quarantäneschadorganismen im Freiland durchführen will, hat dies der zuständigen Behörde vor Aufnahme der Tätigkeit unter Angabe des Schadorganismus und des Versuchsstandortes anzuzeigen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231018213508",
+                    "doknr": "BJNR1150B0023BJNE000700000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflBestSchV"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ordnungswidrigkeiten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "einer vollziehbaren Anordnung nach § 5 Absatz 1 zuwiderhandelt oder"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "entgegen § 6 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

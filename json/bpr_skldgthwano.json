@@ -1,0 +1,121 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625153204",
+            "doknr": "BJNR016720989"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625153204",
+                    "doknr": "BJNR016720989"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsKldgTHWAnO"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1989-09-05",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1989, 1672"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum\nErlaß von Bestimmungen über die Dienstkleidung von hauptamtlichen Mitarbeitern\nder Bundesanstalt Technisches Hilfswerk"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 19. 9.1989 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625153204",
+                    "doknr": "BJNR016720989BJNE000100308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BPräsKldgTHWAnO"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Gemäß § 76 Satz 2 des Bundesbeamtengesetzes übertrage ich die Ausübung der Befugnis zum Erlaß von Bestimmungen über die Dienstkleidung für hauptamtliche Mitarbeiter der Bundesanstalt Technisches Hilfswerk dem Bundesminister des Innern.",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "SP": [
+                                                    "Der Bundespräsident",
+                                                    "Der Bundesminister des Innern"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

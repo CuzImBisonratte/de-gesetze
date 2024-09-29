@@ -1,0 +1,164 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221020213539",
+            "doknr": "BJNR177400004"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221020213539",
+                    "doknr": "BJNR177400004"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ModGAufhG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2004-07-21",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2004, 1763, 1774"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zur Aufhebung des Modulationsgesetzes"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 5 d. G v. 21.7.2004 I 1763 vom Bundestag mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 9 dieses G am 1.8.2004 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.8.2004 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213539",
+                    "doknr": "BJNR177400004BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ModGAufhG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213539",
+                    "doknr": "BJNR177400004BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ModGAufhG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für Direktzahlungen, die für die Kalenderjahre 2003 und 2004 gewährt worden sind oder gewährt werden, ist das in § 1 genannte Gesetz weiter anzuwenden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

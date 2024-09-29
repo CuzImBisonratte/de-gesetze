@@ -1,0 +1,80 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240424214511",
+            "doknr": "BJNR502820999"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240424214511",
+                    "doknr": "BJNR502820999"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "LuftVODV 191"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1999-01-22",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1999, Nr 28, 1778"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1999, 1778"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Hunderteinundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Münster-Osnabrück)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Wegen nicht darstellbarer Zeichen nur mit der Überschrift aufgenommen"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

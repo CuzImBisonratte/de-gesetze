@@ -1,0 +1,715 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20200130213037",
+            "doknr": "BJNR286800019"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20200130213037",
+                    "doknr": "BJNR286800019"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2020"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2019-12-17",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2019, 2868"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 20.12.2019 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200130213037",
+                    "doknr": "BJNR286800019BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2020"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –, die zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, wird bekannt gemacht:",
+                                            {
+                                                "_": "Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 2020 berechneten Faktoren betragen im Jahr 2020 ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "in der allgemeinen Rentenversicherung für die Umrechnung ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Entgeltpunkten in Beiträge",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "7.542,4860,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Entgeltpunkten (Ost) in Beiträge",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "7.049,0523,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        },
+                                                                                                                                        "BR": [
+                                                                                                                                            ""
+                                                                                                                                        ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "0,0001325823,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Beiträgen in Entgeltpunkte (Ost)",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "0,0001418630,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "in der knappschaftlichen Rentenversicherung für die Umrechnung ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Entgeltpunkten in Beiträge",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "10.016,0970,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Entgeltpunkten (Ost) in Beiträge",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "9.360,8383,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Beiträgen in Entgeltpunkte",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "0,0000998393,",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "table": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "colsep": "0",
+                                                                                                            "frame": "none",
+                                                                                                            "pgwide": "1",
+                                                                                                            "rowsep": "0"
+                                                                                                        },
+                                                                                                        "tgroup": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "cols": "2"
+                                                                                                                },
+                                                                                                                "colspec": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "left",
+                                                                                                                            "colname": "leftSplit"
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "align": "right",
+                                                                                                                            "colname": "rightSplit"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "tbody": [
+                                                                                                                    {
+                                                                                                                        "$": {
+                                                                                                                            "Class": "Split"
+                                                                                                                        },
+                                                                                                                        "row": [
+                                                                                                                            {
+                                                                                                                                "entry": [
+                                                                                                                                    {
+                                                                                                                                        "_": "von Beiträgen in Entgeltpunkte (Ost)",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "leftSplit"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "_": "0,0001068280.",
+                                                                                                                                        "$": {
+                                                                                                                                            "colname": "rightSplit",
+                                                                                                                                            "valign": "bottom"
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20200130213037",
+                    "doknr": "BJNR286800019BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2020"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Bundesministerium für Arbeit und Soziales"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

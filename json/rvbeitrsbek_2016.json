@@ -1,0 +1,156 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20151208215017",
+            "doknr": "BJNR211000015"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20151208215017",
+                    "doknr": "BJNR211000015"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "RVBeitrSBek 2016"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2015-11-23",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2015, 2110"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2016"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 2.12.2015 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20151208215017",
+                    "doknr": "BJNR211000015BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "RVBeitrSBek 2016"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund des § 158 Absatz 4 des Sechsten Buches Sozialgesetzbuch  Rentenversicherung –, der zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, wird bekannt gemacht:",
+                                                "NB": [
+                                                    "– Gesetzliche"
+                                                ]
+                                            },
+                                            "Der Beitragssatz für das Jahr 2016 beträgt weiterhin in der allgemeinen Rentenversicherung 18,7 Prozent und in der knappschaftlichen Rentenversicherung 24,8 Prozent."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20151208215017",
+                    "doknr": "BJNR211000015BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "RVBeitrSBek 2016"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Bundesministerium für Arbeit und Soziales"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

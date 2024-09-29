@@ -1,0 +1,2023 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20231031213504",
+            "doknr": "BJNR082600013"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013"
+                        ],
+                        "amtabk": [
+                            "BevStatG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2013-04-20",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2013, 826"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Bevölkerungsstatistikgesetz"
+                        ],
+                        "langue": [
+                            "Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 1 G v. 17.7.2023 I Nr. 190"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2014 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000201311"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zweck der Erhebung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Folgende Bundesstatistiken werden geführt, um die Zahl und die Zusammensetzung der Bevölkerung sowie ihre Veränderungen und deren Ursachen festzustellen: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Statistik der natürlichen Bevölkerungsbewegung, untergliedert in die ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Statistik der Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Geburtenstatistik,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Sterbefallstatistik einschließlich Todesursachenstatistik,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Statistik der rechtskräftigen Beschlüsse in Eheauflösungssachen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Wanderungsstatistik und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Fortschreibung des Bevölkerungsstandes.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000304126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Statistik der natürlichen Bevölkerungsbewegung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die Daten zu Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen, lebend- und totgeborenen Kindern.",
+                                            "(1a) Die Stellen nach Absatz 1 übermitteln spätestens am dritten Arbeitstag nach Eintrag in das Sterberegister die Daten zu Sterbefällen den statistischen Ämtern der Länder. Diese übermitteln die Daten unverzüglich dem Statistischen Bundesamt für Zwecke der Darstellung aktueller Sterbefallzahlen, insbesondere zur Feststellung einer überdurchschnittlichen Sterblichkeit. Die Aufgabe der statistischen Ämter der Länder, die Sterbefallstatistik durchzuführen, bleibt unberührt.",
+                                            {
+                                                "_": "(2) Bei Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen werden folgende Daten übermittelt: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Eheschließung und Standesamt, das die Eheschließung registriert hat,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Staatsangehörigkeit, Geschlecht, Wohnort, Tag der Geburt, bisheriger Familienstand und Zahl der gemeinsamen Kinder der Ehegatten,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Hilfsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Registernummer,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Monat und Jahr der Beurkundung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anschrift der Eheleute.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(3) Bei lebend- und bei totgeborenen Kindern werden folgende Daten übermittelt: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)",
+                                                                                    "g)",
+                                                                                    "h)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Geburt und Standesamt, das die Geburt registriert hat,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Geschlecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angabe darüber, ob die Eltern des Kindes miteinander verheiratet sind,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag, Ort und Staat der Geburt der Eltern sowie deren Staatsangehörigkeit und Wohnort,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Einzel- oder Mehrlingsgeburt, bei Mehrlingsgeburten Anzahl der Geburten nach Geschlecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Geburt des zuvor geborenen Kindes der Mutter, Angabe darüber, um das wievielte von der Mutter geborene Kind es sich handelt, Zahl der totgeborenen Kinder der Mutter,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Kindern, deren Eltern miteinander verheiratet sind: Tag der Eheschließung der Eltern, Angabe darüber, um das wievielte in der Ehe geborene Kind es sich handelt, Zahl der totgeborenen Kinder der Ehe,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Lebendgeburten: zusätzlich Angabe darüber, ob das Kind die deutsche Staatsangehörigkeit nach § 4 Absatz 3 des Staatsangehörigkeitsgesetzes erworben hat,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Hilfsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Registernummer,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Monat und Jahr der Beurkundung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Mehrlingsgeburten: Registernummer des jeweils zuvor geborenen Mehrlingskindes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anschrift der Eltern.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(4) Bei Sterbefällen werden folgende Daten übermittelt: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Sterbetag und Standesamt, das den Sterbefall registriert hat,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag, Ort und Staat der Geburt, Geschlecht, Staatsangehörigkeit, Familienstand, Wohnort,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Kindern, die innerhalb der ersten 24 Lebensstunden starben: zusätzlich Lebensdauer,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Geburt und Geschlecht des hinterbliebenen Ehegatten oder des hinterbliebenen Lebenspartners oder der hinterbliebenen Lebenspartnerin,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Sterbeort,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Hilfsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Registernummer,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Monat und Jahr der Beurkundung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anschrift, unter der die verstorbene Person zuletzt gemeldet war,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anschrift des Sterbeortes.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(5) Bei der Beurkundung eines im Ausland eingetretenen Ereignisses nach den Absätzen 2 bis 4 durch ein deutsches Standesamt ist als Erhebungsmerkmal zusätzlich anzugeben, dass das Ereignis im Ausland eingetreten ist; bei Sterbefällen ist darüber hinaus der Staat anzugeben, in dem der Tod eingetreten ist.",
+                                            "(6) Die nach Landesrecht für den Empfang des vertraulichen Teils der ärztlichen Bescheinigung über den Tod (Totenschein) zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die mit der Registernummer des Sterbefalleintrags und dem zuständigen Standesamt gekennzeichneten Angaben zu den Todesursachen und den Umständen des Todes nach den Angaben auf dem Totenschein. Die Übermittlungen erfolgen elektronisch, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden. Die Registernummer des Sterbefalleintrags dient als Hilfsmerkmal."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000404126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Statistik der rechtskräftigen Beschlüsse in Ehesachen und Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die für Ehesachen sowie für Lebenspartnerschaftssachen zuständigen Gerichte erster Instanz übermitteln den statistischen Ämtern der Länder nach Rechtskraft des Beschlusses mindestens monatlich folgende Daten als Erhebungsmerkmale: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei gerichtlichen Entscheidungen über Ehesachen ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angabe darüber, ob der Antrag nur von einem der Ehegatten, von beiden gemeinsam oder von einer Verwaltungsbehörde gestellt worden ist, Geschlecht des Antragstellers oder der Antragstellerin, Erklärung und Geschlecht des Antragsgegners oder der Antragsgegnerin, Inhalt der Entscheidung und Tag der Rechtskraft der Entscheidung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Staatsangehörigkeit, Tag der Geburt und Geschlecht der Ehegatten, Tag der Eheschließung oder im Falle einer Umwandlung einer Lebenspartnerschaft in eine Ehe Tag der Begründung der Lebenspartnerschaft, Zahl der lebenden gemeinschaftlichen minderjährigen Kinder,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Kreis oder kreisfreie Stadt, in dem oder in der der für den Gerichtsstand maßgebliche gewöhnliche Aufenthalt liegt,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei gerichtlichen Entscheidungen über Lebenspartnerschaftssachen ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Inhalt der Entscheidung und Tag der Rechtskraft der Entscheidung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Staatsangehörigkeit, Tag der Geburt und Geschlecht der Lebenspartner oder Lebenspartnerinnen, Tag der Begründung der Lebenspartnerschaft, Zahl der lebenden gemeinschaftlichen minderjährigen Kinder,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Kreis oder kreisfreie Stadt, in dem oder in der der für den Gerichtsstand maßgebliche gewöhnliche Aufenthalt liegt.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000503126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Wanderungsstatistik",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Erfolgt die Verlegung der alleinigen Wohnung oder der Hauptwohnung über Gemeindegrenzen hinweg, übermitteln die nach Landesrecht für das Meldewesen zuständigen Stellen den statistischen Ämtern der Länder die Angaben zu den Merkmalen nach den Absätzen 2 und 3. Die Übermittlung hat mindestens monatlich zu erfolgen.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei einem Einzug in eine alleinige Wohnung oder Hauptwohnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei einem Auszug aus einer alleinigen Wohnung oder Hauptwohnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei einem Wechsel des Wohnungsstatus einer Nebenwohnung zur alleinigen Wohnung oder Hauptwohnung",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Erhebungsmerkmale sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Tag des Einzugs in die neue alleinige Wohnung oder Hauptwohnung oder Tag des Auszugs aus der bisherigen alleinigen Wohnung oder Hauptwohnung oder Tag des Wechsels des Wohnungsstatus einer Nebenwohnung zur alleinigen Wohnung oder Hauptwohnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bisheriger und neuer Wohnort sowie Wohnungsstatus am bisherigen und neuen Wohnort,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Geschlecht, Tag der Geburt und Familienstand,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Staatsangehörigkeit, Ort der Geburt sowie bei Geburt im Ausland auch der Staat der Geburt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "zusätzlich bei Zuzug aus dem Ausland: Tag des letzten Wegzugs vom Inland ins Ausland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "zusätzlich bei Abmeldung ins Ausland mit Angabe des Zielgebietes oder bei Abmeldung ohne Angabe des Zielgebietes: Tag des letzten Zuzugs aus dem Ausland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Tatsache der An- und Abmeldung von Amts wegen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(3) Hilfsmerkmale sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Bezeichnung der Meldebehörde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Ordnungsmerkmal der Meldebehörde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "letzte frühere und derzeitige Anschrift,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei einem Zuzug aus dem Inland: das Datum des Auszugs aus der bisherigen Wohnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei einem Wegzug in das Ausland oder nach unbekannt: das Datum des Zuzugs in die Gemeinde.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Sofern bei der Meldebehörde ein Rückmeldeverfahren aus den in Absatz 1 Satz 1 Nummer 1 bis 3 aufgeführten Anlässen vorgesehen ist, erfolgt die Übermittlung der Daten erst nach Abschluss des Rückmeldeverfahrens."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000604126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Fortschreibung des Bevölkerungsstandes und Bevölkerungsvorausberechnungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Der Bevölkerungsstand wird Grundlage für die Fortschreibung ist der jeweils letzte Zensus. Die Fortschreibung erfolgt für die Bevölkerung insgesamt sowie getrennt nach Geschlecht, Alter, Familienstand, Wohnort und Staatsangehörigkeit.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "nach den Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der Wanderungsstatistik,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "nach den Mitteilungen gemäß Absatz 2 zum Wechsel der Staatsangehörigkeit sowie zu Ehescheidungen und Aufhebungen von Ehen und Lebenspartnerschaften sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "nach den Mitteilungen gemäß Absatz 3 zur Änderung des Geschlechtseintrages fortgeschrieben.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Die nach Landesrecht für das Meldewesen zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich folgende Daten: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für die Ermittlung der Zahl der deutschen und der nichtdeutschen Bevölkerung beim Erwerb, soweit dieser nicht durch Geburt erworben wird, oder Verlust der deutschen Staatsangehörigkeit als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Wohnort, Geschlecht, Tag sowie Ort und Staat der Geburt, Familienstand,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag des Erwerbs oder des Verlusts der deutschen Staatsangehörigkeit,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Aufgabe der deutschen Staatsangehörigkeit: neu erworbene Staatsangehörigkeit,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "bei Erwerb der deutschen Staatsangehörigkeit: bisherige Staatsangehörigkeit,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für die Ermittlung des Familienstandes bei Ehesachen und Lebenspartnerschaften als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Angabe darüber, ob es sich um eine Ehescheidung oder um die Aufhebung einer Ehe oder einer Lebenspartnerschaft handelte und ob der Familienstand im Melderegister vorher als nicht bekannt erfasst war,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Wohnort, Geschlecht, Tag der Geburt und Staatsangehörigkeit,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Beendigung der Ehe oder der Lebenspartnerschaft,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Hilfsmerkmale für die Nummern 1 und 2 ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Bezeichnung der Meldebehörde,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Ordnungsmerkmal der Meldebehörde,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Anschrift.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(3) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder für die Ermittlung der Zahl der Bevölkerung nach Geschlecht aus Anlass der Änderung des Geschlechtseintrages im Geburtenregister folgende Daten: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Erhebungsmerkmale ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Land, in welchem der Wohnort liegt,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Geschlechtseintrag vor und nach der Änderung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Tag der Änderung des Geschlechtseintrages und Standesamt, das die Änderung eingetragen hat,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "als Hilfsmerkmal die Registernummer im Geburtenregister.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Das Statistische Bundesamt führt auf der Grundlage der Angaben zu den §§ 2 bis 5 Bevölkerungsvorausberechnungen durch. Die Zuständigkeit der Länder, die Vorausberechnungen für ihren Zuständigkeitsbereich ebenfalls durchzuführen, bleibt unberührt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000900311"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 5a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übermittlung von Tabellen an oberste Bundes- und Landesbehörden",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE001000126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 5b"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übermittlung von Angaben an das Robert Koch-Institut; Fachspezifische Analysen und Mortalitätssurveillance; Veröffentlichungen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Für Zwecke der epidemiologischen Analysen einer überdurchschnittlichen Sterblichkeit übermittelt das Statistische Bundesamt dem Robert Koch-Institut und den nach § 54 des Infektionsschutzgesetzes zuständigen Behörden zu jedem Sterbefall unverzüglich die nach § 2 Absatz 1a Satz 2 übermittelten Einzelangaben zu Geschlecht, Jahr und Monat der Geburt, Sterbetag, Anschrift des Sterbeortes sowie Landkreis oder kreisfreier Stadt, in welchem oder in welcher die verstorbene Person zuletzt gemeldet war, sowie das Standesamt, das den Sterbefall registriert hat. Die statistischen Ämter der Länder können auf Ersuchen des Statistischen Bundesamtes die in Satz 1 genannte Datenübermittlung anstelle des Statistischen Bundesamtes durchführen. Das Robert Koch-Institut und die nach § 54 des Infektionsschutzgesetzes zuständigen Behörden anonymisieren die Anschrift des Sterbeortes zum frühestmöglichen Zeitpunkt. Das Statistische Bundesamt übermittelt zudem aufbereitete Einzelangaben zu den in Satz 1 genannten Einzelangaben jährlich unverzüglich nach Abschluss der Aufbereitung, beginnend mit den Einzelangaben für das Berichtsjahr 2023, an das Robert Koch-Institut.",
+                                            "(2) Das Robert Koch-Institut übermittelt Ergebnisse seiner auf Grundlage der nach Absatz 1 übermittelten Einzelangaben erstellten Analysen anonymisiert obersten und oberen Bundesbehörden sowie den nach § 54 des Infektionsschutzgesetzes zuständigen Behörden für den in Absatz 1 Satz 1 genannten Zweck. Soweit die datenempfangende Stelle nach Übermittlung der Ergebnisse nach Satz 1 feststellt, dass sie Bedarf an den nach Absatz 1 Satz 1 und 2 übermittelten Einzelangaben hat, um im Rahmen ihrer eigenen Aufgabenwahrnehmung weitere Analysen durchführen zu können, darf das Robert Koch-Institut auch die nach Absatz 1 Satz 1 und 2 übermittelten Einzelangaben an die jeweilige Stelle übermitteln. Der Bedarf ist gegenüber dem Robert Koch-Institut zu begründen. Die Anschrift des Sterbeortes ist vor der Übermittlung nach Satz 2 zu anonymisieren. Satz 2 gilt nicht für die in Absatz 1 Satz 4 genannten aufbereiteten Einzelangaben.",
+                                            "(3) Das Robert Koch-Institut, die nach § 54 des Infektionsschutzgesetzes zuständigen Behörden sowie die obersten und oberen Bundesbehörden stellen bei Veröffentlichungen zu den in Absatz 1 genannten Einzelangaben durch geeignete Maßnahmen sicher, dass Einzelangaben den verstorbenen oder betroffenen Personen nicht zugeordnet werden können."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000703126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übergangsvorschrift",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Abweichend von § 5b Absatz 1 Satz 1 übermittelt das Statistische Bundesamt für den Zeitraum vom 21. Juli 2023 bis zum 31. Oktober 2023 die in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort. Die Übermittlung nach Satz 1 erfolgt innerhalb von einem Monat nach der Übermittlung der jeweiligen Einzelangaben nach § 2 Absatz 1a Satz 2.",
+                                            "(2) Das Statistische Bundesamt übermittelt für den Zeitraum vom 1. November 2021 bis zum 31. Dezember 2022 aufbereitete Einzelangaben zu den in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort unverzüglich nach Abschluss der Aufbereitung an das Robert Koch-Institut. § 5b Absatz 2 Satz 2 gilt nicht für die in Satz 1 genannten Einzelangaben. § 5b Absatz 3 gilt für die in Satz 1 genannten Einzelangaben entsprechend. Abweichend von § 5b Absatz 1 Satz 4 übermittelt das Statistische Bundesamt aufbereitete Einzelangaben für den Zeitraum vom 1. Januar 2023 bis 31. Oktober 2023 zu den in § 5b Absatz 1 Satz 1 genannten Einzelangaben ohne Angaben zum Sterbeort."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231031213504",
+                    "doknr": "BJNR082600013BJNE000800000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BevStatG 2013",
+                            "BevStatG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dieses Gesetz tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt das Bevölkerungsstatistikgesetz in der Fassung der Bekanntmachung vom 14. März 1980 (BGBl. I S. 308), das zuletzt durch Artikel 1 des Gesetzes vom 18. Juli 2008 (BGBl. I S. 1290) geändert worden ist, außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

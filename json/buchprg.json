@@ -1,0 +1,1259 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20231019213536",
+            "doknr": "BJNR344810002"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2002-09-02",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2002, 3448"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Buchpreisbindungsgesetz"
+                        ],
+                        "langue": [
+                            "Gesetz über die Preisbindung für Bücher"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 23 G v. 8.10.2023 I Nr. 272"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Das G wurde als Artikel 1 d. G v. 2.9.2002 I 3448 vom Bundestag beschlossen. Es ist gem. Art. 3 dieses G mWv 1.10.2002 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.10.2002 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zweck des Gesetzes",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung verbindlicher Preise beim Verkauf an Letztabnehmer sichert den Erhalt eines breiten Buchangebots. Das Gesetz gewährleistet zugleich, dass dieses Angebot für eine breite Öffentlichkeit zugänglich ist, indem es die Existenz einer großen Zahl von Verkaufsstellen fördert."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000201119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Anwendungsbereich",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Bücher im Sinne dieses Gesetzes sind auch ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Musiknoten,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "kartographische Produkte,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Produkte, die Bücher, Musiknoten oder kartographische Produkte reproduzieren oder substituieren, wie zum Beispiel zum dauerhaften Zugriff angebotene elektronische Bücher, und bei Würdigung der Gesamtumstände als überwiegend verlags- oder buchhandelstypisch anzusehen sind sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "kombinierte Objekte, bei denen eines der genannten Erzeugnisse die Hauptsache bildet.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Fremdsprachige Bücher fallen nur dann unter dieses Gesetz, wenn sie überwiegend für den Absatz in Deutschland bestimmt sind.",
+                                            "(3) Letztabnehmer im Sinne dieses Gesetzes ist, wer Bücher zu anderen Zwecken als dem Weiterverkauf erwirbt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000301119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Preisbindung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verkauft, muss den nach § 5 festgesetzten Preis einhalten. Dies gilt nicht für den Verkauf gebrauchter Bücher."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000401119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000501119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Preisfestsetzung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland verlegt oder importiert, ist verpflichtet, einen Preis einschließlich Umsatzsteuer (Endpreis) für die Ausgabe eines Buches für den Verkauf an Letztabnehmer in Deutschland festzusetzen und in geeigneter Weise zu veröffentlichen. Entsprechendes gilt für Änderungen des Endpreises.",
+                                            "(2) Wer Bücher importiert, darf zur Festsetzung des Endpreises den vom Verleger des Verlagsstaates für Deutschland empfohlenen Letztabnehmerpreis einschließlich der in Deutschland jeweils geltenden Mehrwertsteuer nicht unterschreiten. Hat der Verleger keinen Preis für Deutschland empfohlen, so darf der Importeur zur Festsetzung des Endpreises den für den Verlagsstaat festgesetzten oder empfohlenen Nettopreis des Verlegers für Endabnehmer zuzüglich der in Deutschland jeweils geltenden Mehrwertsteuer nicht unterschreiten.",
+                                            "(3) Wer als Importeur Bücher in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu einem von den üblichen Einkaufspreisen im Einkaufsstaat abweichenden niedrigeren Einkaufspreis kauft, kann den gemäß Absatz 2 festzulegenden Endpreis in dem Verhältnis herabsetzen, wie es dem Verhältnis des erzielten Handelsvorteils zu den üblichen Einkaufspreisen im Einkaufsstaat entspricht; dabei gelten branchentypische Mengennachlässe und entsprechende Verkaufskonditionen als Bestandteile der üblichen Einkaufspreise.",
+                                            {
+                                                "_": "(4) Verleger oder Importeure können folgende Endpreise festsetzen: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Serienpreise,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Mengenpreise,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Subskriptionspreise,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sonderpreise für Institutionen, die bei der Herausgabe einzelner bestimmter Verlagswerke vertraglich in einer für das Zustandekommen des Werkes ausschlaggebenden Weise mitgewirkt haben,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sonderpreise für Abonnenten einer Zeitschrift beim Bezug eines Buches, das die Redaktion dieser Zeitschrift verfasst oder herausgegeben hat, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Teilzahlungszuschläge.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(5) Die Festsetzung unterschiedlicher Endpreise für einen bestimmten Titel durch einen Verleger oder Importeur oder deren Lizenznehmer ist zulässig, wenn dies sachlich gerechtfertigt ist."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000600000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Vertrieb",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Verlage müssen bei der Festsetzung ihrer Verkaufspreise und sonstigen Verkaufskonditionen gegenüber Händlern den von kleineren Buchhandlungen erbrachten Beitrag zur flächendeckenden Versorgung mit Büchern sowie ihren buchhändlerischen Service angemessen berücksichtigen. Sie dürfen ihre Rabatte nicht allein an dem mit einem Händler erzielten Umsatz ausrichten.",
+                                            "(2) Verlage dürfen branchenfremde Händler nicht zu niedrigeren Preisen oder günstigeren Konditionen beliefern als den Buchhandel.",
+                                            "(3) Verlage dürfen für Zwischenbuchhändler keine höheren Preise oder schlechteren Konditionen festsetzen als für Letztverkäufer, die sie direkt beliefern."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000702377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ausnahmen",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) § 3 gilt nicht beim Verkauf von Büchern  ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "an Verleger oder Importeure von Büchern, Buchhändler oder deren Angestellte und feste Mitarbeiter für deren Eigenbedarf,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "an Autoren selbständiger Publikationen eines Verlages für deren Eigenbedarf,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "an Lehrer zum Zwecke der Prüfung einer Verwendung im Unterricht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die auf Grund einer Beschädigung oder eines sonstigen Fehlers als Mängelexemplare gekennzeichnet sind,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Rahmen eines auf einen Zeitraum von 30 Tagen begrenzten Räumungsverkaufs anlässlich der endgültigen Schließung einer Buchhandlung, sofern die Bücher aus den gewöhnlichen Beständen des schließenden Unternehmens stammen und den Lieferanten zuvor mit angemessener Frist zur Rücknahme angeboten wurden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Beim Verkauf von Büchern können wissenschaftlichen Bibliotheken, die jedem auf ihrem Gebiet wissenschaftlich Arbeitenden zugänglich sind, bis zu 5 Prozent, jedermann zugänglichen kommunalen Büchereien, Landesbüchereien und Schülerbüchereien sowie konfessionellen Büchereien und Truppenbüchereien der Bundeswehr und der Bundespolizei bis zu 10 Prozent Nachlass gewährt werden.",
+                                            {
+                                                "_": "(3) Bei Sammelbestellungen von Büchern für den Schulunterricht, die zu Eigentum der öffentlichen Hand, eines Beliehenen oder allgemein bildender Privatschulen, die den Status staatlicher Ersatzschulen besitzen, angeschafft werden, gewähren die Verkäufer folgende Nachlässe:  Soweit Schulbücher von den Schulen im Rahmen eigener Budgets angeschafft werden, ist stattdessen ein genereller Nachlass von 12 Prozent für alle Sammelbestellungen zu gewähren.",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "5*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colnum": "3",
+                                                                            "colwidth": "35*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "1.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bei einem Auftrag im Gesamtwert bis zu 25.000 Euro für Titel mit",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mehr als 10 Stück",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "8 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mehr als 25 Stück",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "10 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mehr als 100 Stück",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "12 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "mehr als 500 Stück",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "13 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "2.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "bei einem Auftrag im Gesamtwert von mehr als",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col3",
+                                                                                            "namest": "col2",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "25.000 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "13 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "38.000 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "14 Prozent Nachlass,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "50.000 Euro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "15 Prozent Nachlass.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(4) Der Letztverkäufer verletzt seine Pflicht nach § 3 nicht, wenn er anlässlich des Verkaufs eines Buches ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Waren von geringem Wert oder Waren, die im Hinblick auf den Wert des gekauften Buches wirtschaftlich nicht ins Gewicht fallen, abgibt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "geringwertige Kosten der Letztabnehmer für den Besuch der Verkaufsstelle übernimmt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Versand- oder besondere Beschaffungskosten übernimmt oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "andere handelsübliche Nebenleistungen erbringt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000801377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 8"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Dauer der Preisbindung",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Verleger und Importeure sind berechtigt, durch Veröffentlichung in geeigneter Weise die Preisbindung für Buchausgaben aufzuheben, deren erstes Erscheinen länger als 18 Monate zurückliegt.",
+                                            "(2) Bei Büchern, die in einem Abstand von weniger als 18 Monaten wiederkehrend erscheinen oder deren Inhalt mit dem Erreichen eines bestimmten Datums oder Ereignisses erheblich an Wert verliert, ist eine Beendigung der Preisbindung durch den Verleger oder Importeur ohne Beachtung der Frist gemäß Absatz 1 nach Ablauf eines angemessenen Zeitraums seit Erscheinen möglich."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE000902360"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 9"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Schadensersatz- und Unterlassungsansprüche",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Wer den Vorschriften dieses Gesetzes zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden. Wer vorsätzlich oder fahrlässig handelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.",
+                                            {
+                                                "_": "(2) Der Anspruch auf Unterlassung kann nur geltend gemacht werden Die Stellen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur geltend machen, soweit der Anspruch eine Handlung betrifft, durch die wesentliche Belange der Letztabnehmer berührt werden.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von Gewerbetreibenden, die Bücher vertreiben,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b des Gesetzes gegen den unlauteren Wettbewerb eingetragen sind,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von einem Rechtsanwalt, der von Verlegern, Importeuren oder Unternehmen, die Verkäufe an Letztabnehmer tätigen, gemeinsam als Treuhänder damit beauftragt worden ist, ihre Preisbindung zu betreuen (Preisbindungstreuhänder),",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "von Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Für das Verfahren gelten bei den Anspruchsberechtigten nach Absatz 2 Nr. 1 bis 3 die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb und bei Einrichtungen nach Absatz 2 Nr. 4 die Vorschriften des Unterlassungsklagegesetzes."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20231019213536",
+                    "doknr": "BJNR344810002BJNE001000000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BuchPrG"
+                        ],
+                        "enbez": [
+                            "§ 10"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Bucheinsicht",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Sofern der begründete Verdacht vorliegt, dass ein Unternehmen gegen § 3 verstoßen hat, kann ein Gewerbetreibender, der ebenfalls Bücher vertreibt, verlangen, dass dieses Unternehmen einem von Berufs wegen zur Verschwiegenheit verpflichteten Angehörigen der wirtschafts- oder steuerberatenden Berufe Einblick in seine Bücher und Geschäftsunterlagen gewährt. Der Bericht des Buchprüfers darf sich ausschließlich auf die ihm bekannt gewordenen Verstöße gegen die Vorschriften dieses Gesetzes beziehen.",
+                                            "(2) Liegt eine Zuwiderhandlung vor, kann der Gewerbetreibende von dem zuwiderhandelnden Unternehmen die Erstattung der notwendigen Kosten der Buchprüfung verlangen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

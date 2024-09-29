@@ -1,0 +1,164 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20180413214507",
+            "doknr": "BJNR208670978"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20180413214507",
+                    "doknr": "BJNR208670978"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OstSFischZProkBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1978-06-02",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1978, 867"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 13.6.1978 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20180413214507",
+                    "doknr": "BJNR208670978BJNE000100304"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OstSFischZProkBek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Proklamation der Bundesrepublik Deutschland vom 18. Mai 1978 über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee wird hiermit bekanntgemacht."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20180413214507",
+                    "doknr": "BJNR208670978BJNE000200304"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "OstSFischZProkBek"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Der Bundesminister des Auswärtigen"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

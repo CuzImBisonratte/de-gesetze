@@ -1,0 +1,151 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20121231215908",
+            "doknr": "BJNR005000011"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20121231215908",
+                    "doknr": "BJNR005000011"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FrHfHbgAufhG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2011-01-24",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2011, 50"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zur Aufhebung des Freihafens Hamburg"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2013 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20121231215908",
+                    "doknr": "BJNR005000011BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FrHfHbgAufhG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Freihafen Hamburg wird aufgehoben."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20121231215908",
+                    "doknr": "BJNR005000011BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FrHfHbgAufhG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Dieses Gesetz tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Grenzen des Freihafens Hamburg vom 22. August 1997 (BGBl. I S. 2320), die zuletzt durch die Verordnung vom 4. Dezember 2008 (BGBl. I  geändert worden ist, außer Kraft.",
+                                                "NB": [
+                                                    "S. 2746)"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

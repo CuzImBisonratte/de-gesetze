@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150033",
+            "doknr": "BJNR207770975"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150033",
+                    "doknr": "BJNR207770975"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ArtSchutzÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1973-03-03",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1975, 777"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen über den internationalen Handel mit gefährdeten Arten\nfreilebender Tiere und Pflanzen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 22.5.1975 II 773 Inkraft gem. Bek. v. 3.6.1976 II 1237 mWv 20.6.1976",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

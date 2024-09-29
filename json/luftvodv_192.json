@@ -1,0 +1,80 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240424214523",
+            "doknr": "BJNR509500999"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240424214523",
+                    "doknr": "BJNR509500999"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "LuftVODV 192"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1999-05-06",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1999, Nr 95, 8193"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "1999, 8193"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Bautzen)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Wegen nicht darstellbarer Zeichen nur mit der Überschrift aufgenommen"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

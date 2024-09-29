@@ -1,0 +1,498 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20161206221530",
+            "doknr": "BJNR271600016"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20161206221530",
+                    "doknr": "BJNR271600016"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2017"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2016-11-28",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2016, 2716"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 2.12.2016 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161206221530",
+                    "doknr": "BJNR271600016BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2017"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –, die zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, wird bekannt gemacht:",
+                                            {
+                                                "_": "Die auf Grund des vorläufigen Durchschnittsentgelts und des Beitragssatzes für das Jahr 2017 berechneten Faktoren betragen im Jahr 2017 ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "in der allgemeinen Rentenversicherung für die Umrechnung ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "colsep": "0",
+                                                                                    "frame": "none",
+                                                                                    "pgwide": "1",
+                                                                                    "rowsep": "0",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "left",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "3"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "right",
+                                                                                                    "colname": "col1",
+                                                                                                    "colwidth": "4*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "justify",
+                                                                                                    "colname": "col2",
+                                                                                                    "colwidth": "77*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "right",
+                                                                                                    "colname": "col3",
+                                                                                                    "colwidth": "24*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "a)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Entgeltpunkten in Beiträge",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "6938,2610,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Entgeltpunkten (Ost) in Beiträge",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "6198,7501,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "b)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "0,0001441283,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Beiträgen in Entgeltpunkte (Ost)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "0,0001613228,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "in der knappschaftlichen Rentenversicherung für die Umrechnung ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "colsep": "0",
+                                                                                    "frame": "none",
+                                                                                    "pgwide": "1",
+                                                                                    "rowsep": "0",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "left",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "3"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "right",
+                                                                                                    "colname": "col1",
+                                                                                                    "colwidth": "4*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "justify",
+                                                                                                    "colname": "col2",
+                                                                                                    "colwidth": "77*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "right",
+                                                                                                    "colname": "col3",
+                                                                                                    "colwidth": "24*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "a)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Entgeltpunkten in Beiträge",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "9201,5440,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Entgeltpunkten (Ost) in Beiträge",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "8220,8023,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "b)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Beiträgen in Entgeltpunkte",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "0,0001086774,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "von Beiträgen in Entgeltpunkte (Ost)",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "0,0001216426.",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161206221530",
+                    "doknr": "BJNR271600016BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VersorgAusglUmrFaktorBek 2017"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Bundesministerium für Arbeit und Soziales"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

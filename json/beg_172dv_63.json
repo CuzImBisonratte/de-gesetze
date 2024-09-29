@@ -1,0 +1,1358 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20230609213506",
+            "doknr": "BJNR468200021"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20230609213506",
+                    "doknr": "BJNR468200021"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BEG§172DV 63"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2021-10-07",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2021, 4682"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Dreiundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 26.10.2021 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230609213506",
+                    "doknr": "BJNR468200021BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BEG§172DV 63"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 172 Absatz 4 des Bundesentschädigungsgesetzes, der durch Artikel 84 Nummer 1 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit Artikel V Nummer 5 Absatz 1 des BEG-Schlussgesetzes vom 14. September 1965 (BGBl. I S. 1315) verordnet das Bundesministerium der Finanzen:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230609213506",
+                    "doknr": "BJNR468200021BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BEG§172DV 63"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Höhe der Entschädigungsaufwendungen und Lastenanteile des Bundes und der elf alten Bundesländer (Länder) im Rechnungsjahr 2020",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die nach dem Bundesentschädigungsgesetz geleisteten Entschädigungsaufwendungen (Entschädigungsausgaben nach Abzug der mit diesen Ausgaben zusammenhängenden Einnahmen) betrugen im Rechnungsjahr 2020 – jeweils gerundet –:",
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "3*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in den Ländern (außer Berlin)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "120 944 814 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  9 858 024 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "insgesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "130 802 838 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Der Lastenanteil des Bundes an den Entschädigungsaufwendungen beträgt – jeweils gerundet –:",
+                                            {
+                                                "_": "Die Lastenanteile der Länder an den Entschädigungsaufwendungen betragen – jeweils gerundet –:",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "3*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in den Ländern (außer Berlin)",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 60 472 407 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  5 914 814 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "insgesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 66 387 221 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "3*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Nordrhein‑Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 16 846 113 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 12 340 639 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Baden‑Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": " 10 435 250 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  7 519 134 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  5 912 777 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Rheinland‑Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  3 848 467 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Schleswig‑Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  2 734 241 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "im Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "924 881 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "  1 737 659 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "637 754 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "in Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 478 704 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "insgesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "64 415 619 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Der Bund erstattet den Ländern, in denen die Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil übersteigen, folgende Beträge – jeweils gerundet –:",
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "3*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Nordrhein‑Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "13 840 573 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "11 211 034 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "6 593 539 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Rheinland‑Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "35 608 447 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "8 379 320 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "insgesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "75 632 913 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Die Länder, in denen die Entschädigungsaufwendungen den auf sie entfallenden Lastenanteil nicht erreichen, führen an den Bund folgende Beträge ab – jeweils gerundet –:",
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "3"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "3*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colsep": "0",
+                                                                            "colwidth": "50*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col3",
+                                                                            "colwidth": "40*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Baden‑Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 434 683 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "3 396 653 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Schleswig‑Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 416 211 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "497 167 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 102 754 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "398 224 Euro,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3",
+                                                                                            "rowsep": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "–",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "insgesamt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "9 245 692 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(5) Die nach Absatz 3 vom Bund zu erstattenden Beträge und die nach Absatz 4 an den Bund abzuführenden Beträge werden mit den Beträgen verrechnet, die nach den vorläufigen Abrechnungen der Entschädigungsaufwendungen bereits erstattet oder abgeführt worden sind."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230609213506",
+                    "doknr": "BJNR468200021BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BEG§172DV 63"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am siebten Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230609213506",
+                    "doknr": "BJNR468200021BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BEG§172DV 63"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625153427",
+            "doknr": "BJNR223310962"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625153427",
+                    "doknr": "BJNR223310962"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SVkAbk CHE"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1962-05-04",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1962, 2331"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem\nschweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für\nFlüchtlinge"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "V v. 13.12.1962 II 2330 In Kraft gem. § 3 V v. 13.12.1962 mWv 15.5.1962",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

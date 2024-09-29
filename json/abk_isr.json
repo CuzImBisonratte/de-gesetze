@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154940",
+            "doknr": "BJNR200370953"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154940",
+                    "doknr": "BJNR200370953"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "Abk ISR"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1952-09-10",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1953, 37"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Abkommen zwischen der Bundesrepublik Deutschland und dem Staate Israel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 20.3.1953 II 35 Inkraft gem. Bek. v. 30.4.1953 II 128 mWv 27.3.1953",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

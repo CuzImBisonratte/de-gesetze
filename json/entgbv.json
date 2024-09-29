@@ -1,0 +1,925 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221231214358",
+            "doknr": "BJNR271200012"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV"
+                        ],
+                        "amtabk": [
+                            "EBV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2012-12-19",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2012, 2712"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Entgeltbescheinigungsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zur Erstellung einer Entgeltbescheinigung nach § 108 Absatz 3 Satz 1 der Gewerbeordnung"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 30 G v. 20.12.2022 I 2759"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.7.2013 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV",
+                            "EBV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 108 Absatz 3 Satz 1 der Gewerbeordnung, der durch Artikel 8 des Gesetzes vom 23. November 2011 (BGBl. I S. 2298) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012BJNE000203119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV",
+                            "EBV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inhalt der Entgeltbescheinigung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Eine Entgeltbescheinigung nach § 108 Absatz 3 Satz 1 der Gewerbeordnung hat folgende Angaben zum Arbeitgeber und zur Arbeitnehmerin oder zum Arbeitnehmer zu enthalten: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8.",
+                                                            "9.",
+                                                            "10.",
+                                                            "11."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "den Namen und die Anschrift des Arbeitgebers;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "den Namen, die Anschrift und das Geburtsdatum der Arbeitnehmerin oder des Arbeitnehmers;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Versicherungsnummer (§ 147 des Sechsten Buches Sozialgesetzbuch) der Arbeitnehmerin oder des Arbeitnehmers;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Datum des Beschäftigungsbeginns;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bei Ende der Beschäftigung in der Bescheinigung für den letzten Abrechnungszeitraum das Datum des Beschäftigungsendes;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "den bescheinigten Abrechnungszeitraum sowie die Anzahl der darin enthaltenen Steuertage und Sozialversicherungstage;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Steuerklasse, gegebenenfalls einschließlich des gewählten Faktors, die Zahl der Kinderfreibeträge und die Merkmale für den Kirchensteuerabzug sowie gegebenenfalls Steuerfreibeträge oder Steuerhinzurechnungsbeträge nach Jahr und Monat sowie die Steuer-Identifikationsnummer;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "den Beitragsgruppenschlüssel und die zuständige Einzugsstelle für den Gesamtsozialversicherungsbeitrag;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "gegebenenfalls die Angabe, dass ein Beitragszuschlag für Kinderlose nach § 55 Absatz 3 des Elften Buches Sozialgesetzbuch erhoben wird;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "gegebenenfalls die Angabe, dass es sich um ein Beschäftigungsverhältnis im Übergangsbereich nach § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch handelt;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "gegebenenfalls die Angabe, dass es sich um eine Mehrfachbeschäftigung handelt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) In der Entgeltbescheinigung sind mindestens folgende Entgeltbestandteile der Arbeitnehmerin oder des Arbeitnehmers darzustellen: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Bezeichnung und der Betrag sämtlicher Bezüge und Abzüge, außer den Beiträgen und Arbeitgeberzuschüssen zu einer freiwilligen oder privaten Kranken- und Pflegeversicherung sowie dem Arbeitgeberanteil zu einer berufsständischen Versorgungseinrichtung, einzeln nach Art aufgeführt und jeweils mit der Angabe, ob ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "sie sich auf den steuerpflichtigen Arbeitslohn, das Sozialversicherungsbruttoentgelt und das Gesamtbruttoentgelt auswirken und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "es sich dabei um laufende oder einmalige Bezüge oder Abzüge handelt;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Saldo der Bezüge und Abzüge nach Nummer 1 als ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "steuerpflichtiger Arbeitslohn, getrennt nach laufenden und sonstigen Bezügen und Abzügen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Sozialversicherungsbruttoentgelt, gegebenenfalls abweichend je Versicherungszweig und getrennt nach laufenden und einmaligen Bezügen und Abzügen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Gesamtbruttoentgelt ohne Trennung nach laufenden und einmaligen Bezügen und Abzügen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach § 40a Absatz 2 und § 40b des Einkommensteuergesetzes jeweils nach ihrer gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto alle weiteren pauschal besteuerten Bezüge;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die gesetzlichen Abzüge vom steuerpflichtigen Arbeitslohn und Sozialversicherungsbruttoentgelt, getrennt nach laufendem und einmaligem Bruttoentgelt ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "der Lohnsteuer, der Kirchensteuer und des Solidaritätszuschlages und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "der Arbeitnehmerbeiträge zur gesetzlichen Kranken-, Renten- und Pflegeversicherung, zur Seemannskasse sowie nach dem Recht der Arbeitsförderung;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Nettoentgelt als Differenz des Gesamtbruttoentgeltes nach Nummer 2 Buchstabe c und den gesetzlichen Abzügen nach Nummer 3;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Arbeitgeberzuschuss zu den Beiträgen zu einer freiwilligen oder privaten Kranken- und Pflegeversicherung sowie der Arbeitgeberanteil zu einer berufsständischen Versorgungseinrichtung und die Gesamtbeiträge für die Arbeitnehmerin oder den Arbeitnehmer, für die der Arbeitgeber die Zahlungsvorgänge für die Beiträge freiwillig übernimmt;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Bezeichnung und der Betrag weiterer Bezüge und Abzüge sowie Verrechnungen und Einbehalte, je einzeln nach Art, die sich nicht auf ein Bruttoentgelt nach Nummer 2 auswirken oder aber zum Gesamtbruttoentgelt beitragen, jedoch nicht an die Arbeitnehmerin oder den Arbeitnehmer ausgezahlt werden;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Auszahlungsbetrag als Saldo aus dem Nettoentgelt nach Nummer 4 und den Beträgen nach den Nummern 5 und 6.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(3) Bei der Ermittlung des Gesamtbruttoentgeltes nach Absatz 2 Nummer 2 Buchstabe c wirken sich folgende Werte wie folgt aus: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "erhöhend die Werte für ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "die Entgeltaufstockung nach dem Altersteilzeitgesetz,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Nebenbezüge (geldwerte Vorteile, Sachbezüge, steuerpflichtige Bestandteile von sonstigen Personalnebenkosten, zum Beispiel Reisekosten, Umzugskosten, Trennungsgelder) sowie",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Arbeitgeberzuschüsse zu Entgeltersatzleistungen und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "mindernd die Werte für ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Arbeitgeberleistungen, die von der Arbeitnehmerin oder dem Arbeitnehmer übernommen wurden, beispielsweise die abgewälzte pauschale Lohnsteuer, sowie",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "die Einstellung in ein Wertguthaben auf Veranlassung der Arbeitnehmerin oder des Arbeitnehmers und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "weder erhöhend noch mindernd die Werte für ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Entgeltumwandlungen im Sinne des § 1 Absatz 2 Nummer 3 des Betriebsrentengesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Beiträge der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer zur Zukunftssicherung, im öffentlichen Dienst auch Umlagen und Sanierungsgelder.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(4) Die Entgeltbescheinigung ist als Bescheinigung nach § 108 Absatz 3 Satz 1 der Gewerbeordnung zu kennzeichnen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012BJNE000301119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV",
+                            "EBV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Verfahren",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Arbeitnehmerinnen und Arbeitnehmer erhalten eine Entgeltbescheinigung nach § 1 in Textform für jeden Abrechnungszeitraum mit der Abrechnung des Entgeltes. Die Verpflichtung entfällt, wenn sich gegenüber dem letzten Abrechnungszeitraum keine Änderungen ergeben oder sich nur der Abrechnungszeitraum selbst (§ 1 Absatz 1 Nummer 6) ändert. Enthält eine Entgeltbescheinigung gegenüber der letzten Bescheinigung inhaltliche Änderungen, ist gegebenenfalls der Hinweis aufzunehmen, für welche Entgeltabrechnungszeiträume keine Bescheinigung ausgestellt wurde, da keine Veränderungen vorlagen, sodass ein durchgehender Nachweis möglich ist.",
+                                            "(1a) Die Angaben nach § 1 Absatz 2 Nummer 2 Buchstabe d und Absatz 3 können jeweils für die einzelne Angabe als Anlage der Bescheinigung nach Absatz 1 angefügt werden.",
+                                            "(2) Die Arbeitnehmerin oder der Arbeitnehmer können das Kirchensteuermerkmal in der Entgeltbescheinigung schwärzen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV",
+                            "EBV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am 1. Juli 2013 in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221231214358",
+                    "doknr": "BJNR271200012BJNE000500000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EntgBV",
+                            "EBV"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

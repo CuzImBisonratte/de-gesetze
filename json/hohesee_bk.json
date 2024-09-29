@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625153108",
+            "doknr": "BJNR210910972"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625153108",
+                    "doknr": "BJNR210910972"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HoheSeeÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1958-04-29",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1972, 1091"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen über die Hohe See"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 21.9.1972 II 1089 Inkraft gem. Bek. v. 15.5.1975 II 843 mWv 25.8.1973",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

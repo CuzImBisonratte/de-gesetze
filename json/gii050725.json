@@ -1,0 +1,81 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150548",
+            "doknr": "BJNR072520005"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150548",
+                    "doknr": "BJNR072520005"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GII050725"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2005-08-03",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "2005, 725"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zu dem Vertrag vom 17. Oktober 2003 zwischen der\nBundesrepublik Deutschland und der Republik Guatemala über die\nFörderung und den gegenseitigen Schutz von Kapitalanlagen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "Vertrag in Kraft gem. Bek. v. 28.11.2006 II 1348 mWv 29.10.2006",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

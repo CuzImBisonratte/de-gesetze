@@ -1,0 +1,209 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240830214002",
+            "doknr": "BJNR10F0A0024"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240830214002",
+                    "doknr": "BJNR10F0A0024"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BTWahl2025AnO"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2024-08-23",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl. I"
+                                ],
+                                "zitstelle": [
+                                    "2024, Nr. 271"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Anordnung über die Bundestagswahl 2025"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 28.8.2024 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240830214002",
+                    "doknr": "BJNR10F0A0024BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BTWahl2025AnO"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 16 des Bundeswahlgesetzes in der Fassung der Bekanntmachung vom 23. Juli 1993 (BGBl. I S. 1288, 1594) ordne ich an:",
+                                            {
+                                                "_": "Die Wahl zum 21. Deutschen Bundestag findet am statt.",
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "0",
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "rowsep": "0",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "1"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "170*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "28. September 2025",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240830214002",
+                    "doknr": "BJNR10F0A0024BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BTWahl2025AnO"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "SP": [
+                                                    "Der Bundespräsident",
+                                                    "Der Bundeskanzler",
+                                                    "Die Bundesministerin des Innern und für Heimat"
+                                                ],
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

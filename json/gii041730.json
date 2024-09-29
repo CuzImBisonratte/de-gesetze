@@ -1,0 +1,58 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625145806",
+            "doknr": "BJNR173020004"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625145806",
+                    "doknr": "BJNR173020004"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GII041730"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2004-12-21",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "2004, 1730"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zu dem Abkommen vom 18. November 2002 zur Gründung einer\nAssoziation zwischen der Europäischen Gemeinschaft und ihren Mitgliedern\neinerseits und der Republik Chile andererseits"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

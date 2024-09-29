@@ -1,0 +1,989 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221020213518",
+            "doknr": "BJNR021200000"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2000-03-17",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2000, 212"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz zur Errichtung einer \"Stiftung Denkmal für die ermordeten Juden Europas\""
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 75 G v. 29.3.2017 I 626"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 5.4.2000 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000100310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Errichtung und Rechtsform",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Unter dem Namen \"Stiftung Denkmal für die ermordeten Juden Europas\" wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts mit Sitz in Berlin errichtet. Die Stiftung entsteht mit Inkrafttreten dieses Gesetzes."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000201310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Stiftungszweck",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Zweck der Stiftung ist die Erinnerung an den nationalsozialistischen Völkermord an den Juden Europas. Die Stiftung trägt dazu bei, die Erinnerung an alle Opfer des Nationalsozialismus und ihre Würdigung in geeigneter Weise sicherzustellen.",
+                                            {
+                                                "_": "(2) Die Stiftung verwirklicht ihren Zweck insbesondere, indem sie ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Denkmal für die ermordeten Juden Europas (Stelenfeld und Ort der Information) unterhält und betreibt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "eine ständige Ausstellung im Ort der Information unterhält,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "wechselnde Sonderausstellungen, Vortrags- und Seminarveranstaltungen durchführt und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im notwendigen Umfang begleitende Publikationen erstellt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Die Stiftung betreut auch das Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma und das Denkmal für die im Nationalsozialismus verfolgten Homosexuellen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000300310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Stiftungsvermögen, Gemeinnützigkeit",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der Bundesrepublik Deutschland für die unselbständige Stiftung Denkmal für die ermordeten Juden Europas\" bereit gestellten und erworbenen beweglichen und unbeweglichen Vermögensgegenstände in das Eigentum der Stiftung über.",
+                                            "(2) Zur Erfüllung ihrer Aufgaben erhält die Stiftung einen jährlichen Zuschuss des Bundes nach Maßgabe des jeweiligen Bundeshaushalts.",
+                                            "(3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.",
+                                            "(4) Mittel der Stiftung sind nur im Sinne des Stiftungszwecks zu verwenden.",
+                                            "(5) Die Stiftung verfolgt unmittelbar und ausschließlich gemeinnützige Zwecke im Sinne des Abschnitts \"Steuerbegünstigte Zwecke\" der Abgabenordnung. Es darf keine Person durch Ausgaben, die dem Zweck der Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000401310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Organe der Stiftung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Organe der Stiftung sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Kuratorium,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Direktor oder die Direktorin und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Beirat.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000502116"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Kuratorium",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) In das Kuratorium entsenden: Die Mitglieder können ihre Stimme auf ein anderes Mitglied des Kuratoriums übertragen oder sich durch schriftliche oder elektronische Einzelvollmacht vertreten lassen, wenn sie aus wichtigen Gründen an der Sitzungsteilnahme gehindert sind.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6.",
+                                                            "7.",
+                                                            "8.",
+                                                            "9."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Deutsche Bundestag",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den Präsidenten oder die Präsidentin des Deutschen Bundestages und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "aus den im Deutschen Bundestag vertretenen Fraktionen pro angefangene 100 Mitglieder je ein Mitglied,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Bundesregierung zwei Mitglieder,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Senat des Landes Berlin zwei Mitglieder,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Förderkreis zur Errichtung eines Denkmals für die ermordeten Juden Europas e. V. drei Mitglieder,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Zentralrat der Juden in Deutschland zwei Mitglieder,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Jüdische Gemeinde Berlin ein Mitglied,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das jüdische Museum Berlin ein Mitglied,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Stiftung Topographie des Terrors ein Mitglied,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Arbeitsgemeinschaft der KZ-Gedenkstätten in Deutschland ein Mitglied.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören, insbesondere Das Kuratorium überwacht die Tätigkeit des Direktors oder der Direktorin.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Bestellung des Direktors oder der Direktorin,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "den vom Direktor oder von der Direktorin aufzustellenden Haushaltsplan,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Bestellung der Mitglieder des Beirats.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Den Vorsitz führt der Präsident/die Präsidentin des Deutschen Bundestages oder sein Stellvertreter/seine Stellvertreterin. Der Stellvertreter/die Stellvertreterin wird vom Kuratorium aus seiner Mitte bestellt.",
+                                            "(4) Die Sitzungen werden im Auftrag des/der Vorsitzenden des Kuratoriums durch den Direktor oder die Direktorin einberufen. Das Kuratorium ist beschlussfähig, wenn mehr als die Hälfte seiner Mitglieder anwesend oder vertreten ist. Das Kuratorium trifft seine Entscheidungen mit einfacher Mehrheit. Bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag.",
+                                            "(5) Die entsendenden Institutionen können die von ihnen entsandten Mitglieder abberufen und durch neue Mitglieder ersetzen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000601310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Direktor oder Direktorin",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Der Direktor oder die Direktorin wird vom Kuratorium für fünf Jahre bestellt. Die wiederholte Bestellung ist zulässig. Erster Direktor wird am 11. Juli 2009 der bisherige Geschäftsführer der Stiftung Denkmal für die ermordeten Juden Europas.",
+                                            "(2) Der Direktor oder die Direktorin führt die Beschlüsse des Kuratoriums aus und führt die Geschäfte der Stiftung."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000701310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beirat",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Der Beirat besteht aus mindestens zwölf Mitgliedern. Sie werden vom Kuratorium für vier Jahre bestellt. Wiederholte Bestellung ist zulässig.",
+                                            "(2) Der Beirat berät das Kuratorium und den Direktor oder die Direktorin."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000801310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 8"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ehrenamtliche Tätigkeit",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Mitglieder des Kuratoriums und des Beirats sind ehrenamtlich tätig. Sie erhalten Reisekostenentschädigung nach dem Bundesreisekostengesetz."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE000900310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 9"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Beschäftigte",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf die Arbeitnehmer der Stiftung sind die für Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE001000310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 10"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Haushalt, Rechnungsprüfung, Rechtsaufsicht",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung gelten die Bestimmungen für die Bundesverwaltung. Die Haushalts- und Wirtschaftsführung der Stiftung unterliegt der Prüfung durch den Bundesrechnungshof.",
+                                            "(2) Die Stiftung untersteht der Rechtsaufsicht der zuständigen obersten Bundesbehörde."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE001100310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 11"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Satzung",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von drei Vierteln seiner Mitglieder beschlossen wird. Das Gleiche gilt für Änderungen der Satzung."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20221020213518",
+                    "doknr": "BJNR021200000BJNE001201310"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "JudDenkmStiftG"
+                        ],
+                        "enbez": [
+                            "§ 12"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Dienstsiegel",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Stiftung führt ein Dienstsiegel mit einer besonderen Form des Bundesadlers und der Umschrift „Stiftung Denkmal für die ermordeten Juden Europas“."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20171129221514",
+            "doknr": "BJNR362500017"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20171129221514",
+                    "doknr": "BJNR362500017"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GlPrZRheinbachV 2017"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2017-10-26",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2017, 3625"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung zur Gleichstellung von Prüfungszeugnissen des Staatlichen Berufskollegs Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in Rheinbach mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Aufh"
+                                ],
+                                "standkommentar": [
+                                    "Die V tritt gem. § 2 dieser V am 1.10.2026 außer Kraft"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 9.11.2017 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20171129221514",
+                    "doknr": "BJNR362500017BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GlPrZRheinbachV 2017"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und auf Grund des § 40 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20171129221514",
+                    "doknr": "BJNR362500017BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GlPrZRheinbachV 2017"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Gleichstellung von Prüfungszeugnissen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die vom 1. Oktober 2016 bis zum 30. September 2026 vom Staatlichen Berufskolleg Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in Rheinbach erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt: ",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "colsep": "1",
+                                                            "frame": "all",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "30*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bezeichnung des Prüfungszeugnisses des Staatlichen Berufskollegs Glas-Keramik-Gestaltung des LandesNordrhein-Westfalen in Rheinbach",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col1",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Ausbildungsberuf, für den gleichgestellt wird",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "valign": "middle"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abschlussprüfung als Glaser/Glaserin Fachrichtung Verglasung und Glasbau",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Glaser/Glaserin im Gewerbe der Anlage A Nummer 39 der Handwerksordnung „Glaser“ Fachrichtung Verglasung und Glasbau",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abschlussprüfung als Glasveredler/Glasveredlerin Fachrichtungen: ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ],
+                                                                                        "DL": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal",
+                                                                                                    "Type": "Dash"
+                                                                                                },
+                                                                                                "DT": [
+                                                                                                    "–",
+                                                                                                    "–",
+                                                                                                    "–"
+                                                                                                ],
+                                                                                                "DD": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Kanten- und Flächenveredelung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Schliff und Gravur",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Glasmalerei und Kunstverglasung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Glasveredler/Glasveredlerin Fachrichtungen: und Glasveredler/Glasveredlerin im Gewerbe der Anlage B Abschnitt 1 Nummer 34 der Handwerksordnung „Glasveredler“ Fachrichtungen: ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        },
+                                                                                        "BR": [
+                                                                                            "",
+                                                                                            "",
+                                                                                            ""
+                                                                                        ],
+                                                                                        "DL": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal",
+                                                                                                    "Type": "Dash"
+                                                                                                },
+                                                                                                "DT": [
+                                                                                                    "–",
+                                                                                                    "–",
+                                                                                                    "–"
+                                                                                                ],
+                                                                                                "DD": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Kanten- und Flächenveredelung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Schliff und Gravur",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Glasmalerei und Kunstverglasung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal",
+                                                                                                    "Type": "Dash"
+                                                                                                },
+                                                                                                "DT": [
+                                                                                                    "–",
+                                                                                                    "–",
+                                                                                                    "–"
+                                                                                                ],
+                                                                                                "DD": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Kanten- und Flächenveredelung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Schliff und Gravur",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "Glasmalerei und Kunstverglasung",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20171129221514",
+                    "doknr": "BJNR362500017BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GlPrZRheinbachV 2017"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. Oktober 2026 außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20171129221514",
+                    "doknr": "BJNR362500017BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GlPrZRheinbachV 2017"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

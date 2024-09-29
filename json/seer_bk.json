@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154103",
+            "doknr": "BJNR179920994"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154103",
+                    "doknr": "BJNR179920994"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SeeRÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1982-12-10",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1994, 1799"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Seerechtsübereinkommen der Vereinten Nationen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 2.9.1994 II 1798 In Kraft gem. Bek. v. 15.5.1995 II 602 mWv 16.11.1994",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

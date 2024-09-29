@@ -1,0 +1,121 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625152411",
+            "doknr": "BJNR030390993"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625152411",
+                    "doknr": "BJNR030390993"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BKOrgErl 1993"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1993-01-22",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1993, 303"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Organisationserlaß des Bundeskanzlers"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Bek. v. 26.1.1993 I 303  (+++ Textnachweis ab: 22. 1.1993 +++)",
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625152411",
+                    "doknr": "BJNR030390993BJNE000100333"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BKOrgErl 1993"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 22. Januar 1993 bekannt, der mit sofortiger Wirkung in Kraft tritt: Das Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ) wird umbenannt in Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20240718215540",
+            "doknr": "BJNR081600021"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20240718215540",
+                    "doknr": "BJNR081600021"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PostG-ÜbertrV"
+                        ],
+                        "amtabk": [
+                            "PostG-ÜbertrV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2021-04-16",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2021, 816"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "PostG-Übertragungsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 18a des Postgesetzes"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Geändert durch Art. 34 G v. 15.7.2024 I Nr. 236"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 23.4.2021 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240718215540",
+                    "doknr": "BJNR081600021BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PostG-ÜbertrV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 18a Absatz 8 Satz 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), der durch Artikel 1 des Gesetzes vom 9. März 2021 (BGBl. I S. 324) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240718215540",
+                    "doknr": "BJNR081600021BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PostG-ÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übertragung der Verordnungsermächtigung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Ermächtigung des § 18a Absatz 8 Satz 1 des Postgesetzes zum Erlass von Rechtsverordnungen wird auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240718215540",
+                    "doknr": "BJNR081600021BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PostG-ÜbertrV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

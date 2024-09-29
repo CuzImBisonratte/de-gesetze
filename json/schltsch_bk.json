@@ -1,0 +1,58 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154202",
+            "doknr": "BJNR207710983"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154202",
+                    "doknr": "BJNR207710983"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SchlTSchÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1979-05-10",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1983, 771"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Europäisches Übereinkommen über den Schutz von Schlachttieren"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

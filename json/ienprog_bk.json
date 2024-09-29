@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150924",
+            "doknr": "BJNR207020975"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150924",
+                    "doknr": "BJNR207020975"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "IEnProgÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1974-11-18",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1975, 702"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen über ein Internationales Energieprogramm"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 30.4.1975 II 701 Inkraft gem. Bek. v. 5.2.1976 II 333 mWv 19.1.1976",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

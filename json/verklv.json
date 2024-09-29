@@ -1,0 +1,699 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154611",
+            "doknr": "BJNR100500007"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154611",
+                    "doknr": "BJNR100500007"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VerklV"
+                        ],
+                        "amtabk": [
+                            "VerklV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2007-05-28",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2007, 1005"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Verklarungsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung über die Bestimmung der zur Aufnahme von Verklarungen\nberechtigten Auslandsvertretungen der Bundesrepublik Deutschland"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 13.6.2007 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625154611",
+                    "doknr": "BJNR100500007BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VerklV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 522 Abs. 2 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, der durch Artikel 1 Nr. 12 des Gesetzes vom 21. Juni 1972 (BGBl. I S. 966) neu gefasst und durch Artikel 91 Nr. 5 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Auswärtige Amt:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625154611",
+                    "doknr": "BJNR100500007BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VerklV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Außerhalb des Geltungsbereichs des Grundgesetzes werden Verklarungen durch folgende Auslandsvertretungen aufgenommen: ",
+                                                "BR": [
+                                                    "",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "33.33*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "66.67*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Botschaften der Bundesrepublik Deutschland in",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Addis Abeba",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Lima",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Algier",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Lissabon",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Athen",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "London",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bangkok",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Montevideo",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Beirut",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Moskau",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bogotá",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Oslo",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Brüssel",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Paris",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Buenos Aires",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Rom",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bukarest",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Santiago de Chile",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Canberra",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Singapur",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Caracas",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Stockholm",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Den Haag",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Teheran",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Dublin",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Tel Aviv",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Helsinki",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Tokyo",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Kairo",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Washington",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Kopenhagen",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Zagreb",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "33.33*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "66.67*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Generalkonsulate der Bundesrepublik Deutschland in",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Barcelona",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Mumbai",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Chicago",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "New York",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hongkong",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Rio de Janeiro",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Istanbul",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "São Paulo",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Karachi",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "St. Petersburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Los Angeles",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Toronto.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625154611",
+                    "doknr": "BJNR100500007BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VerklV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

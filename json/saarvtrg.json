@@ -1,0 +1,58 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625155607",
+            "doknr": "BJNR215870956"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625155607",
+                    "doknr": "BJNR215870956"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SaarVtrG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1956-12-22",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1956, 1587"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz über den Vertrag zwischen der Bundesrepublik Deutschland und der\nFranzösischen Republik zur Regelung der Saarfrage"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

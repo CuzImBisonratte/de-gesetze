@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625155201",
+            "doknr": "BJNR211700965"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625155201",
+                    "doknr": "BJNR211700965"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SozSichAbk TUR"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1964-04-30",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1965, 1170"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Türkei\nüber Soziale Sicherheit"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 13.9.1965 II 1169 Inkraft gem. Bek. v. 3.11.1965 II 1588 mWv 1.11.1965",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

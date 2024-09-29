@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625154510",
+            "doknr": "BJNR205790983"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625154510",
+                    "doknr": "BJNR205790983"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ArblVAbk CHE"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1982-10-20",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1983, 579"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen\nEidgenossenschaft über Arbeitslosenversicherung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 13.9.1983 II 578 In Kraft gem. Bek. v. 30.11.1983 II 796 mWv 1.1.1984",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20161114222001",
+            "doknr": "BJNR000180961"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1961-01-11",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1961, 18"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 5 G v. 21.7.2016 I 1768"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis Geltung ab: 21.3.1980 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000100312"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Im Geltungsbereich dieses Gesetzes werden bei privaten Haushalten folgende repräsentative Erhebungen über Wirtschaftsrechnungen als Bundesstatistik durchgeführt: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "monatliche Erhebungen bei Haushalten von Arbeitnehmern, Pensions-, Fürsorge- und Rentenempfängern;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Erhebungen, die sich jeweils auf ein Jahr beziehen, bei Haushalten aller Bevölkerungskreise. Diese Erhebungen sind, beginnend im Jahre 1983, in fünfjährigem Abstand zu wiederholen; die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den fünfjährigen Abstand um ein Jahr zu verkürzen oder zu verlängern, falls dies zur Verbesserung des Erkenntniswerts der Statistik oder zur rationellen Gestaltung des Arbeitsablaufs erforderlich ist.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000201123"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Die Erhebungen nach § 1 erfassen folgende Tatbestände: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Einnahmen der Haushalte nach Quellen;",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Verwendung der Einnahmen für",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)",
+                                                                                    "f)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den privaten Verbrauch (nach Art, Menge und Betrag),",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Steuern und Abgaben,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Beiträge zur Sozialversicherung und zu privaten Versicherungen, soweit sie nicht unter Buchstabe e fallen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Rückzahlung von Schulden,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Vermögensbildung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "sonstige Zwecke.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Außer den in Absatz 1 bezeichneten Tatbeständen erfassen die Erhebungen Angaben über die Zusammensetzung der Haushalte und ihre wirtschaftlichen und sozialen Verhältnisse sowie über die Ausrüstung der Haushalte mit technischen Gebrauchsgütern, soweit diese Angaben für die statistische Zuordnung der Haushalte und für die Darstellung der Ergebnisse erforderlich sind.",
+                                            {
+                                                "_": "(3) Hilfsmerkmale der Erhebung sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Name und Kontaktdaten der Auskunftgebenden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Vornamen der Haushaltsmitglieder.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000301118"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 2 000*) Haushalte in jedem Monat.",
+                                            {
+                                                "_": "(2) Die Erhebungen nach § 1 Nr. 2 erstrecken sich auf höchstens 0,3 vom Hundert aller Haushalte.----- ",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            {
+                                                                "small": [
+                                                                    "*)"
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "small": [
+                                                                            "Gemäß Art. 2 der Statistikanpassungsverordnung vom 26. März 1991 (BGBl. I S. 846) gilt abweichend von § 3 Abs. 1:"
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "small": [
+                                                                            "\"(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6 000 Haushalte, ab 1. Januar 1993 auf 2 000 Haushalte in jedem Monat.\""
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000400312"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Erteilung der Auskunft durch die Haushalte zu den Erhebungen nach § 1 ist freiwillig."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000500312"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Aufbereitung der Erhebungen nach § 1 Nr. 2 obliegt dem Statistischen Bundesamt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000600312"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20161114222001",
+                    "doknr": "BJNR000180961BJNE000700312"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PrHaushStatG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

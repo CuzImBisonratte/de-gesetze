@@ -1,0 +1,69 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625152321",
+            "doknr": "BJNR212940969"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625152321",
+                    "doknr": "BJNR212940969"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "FlüAbkProt"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1967-01-31",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1969, 1294"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Protokoll über die Rechtsstellung der Flüchtlinge"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In Kraft für die Bundesrepublik Deutschland am 5.11.1969 gem. Bek. v. 14.4.1970 II 194"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

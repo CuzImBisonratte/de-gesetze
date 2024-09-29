@@ -1,0 +1,522 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20230705213507",
+            "doknr": "BJNR636410021"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20230705213507",
+                    "doknr": "BJNR636410021"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "TVMindestbedingungen FlWi 2"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2021-12-21",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "AT 30.12.2021 V1"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Rechtsnormen des Bundeseinheitlichen Tarifvertrags zur Regelung der Mindestbedingungen für Arbeitnehmer in der Fleischwirtschaft der Bundesrepublik Deutschland (TV Mindestbedingungen) vom 27. Mai 2021"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Aufh"
+                                ],
+                                "standkommentar": [
+                                    "Die zugehörige V v. 21.12.2021 BAnz AT 30.12.2021 V1 (FleischWArbbV 2) tritt gem. § 2 dieser V mit Ablauf des 30.11.2024 außer Kraft"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2022 +++)(+++ Text der Verordnung siehe: FleischWArbbV 2 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230705213507",
+                    "doknr": "BJNR636410021BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "TVMindestbedingungen FlWi 2"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Geltungsbereich",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Räumlicher Geltungsbereich:",
+                                                                    "für das Gebiet der Bundesrepublik Deutschland."
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Betrieblicher Geltungsbereich: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Alle Betriebe und selbstständige Betriebsabteilungen der Fleischwirtschaft.",
+                                                                                            {
+                                                                                                "_": "Dies sind Betriebe, in denen ",
+                                                                                                "DL": [
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Type": "Dash"
+                                                                                                        },
+                                                                                                        "DT": [
+                                                                                                            "–",
+                                                                                                            "–",
+                                                                                                            "–"
+                                                                                                        ],
+                                                                                                        "DD": [
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "Font": "normal"
+                                                                                                                },
+                                                                                                                "LA": [
+                                                                                                                    "Schweine und Rinder geschlachtet und/oder zerlegt werden,"
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "Font": "normal"
+                                                                                                                },
+                                                                                                                "LA": [
+                                                                                                                    "Geflügel jeder Art geschlachtet und/oder zerlegt wird,"
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "Font": "normal"
+                                                                                                                },
+                                                                                                                "LA": [
+                                                                                                                    "überwiegend Fleisch und Fleischwaren jeder Art verarbeitet, portioniert und/oder verpackt werden."
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            "Hierzu zählen auch Betriebe und selbstständige Betriebsabteilungen, die ihre Arbeitnehmer in Betrieben oder Betriebsabteilungen der Fleischwirtschaft einsetzen (Dienstleister der Fleischwirtschaft). Soweit diese Betriebe in den Geltungsbereich eines nach den §§ 7, 7a des Arbeitnehmer-Entsendegesetzes erstreckten Tarifvertrags fallen, hat jener Tarifvertrag Vorrang."
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Nicht erfasst werden Betriebsstätten, die zum Fleischerhandwerk gemäß der Definition des § 2 Absatz 2 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft gehören."
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "Persönlicher Geltungsbereich",
+                                                                    "Alle Arbeitnehmerinnen und Arbeitnehmer, insbesondere solche, die eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung – versicherungspflichtige Tätigkeit ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – eine geringfügige Beschäftigung ausüben.",
+                                                                    "Dies sind auch Arbeitnehmer von Dienstleistern der Fleischwirtschaft, soweit sie in Betrieben oder selbstständigen Betriebsabteilungen der Fleischwirtschaft eingesetzt werden.",
+                                                                    {
+                                                                        "_": "Ausgenommen sind: ",
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Auszubildende im Sinne des Berufsbildungsgesetzes,"
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            "Praktikanten gemäß § 22 Absatz 1 Satz 2 des Mindestlohngesetzes."
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230705213507",
+                    "doknr": "BJNR636410021BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "TVMindestbedingungen FlWi 2"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Mindestlöhne",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Mindestlohn gemäß diesem Tarifvertrag ist Entgelt im Sinne des § 5 Absatz 1 Nummer 1 des Arbeitnehmer-Entsendegesetzes. Höhere Entgeltansprüche aufgrund anderer Tarifverträge, betrieblicher oder einzelvertraglicher Vereinbarungen bleiben unberührt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Die Mindestlöhne je Stunde betragen ab dem Zeitpunkt der Allgemeinverbindlichkeitserklärung dieses Tarifvertrags durch das Bundesministerium für Arbeit und Soziales bundeseinheitlich 10,80 Euro, ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "frame": "none",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "left",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "2"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "colname": "col1",
+                                                                                                    "colwidth": "40*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "colname": "col2",
+                                                                                                    "colwidth": "120*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "ab dem 1. Januar 2022:",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "11 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "ab dem 1. Dezember 2022:",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "11,50 Euro,",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2",
+                                                                                                                    "rowsep": "0"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "ab dem 1. Dezember 2023:",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "colsep": "0"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "12,30 Euro.",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Der Anspruch auf das Mindestentgelt wird spätestens zum 15. des Monats fällig, der auf den Monat folgt, für den das Mindestentgelt zu zahlen ist.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20230705213507",
+                    "doknr": "BJNR636410021BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "TVMindestbedingungen FlWi 2"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ausschlussfristen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für alle Ansprüche aus diesem Tarifvertrag gilt eine Ausschlussfrist von sechs Monaten ab Fälligkeit des Anspruchs."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

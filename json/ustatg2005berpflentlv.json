@@ -1,0 +1,114 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130916220008",
+            "doknr": "BJNR323110013"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130916220008",
+                    "doknr": "BJNR323110013"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UStatG2005BerPflEntlV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2013-08-14",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2013, 3231"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Verordnung zur Entlastung der nichtöffentlichen Betriebe, die Wasser gewinnen sowie Wasser oder Abwasser in Gewässer einleiten, von Berichtspflichten nach dem Umweltstatistikgesetz"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": " Die Verordnung wurde als Artikel 1 der Verordnung vom 14.8.2013 I 3231 von der Bundesregierung nach Anhörung der beteiligten Kreise mit Zustimmung des Bundesrates beschlossen. Sie ist gem. Art. 3 dieser Verordnung am 1.1.2013 in Kraft getreten.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2013 +++) ",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130916220008",
+                    "doknr": "BJNR323110013BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UStatG2005BerPflEntlV"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "In die Erhebung nach § 8 des Umweltstatistikgesetzes werden nichtöffentliche Betriebe, die Wasser gewinnen, sowie nichtöffentliche Betriebe, die Wasser oder Abwasser in Gewässer einleiten, nur einbezogen, soweit die gewonnene oder eingeleitete Wasser- oder Abwassermenge jeweils mindestens 2 000 Kubikmeter pro Jahr beträgt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

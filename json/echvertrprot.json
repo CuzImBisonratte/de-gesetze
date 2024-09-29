@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150700",
+            "doknr": "BJNR010220997"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150700",
+                    "doknr": "BJNR010220997"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ECHVertrProt"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1994-12-17",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1997, 102"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Energiechartaprotokoll über Energieeffizienz\nund damit verbundene Umweltaspekte"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 20.12.1996 II 1997, 4 In Kraft gem. Bek. v. 25.11.1998 II 3009 mWv 16.4.1998",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20221020213545",
+            "doknr": "BJNR201140979"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20221020213545",
+                    "doknr": "BJNR201140979"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SatellitÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1974-05-21",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1979, 114"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen über die Verbreitung der durch Satelliten übertragenen\nprogrammtragenden Signale"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 14.2.1979 II 113 Inkraft gem. Bek. v. 5.7.1979 II 816 mWv 25.8.1979",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

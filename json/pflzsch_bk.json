@@ -1,0 +1,58 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625155410",
+            "doknr": "BJNR204290968"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625155410",
+                    "doknr": "BJNR204290968"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "PflZSchÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1961-12-02",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1968, 429"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

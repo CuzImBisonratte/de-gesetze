@@ -1,0 +1,252 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20220801213009",
+            "doknr": "BJNR620900022"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20220801213009",
+                    "doknr": "BJNR620900022"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GasSpFüllstV"
+                        ],
+                        "amtabk": [
+                            "GasSpFüllstV"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2022-07-27",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "AT 28.07.2022 V1"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Gasspeicherfüllstandsverordnung"
+                        ],
+                        "langue": [
+                            "Verordnung zur Anpassung von Füllstandsvorgaben für Gasspeicheranlagen"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Aufh"
+                                ],
+                                "standkommentar": [
+                                    "Die V tritt gem. § 2 Satz 2 dieser V mit Ablauf des 31.3.2025 außer Kraft"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 29.7.2022 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220801213009",
+                    "doknr": "BJNR620900022BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GasSpFüllstV"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 35b Absatz 3 des Energiewirtschaftsgesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom 26. April 2022 (BGBl. I S. 674) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220801213009",
+                    "doknr": "BJNR620900022BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GasSpFüllstV"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Füllstandsvorgaben, Stichtage",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Abweichend von § 35b Absatz 1 Satz 2 Nummer 1 und 2 des Energiewirtschaftsgesetzes sind in jeder Gasspeicheranlage die nachfolgend angegebenen Füllstände als prozentualer Anteil am Arbeitsgasvolumen der Gasspeicheranlagen zu den genannten Stichtagen vorzuhalten (Füllstandsvorgaben): ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "am 1. Oktober: 85 Prozent,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "am 1. November: 95 Prozent."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Um die Einhaltung der Füllstandsvorgaben des Absatzes 1 zu gewährleisten, hat der Betreiber einer Gasspeicheranlage abweichend von § 35b Absatz 2 des Energiewirtschaftsgesetzes sowohl am 1. August als auch am 1. September eines Kalenderjahres jeweils zu diesen Stichtagen einen Füllstand nachzuweisen, der die Erreichung der Füllstandsvorgaben des Absatzes 1 nicht gefährdet. Wenn zum 1. September die jeweilige Gasspeicheranlage einen Füllstand von mindestens 75 Prozent aufweist, wird vermutet, dass die Erreichung der Füllstandsvorgaben des  in dieser Gasspeicheranlage nicht gefährdet ist.",
+                                                "NB": [
+                                                    "Absatzes 1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20220801213009",
+                    "doknr": "BJNR620900022BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GasSpFüllstV"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt mit Ablauf des 31. März 2025 außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

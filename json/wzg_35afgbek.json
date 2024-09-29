@@ -1,0 +1,69 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625153032",
+            "doknr": "BJNR108400967"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625153032",
+                    "doknr": "BJNR108400967"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "WZG§35AFGBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1967-07-21",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1967, 840"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung zu § 35 des Warenzeichengesetzes"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab:  5. 8.1967 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

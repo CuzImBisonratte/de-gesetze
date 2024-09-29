@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150716",
+            "doknr": "BJNR208150980"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150716",
+                    "doknr": "BJNR208150980"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "UrkBefrAbk BEL"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1975-05-13",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1980, 815"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich\nBelgien über die Befreiung öffentlicher Urkunden von der Legalisation"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 25.6.1980 II 813 In Kraft gem. Bek. v. 9.3.1981 II 142 mWv 1.5.1981",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

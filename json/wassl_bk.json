@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625145842",
+            "doknr": "BJNR233420994"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625145842",
+                    "doknr": "BJNR233420994"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "WassLÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1992-03-17",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1994, 2334"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen zum Schutz und zur Nutzung grenzüberschreitender\nWasserläufe und internationaler Seen"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 2.9.1994 II 2333 In Kraft gem. Bek. v. 8.11.1996 II 2760 mWv 6.10.1996",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

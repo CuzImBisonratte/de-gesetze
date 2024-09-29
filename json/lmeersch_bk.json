@@ -1,0 +1,74 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625155011",
+            "doknr": "BJNR208710981"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625155011",
+                    "doknr": "BJNR208710981"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "LMeerSchÜbk"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1974-06-04",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl II"
+                                ],
+                                "zitstelle": [
+                                    "1981, 871"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Übereinkommen zur Verhütung der Meeresverschmutzung vom Lande aus"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "decorated"
+                                }
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "G v. 18.9.1981 II 870 Inkraft gem. Bek. v. 1.4.1982 II 445 mWv 1.4.1982",
+                                                "BR": [
+                                                    ""
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

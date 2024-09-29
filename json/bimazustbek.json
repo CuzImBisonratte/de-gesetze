@@ -1,0 +1,160 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625145820",
+            "doknr": "BJNR145410006"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625145820",
+                    "doknr": "BJNR145410006"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BImAZustBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2006-07-04",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "2006, 1454"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten \nder Bundesanstalt für Immobilienaufgaben"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 13.7.2006 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625145820",
+                    "doknr": "BJNR145410006BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BImAZustBek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Nach § 11 Abs. 4 des Gesetzes über die Bundesanstalt für Immobilienaufgaben vom 9. Dezember 2004 (BGBl. I S. 3235) wird bekannt gegeben, dass die Bundesanstalt für Immobilienaufgaben mit Zustimmung des Bundesministeriums der Finanzen ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, der Beihilfe, der Reise- und Umzugskosten sowie des Trennungsgeldes und die automatisierte Verarbeitung personenbezogener Daten auf die Oberfinanzdirektion Chemnitz, Service-Center Süd-Ost, übertragen hat."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625145820",
+                    "doknr": "BJNR145410006BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BImAZustBek"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Bundesanstalt für Immobilienaufgaben"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

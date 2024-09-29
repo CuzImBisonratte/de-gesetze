@@ -1,0 +1,2230 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20120625150901",
+            "doknr": "BJNR350800998"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20120625150901",
+                    "doknr": "BJNR350800998"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BesÜV2Bek 1998-12-03"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1998-12-03",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1998, 3508"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung der Dienstbezüge und\nAnwärterbezüge nach § 2 Abs. 1 und § 3 Abs. 2\nder Zweiten Besoldungs-Übergangsverordnung"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab:  9.12.1998 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150901",
+                    "doknr": "BJNR350800998BJNE000100311"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BesÜV2Bek 1998-12-03"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764), die zuletzt durch Artikel 3 des Gesetzes vom 6. August 1998 (BGBl. I S. 2026) geändert worden ist, werden in den Anlagen 1 und 2 die sich ab dem 1. Januar 1999 nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen VIII und IX des Bundesbesoldungsgesetzes in der Fassung des Artikels 5 Nr. 25 und 26 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666) ergebenden Dienstbezüge und Anwärterbezüge bekanntgemacht.",
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "SP": [
+                                                    "Der Bundesminister des Innern"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150901",
+                    "doknr": "BJNR350800998BJNE000200311"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BesÜV2Bek 1998-12-03"
+                        ],
+                        "enbez": [
+                            "Anlage 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(Anlage VIII des BBesG)",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "ABWFORMAT": [
+                                                    {
+                                                        "$": {
+                                                            "typ": "A"
+                                                        }
+                                                    }
+                                                ],
+                                                "kommentar": [
+                                                    {
+                                                        "_": " Fundstelle des Originaltextes: BGBl. I 1998, 3508 ",
+                                                        "$": {
+                                                            "typ": "Fundstelle"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "Title": [
+                                                            {
+                                                                "_": "Anwärtergrundbetrag(Monatsbeträge in DM)",
+                                                                "$": {
+                                                                    "Align": "auto"
+                                                                },
+                                                                "BR": [
+                                                                    ""
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2",
+                                                                    "colsep": "1",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "65*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "25*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "thead": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "bottom"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Grundbetrag",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 1 bis A 4",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.073",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 5 bis A 8",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.237",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 9 bis A 11",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.310",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 12",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.501",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 13",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.544",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "A 13 + Zulage (Nr. 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "left",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1.592",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colsep": "0",
+                                                                                            "valign": "bottom"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20120625150901",
+                    "doknr": "BJNR350800998BJNE000300311"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BesÜV2Bek 1998-12-03"
+                        ],
+                        "enbez": [
+                            "Anlage 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(Anlage IX des BBesG)",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "ABWFORMAT": [
+                                                    {
+                                                        "$": {
+                                                            "typ": "A"
+                                                        }
+                                                    }
+                                                ],
+                                                "kommentar": [
+                                                    {
+                                                        "_": "(Fundstelle des Originaltextes: BGBl. I 1998, 3509 - 3511)",
+                                                        "$": {
+                                                            "typ": "Fundstelle"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "all"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "cols": "4",
+                                                                    "colsep": "0",
+                                                                    "rowsep": "0"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1",
+                                                                            "colwidth": "100.000000pt"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colnum": "2",
+                                                                            "colwidth": "380.000000pt"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col3",
+                                                                            "colnum": "3",
+                                                                            "colwidth": "80.000000pt"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col4",
+                                                                            "colnum": "4",
+                                                                            "colwidth": "200.000000pt"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "center",
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        },
+                                                                                        "B": [
+                                                                                            "Amtszulagen, Stellenzulagen, Zulagen, Vergütungen"
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "(Monatsbeträge)",
+                                                                                        "$": {
+                                                                                            "align": "center",
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "- in der Reihenfolge der Gesetzesstellen -",
+                                                                                        "$": {
+                                                                                            "align": "center",
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Dem Grunde nach geregelt in",
+                                                                                        "$": {
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Betrag in Deutscher Mark, Vomhundert, Bruchteil",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bundesbesoldungsgesetz",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "§ 44",
+                                                                                    " ",
+                                                                                    "bis zu",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "§ 48 Abs. 2",
+                                                                                    " ",
+                                                                                    "bis zu",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "§ 78",
+                                                                                    " ",
+                                                                                    "bis zu",
+                                                                                    "129,75"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bundesbesoldungsordnungen A und B",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Vorbemerkungen",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 2 Abs. 2",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "216,25"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 4",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "86,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 4a",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "129,75"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 5",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6",
+                                                                                    " ",
+                                                                                    "60,55"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9",
+                                                                                    " ",
+                                                                                    "86,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Offiziere/Beamte des gehobenen und höheren Dienstes",
+                                                                                    " ",
+                                                                                    "129,75"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 5a",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "155,70"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "259,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe c",
+                                                                                    " ",
+                                                                                    "371,95"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 2",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 1",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "233,55"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 2",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "69,20"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 3",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "112,45"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 4 und 5",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "103,80"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 6",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 7",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "69,20"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 8",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "216,25"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "112,45"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nr. 9",
+                                                                                        "$": {
+                                                                                            "align": "right"
+                                                                                        }
+                                                                                    },
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "103,80"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 6 Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "778,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "622,80"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe c",
+                                                                                    " ",
+                                                                                    "498,24"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 6a",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 7",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen",
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)",
+                                                                                        "$": {
+                                                                                            "align": "left"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 1 bis A 5",
+                                                                                    "A 5",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 6 bis A 9",
+                                                                                    "A 9",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 10 bis A 13",
+                                                                                    "A 13",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 14, A 15, B 1",
+                                                                                    "A 15",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 16, B 2 bis B 4",
+                                                                                    "B 3",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "B 5 bis B 7",
+                                                                                    "B 6",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "B 8 bis B 10",
+                                                                                    "B 9",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "B 11",
+                                                                                    "B 11",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 8",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "Die Zulage beträgtfür Beamte der Besoldungsgruppen",
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 1 bis A 5",
+                                                                                    " ",
+                                                                                    "194,63"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 6 bis A 9",
+                                                                                    " ",
+                                                                                    "259,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 10 und höher",
+                                                                                    " ",
+                                                                                    "324,38"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 8a",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "Die Zulage beträgtfür Beamte der Besoldungsgruppen",
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 1 bis A 5",
+                                                                                    " ",
+                                                                                    "118,53"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 6 bis A 9",
+                                                                                    " ",
+                                                                                    "161,62"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 10 bis A 13",
+                                                                                    " ",
+                                                                                    "199,32"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 14 und höher",
+                                                                                    " ",
+                                                                                    "237,04"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "für Anwärter der Laufbahngruppe",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "des mittleren Dienstes",
+                                                                                    " ",
+                                                                                    "86,21"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "des gehobenen Dienstes",
+                                                                                    " ",
+                                                                                    "113,13"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "des höheren Dienstes",
+                                                                                    " ",
+                                                                                    "140,08"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 8b",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Die Zulage beträgt",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "für Beamte der Besoldungsgruppen",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 1 bis A 5",
+                                                                                    " ",
+                                                                                    "155,70"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 6 bis A 9",
+                                                                                    " ",
+                                                                                    "207,60"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 10 bis A 13",
+                                                                                    " ",
+                                                                                    "259,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 14 und höher",
+                                                                                    " ",
+                                                                                    "311,40"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 9",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "Die Zulage beträgtnach einer Dienstzeit",
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "von einem Jahr",
+                                                                                    " ",
+                                                                                    "107,76"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "von zwei Jahren",
+                                                                                    " ",
+                                                                                    "215,52"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 9a",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "173,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "346,00"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe c",
+                                                                                    " ",
+                                                                                    "259,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 2",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    "69,20"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "86,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 10 Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "Die Zulage beträgtnach einer Dienstzeit",
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "von einem Jahr",
+                                                                                    " ",
+                                                                                    "107,76"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "von zwei Jahren",
+                                                                                    " ",
+                                                                                    "215,52"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 12",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "161,62"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 13a",
+                                                                                    " ",
+                                                                                    "bis zu",
+                                                                                    "129,75"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 13c",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "Die Zulage beträgtfür Beamte der Besoldungsgruppen",
+                                                                                        "BR": [
+                                                                                            ""
+                                                                                        ]
+                                                                                    },
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 1 bis A 7",
+                                                                                    " ",
+                                                                                    "77,85"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 8 bis A 11",
+                                                                                    " ",
+                                                                                    "103,80"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 12 bis A 15",
+                                                                                    " ",
+                                                                                    "121,10"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "A 16 und höher",
+                                                                                    " ",
+                                                                                    "155,70"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 19 Satz 1",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "320,05"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 21",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "268,50"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 25",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "64,88"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 26 Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Die Zulage beträgt für Beamte",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "des mittleren Dienstes",
+                                                                                    " ",
+                                                                                    "28,84"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "des gehobenen Dienstes",
+                                                                                    " ",
+                                                                                    "64,88"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 27",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 1",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Doppelbuchstabe aa",
+                                                                                    " ",
+                                                                                    "24,77"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Doppelbuchstabe bb",
+                                                                                    " ",
+                                                                                    "96,95"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b",
+                                                                                    " ",
+                                                                                    "107,73"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe c",
+                                                                                    " ",
+                                                                                    "107,73"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Abs. 2",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe a",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Doppelbuchstabe bb",
+                                                                                    " ",
+                                                                                    "72,18"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "Buchstabe b und c",
+                                                                                    " ",
+                                                                                    "107,73"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 30",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "38,93"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Besoldungsgruppen",
+                                                                                    " ",
+                                                                                    "Fußnote",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 2",
+                                                                                    " ",
+                                                                                    "1",
+                                                                                    "46,29"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "29,99"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "3",
+                                                                                    "85,36"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "6",
+                                                                                    "43,12"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 3",
+                                                                                    " ",
+                                                                                    "1, 5",
+                                                                                    "85,36"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "46,29"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 4",
+                                                                                    " ",
+                                                                                    "1, 4",
+                                                                                    "85,36"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "46,29"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 5",
+                                                                                    " ",
+                                                                                    "3",
+                                                                                    "46,29"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "4, 6",
+                                                                                    "85,36"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 6",
+                                                                                    " ",
+                                                                                    "6",
+                                                                                    "46,29"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 7",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "57,46"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "5",
+                                                                                    {
+                                                                                        "_": "50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8",
+                                                                                        "$": {
+                                                                                            "align": "left"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 8",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "74,07"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 9",
+                                                                                    " ",
+                                                                                    "2, 3, 6",
+                                                                                    "344,56"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "7",
+                                                                                    {
+                                                                                        "_": "8 v.H. des Endgrundgehalts der Besoldungsgruppe A 9",
+                                                                                        "$": {
+                                                                                            "align": "left"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 12",
+                                                                                    " ",
+                                                                                    "7, 8",
+                                                                                    "200,12"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 13",
+                                                                                    " ",
+                                                                                    "6",
+                                                                                    "160,04"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "7",
+                                                                                    "240,05"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "11, 12, 13",
+                                                                                    "350,16"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 14",
+                                                                                    " ",
+                                                                                    "5",
+                                                                                    "240,05"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "A 15",
+                                                                                    " ",
+                                                                                    "7",
+                                                                                    "240,05"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "B 10",
+                                                                                    " ",
+                                                                                    "1, 2",
+                                                                                    "554,76"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        },
+                                                                                        "small": [
+                                                                                            {
+                                                                                                "DL": [
+                                                                                                    {
+                                                                                                        "DT": [
+                                                                                                            "*)"
+                                                                                                        ],
+                                                                                                        "DD": [
+                                                                                                            {
+                                                                                                                "LA": [
+                                                                                                                    "Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)."
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Dem Grunde nach geregelt in",
+                                                                                        "$": {
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Betrag in Deutscher Mark, Vomhundert, Bruchteil",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bundesbesoldungsordnung C",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Vorbemerkungen",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 2b",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "107,73"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 3",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Die Zulage beträgt",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)",
+                                                                                        "$": {
+                                                                                            "align": "left"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "für Beamte der Besoldungsgruppe(n)",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "C 1",
+                                                                                    "A 13",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "C 2",
+                                                                                    "A 15",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "C 3 und C 4",
+                                                                                    "B 3",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 5",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "wenn ein Amts ausgeübt wird",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "der Besoldungsgruppe",
+                                                                                    "R1",
+                                                                                    "347,73"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "der Besoldungsgruppe",
+                                                                                    "R2",
+                                                                                    "389,25"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Besoldungsgruppe",
+                                                                                    " ",
+                                                                                    "Fußnote",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "C 2",
+                                                                                    " ",
+                                                                                    "1",
+                                                                                    "176,49"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Dem Grunde nach geregelt in",
+                                                                                        "$": {
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Betrag in Deutscher Mark, Vomhundert, Bruchteil",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col3"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bundesbesoldungsordnung R",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Vorbemerkungen",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nummer 2",
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Die Zulage beträgt",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    {
+                                                                                        "_": "12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *)",
+                                                                                        "$": {
+                                                                                            "align": "left"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "a)",
+                                                                                        "$": {
+                                                                                            "align": "right",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    "bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 1",
+                                                                                    "R 1",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 2 bis R 4",
+                                                                                    "R 3",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 5 bis R 7",
+                                                                                    "R 6",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 8 bis R 10",
+                                                                                    "R 9",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "b)",
+                                                                                        "$": {
+                                                                                            "align": "right",
+                                                                                            "valign": "top"
+                                                                                        }
+                                                                                    },
+                                                                                    "bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)",
+                                                                                    " ",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 1",
+                                                                                    "A 15",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 2 bis R 4",
+                                                                                    "B 3",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 5 bis R 7",
+                                                                                    "B 6",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    " ",
+                                                                                    "R 8 bis R 10",
+                                                                                    "B 9",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Nummer 4",
+                                                                                    " ",
+                                                                                    " ",
+                                                                                    "64,88"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "Besoldungsgruppen",
+                                                                                    " ",
+                                                                                    "Fußnote",
+                                                                                    " "
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "R 1",
+                                                                                    " ",
+                                                                                    "1, 2",
+                                                                                    "265,43"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "R 2",
+                                                                                    " ",
+                                                                                    "3 bis 8, 10",
+                                                                                    "265,43"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "R 3",
+                                                                                    " ",
+                                                                                    "3",
+                                                                                    "265,43"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    "R 8",
+                                                                                    " ",
+                                                                                    "2",
+                                                                                    "530,76"
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "nameend": "col4",
+                                                                                            "namest": "col1"
+                                                                                        },
+                                                                                        "small": [
+                                                                                            {
+                                                                                                "DL": [
+                                                                                                    {
+                                                                                                        "DT": [
+                                                                                                            "*)"
+                                                                                                        ],
+                                                                                                        "DD": [
+                                                                                                            {
+                                                                                                                "LA": [
+                                                                                                                    "Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 2091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345)."
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

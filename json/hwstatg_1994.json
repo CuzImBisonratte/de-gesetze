@@ -1,0 +1,685 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20130405130432",
+            "doknr": "BJNR041700994"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994"
+                        ],
+                        "amtabk": [
+                            "HwStatG"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "1994-03-07",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl I"
+                                ],
+                                "zitstelle": [
+                                    "1994, 417"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Handwerkstatistikgesetz"
+                        ],
+                        "langue": [
+                            "Gesetz über Statistiken im Handwerk"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Zuletzt geändert durch Art. 2 G v. 4.11.2010 I 1480"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ Textnachweis ab: 13.3.1994 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000102377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zweck, Umfang",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Zur Darstellung des Verlaufs und der Struktur der wirtschaftlichen Tätigkeit im Handwerk werden statistische Erhebungen als Bundesstatistik durchgeführt.",
+                                            {
+                                                "_": "(2) Die Statistik umfaßt (3) (weggefallen)",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "vierteljährliche Erhebungen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Zählungen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000202377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Erhebungseinheiten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Erhebungseinheiten sind selbständige Betriebe und Unternehmen der Handwerksordnung.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "des zulassungspflichtigen Handwerks nach Anlage A und"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "des zulassungsfreien Handwerks nach Anlage B Abschnitt 1"
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000303308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Vierteljährliche Erhebung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Für die Erhebung nach § 1 Abs. 2 Nr. 1 werden, beginnend mit dem ersten Kalendervierteljahr 2008, Verwaltungsdaten ausgewertet, die den Statistikbehörden des Bundes und der Länder nach den §§ 2 und 3 des Verwaltungsdatenverwendungsgesetzes übermittelt werden.",
+                                            {
+                                                "_": "(2) Erhebungsmerkmale der Statistik sind: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Umsatz im abgelaufenen Kalendervierteljahr,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Zahl der tätigen Personen zum Ende des abgelaufenen Kalendervierteljahres,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "hauptsächlich ausgeübtes Gewerbe nach der Anlage A oder der Anlage B Abschnitt 1 der Handwerksordnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "ausgeübte wirtschaftliche Tätigkeiten und deren Schwerpunkt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Die Erhebungsmerkmale nach Absatz 2 Nr. 1 und 2 werden vierteljährlich erfaßt, die Erhebungsmerkmale nach den Nummern 3 und 4 zum Ende jedes dritten Kalendervierteljahres.",
+                                            "(4) (weggefallen)"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000404377"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Zählungen im Handwerk",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich, beginnend 2009, für die Erhebungseinheiten nach § 2 Angaben aus dem Statistikregister und Angaben, die nach § 3 Nr. 4 des Verwaltungsdatenverwendungsgesetzes übermittelt werden, ausgewertet."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000503308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000602308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 6"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000700307"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 7"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übermittlungsregelungen",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "An die für Wirtschaft und Landesplanung zuständigen obersten Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall aufweisen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000801308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 8"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE000904308"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 9"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20130405130432",
+                    "doknr": "BJNR041700994BJNE001000307"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "HwStatG 1994",
+                            "HwStatG"
+                        ],
+                        "enbez": [
+                            "§ 10"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "parat"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Dieses Gesetz tritt am Tage nach der Verkündung in Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
