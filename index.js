@@ -101,7 +101,7 @@ const convertToJson = async (toc) => {
         const xml = fs.readFileSync(path.join(__dirname, "laws", "xml", key + ".xml"));
         parser.parseString(xml, (err, result) => {
             if (err) console.error(err);
-            fs.writeFileSync(path.join(__dirname, "laws", "json", key + ".json"), JSON.stringify(result, null, 4));
+            fs.writeFileSync(path.join(__dirname, "laws", "json-wip", key + ".json"), JSON.stringify(result, null, 4));
         });
         parseProgressBar.tick();
     }
@@ -111,7 +111,7 @@ const convertToJson = async (toc) => {
 const formatJson = (toc) => {
     var formatProgressBar = new progressBar("Formatting laws " + progressBarOptions, { total: Object.keys(toc).length, complete: config.progressBars.chars.completed, incomplete: config.progressBars.chars.incomplete });
     for (const [key, value] of Object.entries(toc)) {
-        const json = JSON.parse(fs.readFileSync(path.join(__dirname, "laws", "json", key + ".json"))).dokumente;
+        const json = JSON.parse(fs.readFileSync(path.join(__dirname, "laws", "json-wip", key + ".json"))).dokumente;
         // Gather metadata
         var metadata = {};
         metadata.title = json.norm[0].metadaten[0].langue[0];
@@ -125,6 +125,7 @@ const main = async () => {
     // Create directories
     fs.mkdirSync(path.join(__dirname, "laws"), { recursive: true });
     fs.mkdirSync(path.join(__dirname, "laws", "xml"), { recursive: true });
+    fs.mkdirSync(path.join(__dirname, "laws", "json-wip"), { recursive: true });
     fs.mkdirSync(path.join(__dirname, "laws", "json"), { recursive: true });
     fs.mkdirSync(path.join(__dirname, "laws", "md"), { recursive: true });
     // Prepare toc
