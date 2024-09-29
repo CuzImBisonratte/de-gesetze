@@ -66,4 +66,42 @@ The JSON data format is a conversion from the XML format. It is NOT directly con
     ]
 }
 ```
-</details>
+</details>  
+
+
+### Special cases
+
+There are many different ways the laws are structured, so the JSON format is not always the same.
+Here you can find the schema used after the conversion:
+
+<details>
+<summary>JSON Output Schema</summary>
+
+You always have a `metadata` object with the following properties:
+- `title`: The title of the law
+- `shortTitle`: The short title of the law
+- `date`: The date the law was last changed
+
+The `law` object is an array of objects. Each object has the following properties:
+- `title`: The title split into 
+    - `enum`: The enumeration of the section
+    - `title`: The title of the section
+- `content`: An array of strings that contain the content of the section
+
+The important part is how the `content` is structured. The `content` normally is just an array of strings.
+
+- Sometimes (e.g. in [1-DM-GoldmünzG § 11](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/__11.html)), there is a list in the content. In this case, the list is split into multiple strings, this can look as follows:
+    ```json
+    "content": [
+        "(1) Zweck der Stiftung ist, das Bewusstsein der Öffentlichkeit für die Bedeutung stabilen Geldes zu erhalten und zu fördern. Die Stiftung unterstützt zu diesem Zweck die wirtschaftswissenschaftliche und juristische Forschung insbesondere auf dem Gebiet des Geld- und Währungswesens.",
+        {
+            "special": "list",
+            "text": "(2) Der Erfüllung dieses Zwecks dienen insbesondere: ",
+            "list": [
+                "1. die Durchführung und Finanzierung von Forschungsprojekten;",
+                "2. die Gewährung von Forschungsstipendien;",
+                "3. die Förderung des wissenschaftlichen Meinungsaustauschs durch Veranstaltungen und Diskussionsforen mit deutscher und internationaler Beteiligung."
+            ]
+        }
+    ]
+    ```
