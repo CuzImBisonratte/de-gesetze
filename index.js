@@ -117,6 +117,43 @@ const formatJson = (toc) => {
         metadata.title = json.norm[0].metadaten[0].langue[0];
         metadata.shortTitle = json.norm[0].metadaten[0].jurabk[0];
         metadata.date = json.norm[0].metadaten[0]["ausfertigung-datum"][0]._;
+        // Loop through all norm elements
+        var laws = [];
+        json.norm.forEach(element => {
+            // Skip if section start or metadata element
+            if (
+                element.metadaten[0].gliederungseinheit ||
+                element.metadaten[0].langue
+            ) return;
+            // Gather metadata
+            var law = {};
+            var title = {
+                enum: element.metadaten[0].enbez[0],
+                title: element.metadaten[0].titel[0]._.toString()
+            }
+            law.title = title;
+            // Gather content
+            var content = element.textdaten[0].text[0].Content[0].P;
+            for (var i = 0; i < content.length; i++) {
+                // Not a special case
+                if (typeof content[i] === "string") continue;
+                // Special case: List
+                if (content[i].DL) {
+                    var special = { special: "list", text: "", list: [] };
+                    special.text = content[i]._;
+                    for (var j = 0; j < content[i].DL[0].DT.length; j++) {
+                        special.list.push(content[i].DL[0].DT[j] + " " + content[i].DL[0].DD[j].LA[0]._);
+                    }
+                    content[i] = special;
+                }
+            }
+            law.content = content;
+            // Add to laws
+            laws.push(law);
+        });
+        const law = { metadata: metadata, law: laws };
+        fs.writeFileSync(path.join(__dirname, "laws", "json", key + ".json"), JSON.stringify(law, null, 4));
+        formatProgressBar.tick();
     }
 }
 
@@ -137,5 +174,6 @@ const main = async () => {
     await cleanupXmlData(tocPrepared);
     // Prepare json
     await convertToJson(tocPrepared);
+    await formatJson(tocPrepared);
 }
 main();
