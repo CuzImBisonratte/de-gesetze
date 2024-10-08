@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240903215502",
+            "builddate": "20240930214515",
             "doknr": "BJNR081300009"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240903215502",
+                    "builddate": "20240930214515",
                     "doknr": "BJNR081300009"
                 },
                 "metadaten": [
@@ -88,7 +88,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240903215502",
+                    "builddate": "20240930214515",
                     "doknr": "BJNR081300009BJNE000100000"
                 },
                 "metadaten": [
@@ -122,7 +122,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240903215502",
+                    "builddate": "20240930214515",
                     "doknr": "BJNR081300009BJNE000200000"
                 },
                 "metadaten": [
@@ -156,7 +156,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240903215502",
+                    "builddate": "20240930214515",
                     "doknr": "BJNR081300009BJNE000300000"
                 },
                 "metadaten": [
@@ -190,8 +190,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240903215502",
-                    "doknr": "BJNR081300009BJNE000400000"
+                    "builddate": "20240930214515",
+                    "doknr": "BJNR081300009BJNE000500128"
                 },
                 "metadaten": [
                     {
@@ -213,11 +213,51 @@
                                 "Content": [
                                     {
                                         "P": [
+                                            "Die in § 31 Absatz 7 Satz 1 des Gesetzes über die Deutsche Bundesbank enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank übertragen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20240930214515",
+                    "doknr": "BJNR081300009BJNE000401128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BBankGEÜV"
+                        ],
+                        "enbez": [
+                            "§ 4"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
                                             "Diese Verordnung tritt am Tag nach der Verkündung in Kraft."
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]

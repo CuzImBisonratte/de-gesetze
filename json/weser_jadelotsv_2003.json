@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240816214522",
+            "builddate": "20240930214522",
             "doknr": "BJNR504130003"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003"
                 },
                 "metadaten": [
@@ -105,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000100311"
                 },
                 "metadaten": [
@@ -139,7 +139,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000203305"
                 },
                 "metadaten": [
@@ -195,7 +195,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000300311"
                 },
                 "metadaten": [
@@ -320,7 +320,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000400311"
                 },
                 "metadaten": [
@@ -405,7 +405,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000501305"
                 },
                 "metadaten": [
@@ -451,8 +451,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
-                    "doknr": "BJNR504130003BJNE000601305"
+                    "builddate": "20240930214522",
+                    "doknr": "BJNR504130003BJNE000602119"
                 },
                 "metadaten": [
                     {
@@ -500,7 +500,8 @@
                                                             "6.",
                                                             "7.",
                                                             "8.",
-                                                            "9."
+                                                            "9.",
+                                                            "10."
                                                         ],
                                                         "DD": [
                                                             {
@@ -613,7 +614,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.",
+                                                                        "_": "Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die sichere minimale Steuergeschwindigkeit und die maximale Manövriergeschwindigkeit für die Revierfahrt.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -639,8 +653,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
-                    "doknr": "BJNR504130003BJNE000702305"
+                    "builddate": "20240930214522",
+                    "doknr": "BJNR504130003BJNE000703119"
                 },
                 "metadaten": [
                     {
@@ -671,7 +685,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord verpflichtet, ",
+                                                "_": "(1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord verpflichtet, ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -928,7 +942,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000800311"
                 },
                 "metadaten": [
@@ -971,7 +985,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE000900311"
                 },
                 "metadaten": [
@@ -1087,7 +1101,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001001305"
                 },
                 "metadaten": [
@@ -1291,7 +1305,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001102305"
                 },
                 "metadaten": [
@@ -1677,7 +1691,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001200311"
                 },
                 "metadaten": [
@@ -1719,7 +1733,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001300311"
                 },
                 "metadaten": [
@@ -1761,7 +1775,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001400311"
                 },
                 "metadaten": [
@@ -1961,7 +1975,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001500311"
                 },
                 "metadaten": [
@@ -2004,7 +2018,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001604305"
                 },
                 "metadaten": [
@@ -2362,7 +2376,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001701305"
                 },
                 "metadaten": [
@@ -2407,7 +2421,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001800311"
                 },
                 "metadaten": [
@@ -2547,7 +2561,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE001902305"
                 },
                 "metadaten": [
@@ -2592,7 +2606,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE002000311"
                 },
                 "metadaten": [
@@ -2629,7 +2643,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE002100311"
                 },
                 "metadaten": [
@@ -2671,8 +2685,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
-                    "doknr": "BJNR504130003BJNE002201305"
+                    "builddate": "20240930214522",
+                    "doknr": "BJNR504130003BJNE002202119"
                 },
                 "metadaten": [
                     {
@@ -2684,7 +2698,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "(zu § 5 Abs. 3)Ort und Anmeldung für die Lotsenanforderung",
+                                "_": "(zu § 5 Absatz 3)Ort und Anmeldung für die Lotsenanforderung",
                                 "$": {
                                     "format": "XML"
                                 },
@@ -2706,168 +2720,1014 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "----- ",
-                                                "ABWFORMAT": [
+                                                "noindex": [
                                                     {
-                                                        "$": {
-                                                            "typ": "A"
-                                                        }
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BGBl. 2024 I Nr. 263, S. 3 – 4)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
                                                     }
-                                                ],
-                                                "kommentar": [
+                                                ]
+                                            },
+                                            "____________"
+                                        ],
+                                        "BR": [
+                                            "",
+                                            ""
+                                        ],
+                                        "table": [
+                                            {
+                                                "$": {
+                                                    "colsep": "0",
+                                                    "frame": "topbot",
+                                                    "pgwide": "1",
+                                                    "rowsep": "1",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
                                                     {
-                                                        "_": "Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3705 u. BAnz 2008, Nr. 64, 1513",
                                                         "$": {
-                                                            "typ": "Fundstelle"
-                                                        }
-                                                    }
-                                                ],
-                                                "BR": [
-                                                    ""
-                                                ],
-                                                "table": [
-                                                    {
-                                                        "$": {
-                                                            "frame": "none"
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "4"
                                                         },
-                                                        "tgroup": [
+                                                        "colspec": [
                                                             {
                                                                 "$": {
-                                                                    "cols": "3",
-                                                                    "colsep": "0",
-                                                                    "rowsep": "0"
+                                                                    "colname": "col1",
+                                                                    "colnum": "1",
+                                                                    "colwidth": "4*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col2",
+                                                                    "colnum": "2",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "55*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col3",
+                                                                    "colnum": "3",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "55*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col4",
+                                                                    "colnum": "4",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "47*"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "thead": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "bottom"
                                                                 },
-                                                                "colspec": [
+                                                                "row": [
                                                                     {
                                                                         "$": {
-                                                                            "colname": "col1",
-                                                                            "colnum": "1",
-                                                                            "colwidth": "1.007209*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col2",
-                                                                            "colnum": "2",
-                                                                            "colwidth": "0.997940*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col3",
-                                                                            "colnum": "3",
-                                                                            "colwidth": "0.994851*"
-                                                                        }
-                                                                    }
-                                                                ],
-                                                                "tbody": [
-                                                                    {
-                                                                        "$": {
-                                                                            "valign": "top"
+                                                                            "rowsep": "1"
                                                                         },
-                                                                        "row": [
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "Ort der Übernahme des Seelotsen",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "align": "center",
+                                                                                    "colsep": "1",
+                                                                                    "nameend": "col2",
+                                                                                    "namest": "col1",
+                                                                                    "valign": "middle"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Anmeldezeit für die Anforderung des Seelotsen",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "align": "center",
+                                                                                    "colname": "col3",
+                                                                                    "valign": "middle"
+                                                                                },
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "a) Empfänger der Lotsenanforderung b) UKW-Kanal c) E-Mail d) Telefonnummer e) Telefax-Nummer",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4"
+                                                                                },
+                                                                                "BR": [
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    ""
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "1.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Von See einlaufende Schiffe",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "nameend": "col4",
+                                                                                    "namest": "col2"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
                                                                             {
                                                                                 "$": {
-                                                                                    "rowsep": "1"
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Lotsenversetzpositionen im Verkehrstrennungsgebiet „Jade Approach“",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  sowie zusätzlich  vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition. Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als 24 Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
                                                                                 },
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "nameend": "col3",
-                                                                                            "namest": "col1"
-                                                                                        }
-                                                                                    }
+                                                                                "B": [
+                                                                                    "24 Stunden",
+                                                                                    "drei Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
                                                                                 "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
                                                                                     "rowsep": "1"
                                                                                 },
-                                                                                "entry": [
+                                                                                "DL": [
                                                                                     {
-                                                                                        "_": "Ort der Übernahme des Seelotsen",
                                                                                         "$": {
-                                                                                            "colsep": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Anmeldezeit für die Anforderung des Seelotsen",
-                                                                                        "$": {
-                                                                                            "colsep": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    "Empfänger der Lotsenanforderung (Telegrammanschrift)"
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser II/Jade",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "6 (WESER/JADE PILOT)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "dispo@weserjadepilot.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 944242",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9442439",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Außenposition des Seelotsreviers Weser II/Jade-Lotsenschiff im Bereich Leuchttonne „Weser 3/Jade 2“",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  vor der voraussichtlichen Ankunftszeit an der Außenposition. Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "zwölf Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
                                                                                     {
-                                                                                        "_": "1. Von See einlaufende Schiffe",
                                                                                         "$": {
-                                                                                            "nameend": "col3",
-                                                                                            "namest": "col1"
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser II/Jade",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "6 (WESER/JADE PILOT)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "dispo@weserjadepilot.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 944242",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9442439",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Außenstation des Seelotsreviers Weser I bei Bremerhaven",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  vor der voraussichtlichen Ankunftszeit an der Lotsenstation. Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "zwölf Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser I",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "6 (WESER RIVER PILOT)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "order@weserriverpilot.com",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9414141",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "entfällt",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "2.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Teilstreckenverkehr und auslaufende Schiffe",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "nameend": "col4",
+                                                                                    "namest": "col2"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Häfen und Liegeplätze im Seelotsrevier Weser I von Brake bis Bremen, ohne Schiffe ab Brake weseraufwärts",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  vor der voraussichtlichen Abfahrtszeit. Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "zwei Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser I",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "entfällt",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "order@weserriverpilot.com",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9414141",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "entfällt",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Häfen und Liegeplätze im Seelotsrevier Weser I von Nordenham bis Bremerhaven sowie Brake und Elsfleth bei Schiffen weseraufwärts",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  vor der voraussichtlichen Abfahrtszeit. Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "drei Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser I",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "entfällt",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "order@weserriverpilot.com",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9414141",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "entfällt",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Häfen und Liegeplätze im Seelotsrevier Weser II/JadeLotsbezirk 1 (Außenweser und Lotsenversetzposition bei Bremerhaven)",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                },
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ],
+                                                                                "FnR": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "ID": "F831044_01_BJNR504130003BJNE002202119"
                                                                                         }
                                                                                     }
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    "1.1 Lotsenversetzpositionen im Verkehrstrennungsgebiet \"Jade Approach\"",
-                                                                                    "Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. *) 3 Stunden vor Erreichen der Lotsenversetzposition weitere Meldung.",
-                                                                                    "Weser Lotsenstation der Lotsenbrüderschaft Weser II/Jade Am Alten Vorhafen 27568 Bremerhaven (Weserlotse II Bremerhaven)"
+                                                                                "_": "Mindestens  vor der voraussichtlichen Abfahrtszeit. Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "zwei Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    "1.2 Außenstation des Seelotsreviers Weser II/Jade - Lotsenschiff im Bereich der Leuchttonne \"3/Jade 2\"",
-                                                                                    "Mindestens 12 Stunden vor Erreichen der Außenstation. *) 3 Stunden vor Erreichen der Lotsenversetzposition weitere Meldung.",
-                                                                                    "Jade Lotsenstation der Lotsenbrüderschaft Weser II/Jade Schleuseninsel/I. Einfahrt 26382 Wilhelmshaven (Jadelotse Wilhelmshaven)"
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    "1.3 Außenstation des Seelotsreviers Weser I bei Bremerhaven",
-                                                                                    "Mindestens 12 Stunden vor Erreichen der Außenstation. *)",
-                                                                                    "Lotsenstation der Lotsenbrüderschaft Weser I Am Alten Vorhafen 27568 Bremerhaven (Weserlotse I Bremerhaven)"
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
                                                                                     {
-                                                                                        "_": "2. Auslaufende Schiffe und Teilstreckenverkehr",
                                                                                         "$": {
-                                                                                            "nameend": "col3",
-                                                                                            "namest": "col1"
-                                                                                        }
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser II/Jade",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "6 (WESER/JADE PILOT)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "dispo@weserjadepilot.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 944242",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9442439",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    "2.1 Häfen und Liegeplätze im Seelotsrevier Weser I von Brake bis Bremen, ausgenommen bei Schiffen von Brake weseraufwärts",
-                                                                                    "Mindestens zwei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.",
-                                                                                    "Lotsenstation der Lotsenbrüderschaft Weser I Überseetor 20 28217 Bremen (Weserlotse I Bremen)"
+                                                                                "_": "Häfen und Liegeplätze im Seelotsrevier Weser II/JadeLotsbezirk 2 (Jade)",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                },
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    "2.2 Häfen und Liegeplätze im Seelotsrevier Weser I von Nordenham bis Bremerhaven sowie Brake und Elsfleth bei Schiffen weseraufwärts",
-                                                                                    "Mindestens drei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.",
-                                                                                    "Lotsenstation der Lotsenbrüderschaft Weser I Am Alten Vorhafen 27368 Bremerhaven (Weserlotse I Bremerhaven)"
+                                                                                "_": "Mindestens  vor der voraussichtlichen Abfahrtszeit. Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "drei Stunden"
+                                                                                ],
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    "2.3 Häfen und Liegeplätze im Seelotsrevier Weser II/Jade Lotsbezirk 1 (Außenweser sowie Lotsenversetzposition bei Bremerhaven **)",
-                                                                                    "Mindestens zwei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.",
-                                                                                    "Lotsenstation der Lotsenbrüderschaft Weser II/Jade Am Alten Vorhafen 27568 Bremerhaven (Weserlotse II Bremerhaven)"
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    "2.4 Häfen und Liegeplätze im Seelotsrevier Weser II/Jade Lotsbezirk 2 (Jade)",
-                                                                                    "Mindestens drei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.",
-                                                                                    "Lotsenstation der Lotsenbrüderschaft Weser II/Jade Schleuseninsel/I. Einfahrt 26382 Wilhelmshaven (Jadelotse Wilhelmshaven)"
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "DL": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Weser II/Jade",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "6 (WESER/JADE PILOT)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "dispo@weserjadepilot.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 944242",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 471 9442439",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
                                                                                 ]
                                                                             }
                                                                         ]
@@ -2876,46 +3736,24 @@
                                                             }
                                                         ]
                                                     }
-                                                ],
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Font": "normal",
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "*)",
-                                                            "**)"
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "Beträgt die Reisezeit von den nahe gelegenen Häfen oder Liegeplätzen weniger als 24 Stunden bzw. weniger als 12 Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "Aus dem Seelotsrevier Weser I kommende Schiffe sollen die vorher angezeigte Lotsenanforderung beim Passieren der Tonne 80 (Pegel Rechtenfleth) über UKW-Sprechfunk (Kanal 21) über Bremerhaven-Weser-Traffic bestätigen.",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "Footnotes": [
+                                    {
+                                        "Footnote": [
+                                            {
+                                                "_": "Die Meldung der Anforderung von Lotsen für Schiffe, die aus dem Seelotsrevier Weser I kommen, soll mindestens  vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition „Geeste“ erfolgen.",
+                                                "$": {
+                                                    "FnZ": "*",
+                                                    "Group": "column",
+                                                    "ID": "F831044_01_BJNR504130003BJNE002202119",
+                                                    "Pos": "normal"
+                                                },
+                                                "B": [
+                                                    "zwei Stunden"
                                                 ]
                                             }
                                         ]
@@ -2931,7 +3769,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214522",
+                    "builddate": "20240930214522",
                     "doknr": "BJNR504130003BJNE002301305"
                 },
                 "metadaten": [

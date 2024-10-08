@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240816214521",
+            "builddate": "20240930214521",
             "doknr": "BJNR504120003"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003"
                 },
                 "metadaten": [
@@ -105,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000100311"
                 },
                 "metadaten": [
@@ -139,7 +139,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000203305"
                 },
                 "metadaten": [
@@ -193,7 +193,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000300311"
                 },
                 "metadaten": [
@@ -235,7 +235,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000401305"
                 },
                 "metadaten": [
@@ -281,7 +281,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000501305"
                 },
                 "metadaten": [
@@ -330,8 +330,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
-                    "doknr": "BJNR504120003BJNE000601305"
+                    "builddate": "20240930214521",
+                    "doknr": "BJNR504120003BJNE000602119"
                 },
                 "metadaten": [
                     {
@@ -379,7 +379,8 @@
                                                             "6.",
                                                             "7.",
                                                             "8.",
-                                                            "9."
+                                                            "9.",
+                                                            "10."
                                                         ],
                                                         "DD": [
                                                             {
@@ -492,7 +493,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.",
+                                                                        "_": "den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die sichere minimale Steuergeschwindigkeit und die maximale Manövriergeschwindigkeit für die Revierfahrt.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -518,8 +532,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
-                    "doknr": "BJNR504120003BJNE000701305"
+                    "builddate": "20240930214521",
+                    "doknr": "BJNR504120003BJNE000702119"
                 },
                 "metadaten": [
                     {
@@ -550,7 +564,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord verpflichtet, ",
+                                                "_": "(1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord verpflichtet, ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -733,7 +747,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000800311"
                 },
                 "metadaten": [
@@ -775,7 +789,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE000900311"
                 },
                 "metadaten": [
@@ -877,7 +891,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001002305"
                 },
                 "metadaten": [
@@ -1081,7 +1095,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001102305"
                 },
                 "metadaten": [
@@ -1467,7 +1481,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001200311"
                 },
                 "metadaten": [
@@ -1509,7 +1523,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001300311"
                 },
                 "metadaten": [
@@ -1551,7 +1565,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001401305"
                 },
                 "metadaten": [
@@ -1600,7 +1614,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001500311"
                 },
                 "metadaten": [
@@ -1643,7 +1657,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001601305"
                 },
                 "metadaten": [
@@ -1787,7 +1801,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001700311"
                 },
                 "metadaten": [
@@ -1829,7 +1843,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001800311"
                 },
                 "metadaten": [
@@ -1969,7 +1983,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE001902305"
                 },
                 "metadaten": [
@@ -2014,7 +2028,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE002000311"
                 },
                 "metadaten": [
@@ -2051,7 +2065,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE002100311"
                 },
                 "metadaten": [
@@ -2093,8 +2107,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
-                    "doknr": "BJNR504120003BJNE002201305"
+                    "builddate": "20240930214521",
+                    "doknr": "BJNR504120003BJNE002202119"
                 },
                 "metadaten": [
                     {
@@ -2106,7 +2120,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "(zu § 5 Abs. 3)Ort und Anmeldung für die Lotsenanforderung",
+                                "_": "(zu § 5 Absatz 3)Ort und Anmeldung für die Lotsenanforderung",
                                 "$": {
                                     "format": "XML"
                                 },
@@ -2128,509 +2142,542 @@
                                     {
                                         "P": [
                                             {
-                                                "ABWFORMAT": [
+                                                "noindex": [
                                                     {
-                                                        "$": {
-                                                            "typ": "A"
-                                                        }
+                                                        "kommentar": [
+                                                            {
+                                                                "_": "(Fundstelle: BGBl. 2024 I Nr. 262, S. 3)",
+                                                                "$": {
+                                                                    "typ": "Fundstelle"
+                                                                }
+                                                            }
+                                                        ]
                                                     }
-                                                ],
-                                                "kommentar": [
+                                                ]
+                                            },
+                                            "Bei der Anforderung muss die Anfahrtszeit des Seelotsen mit öffentlichen Verkehrsmitteln berücksichtigt werden. Bei Abfahren in der Zeit zwischen 21 Uhr und 7 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18 Uhr angezeigt werden."
+                                        ],
+                                        "BR": [
+                                            "",
+                                            ""
+                                        ],
+                                        "table": [
+                                            {
+                                                "$": {
+                                                    "colsep": "0",
+                                                    "frame": "topbot",
+                                                    "pgwide": "1",
+                                                    "rowsep": "1",
+                                                    "tocentry": "%yes;"
+                                                },
+                                                "tgroup": [
                                                     {
-                                                        "_": "Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703",
                                                         "$": {
-                                                            "typ": "Fundstelle"
-                                                        }
-                                                    }
-                                                ],
-                                                "BR": [
-                                                    ""
-                                                ],
-                                                "table": [
-                                                    {
-                                                        "$": {
-                                                            "frame": "top",
-                                                            "tocentry": "%yes;"
+                                                            "align": "left",
+                                                            "char": "",
+                                                            "charoff": "50",
+                                                            "cols": "4"
                                                         },
-                                                        "tgroup": [
+                                                        "colspec": [
                                                             {
                                                                 "$": {
-                                                                    "align": "left",
-                                                                    "char": "",
-                                                                    "charoff": "50",
-                                                                    "cols": "4",
-                                                                    "colsep": "0",
-                                                                    "rowsep": "0"
+                                                                    "colname": "col1",
+                                                                    "colnum": "1",
+                                                                    "colwidth": "4*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col2",
+                                                                    "colnum": "2",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "55*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col3",
+                                                                    "colnum": "3",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "55*"
+                                                                }
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "colname": "col4",
+                                                                    "colnum": "4",
+                                                                    "colsep": "1",
+                                                                    "colwidth": "47*"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "thead": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "bottom"
                                                                 },
-                                                                "colspec": [
+                                                                "row": [
                                                                     {
                                                                         "$": {
-                                                                            "colname": "col1",
-                                                                            "colnum": "1",
-                                                                            "colwidth": "5.00*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col2",
-                                                                            "colnum": "2",
-                                                                            "colwidth": "29.94*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col3",
-                                                                            "colnum": "3",
-                                                                            "colwidth": "39.91*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col4",
-                                                                            "colnum": "4",
-                                                                            "colwidth": "30.14*"
-                                                                        }
-                                                                    }
-                                                                ],
-                                                                "thead": [
-                                                                    {
-                                                                        "$": {
-                                                                            "valign": "bottom"
+                                                                            "rowsep": "1"
                                                                         },
-                                                                        "row": [
+                                                                        "entry": [
                                                                             {
+                                                                                "_": "Ort der Übernahme des Seelotsen",
                                                                                 "$": {
-                                                                                    "rowsep": "1"
+                                                                                    "VJ": "1",
+                                                                                    "align": "center",
+                                                                                    "colsep": "1",
+                                                                                    "nameend": "col2",
+                                                                                    "namest": "col1",
+                                                                                    "valign": "middle"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Anmeldezeit für die Anforderung des Seelotsen",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "align": "center",
+                                                                                    "colname": "col3",
+                                                                                    "valign": "middle"
                                                                                 },
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Ort der Übernahme des Seelotsen",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "1",
-                                                                                            "nameend": "col2",
-                                                                                            "namest": "col1",
-                                                                                            "valign": "bottom"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Anmeldezeit für die Anforderung des Seelotsen",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "1",
-                                                                                            "valign": "bottom"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Empfänger der Lotsenanforderung (Telegrammanschrift)",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "a) Empfänger der Lotsenanforderung b) UKW-Kanal c) E-Mail d) Telefonnummer e) Telefax-Nummer",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4"
+                                                                                },
+                                                                                "BR": [
+                                                                                    "",
+                                                                                    "",
+                                                                                    "",
+                                                                                    ""
                                                                                 ]
                                                                             }
                                                                         ]
                                                                     }
-                                                                ],
-                                                                "tbody": [
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "tbody": [
+                                                            {
+                                                                "$": {
+                                                                    "valign": "top"
+                                                                },
+                                                                "row": [
                                                                     {
-                                                                        "$": {
-                                                                            "valign": "top"
-                                                                        },
-                                                                        "row": [
+                                                                        "entry": [
                                                                             {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "1.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Von See einlaufende Schiffe",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "nameend": "col3",
-                                                                                            "namest": "col2",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
+                                                                                "_": "1.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Von See einlaufende Schiffe",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "nameend": "col4",
+                                                                                    "namest": "col2"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Lotsenversetzposition bei Leuchttonne „GW/TG“",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  sowie zusätzlich  und  vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "24 Stunden",
+                                                                                    "zwölf",
+                                                                                    "zwei Stunden"
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
                                                                                     {
-                                                                                        "_": "1.1",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Lotsenversetzposition bei Leuchttonne \"GW/TG\"",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. 3 Stunden vor Erreichen der weitere Meldung.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Lotsenstation Emden (Emslotse Emden)",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Emden(Emslotse Emden)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        },
+                                                                                                        "BR": [
+                                                                                                            ""
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "VHF 09",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "pilotstation@emspilots.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 24000",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 32919",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
                                                                                     }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Lotsenversetzposition im Bereich der Leuchttonne „Westerems“",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mindestens  sowie zusätzlich  vor der voraussichtlichen Ankunftszeit an der Leuchttonne „Westerems“.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "24 Stunden",
+                                                                                    "zwölf und zwei Stunden"
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "1"
+                                                                                },
+                                                                                "DL": [
                                                                                     {
-                                                                                        "_": "Telefax: 0 49 21/3 29 19",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Emden(Emslotse Emden)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        },
+                                                                                                        "BR": [
+                                                                                                            ""
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "VHF 09",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "pilotstation@emspilots.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 24000",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 32919",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
                                                                                     }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen voraussichtlich weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colsep": "1",
+                                                                                    "nameend": "col4",
+                                                                                    "namest": "col1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "2.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Teilstreckenverkehr und auslaufende Schiffe",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "nameend": "col4",
+                                                                                    "namest": "col2"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Häfen und Liegeplätze im Seelotsrevier Ems",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col2"
+                                                                                },
+                                                                                "BR": [
+                                                                                    ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Telex: 27 882",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
+                                                                                "_": "Mindestens  vor der voraussichtlichen Abfahrtszeit.",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col3"
+                                                                                },
+                                                                                "B": [
+                                                                                    "zwei Stunden"
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Telefon: 0 49 21/2 40 00",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "1.2",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Lotsenversetzposition im Bereich der Leuchttonne „Westerems“",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Mindestens 24 Std. sowie zwölf ­Stunden vor Erreichen der Leuchttonne „Westerems“. Beträgt die ­Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "morerows": "3",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Lotsenstation Emden (Emslotse Emden)",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Telefax: 0 49 21/3 29 19",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Telex: 2 78 82",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Telefon: 0 49 21/2 40 00",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "colname": "col4",
+                                                                                    "rowsep": "0"
+                                                                                },
+                                                                                "DL": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "E-Mail: pilotstation@emspilots.de",
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Lotsenstation Borkum",
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "E-Mail: borkumstation@emspilots.de",
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Telefax: 0 49 22/92 35 89 37",
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Telefon: 0 49 22/92 35 89 36",
-                                                                                        "$": {
-                                                                                            "VJ": "1"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "2.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Auslaufende Schiffe und Teilstreckenverkehr",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "nameend": "col3",
-                                                                                            "namest": "col2",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Häfen und Liegeplätze im Seelotsrevier Ems",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Mindestens vier Stunden vor Abfahrt des Schiffes. Bei der Anforderung ist die Anfahrtzeit des Seelotsen mit öffentlichen Verkehrsmitteln zu berücksichtigen. Bei allen Abfahrten in der Zeit von 21.00 Uhr bis 07.00 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18.00 Uhr angezeigt werden.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
+                                                                                            "Font": "normal",
+                                                                                            "Type": "alpha"
+                                                                                        },
+                                                                                        "DT": [
+                                                                                            "a)",
+                                                                                            "b)",
+                                                                                            "c)",
+                                                                                            "d)",
+                                                                                            "e)"
+                                                                                        ],
+                                                                                        "DD": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "Lotsenstation Emden(Emslotse Emden)",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        },
+                                                                                                        "BR": [
+                                                                                                            ""
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "VHF 12",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "pilotstation@emspilots.de",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 24000",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal"
+                                                                                                },
+                                                                                                "LA": [
+                                                                                                    {
+                                                                                                        "_": "+49 4921 32919",
+                                                                                                        "$": {
+                                                                                                            "Size": "normal"
+                                                                                                        }
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
                                                                             }
@@ -2655,7 +2702,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240816214521",
+                    "builddate": "20240930214521",
                     "doknr": "BJNR504120003BJNE002301305"
                 },
                 "metadaten": [
