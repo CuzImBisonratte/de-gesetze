@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241014215014",
+            "builddate": "20241015215001",
             "doknr": "BJNR1310A0024"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241014215014",
+                    "builddate": "20241015215001",
                     "doknr": "BJNR1310A0024"
                 },
                 "metadaten": [
@@ -75,7 +75,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241014215014",
+                    "builddate": "20241015215001",
                     "doknr": "BJNR1310A0024BJNE000100000"
                 },
                 "metadaten": [
@@ -101,10 +101,14 @@
                                             "Auf Grund des § 17 Absatz 2 Satz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das zuletzt durch Artikel 2 des Gesetzes vom 19. Juli 2024 (BGBl. 2024 I Nr. 246) geändert worden ist, wird bekannt gemacht:",
                                             {
                                                 "_": "Die Höhe der monatlichen Mindestvergütung nach § 17 Absatz 2 Satz 1 des Berufsbildungsgesetzes beträgt, wenn die Berufsausbildung im Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 begonnen wird, ",
+                                                "BR": [
+                                                    ""
+                                                ],
                                                 "table": [
                                                     {
                                                         "$": {
                                                             "frame": "none",
+                                                            "pgwide": "1",
                                                             "tocentry": "%yes;"
                                                         },
                                                         "tgroup": [
@@ -141,14 +145,17 @@
                                                                                         "_": "im ersten Jahr einer Berufsausbildung",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col1"
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
                                                                                         "_": "682 Euro (§ 17 Absatz 2 Satz 1 Nummer 1 des Berufsbildungsgesetzes),",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col2"
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -159,14 +166,17 @@
                                                                                         "_": "im zweiten Jahr einer Berufsausbildung",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col1"
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
                                                                                         "_": "805 Euro (§ 17 Absatz 2 Satz 1 Nummer 2 des Berufsbildungsgesetzes),",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col2"
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -177,14 +187,17 @@
                                                                                         "_": "im dritten Jahr einer Berufsausbildung",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col1"
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
                                                                                         "_": "921 Euro (§ 17 Absatz 2 Satz 1 Nummer 3 des Berufsbildungsgesetzes)",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col2"
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -195,13 +208,16 @@
                                                                                         "_": "und",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col1"
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col2"
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -212,7 +228,8 @@
                                                                                         "_": "im vierten Jahr einer Berufsausbildung",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "colname": "col1"
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
@@ -242,7 +259,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241014215014",
+                    "builddate": "20241015215001",
                     "doknr": "BJNR1310A0024BJNE000200000"
                 },
                 "metadaten": [
