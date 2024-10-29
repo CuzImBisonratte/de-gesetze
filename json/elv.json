@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20180405214505",
+            "builddate": "20241024214002",
             "doknr": "BJNR021000991"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991"
                 },
                 "metadaten": [
@@ -54,7 +54,18 @@
                                     "Neuf"
                                 ],
                                 "standkommentar": [
-                                    "Neugefasst durch Bek. v. 7.3.2018 I 366"
+                                    "Neugefasst durch Bek. v. 7.3.2018 I 366;"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 1 V v. 16.10.2024 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             }
                         ]
@@ -98,7 +109,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000202116"
                 },
                 "metadaten": [
@@ -145,7 +156,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000303116"
                 },
                 "metadaten": [
@@ -273,7 +284,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000403116"
                 },
                 "metadaten": [
@@ -319,7 +330,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000501116"
                 },
                 "metadaten": [
@@ -365,7 +376,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000704116"
                 },
                 "metadaten": [
@@ -471,7 +482,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE000806116"
                 },
                 "metadaten": [
@@ -550,7 +561,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE001004116"
                 },
                 "metadaten": [
@@ -596,7 +607,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE001203116"
                 },
                 "metadaten": [
@@ -668,7 +679,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE001306116"
                 },
                 "metadaten": [
@@ -1300,7 +1311,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE001406116"
                 },
                 "metadaten": [
@@ -1783,7 +1794,7 @@
             },
             {
                 "$": {
-                    "builddate": "20180405214505",
+                    "builddate": "20241024214002",
                     "doknr": "BJNR021000991BJNE001502116"
                 },
                 "metadaten": [
@@ -1939,6 +1950,48 @@
                                             }
                                         ]
                                     }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241024214002",
+                    "doknr": "BJNR021000991BJNE001701116"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "ELV",
+                            "ElmV"
+                        ],
+                        "enbez": [
+                            "Anlage 5"
+                        ],
+                        "titel": [
+                            {
+                                "_": "(weggefallen)",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    ""
                                 ]
                             }
                         ],
