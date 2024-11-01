@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240612215002",
+            "builddate": "20241031213602",
             "doknr": "BJNR016200016"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016"
                 },
                 "metadaten": [
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE000100000"
                 },
                 "metadaten": [
@@ -128,8 +128,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE000200000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE000201126"
                 },
                 "metadaten": [
                     {
@@ -160,16 +160,18 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Die Aufnahmeeinrichtung, auf die der Ausländer verteilt worden ist, und die dieser Aufnahmeeinrichtung zugeordnete Außenstelle des Bundesamtes für Migration und Flüchtlinge (ausstellende Behörden) haben das Folgende dem Stand der Technik entsprechend zu gewährleisten: Die Einhaltung des Stands der Technik wird vermutet, wenn nach den in Anlage 1 genannten Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung verfahren wurde, die im Bundesanzeiger bekannt gemacht worden ist.",
+                                                "_": "(1) Die nach § 16 des Asylgesetzes zuständigen Behörden haben das Folgende dem Stand der Technik entsprechend zu gewährleisten: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4."
                                                         ],
                                                         "DD": [
                                                             {
@@ -177,7 +179,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Überprüfung des Standards und der Aktualität des bereits im Ausländerzentralregister gespeicherten Lichtbildes,"
+                                                                    {
+                                                                        "_": "die Erfassung des Lichtbildes und der Fingerabdrücke,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -185,7 +192,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erfassung und Verarbeitung der von ihnen im Rahmen einer erkennungsdienstlichen Maßnahme zu erhebenden Fingerabdruckdaten und des in den Ankunftsnachweis zu übernehmenden Lichtbildes,"
+                                                                    {
+                                                                        "_": "die Qualitätssicherung des Lichtbildes und der Fingerabdrücke,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -193,7 +205,168 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "das Erstellen eines Barcodes."
+                                                                    {
+                                                                        "_": "die maschinelle Echtheitsprüfung von ausländischen Ausweis- oder Identifikationsdokumenten sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Erhebung von anonymisierten Einzeldaten zur Sicherung des Sicherheits- und Qualitätsniveaus.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Die Aufnahmeeinrichtungen, auf die der Ausländer verteilt worden ist, und die dieser Aufnahmeeinrichtung zugeordnete Außenstelle des Bundesamtes für Migration und Flüchtlinge (ausstellende Behörde) haben das Folgende dem Stand der Technik entsprechend zu gewährleisten: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Verarbeitung des in den Ankunftsnachweis zu übernehmenden Lichtbildes sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Erstellen eines Barcodes.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) Die Einhaltung des Stands der Technik wird vermutet, wenn die Prozesse nach den in Anlage 1 genannten Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils zuletzt im Bundesanzeiger veröffentlichten Fassung durchgeführt wurden. In Sonderlagen kann im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik übergangsweise von der Einhaltung des Stands der Technik abgewichen werden.",
+                                            {
+                                                "_": "(4) Soweit die jeweils zuletzt im Bundesanzeiger veröffentlichte Technische Richtlinie eine Zertifizierung beim Bundesamt für Sicherheit in der Informationstechnik vorsieht, ist diese für folgende Systemkomponenten erforderlich: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Hardware zur Erfassung des Lichtbildes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Hardware zur Erfassung der Fingerabdrücke,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Software zur Erfassung und Qualitätssicherung des Lichtbildes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Hardware zur Prüfung von Dokumenten und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "für Software zur Prüfung von Dokumenten.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -204,14 +377,17 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE000300000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE000301126"
                 },
                 "metadaten": [
                     {
@@ -223,7 +399,53 @@
                         ],
                         "titel": [
                             {
-                                "_": "Dokumentationspflichten",
+                                "_": "Nationale Sicherheits- und Qualitätsstatistik",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Das Bundesamt für Sicherheit in der Informationstechnik führt eine nationale Sicherheits- und Qualitätsstatistik zu den nach § 16 des Asylgesetzes erhobenen biometrischen Daten und durchgeführten maschinellen Dokumentenprüfungen nach dem Stand der Technik. Das Bundesverwaltungsamt ermöglicht dem Bundesamt für Sicherheit in der Informationstechnik den Zugang zu anonymisierten Einzeldaten zum Zwecke der Sicherheits- und Qualitätsstatistik. Das Bundesamt für Sicherheit in der Informationstechnik stellt die in Satz 1 genannten Statistiken dem Bundesministerium des Innern und für Heimat, dem Bundesverwaltungsamt, der Bundespolizei, dem Bundeskriminalamt und dem Bundesamt für Migration und Flüchtlinge sowie den Ländern ganz oder teilweise zur Verfügung, soweit sie zur Aufgabenerfüllung benötigt werden.",
+                                            "(2) Für die Statistiken des Bundesamtes für Sicherheit in der Informationstechnik gelten die Grundsätze der Neutralität und Objektivität. Die Vorschriften der Geheimhaltung nach § 16 des Bundesstatistikgesetzes gelten entsprechend. Das Statistikgeheimnis ist durch technische und organisatorische Maßnahmen der Trennung zwischen statistischen und nichtstatistischen Aufgaben einzuhalten."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE000402126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "AKNV"
+                        ],
+                        "enbez": [
+                            "§ 3"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Dokumentationspflichten für den Ankunftsnachweis",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -246,51 +468,6 @@
                                     }
                                 ]
                             }
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE000401311"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "AKNV"
-                        ],
-                        "enbez": [
-                            "§ 3"
-                        ],
-                        "titel": [
-                            {
-                                "_": "Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten",
-                                "$": {
-                                    "format": "XML"
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "(1) Bei der Ausstellung des Ankunftsnachweises ist ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand zu verwenden. Das Lichtbild muss den Vorgaben der Anlage 2 Abschnitt 2 zu entsprechen. Es ist durch die ausstellende Behörde zu fertigen, soweit im Ausländerzentralregister kein den Anforderungen dieser Verordnung entsprechendes aktuelles Lichtbild hinterlegt ist.",
-                                            "(2) Die ausstellende Behörde stellt durch geeignete technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung und Verarbeitung des Lichtbildes und der Fingerabdruckdaten, insbesondere die Einhaltung der in § 1 genannten technischen Anforderungen, sicher. Dazu hat sie das Lichtbild und die Fingerabdruckdaten mit einer zertifizierten Qualitätssicherungssoftware zu prüfen. Darüber hinaus hat auch die Erfassung der Fingerabdruckdaten mit zertifizierter Hardware zu erfolgen. Soweit die technischen Richtlinien eine Zertifizierung der zur Erfassung und Überprüfungen erforderlichen Komponenten vorsieht, gilt dieses Erfordernis für die in Anlage 3 genannten Systemkomponenten. Bis zum 31. Dezember 2016 ist die Nutzung nicht zertifizierter Geräte zur Erfassung und Überprüfung des Standards und der Aktualität des Lichtbildes und der Fingerabdruckdaten zulässig.",
-                                            "(3) Das Bundesverwaltungsamt erstellt eine Qualitätsstatistik mit anonymisierten Qualitätswerten zu Lichtbildern, die von den ausstellenden Behörden erhoben und übermittelt werden.",
-                                            "(4) Das Bundesverwaltungsamt stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik, dem Bundesamt für Migration und Flüchtlinge und dem Bundeskriminalamt zur Verfügung."
-                                        ]
-                                    }
-                                ]
-                            }
                         ],
                         "fussnoten": [
                             ""
@@ -300,7 +477,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE000500000"
                 },
                 "metadaten": [
@@ -343,8 +520,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE000600000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE000601126"
                 },
                 "metadaten": [
                     {
@@ -374,18 +551,21 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Der Ankunftsnachweis ist ausschließlich nach dem in Anlage 4 abgedruckten Muster auszustellen."
+                                            "Der Ankunftsnachweis ist ausschließlich nach dem in Anlage 3 abgedruckten Muster auszustellen."
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE000700000"
                 },
                 "metadaten": [
@@ -428,7 +608,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE000800000"
                 },
                 "metadaten": [
@@ -472,7 +652,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE000900000"
                 },
                 "metadaten": [
@@ -514,7 +694,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
+                    "builddate": "20241031213602",
                     "doknr": "BJNR016200016BJNE001000000"
                 },
                 "metadaten": [
@@ -548,8 +728,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE001100000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE001101126"
                 },
                 "metadaten": [
                     {
@@ -588,10 +768,13 @@
                                                     {
                                                         "kommentar": [
                                                             {
-                                                                "_": "(Fundstelle: BGBl. I 2016, 164)",
+                                                                "_": "(Fundstelle: BGBl. I 2016, 164;  bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                                 "$": {
                                                                     "typ": "Fundstelle"
-                                                                }
+                                                                },
+                                                                "BR": [
+                                                                    ""
+                                                                ]
                                                             }
                                                         ]
                                                     }
@@ -607,7 +790,9 @@
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
                                                         ],
                                                         "DD": [
                                                             {
@@ -648,6 +833,32 @@
                                                                         }
                                                                     }
                                                                 ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "BSI-TR 03135 – Machine Authentication of MRTDs for Public Sector Applications",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "BSI-TR 03156 – Hoheitliches Identitätsmanagement in Verbindung mit EU-Informationssystemen",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
                                                             }
                                                         ]
                                                     }
@@ -660,14 +871,17 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE001200000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE001201126"
                 },
                 "metadaten": [
                     {
@@ -679,7 +893,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "(zu § 3 Absatz 1 und § 4 Absatz 1)Formale Anforderungen an variable Einträge",
+                                "_": "(zu den §§ 3 und 4 Absatz 1)Formale Anforderungen an variable Einträge",
                                 "$": {
                                     "format": "XML"
                                 },
@@ -705,18 +919,16 @@
                                                     {
                                                         "kommentar": [
                                                             {
-                                                                "_": "(Fundstelle: BGBl. I 2016, 165 - 169)",
+                                                                "_": "(Fundstelle: BGBl. I 2016, 165 - 169;  bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                                 "$": {
                                                                     "typ": "Fundstelle"
-                                                                }
+                                                                },
+                                                                "BR": [
+                                                                    ""
+                                                                ]
                                                             }
                                                         ]
                                                     }
-                                                ]
-                                            },
-                                            {
-                                                "SP": [
-                                                    "Abschnitt 1"
                                                 ]
                                             },
                                             {
@@ -910,517 +1122,6 @@
                                                 ]
                                             },
                                             {
-                                                "SP": [
-                                                    "Abschnitt 2"
-                                                ]
-                                            },
-                                            {
-                                                "table": [
-                                                    {
-                                                        "$": {
-                                                            "colsep": "1",
-                                                            "frame": "all",
-                                                            "pgwide": "1",
-                                                            "rowsep": "1",
-                                                            "tocentry": "%yes;"
-                                                        },
-                                                        "tgroup": [
-                                                            {
-                                                                "$": {
-                                                                    "align": "left",
-                                                                    "char": "",
-                                                                    "charoff": "50",
-                                                                    "cols": "2"
-                                                                },
-                                                                "colspec": [
-                                                                    {
-                                                                        "$": {
-                                                                            "align": "justify",
-                                                                            "colname": "col1",
-                                                                            "colnum": "1",
-                                                                            "colwidth": "2.40*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "align": "center",
-                                                                            "colname": "col2",
-                                                                            "colnum": "2",
-                                                                            "colwidth": "1.00*"
-                                                                        }
-                                                                    }
-                                                                ],
-                                                                "tbody": [
-                                                                    {
-                                                                        "$": {
-                                                                            "valign": "top"
-                                                                        },
-                                                                        "row": [
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Qualitativ hochwertige Fotos sind die Grundlage einer einwandfreien Wiedergabe des Bildes und Voraussetzung für die Anwendung der Gesichtsbiometrie in Ankunftsnachweisen. Dieser Foto-Mustertafel sind die Qualitätsmerkmale zu entnehmen, die die Eignung der Fotos für den vorgesehenen Einsatz in Ankunftsnachweisen gewährleisten. Es ist dringend erforderlich, die hier beschriebenen Anforderungen zu beachten, da sonst eine biometrische Erkennung des Asyl- oder Schutzsuchenden sowie die einwandfreie Wiedergabe des Bildes im Dokument nicht gewährleistet sind. Die Person ist grundsätzlich ohne Kopfbedeckung abzubilden. Die Aufnahmeeinrichtung oder die Außenstelle des Bundesamtes kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Auf den Fotos sind keine Uniformteile abzubilden.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Musterfoto"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "534",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0010.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "417",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Das Foto muss die Gesichtszüge der Person von der Kinnspitze bis zum oberen Kopfende, sowie die linke und rechte Gesichtshälfte deutlich zeigen. Die Gesichtshöhe muss 70 bis 80 Prozent des Fotos einnehmen. Dies entspricht einer Höhe von 32 bis 36 mm von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Lichtbilder jedoch erst dann abzulehnen, wenn die Gesichtshöhe 27 mm unterschreitet oder 40 mm überschreitet. Bei volumenreichem Haar sollte darauf geachtet werden, dass der Kopf (einschl.Frisur) möglichst vollständig abgebildet ist, ohne aber die Gesichtsgröße zu verkleinern. Das Gesicht muss zentriert auf dem Foto platziert sein.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Format"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0020.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Das Gesicht muss in allen Bereichen scharf abgebildet, kontrastreich und klar sein.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Schärfe und Kontrast"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0030.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Das Gesicht muss gleichmäßig ausgeleuchtet werden. Reflexionen oder Schatten im Gesicht sowie rote Augen sind zu vermeiden.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Ausleuchtung"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0040.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Der Hintergrund muss einfarbig hell sein (idealerweise neutral grau) und einen Kontrast zum Gesicht und zu den Haaren aufweisen. Bei hellen Haaren eignet sich ein mittelgrauer Hintergrund, bei dunklen Haaren ein hellgrauer. Der Hintergrund darf kein Muster aufweisen. Das Foto darf ausschließlich die zu fotografierende Person zeigen (keine weiteren Personen oder Gegenstände im Bild). Auf dem Hintergrund dürfen keine Schatten entstehen.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Hintergrund"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0050.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Das Foto sollte (insbesondere bei der Aufnahme mit einer Digitalkamera) mit einer Druckauflösung von mindestens 600 dpi vorliegen. Das Foto muss farbneutral sein und die Hauttöne natürlich wiedergeben. Das Foto kann in Schwarzweiß oder Farbe vorliegen.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Fotoqualität"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0060.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Eine Darstellung der Person mit geneigtem oder gedrehtem Kopf (z. B. Halbprofil) ist nicht zulässig. Die Person muss mit neutralem Gesichtsausdruck und geschlossenem Mund gerade in die Kamera blicken.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Kopfposition und Gesichtsausdruck"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0070.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Die Person muss auf dem Foto direkt in die Kamera blicken. Die Augen müssen geöffnet und deutlich sichtbar sein und dürfen nicht durch Haare oder Brillengestelle verdeckt werden.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Augen und Blickrichtung"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "536",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0080.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "419",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Die Augen müssen klar und deutlich erkennbar sein (Reflexionen auf den Brillengläsern, getönte Gläser oder Sonnenbrillen sind nicht zulässig). Der Rand der Gläser oder das Gestell dürfen nicht die Augen verdecken.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Brillenträger"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "535",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0090.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "418",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Kopfbedeckungen sind grundsätzlich nicht erlaubt. Ausnahmen sind insbesondere aus religiösen Gründen zulässig. In diesem Fall gilt: Das Gesicht muss von der unteren Kinnkante bis zur Stirn erkennbar sein. Es dürfen keine Schatten auf dem Gesicht entstehen.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Kopfbedeckung"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "536",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0100.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "419",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Bei Kindern bis zum vollendeten 10. Lebensjahr sind folgende Abweichungen bei der Gesichtshöhe und im Augenbereich zulässig: Die Gesichtshöhe bei Kindern muss 50 bis 80 Prozent des Fotos einnehmen. Dies entspricht einer Höhe von 22 bis 36 mm von der Kinnspitze bis zum oberen Kopfende. Dabei ist das obere Kopfende unter Vernachlässigung der Frisur anzunehmen. Wegen des häufig nicht eindeutig zu bestimmenden oberen Kopfendes sind Fotos jedoch erst dann abzulehnen, wenn die Gesichtshöhe 17 mm unterschreitet oder 40 mm überschreitet. Bei Säuglingen und Kleinkindern gelten zusätzlich die nachfolgend beschriebenen Abweichungen.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Kinder"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "546",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0110.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "424",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": " Bei Säuglingen und Kleinkindern bis zum vollendeten 6. Lebensjahr sind zusätzlich zu den unter der Überschrift „Kinder“ dargestellten Ausnahmen Abweichungen in der Kopfhaltung (nicht von der Frontalaufnahme!), im Gesichtsausdruck, hinsichtlich Augen und Blickrichtung sowie hinsichtlich der Zentrierung auf dem Foto zulässig.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "B": [
-                                                                                            "Säuglinge und Kleinkinder"
-                                                                                        ],
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2",
-                                                                                            "valign": "top"
-                                                                                        },
-                                                                                        "IMG": [
-                                                                                            {
-                                                                                                "$": {
-                                                                                                    "Align": "center",
-                                                                                                    "Height": "546",
-                                                                                                    "Pos": "inline",
-                                                                                                    "SRC": "bgbl1_2016_j0162-1_0120.jpg",
-                                                                                                    "Type": "TIF",
-                                                                                                    "Units": "300",
-                                                                                                    "Width": "424",
-                                                                                                    "alt": ""
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
                                                 "_": " Anmerkung: ",
                                                 "U": [
                                                     "      "
@@ -1437,27 +1138,27 @@
                                                         "FnR": [
                                                             {
                                                                 "$": {
-                                                                    "ID": "F792786_01_BJNR016200016BJNE001200000"
+                                                                    "ID": "F792786_01_BJNR016200016BJNE001201126"
                                                                 }
                                                             },
                                                             {
                                                                 "$": {
-                                                                    "ID": "F792786_02_BJNR016200016BJNE001200000"
+                                                                    "ID": "F792786_02_BJNR016200016BJNE001201126"
                                                                 }
                                                             },
                                                             {
                                                                 "$": {
-                                                                    "ID": "F792786_03_BJNR016200016BJNE001200000"
+                                                                    "ID": "F792786_03_BJNR016200016BJNE001201126"
                                                                 }
                                                             },
                                                             {
                                                                 "$": {
-                                                                    "ID": "F792786_04_BJNR016200016BJNE001200000"
+                                                                    "ID": "F792786_04_BJNR016200016BJNE001201126"
                                                                 }
                                                             },
                                                             {
                                                                 "$": {
-                                                                    "ID": "F792786_05_BJNR016200016BJNE001200000"
+                                                                    "ID": "F792786_05_BJNR016200016BJNE001201126"
                                                                 }
                                                             }
                                                         ]
@@ -1651,7 +1352,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_01_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_01_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -1668,7 +1369,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_02_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_02_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -1700,7 +1401,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_01_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_01_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -1758,7 +1459,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_03_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_03_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -1921,7 +1622,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_04_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_04_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -2401,7 +2102,7 @@
                                                                                 "FnR": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "ID": "F792786_05_BJNR016200016BJNE001200000"
+                                                                                            "ID": "F792786_05_BJNR016200016BJNE001201126"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -2425,7 +2126,7 @@
                                                 "$": {
                                                     "FnZ": "1",
                                                     "Group": "manuell",
-                                                    "ID": "F792786_01_BJNR016200016BJNE001200000",
+                                                    "ID": "F792786_01_BJNR016200016BJNE001201126",
                                                     "Pos": "exp"
                                                 }
                                             },
@@ -2434,7 +2135,7 @@
                                                 "$": {
                                                     "FnZ": "2",
                                                     "Group": "manuell",
-                                                    "ID": "F792786_02_BJNR016200016BJNE001200000",
+                                                    "ID": "F792786_02_BJNR016200016BJNE001201126",
                                                     "Pos": "exp"
                                                 }
                                             },
@@ -2443,7 +2144,7 @@
                                                 "$": {
                                                     "FnZ": "3",
                                                     "Group": "manuell",
-                                                    "ID": "F792786_03_BJNR016200016BJNE001200000",
+                                                    "ID": "F792786_03_BJNR016200016BJNE001201126",
                                                     "Pos": "exp"
                                                 }
                                             },
@@ -2452,7 +2153,7 @@
                                                 "$": {
                                                     "FnZ": "4",
                                                     "Group": "manuell",
-                                                    "ID": "F792786_04_BJNR016200016BJNE001200000",
+                                                    "ID": "F792786_04_BJNR016200016BJNE001201126",
                                                     "Pos": "exp"
                                                 }
                                             },
@@ -2461,7 +2162,7 @@
                                                 "$": {
                                                     "FnZ": "5",
                                                     "Group": "manuell",
-                                                    "ID": "F792786_05_BJNR016200016BJNE001200000",
+                                                    "ID": "F792786_05_BJNR016200016BJNE001201126",
                                                     "Pos": "exp"
                                                 }
                                             }
@@ -2486,8 +2187,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE001300000"
+                    "builddate": "20241031213602",
+                    "doknr": "BJNR016200016BJNE001401126"
                 },
                 "metadaten": [
                     {
@@ -2496,278 +2197,6 @@
                         ],
                         "enbez": [
                             "Anlage 3"
-                        ],
-                        "titel": [
-                            {
-                                "_": "(zu § 3 Absatz 2)Übersicht über die zu zertifizierenden Systemkomponenten",
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "BR": [
-                                    ""
-                                ]
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            {
-                                                "noindex": [
-                                                    {
-                                                        "kommentar": [
-                                                            {
-                                                                "_": "(Fundstelle: BGBl. I 2016, 170)",
-                                                                "$": {
-                                                                    "typ": "Fundstelle"
-                                                                }
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "table": [
-                                                    {
-                                                        "$": {
-                                                            "colsep": "1",
-                                                            "frame": "all",
-                                                            "pgwide": "1",
-                                                            "rowsep": "1",
-                                                            "tocentry": "%yes;"
-                                                        },
-                                                        "tgroup": [
-                                                            {
-                                                                "$": {
-                                                                    "align": "left",
-                                                                    "char": "",
-                                                                    "charoff": "50",
-                                                                    "cols": "3"
-                                                                },
-                                                                "colspec": [
-                                                                    {
-                                                                        "$": {
-                                                                            "align": "center",
-                                                                            "colname": "col1",
-                                                                            "colnum": "1",
-                                                                            "colwidth": "10*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col2",
-                                                                            "colnum": "2",
-                                                                            "colwidth": "40*"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "$": {
-                                                                            "colname": "col3",
-                                                                            "colnum": "3",
-                                                                            "colwidth": "62*"
-                                                                        }
-                                                                    }
-                                                                ],
-                                                                "thead": [
-                                                                    {
-                                                                        "$": {
-                                                                            "valign": "bottom"
-                                                                        },
-                                                                        "row": [
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "Lfd.Nr.",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Bezeichnungder Systemkomponente",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "center",
-                                                                                            "colname": "col2"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Regelungsadressat",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "center",
-                                                                                            "colname": "col3",
-                                                                                            "valign": "middle"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ],
-                                                                "tbody": [
-                                                                    {
-                                                                        "$": {
-                                                                            "valign": "top"
-                                                                        },
-                                                                        "row": [
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "1",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Erfassungsstation zur Fertigung des Lichtbildes",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Verpflichtung für die Anbieter dieser Geräte Verpflichtung für die ausstellende Behörde",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col3"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "2",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Fingerabdruckscanner",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Verpflichtung für die Anbieter dieser Geräte Verpflichtung für die ausstellende Behörde",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col3"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "3",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Software zur Erfassung und Qualitätssicherung des Lichtbildes",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Verpflichtung für die Anbieter dieser Geräte Verpflichtung für die ausstellende Behörde",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col3"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "_": "4",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col1"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col2"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "_": "Verpflichtung für die Anbieter dieser GeräteVerpflichtung für die ausstellende Behörde",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col3"
-                                                                                        },
-                                                                                        "BR": [
-                                                                                            ""
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "BR": [
-                                            ""
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20240612215002",
-                    "doknr": "BJNR016200016BJNE001400000"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "AKNV"
-                        ],
-                        "enbez": [
-                            "Anlage 4"
                         ],
                         "titel": [
                             {
@@ -2797,10 +2226,13 @@
                                                     {
                                                         "kommentar": [
                                                             {
-                                                                "_": "(Fundstelle: BGBl. I 2016, 171)",
+                                                                "_": "(Fundstelle: BGBl. I 2016, 171;  bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                                 "$": {
                                                                     "typ": "Fundstelle"
-                                                                }
+                                                                },
+                                                                "BR": [
+                                                                    ""
+                                                                ]
                                                             }
                                                         ]
                                                     }
@@ -2847,6 +2279,9 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]

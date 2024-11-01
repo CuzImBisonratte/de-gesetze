@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240719215037",
+            "builddate": "20241031213633",
             "doknr": "BJNR194500014"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014"
                 },
                 "metadaten": [
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE000100000"
                 },
                 "metadaten": [
@@ -129,7 +129,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE000201123"
                 },
                 "metadaten": [
@@ -176,7 +176,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE000302125"
                 },
                 "metadaten": [
@@ -226,8 +226,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
-                    "doknr": "BJNR194500014BJNE000403123"
+                    "builddate": "20241031213633",
+                    "doknr": "BJNR194500014BJNE000404130"
                 },
                 "metadaten": [
                     {
@@ -262,7 +262,7 @@
                                             "(2) OSCI-Transport ist der am 6. Juni 2002 herausgegebene Standard für ein Datenübermittlungsprotokoll.",
                                             "(3) Der von der Koordinierungsstelle für IT-Standards (KoSIT) am 1. Mai 2014 herausgegebene DSMeld legt Form und Inhalt der zu übermittelnden Daten fest.",
                                             "(4) Das Datenaustauschformat OSCI-XMeld, das Übermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum Bund (ITZBund), Dienstsitz Bonn, Bernkasteler Straße 8, 53175 Bonn, bezogen werden.",
-                                            "(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben."
+                                            "(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben."
                                         ]
                                     }
                                 ]
@@ -276,8 +276,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
-                    "doknr": "BJNR194500014BJNE000508116"
+                    "builddate": "20241031213633",
+                    "doknr": "BJNR194500014BJNE000509130"
                 },
                 "metadaten": [
                     {
@@ -613,6 +613,33 @@
                                                                                         "_": "8.",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "die Identifikationsnummer nach § 139b der Abgabenordnung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2701,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
                                                                                             "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
@@ -650,7 +677,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "9.",
+                                                                                        "_": "10.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -680,7 +707,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "10.",
+                                                                                        "_": "11.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -710,7 +737,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "11.",
+                                                                                        "_": "12.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -740,7 +767,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "12.",
+                                                                                        "_": "13.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -773,7 +800,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "13.",
+                                                                                        "_": "14.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -810,7 +837,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "14.",
+                                                                                        "_": "15.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -849,7 +876,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "15.",
+                                                                                        "_": "16.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -887,7 +914,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "16.",
+                                                                                        "_": "17.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -932,7 +959,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "17.",
+                                                                                        "_": "18.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -962,7 +989,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "18.",
+                                                                                        "_": "19.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colsep": "0",
@@ -990,7 +1017,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "19.",
+                                                                                        "_": "20.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colsep": "0",
@@ -1255,7 +1282,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE000601125"
                 },
                 "metadaten": [
@@ -1362,8 +1389,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
-                    "doknr": "BJNR194500014BJNE000707116"
+                    "builddate": "20241031213633",
+                    "doknr": "BJNR194500014BJNE000708130"
                 },
                 "metadaten": [
                     {
@@ -1701,6 +1728,33 @@
                                                                                         "_": "8.",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "die Identifikationsnummer nach § 139b der Abgabenordnung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2701,",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "9.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
                                                                                             "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
@@ -1737,7 +1791,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "9.",
+                                                                                        "_": "10.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1767,7 +1821,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "10.",
+                                                                                        "_": "11.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1797,7 +1851,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "11.",
+                                                                                        "_": "12.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1833,7 +1887,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "12.",
+                                                                                        "_": "13.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1866,7 +1920,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "13.",
+                                                                                        "_": "14.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1902,7 +1956,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "14.",
+                                                                                        "_": "15.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1942,7 +1996,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "15.",
+                                                                                        "_": "16.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -1979,7 +2033,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "16.",
+                                                                                        "_": "17.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -2024,7 +2078,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "17.",
+                                                                                        "_": "18.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col1",
@@ -2054,7 +2108,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "18.",
+                                                                                        "_": "19.",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colsep": "0",
@@ -2507,8 +2561,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
-                    "doknr": "BJNR194500014BJNE000806130"
+                    "builddate": "20241031213633",
+                    "doknr": "BJNR194500014BJNE000807130"
                 },
                 "metadaten": [
                     {
@@ -2540,7 +2594,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Die Auswertung der Rückmeldung erfolgt Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der zugezogenen Person, so unterrichtet die Wegzugsmeldebehörde die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603, 2604, 2701 bis 2708, 2801, 2802 und 3101). Sie übermittelt der Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern diese Daten im Melderegister gespeichert sind (Datenblätter 1710 und 1711 oder 1718 und 1719) sowie das Datenblatt 1712a. Ist die neue Wohnung die Nebenwohnung der zugezogenen Person, so unterrichtet die Meldebehörde der alleinigen Wohnung oder der Hauptwohnung die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 7 und 8 des Bundesmeldegesetzes vorliegen (Datenblätter 2601, 2602, 2603, 2604, 2801 und 2802). Die Sätze 2 und 3 gelten auch für Wohnungen, die ihren Status als alleinige Wohnung oder als Hauptwohnung durch Abmeldung oder besondere Erklärung der meldepflichtigen Person erhalten haben.",
+                                                "_": "(1) Die Auswertung der Rückmeldung erfolgt Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der zugezogenen Person, so unterrichtet die Wegzugsmeldebehörde die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603, 2604, 2702 bis 2708, 2801, 2802 und 3101). Sie übermittelt der Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern diese Daten im Melderegister gespeichert sind (Datenblätter 1710 und 1711 oder 1718 und 1719) sowie das Datenblatt 1712a. Ist die neue Wohnung die Nebenwohnung der zugezogenen Person, so unterrichtet die Meldebehörde der alleinigen Wohnung oder der Hauptwohnung die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 7 und 8 des Bundesmeldegesetzes vorliegen (Datenblätter 2601, 2602, 2603, 2604, 2801 und 2802). Die Sätze 2 und 3 gelten auch für Wohnungen, die ihren Status als alleinige Wohnung oder als Hauptwohnung durch Abmeldung oder besondere Erklärung der meldepflichtigen Person erhalten haben.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -2887,8 +2941,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
-                    "doknr": "BJNR194500014BJNE000901123"
+                    "builddate": "20241031213633",
+                    "doknr": "BJNR194500014BJNE000902130"
                 },
                 "metadaten": [
                     {
@@ -2923,7 +2977,7 @@
                                             "(2) Absatz 1 gilt entsprechend, wenn sich durch Abmeldung oder besondere Erklärung der meldepflichtigen Person der Status der Wohnung ändert. In diesen Fällen sind auch der neue Wohnungsstatus (Datenblatt 1213) und das Datum des Wohnungsstatuswechsels (Datenblatt 1301a) zu übermitteln.",
                                             "(3) § 7 Absatz 3 gilt entsprechend.",
                                             {
-                                                "_": "(4) Ändern sich die in § 3 Absatz 1 Nummer 14, 15 oder 18 oder Absatz 2 Nummer 2 Buchstabe d und Nummer 3 des Bundesmeldegesetzes bezeichneten Daten von Ehegatten oder Lebenspartnern ohne gemeinsame Wohnung oder findet ein Wegzug in das Ausland oder nach unbekannt statt, so übermittelt die Meldebehörde der für den anderen Ehegatten oder Lebenspartner zuständigen Meldebehörde die geänderten Daten (Änderungsmitteilung Ehegatte oder Lebenspartner). Dabei sind zusätzlich anzugeben: ",
+                                                "_": "(4) Ändern sich die in § 3 Absatz 1 Nummer 1 bis 4, 6 bis 8, 12, 14 oder 18 oder Absatz 2 Nummer 3 des Bundesmeldegesetzes bezeichneten Daten von Personen mit Ehegatten oder Lebenspartnern ohne gemeinsame Wohnung oder findet ein Wegzug in das Ausland oder nach unbekannt statt, so übermittelt die Meldebehörde der für den anderen Ehegatten oder Lebenspartner zuständigen Meldebehörde die geänderten Daten (Änderungsmitteilung Ehegatte oder Lebenspartner). Dabei sind zusätzlich anzugeben: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -3038,7 +3092,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE001000000"
                 },
                 "metadaten": [
@@ -3082,7 +3136,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240719215037",
+                    "builddate": "20241031213633",
                     "doknr": "BJNR194500014BJNE001100000"
                 },
                 "metadaten": [

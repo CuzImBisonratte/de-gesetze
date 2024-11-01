@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240501215502",
+            "builddate": "20241031213640",
             "doknr": "BJNR238610007"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007"
                 },
                 "metadaten": [
@@ -95,8 +95,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
-                    "doknr": "BJNR238610007BJNE000102130"
+                    "builddate": "20241031213640",
+                    "doknr": "BJNR238610007BJNE000103130"
                 },
                 "metadaten": [
                     {
@@ -155,7 +155,7 @@
                                                 }
                                             },
                                             {
-                                                "_": "Anlage  1Anlage  1aAnlage  1bAnlage  1cAnlage  1dAnlage  2 (weggefallen)Anlage  3Anlage  4Anlage  5Anlage  6Anlage  7Anlage  8Anlage  9Anlage 10Anlage 11",
+                                                "_": "Anlage  1Anlage  1aAnlage  1bAnlage  1cAnlage  1dAnlage  2 (weggefallen)Anlage  3Anlage  4Anlage  5Anlage  6Anlage  7Anlage  8Anlage  9Anlage 10Anlage  11",
                                                 "$": {
                                                     "Class": "S0"
                                                 },
@@ -179,7 +179,7 @@
                                         ],
                                         "Title": [
                                             {
-                                                "_": "Passmuster",
+                                                "_": "Passmuster; Ausgabe und Versand des Passes",
                                                 "$": {
                                                     "Align": "auto",
                                                     "Class": "S0"
@@ -215,6 +215,14 @@
                                                     "Align": "auto",
                                                     "Class": "S0"
                                                 }
+                                            },
+                                            {
+                                                "$": {
+                                                    "Align": "auto"
+                                                },
+                                                "U": [
+                                                    ""
+                                                ]
                                             }
                                         ],
                                         "table": [
@@ -361,7 +369,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "(weggefallen)",
+                                                                                "_": "Ausgabe und Versand des Passes",
                                                                                 "$": {
                                                                                     "VJ": "1"
                                                                                 }
@@ -875,8 +883,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
-                    "doknr": "BJNR238610007BJNG000100000"
+                    "builddate": "20241031213640",
+                    "doknr": "BJNR238610007BJNG000101130"
                 },
                 "metadaten": [
                     {
@@ -892,19 +900,23 @@
                                     "Kapitel 1"
                                 ],
                                 "gliederungstitel": [
-                                    "Passmuster"
+                                    "Passmuster; Ausgabe und Versand des Passes"
                                 ]
                             }
                         ]
                     }
                 ],
                 "textdaten": [
-                    ""
+                    {
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000202116"
                 },
                 "metadaten": [
@@ -952,7 +964,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000403130"
                 },
                 "metadaten": [
@@ -998,7 +1010,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000503130"
                 },
                 "metadaten": [
@@ -1047,7 +1059,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000601130"
                 },
                 "metadaten": [
@@ -1092,8 +1104,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
-                    "doknr": "BJNR238610007BJNE004100130"
+                    "builddate": "20241031213640",
+                    "doknr": "BJNR238610007BJNE004000130"
                 },
                 "metadaten": [
                     {
@@ -1105,7 +1117,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "(weggefallen)",
+                                "_": "Ausgabe und Versand des Passes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -1123,7 +1135,10 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            ""
+                                            "(1) Der Pass wird von der Passbehörde an die antragstellende Person, an eine andere nach § 6 Absatz 1 des Passgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ausgegeben.",
+                                            "(2) Der Pass wird durch den Passhersteller auf dem Postweg an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen Körperschaft besitzt, der eine einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber der Passbehörde im Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der bisherige Pass ist bei der Beantragung zu entwerten, es sei denn, er enthält zu diesem Zeitpunkt noch gültige Sichtvermerke anderer Staaten. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines in Satz 1 genannten Lichtbildausweises zu überprüfen. Der Passhersteller informiert die Passbehörde über die erfolgte Übergabe des Passes an die antragstellende Person.",
+                                            "(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der Passbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der Passbehörde noch nicht vorliegt. Die Passbehörde übermittelt diese E-Mail-Adresse an den Passhersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe durch Versand einer E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des Passes, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist bei der Passbehörde, beim Passhersteller und beim Zusteller unverzüglich nach der Übergabe des Passes an die antragstellende Person zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Passhersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des Passes bei der zuständigen Passbehörde, die Passbehörde diese unverzüglich nach der Ausgabe des Passes an die antragstellende Person zu löschen haben.",
+                                            "(4) Abweichend von Absatz 2 darf die Passbehörde im Ausland Pässe auch auf dem Postweg versenden, ohne dass der Zusteller die antragstellende Person identifiziert, sofern die Abholung des Passes für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe besteht. Als unzustellbar zurückgesandte Pässe gibt die Passbehörde nach Maßgabe von Absatz 1 an die antragstellende Person aus."
                                         ]
                                     }
                                 ]
@@ -1137,7 +1152,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNG000200000"
                 },
                 "metadaten": [
@@ -1166,7 +1181,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000700000"
                 },
                 "metadaten": [
@@ -1266,7 +1281,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000801360"
                 },
                 "metadaten": [
@@ -1454,7 +1469,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE000900000"
                 },
                 "metadaten": [
@@ -1497,7 +1512,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001001130"
                 },
                 "metadaten": [
@@ -1542,7 +1557,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001100000"
                 },
                 "metadaten": [
@@ -1615,7 +1630,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001200000"
                 },
                 "metadaten": [
@@ -1657,7 +1672,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNG000300000"
                 },
                 "metadaten": [
@@ -1686,7 +1701,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001300000"
                 },
                 "metadaten": [
@@ -1729,7 +1744,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001400000"
                 },
                 "metadaten": [
@@ -1773,7 +1788,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001500000"
                 },
                 "metadaten": [
@@ -1865,7 +1880,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNG000400000"
                 },
                 "metadaten": [
@@ -1894,8 +1909,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
-                    "doknr": "BJNR238610007BJNE001607130"
+                    "builddate": "20241031213640",
+                    "doknr": "BJNR238610007BJNE001608130"
                 },
                 "metadaten": [
                     {
@@ -2392,6 +2407,35 @@
                                                                                         }
                                                                                     }
                                                                                 ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "3.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "für die Zustellung nach § 5 Absatz 2",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "justify",
+                                                                                            "colsep": "0",
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "15 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "right",
+                                                                                            "valign": "bottom"
+                                                                                        }
+                                                                                    }
+                                                                                ]
                                                                             }
                                                                         ]
                                                                     }
@@ -2515,7 +2559,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001701116"
                 },
                 "metadaten": [
@@ -2560,7 +2604,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001800000"
                 },
                 "metadaten": [
@@ -2602,7 +2646,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNG000500000"
                 },
                 "metadaten": [
@@ -2631,7 +2675,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE001904116"
                 },
                 "metadaten": [
@@ -2679,7 +2723,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003104130"
                 },
                 "metadaten": [
@@ -4292,7 +4336,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003203130"
                 },
                 "metadaten": [
@@ -6566,7 +6610,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003700116"
                 },
                 "metadaten": [
@@ -6689,7 +6733,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003800116"
                 },
                 "metadaten": [
@@ -6811,7 +6855,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003900116"
                 },
                 "metadaten": [
@@ -6933,7 +6977,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002205130"
                 },
                 "metadaten": [
@@ -6974,7 +7018,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002303116"
                 },
                 "metadaten": [
@@ -7789,7 +7833,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003303130"
                 },
                 "metadaten": [
@@ -10058,7 +10102,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003403130"
                 },
                 "metadaten": [
@@ -12327,7 +12371,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002603116"
                 },
                 "metadaten": [
@@ -13142,7 +13186,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002703116"
                 },
                 "metadaten": [
@@ -13958,7 +14002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003501116"
                 },
                 "metadaten": [
@@ -14077,7 +14121,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002801130"
                 },
                 "metadaten": [
@@ -14707,7 +14751,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE002900000"
                 },
                 "metadaten": [
@@ -14955,7 +14999,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003000000"
                 },
                 "metadaten": [
@@ -15205,7 +15249,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240501215502",
+                    "builddate": "20241031213640",
                     "doknr": "BJNR238610007BJNE003606130"
                 },
                 "metadaten": [

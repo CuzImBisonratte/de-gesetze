@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240701214502",
+            "builddate": "20241031213611",
             "doknr": "BJNR105370986"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986"
                 },
                 "metadaten": [
@@ -64,6 +64,39 @@
                                 "standkommentar": [
                                     "zuletzt geändert durch Art. 2 G v. 19.6.2024 I Nr. 206"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 4 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Mittelbare Änderung gem. Art. 1 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt"
+                                ]
                             }
                         ]
                     }
@@ -105,7 +138,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNG000101130"
                 },
                 "metadaten": [
@@ -153,7 +186,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE000408130"
                 },
                 "metadaten": [
@@ -369,7 +402,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE000504130"
                 },
                 "metadaten": [
@@ -458,7 +491,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE000601130"
                 },
                 "metadaten": [
@@ -504,8 +537,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
-                    "doknr": "BJNR105370986BJNE000712130"
+                    "builddate": "20241031213611",
+                    "doknr": "BJNR105370986BJNE000714360"
                 },
                 "metadaten": [
                     {
@@ -537,7 +570,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Pässe sind nach einheitlichen Mustern auszustellen; sie erhalten eine Seriennummer. Der Pass enthält neben dem Lichtbild des Passinhabers, seiner Unterschrift, der Angabe der ausstellenden Behörde, dem Tag der Ausstellung und dem letzten Tag der Gültigkeitsdauer ausschließlich folgende Angaben über seine Person: Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit weiblich oder männlich angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet. Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich oder weiblich war.",
+                                                "_": "(1) Pässe sind nach einheitlichen Mustern auszustellen; sie erhalten eine Seriennummer. Der Pass enthält neben dem Lichtbild des Passinhabers, seiner Unterschrift, der Angabe der ausstellenden Behörde, dem Tag der Ausstellung und dem letzten Tag der Gültigkeitsdauer ausschließlich folgende Angaben über seine Person: Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit „weiblich“ oder „männlich“ angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet. Auf Antrag ist in den Fällen des Satzes 4 ein Pass mit der Angabe „männlich“ oder „weiblich“ auszustellen, wenn durch Vorlage einer ärztlichen Bescheinigung nachgewiesen wird, dass eine Variante der Geschlechtsentwicklung vorliegt. Die Nachweispflicht gilt nicht, wenn der Passbewerber Das nach Satz 5 einzutragende Geschlecht richtet sich nach der letzten Angabe des Geschlechts im Melderegister, welches auf „männlich“ oder „weiblich“ lautete. Bestand eine solche Angabe zu keinem Zeitpunkt, so kann der Passbewerber einmalig das im Pass einzutragende Geschlecht wählen; bis zur Eintragung eines Geschlechts im Melderegister im Sinne von Satz 7 bleibt das gewählte Geschlecht für die Ausstellung künftiger Pässe maßgeblich.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -695,6 +728,44 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Seriennummer.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "über keine ärztliche Bescheinigung einer erfolgten medizinischen Behandlung verfügt und das Vorliegen der Variante der Geschlechtsentwicklung wegen der Behandlung nicht mehr oder nur durch eine unzumutbare Untersuchung nachgewiesen werden kann und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das Vorliegen der Voraussetzungen von Nummer 1 an Eides statt versichert.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -975,6 +1046,9 @@
                                             "(4a) Abweichend von Absatz 3 Satz 1 werden in Reisepässen bei Antragstellern bis zum vollendeten sechsten Lebensjahr keine Fingerabdrücke gespeichert. Die Unterschrift durch das Kind ist zu leisten, wenn es zum Zeitpunkt der Beantragung des Passes das zehnte Lebensjahr vollendet hat.",
                                             "(5) Die Muster des Reisepasses und des vorläufigen Reisepasses sowie die Anforderungen an das Lichtbild bestimmt das Bundesministerium des Innern und für Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf. Dies gilt auch für einen Passersatz, sofern sein Muster nicht in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen festgelegt ist.",
                                             "(6) Die Muster der amtlichen Pässe, die Anforderungen an das Lichtbild sowie die nähere Bestimmung der in § 1 Absatz 4 Satz 2 genannten Personen bestimmt das Bundesministerium des Innern und für Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können Angaben über das Dienstverhältnis des Passinhabers aufgenommen werden. Die Rechtsverordnung kann auch von diesem Gesetz abweichende Bestimmungen über Gültigkeitsdauer, Ausstellung, Einziehung, Sicherstellung und Pflichten des Inhabers enthalten."
+                                        ],
+                                        "BR": [
+                                            ""
                                         ]
                                     }
                                 ]
@@ -988,7 +1062,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE000807130"
                 },
                 "metadaten": [
@@ -1039,8 +1113,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
-                    "doknr": "BJNR105370986BJNE000907130"
+                    "builddate": "20241031213611",
+                    "doknr": "BJNR105370986BJNE000909360"
                 },
                 "metadaten": [
                     {
@@ -1073,7 +1147,7 @@
                                         "P": [
                                             "(1) Der Pass wird auf Antrag ausgestellt. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung. Im Antragsverfahren nachzureichende Erklärungen können im Wege der Datenübertragung abgegeben werden. Der Passbewerber und sein gesetzlicher Vertreter können sich bei der Stellung des Antrags nicht durch einen Bevollmächtigten vertreten lassen. Dies gilt nicht für einen handlungs- oder einwilligungsunfähigen Passbewerber, wenn eine für diesen Fall erteilte, öffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Für Minderjährige und für Personen, die geschäftsunfähig sind und sich nicht nach Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur derjenige den Antrag stellen, der als Sorgeberechtigter ihren Aufenthalt zu bestimmen hat. Der Passbewerber und sein gesetzlicher oder bevollmächtigter Vertreter sollen persönlich erscheinen. Ist der Passbewerber am persönlichen Erscheinen gehindert, kann nur ein vorläufiger Reisepass beantragt werden.",
                                             "(2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Passbewerbers und seiner Eigenschaft als Deutscher oder, in den Fällen des § 1 Absatz 4 Satz 2, seiner Eigenschaft als Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat die entsprechenden Nachweise zu erbringen. Soweit in den Pass Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach Maßgabe des § 4 Absatz 4 elektronisch zu erfassen; der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.",
-                                            "(2a) Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 4 die Eintragung des von seinem Geburtseintrag abweichenden Geschlechts, hat er den Beschluss des Gerichts über die Vornamensänderung nach § 1 des Transsexuellengesetzes vorzulegen. Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 6 die Eintragung eines von seinem Personenstandseintrag abweichenden Geschlechts, hat er die von dem Standesbeamten beurkundete Erklärung nach § 45b des Personenstandsgesetzes vorzulegen. Eintragungen des Geschlechts im Pass, die nach den Sätzen 1 und 2 von Eintragungen im Personenstandsregister abweichen, kommt keine weitere Rechtswirkung zu.",
+                                            "(2a) (weggefallen)",
                                             "(2b) In den Fällen des § 1 Absatz 4 Satz 2 darf die zuständige Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung von sonstigen Sicherheitsbedenken um Auskunft aus dem Ausländerzentralregister ersuchen. Soweit dies zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung sonstiger Sicherheitsbedenken erforderlich ist, darf die zuständige Passbehörde in den Fällen des § 1 Absatz 4 Satz 2 die erhobenen Daten nach § 4 Absatz 1 an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermitteln; zusätzlich darf die Passbehörde die nach Absatz 2 Satz 3 erhobenen Daten an das Bundeskriminalamt übermitteln, das Amtshilfe bei der Auswertung der Daten leistet. Satz 2 gilt nicht für Staatsangehörige anderer Mitgliedstaaten der Europäischen Union. Die nach Satz 2 ersuchten Behörden teilen der anfragenden Passbehörde unverzüglich mit, ob Passversagungsgründe nach § 7 Absatz 1 Nummer 1 bis 5 oder sonstige Sicherheitsbedenken vorliegen.",
                                             "(3) Bestehen Zweifel über die Person des Passbewerbers, sind die zur Feststellung seiner Identität erforderlichen Maßnahmen zu treffen. Die Passbehörde kann die Durchführung erkennungsdienstlicher Maßnahmen veranlassen, wenn die Identität des Passbewerbers auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identität festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Über die Vernichtung ist eine Niederschrift anzufertigen.",
                                             "(4) Die Passbehörde kann einen Pass von Amts wegen ausstellen, wenn dies im überwiegenden öffentlichen Interesse oder zur Abwendung wesentlicher Nachteile für den Betroffenen geboten ist.",
@@ -1091,7 +1165,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003305130"
                 },
                 "metadaten": [
@@ -1280,7 +1354,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001006130"
                 },
                 "metadaten": [
@@ -1512,7 +1586,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001101130"
                 },
                 "metadaten": [
@@ -1558,7 +1632,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001202130"
                 },
                 "metadaten": [
@@ -1604,7 +1678,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001302130"
                 },
                 "metadaten": [
@@ -1652,7 +1726,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001404130"
                 },
                 "metadaten": [
@@ -1824,7 +1898,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001502130"
                 },
                 "metadaten": [
@@ -1872,7 +1946,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001602130"
                 },
                 "metadaten": [
@@ -1976,7 +2050,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001702130"
                 },
                 "metadaten": [
@@ -2022,8 +2096,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
-                    "doknr": "BJNR105370986BJNE001805130"
+                    "builddate": "20241031213611",
+                    "doknr": "BJNR105370986BJNE001806130"
                 },
                 "metadaten": [
                     {
@@ -2066,7 +2140,8 @@
                                                             "1.",
                                                             "2.",
                                                             "3.",
-                                                            "4."
+                                                            "4.",
+                                                            "6."
                                                         ],
                                                         "DD": [
                                                             {
@@ -2120,6 +2195,19 @@
                                                                         }
                                                                     }
                                                                 ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Falle der Ausgabe des Passes im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Pass nicht enthält oder wenn der Pass beschädigt ist oder eine Angabe auf dem Pass unrichtig ist.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
                                                             }
                                                         ]
                                                     }
@@ -2138,7 +2226,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE001906130"
                 },
                 "metadaten": [
@@ -2286,7 +2374,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003402130"
                 },
                 "metadaten": [
@@ -2432,7 +2520,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE004301130"
                 },
                 "metadaten": [
@@ -2479,7 +2567,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002002130"
                 },
                 "metadaten": [
@@ -2582,7 +2670,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002104130"
                 },
                 "metadaten": [
@@ -2631,7 +2719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002205130"
                 },
                 "metadaten": [
@@ -2683,7 +2771,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002308130"
                 },
                 "metadaten": [
@@ -2732,8 +2820,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
-                    "doknr": "BJNR105370986BJNE002420130"
+                    "builddate": "20241031213611",
+                    "doknr": "BJNR105370986BJNE002422130"
                 },
                 "metadaten": [
                     {
@@ -2782,6 +2870,7 @@
                                                             "6.",
                                                             "7.",
                                                             "8.",
+                                                            "8a.",
                                                             "9.",
                                                             "10.",
                                                             "11.",
@@ -2890,6 +2979,19 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "gegenwärtige Anschrift,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "E-Mail-Adresse, sofern der Passinhaber in die Speicherung einwilligt,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3077,7 +3179,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002508130"
                 },
                 "metadaten": [
@@ -3185,7 +3287,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003506130"
                 },
                 "metadaten": [
@@ -3368,7 +3470,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002602130"
                 },
                 "metadaten": [
@@ -3415,7 +3517,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNG000201130"
                 },
                 "metadaten": [
@@ -3463,7 +3565,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002703130"
                 },
                 "metadaten": [
@@ -3552,7 +3654,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002808130"
                 },
                 "metadaten": [
@@ -3729,7 +3831,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE002906130"
                 },
                 "metadaten": [
@@ -3817,7 +3919,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNG000301130"
                 },
                 "metadaten": [
@@ -3865,7 +3967,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003005130"
                 },
                 "metadaten": [
@@ -3911,7 +4013,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003701130"
                 },
                 "metadaten": [
@@ -3957,7 +4059,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240701214502",
+                    "builddate": "20241031213611",
                     "doknr": "BJNR105370986BJNE003604130"
                 },
                 "metadaten": [

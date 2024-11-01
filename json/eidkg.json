@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240306214001",
+            "builddate": "20241031213608",
             "doknr": "BJNR084610019"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019"
                 },
                 "metadaten": [
@@ -56,6 +56,28 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 3 G v. 8.10.2023 I Nr. 271"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 6 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Mittelbare Änderung gem. Art. 2 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt"
+                                ]
                             }
                         ]
                     }
@@ -95,7 +117,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000103130"
                 },
                 "metadaten": [
@@ -1076,7 +1098,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000100000"
                 },
                 "metadaten": [
@@ -1105,7 +1127,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000200000"
                 },
                 "metadaten": [
@@ -1148,7 +1170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000301116"
                 },
                 "metadaten": [
@@ -1245,7 +1267,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000401130"
                 },
                 "metadaten": [
@@ -1348,7 +1370,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000501116"
                 },
                 "metadaten": [
@@ -1579,7 +1601,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000600000"
                 },
                 "metadaten": [
@@ -1623,7 +1645,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000702116"
                 },
                 "metadaten": [
@@ -1756,7 +1778,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE000801130"
                 },
                 "metadaten": [
@@ -1803,7 +1825,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000201116"
                 },
                 "metadaten": [
@@ -1836,8 +1858,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
-                    "doknr": "BJNR084610019BJNE000900000"
+                    "builddate": "20241031213608",
+                    "doknr": "BJNR084610019BJNE000901130"
                 },
                 "metadaten": [
                     {
@@ -1868,10 +1890,11 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Die eID-Karte wird auf Antrag für die antragstellende Person ausgestellt, wenn sie Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.",
+                                                "_": "(1) Die eID-Karte wird auf Antrag für die antragstellende Person ausgestellt, wenn sie Jugendliche, die mindestens 13 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1884,7 +1907,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "dem in § 1 Absatz 1 genannten Personenkreis unterfällt und"
+                                                                    {
+                                                                        "_": "dem in § 1 Absatz 1 genannten Personenkreis unterfällt und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1892,7 +1920,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "mindestens 16 Jahre alt ist."
+                                                                    {
+                                                                        "_": "mindestens 13 Jahre alt ist.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1905,13 +1938,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002900116"
                 },
                 "metadaten": [
@@ -1960,7 +1996,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001000000"
                 },
                 "metadaten": [
@@ -2062,7 +2098,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001101116"
                 },
                 "metadaten": [
@@ -2109,7 +2145,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001200000"
                 },
                 "metadaten": [
@@ -2151,7 +2187,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000300000"
                 },
                 "metadaten": [
@@ -2180,7 +2216,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001302116"
                 },
                 "metadaten": [
@@ -2270,7 +2306,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001400000"
                 },
                 "metadaten": [
@@ -2313,7 +2349,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001500000"
                 },
                 "metadaten": [
@@ -2355,7 +2391,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000401360"
                 },
                 "metadaten": [
@@ -2388,7 +2424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002800360"
                 },
                 "metadaten": [
@@ -2434,7 +2470,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001600000"
                 },
                 "metadaten": [
@@ -2477,7 +2513,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001700000"
                 },
                 "metadaten": [
@@ -2519,7 +2555,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001800000"
                 },
                 "metadaten": [
@@ -2561,7 +2597,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE001900000"
                 },
                 "metadaten": [
@@ -2603,7 +2639,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000500000"
                 },
                 "metadaten": [
@@ -2632,8 +2668,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
-                    "doknr": "BJNR084610019BJNE002003130"
+                    "builddate": "20241031213608",
+                    "doknr": "BJNR084610019BJNE002005130"
                 },
                 "metadaten": [
                     {
@@ -2680,6 +2716,7 @@
                                                             "4.",
                                                             "5.",
                                                             "6.",
+                                                            "6a.",
                                                             "7.",
                                                             "8.",
                                                             "9.",
@@ -2761,6 +2798,19 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Anschrift,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "E-Mail-Adresse, sofern der Inhaber der eID-Karte in die Speicherung einwilligt,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2877,7 +2927,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE003000130"
                 },
                 "metadaten": [
@@ -2922,7 +2972,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000600000"
                 },
                 "metadaten": [
@@ -2951,8 +3001,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
-                    "doknr": "BJNR084610019BJNE002101116"
+                    "builddate": "20241031213608",
+                    "doknr": "BJNR084610019BJNE002102130"
                 },
                 "metadaten": [
                     {
@@ -2993,7 +3043,8 @@
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4."
                                                         ],
                                                         "DD": [
                                                             {
@@ -3015,7 +3066,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben sowie",
+                                                                        "_": "die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3028,7 +3079,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen.",
+                                                                        "_": "den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Falle der Ausgabe der eID-Karte im Wege des postalischen Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder die eID-Karte nicht enthält oder wenn die eID-Karte beschädigt ist oder eine Angabe auf der eID-Karte unrichtig ist.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3054,7 +3118,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002200000"
                 },
                 "metadaten": [
@@ -3128,7 +3192,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002300000"
                 },
                 "metadaten": [
@@ -3209,7 +3273,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNG000700000"
                 },
                 "metadaten": [
@@ -3238,7 +3302,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002401130"
                 },
                 "metadaten": [
@@ -3286,7 +3350,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002500000"
                 },
                 "metadaten": [
@@ -3369,7 +3433,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002603130"
                 },
                 "metadaten": [
@@ -3664,7 +3728,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240306214001",
+                    "builddate": "20241031213608",
                     "doknr": "BJNR084610019BJNE002700000"
                 },
                 "metadaten": [

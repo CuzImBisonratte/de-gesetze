@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241021214519",
+            "builddate": "20241031213533",
             "doknr": "BJNR006049896"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896"
                 },
                 "metadaten": [
@@ -61,6 +61,17 @@
                                 "standkommentar": [
                                     "zuletzt geändert durch Art. 3 G v. 10.10.2024 I Nr. 306"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 15 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -100,7 +111,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000103377"
                 },
                 "metadaten": [
@@ -144,7 +155,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG001602377"
                 },
                 "metadaten": [
@@ -188,7 +199,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG030900377"
                 },
                 "metadaten": [
@@ -233,7 +244,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031000377"
                 },
                 "metadaten": [
@@ -277,7 +288,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000702377"
                 },
                 "metadaten": [
@@ -321,7 +332,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000803140"
                 },
                 "metadaten": [
@@ -368,7 +379,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031108360"
                 },
                 "metadaten": [
@@ -567,7 +578,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031201360"
                 },
                 "metadaten": [
@@ -616,7 +627,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031300377"
                 },
                 "metadaten": [
@@ -662,7 +673,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031400377"
                 },
                 "metadaten": [
@@ -717,7 +728,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000902377"
                 },
                 "metadaten": [
@@ -761,7 +772,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031501360"
                 },
                 "metadaten": [
@@ -809,7 +820,56 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
+                    "doknr": "BJNR006049896BJNG055500360"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BGBEG"
+                        ],
+                        "gliederungseinheit": [
+                            {
+                                "gliederungskennzahl": [
+                                    "010020020000071"
+                                ],
+                                "gliederungsbez": [
+                                    "Art 7a"
+                                ],
+                                "gliederungstitel": [
+                                    "Geschlechtszugehörigkeit"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Die Geschlechtszugehörigkeit einer Person unterliegt dem Recht des Staates, dem die Person angehört.",
+                                            "(2) Eine Person mit gewöhnlichem Aufenthalt im Inland kann für die Änderung der Geschlechtszugehörigkeit deutsches Recht wählen. Gleiches gilt für einen Namenswechsel unter den Voraussetzungen oder im Zusammenhang mit der Änderung der Geschlechtszugehörigkeit.",
+                                            "(3) Erklärungen zur Wahl nach Absatz 2 müssen öffentlich beglaubigt werden; sie können auch von den Standesbeamten beglaubigt oder beurkundet werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031601123"
                 },
                 "metadaten": [
@@ -863,7 +923,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031700377"
                 },
                 "metadaten": [
@@ -907,7 +967,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031801377"
                 },
                 "metadaten": [
@@ -1055,7 +1115,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG031901140"
                 },
                 "metadaten": [
@@ -1105,7 +1165,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032000377"
                 },
                 "metadaten": [
@@ -1149,7 +1209,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG001002377"
                 },
                 "metadaten": [
@@ -1193,7 +1253,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032101123"
                 },
                 "metadaten": [
@@ -1349,7 +1409,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032201360"
                 },
                 "metadaten": [
@@ -1523,7 +1583,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032302360"
                 },
                 "metadaten": [
@@ -1570,7 +1630,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032401360"
                 },
                 "metadaten": [
@@ -1613,7 +1673,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032504360"
                 },
                 "metadaten": [
@@ -1747,7 +1807,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032602360"
                 },
                 "metadaten": [
@@ -1794,7 +1854,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032711360"
                 },
                 "metadaten": [
@@ -1845,7 +1905,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032801160"
                 },
                 "metadaten": [
@@ -1892,7 +1952,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG032901360"
                 },
                 "metadaten": [
@@ -1940,7 +2000,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033000377"
                 },
                 "metadaten": [
@@ -1987,7 +2047,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033100377"
                 },
                 "metadaten": [
@@ -2034,7 +2094,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033203360"
                 },
                 "metadaten": [
@@ -2083,7 +2143,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033301360"
                 },
                 "metadaten": [
@@ -2130,7 +2190,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033401360"
                 },
                 "metadaten": [
@@ -2179,7 +2239,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG001102377"
                 },
                 "metadaten": [
@@ -2223,7 +2283,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033501360"
                 },
                 "metadaten": [
@@ -2270,7 +2330,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033601360"
                 },
                 "metadaten": [
@@ -2318,7 +2378,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG001203140"
                 },
                 "metadaten": [
@@ -2365,7 +2425,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG033701140"
                 },
                 "metadaten": [
@@ -2412,7 +2472,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG034900377"
                 },
                 "metadaten": [
@@ -2461,7 +2521,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035000377"
                 },
                 "metadaten": [
@@ -2509,7 +2569,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035100377"
                 },
                 "metadaten": [
@@ -2615,7 +2675,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035200377"
                 },
                 "metadaten": [
@@ -2705,7 +2765,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035300377"
                 },
                 "metadaten": [
@@ -2752,7 +2812,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG029201377"
                 },
                 "metadaten": [
@@ -2799,7 +2859,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035400377"
                 },
                 "metadaten": [
@@ -2848,7 +2908,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035502140"
                 },
                 "metadaten": [
@@ -2895,7 +2955,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035601360"
                 },
                 "metadaten": [
@@ -3053,7 +3113,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035702140"
                 },
                 "metadaten": [
@@ -3100,7 +3160,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052602123"
                 },
                 "metadaten": [
@@ -3147,7 +3207,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052800140"
                 },
                 "metadaten": [
@@ -3194,7 +3254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052702140"
                 },
                 "metadaten": [
@@ -3241,7 +3301,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052901123"
                 },
                 "metadaten": [
@@ -3288,7 +3348,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG053003360"
                 },
                 "metadaten": [
@@ -3478,7 +3538,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG054700123"
                 },
                 "metadaten": [
@@ -3611,7 +3671,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG054800123"
                 },
                 "metadaten": [
@@ -3658,7 +3718,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG053101123"
                 },
                 "metadaten": [
@@ -3706,7 +3766,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG053901123"
                 },
                 "metadaten": [
@@ -3753,7 +3813,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG054001123"
                 },
                 "metadaten": [
@@ -3801,7 +3861,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052301377"
                 },
                 "metadaten": [
@@ -3848,7 +3908,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG052501377"
                 },
                 "metadaten": [
@@ -3982,7 +4042,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035803377"
                 },
                 "metadaten": [
@@ -4029,7 +4089,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG054100377"
                 },
                 "metadaten": [
@@ -4073,7 +4133,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000203377"
                 },
                 "metadaten": [
@@ -4117,7 +4177,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG035900377"
                 },
                 "metadaten": [
@@ -4161,7 +4221,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036000377"
                 },
                 "metadaten": [
@@ -4208,7 +4268,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036100377"
                 },
                 "metadaten": [
@@ -4252,7 +4312,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036200377"
                 },
                 "metadaten": [
@@ -4297,7 +4357,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036300377"
                 },
                 "metadaten": [
@@ -4342,7 +4402,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036400377"
                 },
                 "metadaten": [
@@ -4386,7 +4446,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG000303377"
                 },
                 "metadaten": [
@@ -4430,7 +4490,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213533",
                     "doknr": "BJNR006049896BJNG036500377"
                 },
                 "metadaten": [
@@ -4474,7 +4534,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG036600377"
                 },
                 "metadaten": [
@@ -4518,7 +4578,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG036700377"
                 },
                 "metadaten": [
@@ -4562,7 +4622,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG036800377"
                 },
                 "metadaten": [
@@ -4606,7 +4666,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG036900377"
                 },
                 "metadaten": [
@@ -4650,7 +4710,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037000377"
                 },
                 "metadaten": [
@@ -4694,7 +4754,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037100377"
                 },
                 "metadaten": [
@@ -4738,7 +4798,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037200377"
                 },
                 "metadaten": [
@@ -4782,7 +4842,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037300377"
                 },
                 "metadaten": [
@@ -4827,7 +4887,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037401140"
                 },
                 "metadaten": [
@@ -4874,7 +4934,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037500377"
                 },
                 "metadaten": [
@@ -4918,7 +4978,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037600377"
                 },
                 "metadaten": [
@@ -4963,7 +5023,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037700377"
                 },
                 "metadaten": [
@@ -5007,7 +5067,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037800377"
                 },
                 "metadaten": [
@@ -5056,7 +5116,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG037900377"
                 },
                 "metadaten": [
@@ -5100,7 +5160,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038000377"
                 },
                 "metadaten": [
@@ -5144,7 +5204,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038100377"
                 },
                 "metadaten": [
@@ -5188,7 +5248,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038200377"
                 },
                 "metadaten": [
@@ -5232,7 +5292,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038300377"
                 },
                 "metadaten": [
@@ -5276,7 +5336,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038400377"
                 },
                 "metadaten": [
@@ -5331,7 +5391,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038500377"
                 },
                 "metadaten": [
@@ -5386,7 +5446,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038600377"
                 },
                 "metadaten": [
@@ -5430,7 +5490,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038700377"
                 },
                 "metadaten": [
@@ -5475,7 +5535,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038800377"
                 },
                 "metadaten": [
@@ -5519,7 +5579,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG038900377"
                 },
                 "metadaten": [
@@ -5563,7 +5623,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039000377"
                 },
                 "metadaten": [
@@ -5607,7 +5667,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039100377"
                 },
                 "metadaten": [
@@ -5651,7 +5711,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039200377"
                 },
                 "metadaten": [
@@ -5695,7 +5755,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039301123"
                 },
                 "metadaten": [
@@ -5742,7 +5802,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039400377"
                 },
                 "metadaten": [
@@ -5786,7 +5846,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039500377"
                 },
                 "metadaten": [
@@ -5833,7 +5893,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039600377"
                 },
                 "metadaten": [
@@ -5877,7 +5937,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039700377"
                 },
                 "metadaten": [
@@ -5921,7 +5981,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039800377"
                 },
                 "metadaten": [
@@ -5965,7 +6025,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG039900377"
                 },
                 "metadaten": [
@@ -6009,7 +6069,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040000377"
                 },
                 "metadaten": [
@@ -6053,7 +6113,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040101140"
                 },
                 "metadaten": [
@@ -6101,7 +6161,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040200377"
                 },
                 "metadaten": [
@@ -6145,7 +6205,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040300377"
                 },
                 "metadaten": [
@@ -6189,7 +6249,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040400377"
                 },
                 "metadaten": [
@@ -6234,7 +6294,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040500377"
                 },
                 "metadaten": [
@@ -6278,7 +6338,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040600377"
                 },
                 "metadaten": [
@@ -6322,7 +6382,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040700377"
                 },
                 "metadaten": [
@@ -6408,7 +6468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040800377"
                 },
                 "metadaten": [
@@ -6452,7 +6512,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG040900377"
                 },
                 "metadaten": [
@@ -6497,7 +6557,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041000377"
                 },
                 "metadaten": [
@@ -6541,7 +6601,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041100377"
                 },
                 "metadaten": [
@@ -6585,7 +6645,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041200377"
                 },
                 "metadaten": [
@@ -6645,7 +6705,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041300377"
                 },
                 "metadaten": [
@@ -6689,7 +6749,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041400377"
                 },
                 "metadaten": [
@@ -6733,7 +6793,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041500377"
                 },
                 "metadaten": [
@@ -6777,7 +6837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041600377"
                 },
                 "metadaten": [
@@ -6821,7 +6881,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041700377"
                 },
                 "metadaten": [
@@ -6865,7 +6925,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041800377"
                 },
                 "metadaten": [
@@ -6909,7 +6969,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG041900377"
                 },
                 "metadaten": [
@@ -6953,7 +7013,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042000377"
                 },
                 "metadaten": [
@@ -6997,7 +7057,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042100377"
                 },
                 "metadaten": [
@@ -7041,7 +7101,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042200377"
                 },
                 "metadaten": [
@@ -7085,7 +7145,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042300377"
                 },
                 "metadaten": [
@@ -7129,7 +7189,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042400377"
                 },
                 "metadaten": [
@@ -7174,7 +7234,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042500377"
                 },
                 "metadaten": [
@@ -7218,7 +7278,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042601360"
                 },
                 "metadaten": [
@@ -7307,7 +7367,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042700377"
                 },
                 "metadaten": [
@@ -7408,7 +7468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042800377"
                 },
                 "metadaten": [
@@ -7452,7 +7512,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG042900377"
                 },
                 "metadaten": [
@@ -7496,7 +7556,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043000377"
                 },
                 "metadaten": [
@@ -7540,7 +7600,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043100377"
                 },
                 "metadaten": [
@@ -7584,7 +7644,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043200377"
                 },
                 "metadaten": [
@@ -7628,7 +7688,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043300377"
                 },
                 "metadaten": [
@@ -7672,7 +7732,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043400377"
                 },
                 "metadaten": [
@@ -7716,7 +7776,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043500377"
                 },
                 "metadaten": [
@@ -7760,7 +7820,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043600377"
                 },
                 "metadaten": [
@@ -7804,7 +7864,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043700377"
                 },
                 "metadaten": [
@@ -7848,7 +7908,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043800377"
                 },
                 "metadaten": [
@@ -7895,7 +7955,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG043900377"
                 },
                 "metadaten": [
@@ -7939,7 +7999,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044000377"
                 },
                 "metadaten": [
@@ -7983,7 +8043,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044100377"
                 },
                 "metadaten": [
@@ -8027,7 +8087,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044200377"
                 },
                 "metadaten": [
@@ -8071,7 +8131,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044300377"
                 },
                 "metadaten": [
@@ -8115,7 +8175,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044400377"
                 },
                 "metadaten": [
@@ -8159,7 +8219,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044500377"
                 },
                 "metadaten": [
@@ -8203,7 +8263,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044600377"
                 },
                 "metadaten": [
@@ -8247,7 +8307,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044700377"
                 },
                 "metadaten": [
@@ -8292,7 +8352,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044801360"
                 },
                 "metadaten": [
@@ -8339,7 +8399,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG044900377"
                 },
                 "metadaten": [
@@ -8383,7 +8443,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045002140"
                 },
                 "metadaten": [
@@ -8430,7 +8490,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045101360"
                 },
                 "metadaten": [
@@ -8477,7 +8537,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045200377"
                 },
                 "metadaten": [
@@ -8521,7 +8581,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045300377"
                 },
                 "metadaten": [
@@ -8565,7 +8625,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG000403377"
                 },
                 "metadaten": [
@@ -8609,7 +8669,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045400377"
                 },
                 "metadaten": [
@@ -8653,7 +8713,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045500377"
                 },
                 "metadaten": [
@@ -8697,7 +8757,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045600377"
                 },
                 "metadaten": [
@@ -8741,7 +8801,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045700377"
                 },
                 "metadaten": [
@@ -8785,7 +8845,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045800377"
                 },
                 "metadaten": [
@@ -8829,7 +8889,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG045900377"
                 },
                 "metadaten": [
@@ -8873,7 +8933,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046000377"
                 },
                 "metadaten": [
@@ -8917,7 +8977,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046100377"
                 },
                 "metadaten": [
@@ -8961,7 +9021,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046200377"
                 },
                 "metadaten": [
@@ -9005,7 +9065,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046300377"
                 },
                 "metadaten": [
@@ -9050,7 +9110,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046400377"
                 },
                 "metadaten": [
@@ -9094,7 +9154,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046500377"
                 },
                 "metadaten": [
@@ -9138,7 +9198,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046600377"
                 },
                 "metadaten": [
@@ -9182,7 +9242,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046700377"
                 },
                 "metadaten": [
@@ -9226,7 +9286,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046800377"
                 },
                 "metadaten": [
@@ -9287,7 +9347,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG046900377"
                 },
                 "metadaten": [
@@ -9331,7 +9391,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047000377"
                 },
                 "metadaten": [
@@ -9375,7 +9435,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047100377"
                 },
                 "metadaten": [
@@ -9419,7 +9479,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047200377"
                 },
                 "metadaten": [
@@ -9463,7 +9523,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047300377"
                 },
                 "metadaten": [
@@ -9507,7 +9567,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047400377"
                 },
                 "metadaten": [
@@ -9551,7 +9611,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047500377"
                 },
                 "metadaten": [
@@ -9596,7 +9656,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047600377"
                 },
                 "metadaten": [
@@ -9640,7 +9700,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047700377"
                 },
                 "metadaten": [
@@ -9684,7 +9744,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047800377"
                 },
                 "metadaten": [
@@ -9728,7 +9788,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG047900377"
                 },
                 "metadaten": [
@@ -9788,7 +9848,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048000377"
                 },
                 "metadaten": [
@@ -9833,7 +9893,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048100377"
                 },
                 "metadaten": [
@@ -9878,7 +9938,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048200377"
                 },
                 "metadaten": [
@@ -9923,7 +9983,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048300377"
                 },
                 "metadaten": [
@@ -9969,7 +10029,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048400377"
                 },
                 "metadaten": [
@@ -10013,7 +10073,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048500377"
                 },
                 "metadaten": [
@@ -10058,7 +10118,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048600377"
                 },
                 "metadaten": [
@@ -10103,7 +10163,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048700377"
                 },
                 "metadaten": [
@@ -10147,7 +10207,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048800377"
                 },
                 "metadaten": [
@@ -10191,7 +10251,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214519",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG048900377"
                 },
                 "metadaten": [
@@ -10236,7 +10296,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049000377"
                 },
                 "metadaten": [
@@ -10280,7 +10340,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049100377"
                 },
                 "metadaten": [
@@ -10324,7 +10384,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049200377"
                 },
                 "metadaten": [
@@ -10370,7 +10430,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049300377"
                 },
                 "metadaten": [
@@ -10414,7 +10474,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049400377"
                 },
                 "metadaten": [
@@ -10460,7 +10520,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049500377"
                 },
                 "metadaten": [
@@ -10505,7 +10565,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049600377"
                 },
                 "metadaten": [
@@ -10549,7 +10609,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049700377"
                 },
                 "metadaten": [
@@ -10593,7 +10653,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049800377"
                 },
                 "metadaten": [
@@ -10637,7 +10697,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG049900377"
                 },
                 "metadaten": [
@@ -10681,7 +10741,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050000377"
                 },
                 "metadaten": [
@@ -10727,7 +10787,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050100377"
                 },
                 "metadaten": [
@@ -10771,7 +10831,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050200377"
                 },
                 "metadaten": [
@@ -10816,7 +10876,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050300377"
                 },
                 "metadaten": [
@@ -10860,7 +10920,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050400377"
                 },
                 "metadaten": [
@@ -10904,7 +10964,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050500377"
                 },
                 "metadaten": [
@@ -10948,7 +11008,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050600377"
                 },
                 "metadaten": [
@@ -10993,7 +11053,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050700377"
                 },
                 "metadaten": [
@@ -11038,7 +11098,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050800377"
                 },
                 "metadaten": [
@@ -11082,7 +11142,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG050900377"
                 },
                 "metadaten": [
@@ -11127,7 +11187,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051000377"
                 },
                 "metadaten": [
@@ -11171,7 +11231,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG022702377"
                 },
                 "metadaten": [
@@ -11215,7 +11275,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051100377"
                 },
                 "metadaten": [
@@ -11261,7 +11321,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051201360"
                 },
                 "metadaten": [
@@ -11368,7 +11428,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051300377"
                 },
                 "metadaten": [
@@ -11454,7 +11514,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051400377"
                 },
                 "metadaten": [
@@ -11580,7 +11640,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051500377"
                 },
                 "metadaten": [
@@ -11629,7 +11689,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051600377"
                 },
                 "metadaten": [
@@ -11676,7 +11736,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG028401377"
                 },
                 "metadaten": [
@@ -11723,7 +11783,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030901377"
                 },
                 "metadaten": [
@@ -11785,7 +11845,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031003377"
                 },
                 "metadaten": [
@@ -11845,7 +11905,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031101377"
                 },
                 "metadaten": [
@@ -11908,7 +11968,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051700377"
                 },
                 "metadaten": [
@@ -11955,7 +12015,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051800377"
                 },
                 "metadaten": [
@@ -12004,7 +12064,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG051900377"
                 },
                 "metadaten": [
@@ -12094,7 +12154,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG052000377"
                 },
                 "metadaten": [
@@ -12144,7 +12204,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030801377"
                 },
                 "metadaten": [
@@ -12191,7 +12251,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031301377"
                 },
                 "metadaten": [
@@ -12250,7 +12310,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031203377"
                 },
                 "metadaten": [
@@ -12308,7 +12368,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031503377"
                 },
                 "metadaten": [
@@ -12561,7 +12621,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031601377"
                 },
                 "metadaten": [
@@ -12704,7 +12764,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE230201377"
                 },
                 "metadaten": [
@@ -12762,7 +12822,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE230301377"
                 },
                 "metadaten": [
@@ -12825,7 +12885,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE230401377"
                 },
                 "metadaten": [
@@ -13094,7 +13154,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE230801377"
                 },
                 "metadaten": [
@@ -13406,7 +13466,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE230901377"
                 },
                 "metadaten": [
@@ -13507,7 +13567,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023102377"
                 },
                 "metadaten": [
@@ -13565,7 +13625,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231001377"
                 },
                 "metadaten": [
@@ -13624,7 +13684,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231101377"
                 },
                 "metadaten": [
@@ -13977,7 +14037,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231201377"
                 },
                 "metadaten": [
@@ -14027,7 +14087,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231301377"
                 },
                 "metadaten": [
@@ -14085,7 +14145,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232000377"
                 },
                 "metadaten": [
@@ -14143,7 +14203,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237001123"
                 },
                 "metadaten": [
@@ -14201,7 +14261,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237100140"
                 },
                 "metadaten": [
@@ -14259,7 +14319,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237200140"
                 },
                 "metadaten": [
@@ -14319,7 +14379,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237300140"
                 },
                 "metadaten": [
@@ -14378,7 +14438,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232101160"
                 },
                 "metadaten": [
@@ -14438,7 +14498,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236701360"
                 },
                 "metadaten": [
@@ -14500,7 +14560,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232201140"
                 },
                 "metadaten": [
@@ -14560,7 +14620,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236800140"
                 },
                 "metadaten": [
@@ -14621,7 +14681,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236900140"
                 },
                 "metadaten": [
@@ -14679,7 +14739,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237500140"
                 },
                 "metadaten": [
@@ -14738,7 +14798,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237501140"
                 },
                 "metadaten": [
@@ -14796,7 +14856,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237800140"
                 },
                 "metadaten": [
@@ -14854,7 +14914,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237900377"
                 },
                 "metadaten": [
@@ -14913,7 +14973,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238000377"
                 },
                 "metadaten": [
@@ -15014,7 +15074,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238100377"
                 },
                 "metadaten": [
@@ -15072,7 +15132,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238200360"
                 },
                 "metadaten": [
@@ -15130,7 +15190,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238300360"
                 },
                 "metadaten": [
@@ -15247,7 +15307,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238302360"
                 },
                 "metadaten": [
@@ -15305,7 +15365,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239100144"
                 },
                 "metadaten": [
@@ -15363,7 +15423,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239200360"
                 },
                 "metadaten": [
@@ -15422,7 +15482,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239300360"
                 },
                 "metadaten": [
@@ -15480,7 +15540,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239400123"
                 },
                 "metadaten": [
@@ -15538,7 +15598,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239500123"
                 },
                 "metadaten": [
@@ -15640,7 +15700,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240300123"
                 },
                 "metadaten": [
@@ -15698,7 +15758,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240800123"
                 },
                 "metadaten": [
@@ -15841,7 +15901,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240900123"
                 },
                 "metadaten": [
@@ -15899,7 +15959,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242400123"
                 },
                 "metadaten": [
@@ -15957,7 +16017,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE241000123"
                 },
                 "metadaten": [
@@ -16141,7 +16201,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242000123"
                 },
                 "metadaten": [
@@ -16244,7 +16304,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242100123"
                 },
                 "metadaten": [
@@ -16306,7 +16366,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE244800123"
                 },
                 "metadaten": [
@@ -16364,7 +16424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE244900360"
                 },
                 "metadaten": [
@@ -16467,7 +16527,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245000360"
                 },
                 "metadaten": [
@@ -16525,7 +16585,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245100360"
                 },
                 "metadaten": [
@@ -16585,7 +16645,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245200360"
                 },
                 "metadaten": [
@@ -16644,7 +16704,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245300360"
                 },
                 "metadaten": [
@@ -16702,7 +16762,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245800360"
                 },
                 "metadaten": [
@@ -16760,7 +16820,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246000360"
                 },
                 "metadaten": [
@@ -16818,7 +16878,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246301360"
                 },
                 "metadaten": [
@@ -16881,7 +16941,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246400125"
                 },
                 "metadaten": [
@@ -16939,7 +16999,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246700360"
                 },
                 "metadaten": [
@@ -17040,7 +17100,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246800360"
                 },
                 "metadaten": [
@@ -17101,7 +17161,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246900360"
                 },
                 "metadaten": [
@@ -17159,7 +17219,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247000360"
                 },
                 "metadaten": [
@@ -17217,7 +17277,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247502360"
                 },
                 "metadaten": [
@@ -17275,7 +17335,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247600360"
                 },
                 "metadaten": [
@@ -17333,7 +17393,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247700360"
                 },
                 "metadaten": [
@@ -17391,7 +17451,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248200116"
                 },
                 "metadaten": [
@@ -17449,7 +17509,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248300125"
                 },
                 "metadaten": [
@@ -17592,7 +17652,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248400360"
                 },
                 "metadaten": [
@@ -17650,7 +17710,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248500360"
                 },
                 "metadaten": [
@@ -17708,7 +17768,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248700360"
                 },
                 "metadaten": [
@@ -17766,7 +17826,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248800125"
                 },
                 "metadaten": [
@@ -17824,7 +17884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG022802377"
                 },
                 "metadaten": [
@@ -17868,7 +17928,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG052100377"
                 },
                 "metadaten": [
@@ -17915,7 +17975,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG023002377"
                 },
                 "metadaten": [
@@ -17959,7 +18019,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231800377"
                 },
                 "metadaten": [
@@ -18017,7 +18077,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023203377"
                 },
                 "metadaten": [
@@ -18075,7 +18135,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023302377"
                 },
                 "metadaten": [
@@ -18131,7 +18191,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023402377"
                 },
                 "metadaten": [
@@ -18186,7 +18246,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023506377"
                 },
                 "metadaten": [
@@ -18248,7 +18308,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023602377"
                 },
                 "metadaten": [
@@ -18305,7 +18365,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028003377"
                 },
                 "metadaten": [
@@ -18363,7 +18423,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030503377"
                 },
                 "metadaten": [
@@ -18492,7 +18552,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030601377"
                 },
                 "metadaten": [
@@ -18718,7 +18778,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE031402140"
                 },
                 "metadaten": [
@@ -18778,7 +18838,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG023702377"
                 },
                 "metadaten": [
@@ -18822,7 +18882,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023802377"
                 },
                 "metadaten": [
@@ -18877,7 +18937,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030002377"
                 },
                 "metadaten": [
@@ -18932,7 +18992,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE023907377"
                 },
                 "metadaten": [
@@ -18990,7 +19050,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024003377"
                 },
                 "metadaten": [
@@ -19049,7 +19109,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024104377"
                 },
                 "metadaten": [
@@ -19110,7 +19170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030102377"
                 },
                 "metadaten": [
@@ -19171,7 +19231,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024205377"
                 },
                 "metadaten": [
@@ -19278,7 +19338,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024302377"
                 },
                 "metadaten": [
@@ -19333,7 +19393,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024402377"
                 },
                 "metadaten": [
@@ -19388,7 +19448,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024502377"
                 },
                 "metadaten": [
@@ -19443,7 +19503,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024602377"
                 },
                 "metadaten": [
@@ -19498,7 +19558,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024702377"
                 },
                 "metadaten": [
@@ -19553,7 +19613,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG024802377"
                 },
                 "metadaten": [
@@ -19597,7 +19657,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG027801377"
                 },
                 "metadaten": [
@@ -19641,7 +19701,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE024902377"
                 },
                 "metadaten": [
@@ -19696,7 +19756,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025004377"
                 },
                 "metadaten": [
@@ -19756,7 +19816,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028110301"
                 },
                 "metadaten": [
@@ -19988,7 +20048,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028208377"
                 },
                 "metadaten": [
@@ -20051,7 +20111,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030203377"
                 },
                 "metadaten": [
@@ -20108,7 +20168,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025104377"
                 },
                 "metadaten": [
@@ -20166,7 +20226,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025207377"
                 },
                 "metadaten": [
@@ -20239,7 +20299,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025306377"
                 },
                 "metadaten": [
@@ -20300,7 +20360,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025402377"
                 },
                 "metadaten": [
@@ -20356,7 +20416,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025503377"
                 },
                 "metadaten": [
@@ -20412,7 +20472,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025604377"
                 },
                 "metadaten": [
@@ -20467,7 +20527,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028402377"
                 },
                 "metadaten": [
@@ -20524,7 +20584,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028302377"
                 },
                 "metadaten": [
@@ -20583,7 +20643,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG027901377"
                 },
                 "metadaten": [
@@ -20627,7 +20687,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028504377"
                 },
                 "metadaten": [
@@ -20787,7 +20847,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028603377"
                 },
                 "metadaten": [
@@ -21052,7 +21112,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028704377"
                 },
                 "metadaten": [
@@ -21110,7 +21170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030302377"
                 },
                 "metadaten": [
@@ -21165,7 +21225,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028803377"
                 },
                 "metadaten": [
@@ -21223,7 +21283,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE028903140"
                 },
                 "metadaten": [
@@ -21283,7 +21343,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE029003377"
                 },
                 "metadaten": [
@@ -21340,7 +21400,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG025702377"
                 },
                 "metadaten": [
@@ -21384,7 +21444,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025802377"
                 },
                 "metadaten": [
@@ -21439,7 +21499,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE025902377"
                 },
                 "metadaten": [
@@ -21494,7 +21554,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026003123"
                 },
                 "metadaten": [
@@ -21552,7 +21612,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026105125"
                 },
                 "metadaten": [
@@ -21615,7 +21675,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030404125"
                 },
                 "metadaten": [
@@ -21675,7 +21735,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026202377"
                 },
                 "metadaten": [
@@ -21730,7 +21790,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE231900377"
                 },
                 "metadaten": [
@@ -21831,7 +21891,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026402377"
                 },
                 "metadaten": [
@@ -21889,7 +21949,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026503377"
                 },
                 "metadaten": [
@@ -21947,7 +22007,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026702377"
                 },
                 "metadaten": [
@@ -22002,7 +22062,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026803377"
                 },
                 "metadaten": [
@@ -22060,7 +22120,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE026902377"
                 },
                 "metadaten": [
@@ -22115,7 +22175,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027003377"
                 },
                 "metadaten": [
@@ -22232,7 +22292,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027102377"
                 },
                 "metadaten": [
@@ -22292,7 +22352,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027202377"
                 },
                 "metadaten": [
@@ -22348,7 +22408,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG027302377"
                 },
                 "metadaten": [
@@ -22392,7 +22452,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027404140"
                 },
                 "metadaten": [
@@ -22450,7 +22510,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027502377"
                 },
                 "metadaten": [
@@ -22505,7 +22565,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG027602377"
                 },
                 "metadaten": [
@@ -22549,7 +22609,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027702377"
                 },
                 "metadaten": [
@@ -22604,7 +22664,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027802377"
                 },
                 "metadaten": [
@@ -22659,7 +22719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE027903360"
                 },
                 "metadaten": [
@@ -22717,7 +22777,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG028101377"
                 },
                 "metadaten": [
@@ -22764,7 +22824,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030701377"
                 },
                 "metadaten": [
@@ -22824,7 +22884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE030802140"
                 },
                 "metadaten": [
@@ -22886,7 +22946,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030003360"
                 },
                 "metadaten": [
@@ -22933,7 +22993,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG052204360"
                 },
                 "metadaten": [
@@ -22980,7 +23040,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247800360"
                 },
                 "metadaten": [
@@ -23275,7 +23335,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247900360"
                 },
                 "metadaten": [
@@ -23464,7 +23524,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248000360"
                 },
                 "metadaten": [
@@ -23525,7 +23585,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE248100360"
                 },
                 "metadaten": [
@@ -23584,7 +23644,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030104360"
                 },
                 "metadaten": [
@@ -23631,7 +23691,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030207360"
                 },
                 "metadaten": [
@@ -23678,7 +23738,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245301360"
                 },
                 "metadaten": [
@@ -23736,7 +23796,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245401360"
                 },
                 "metadaten": [
@@ -23794,7 +23854,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245501360"
                 },
                 "metadaten": [
@@ -23852,7 +23912,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245601360"
                 },
                 "metadaten": [
@@ -23910,7 +23970,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE245901360"
                 },
                 "metadaten": [
@@ -23964,7 +24024,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246101125"
                 },
                 "metadaten": [
@@ -24018,7 +24078,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246201360"
                 },
                 "metadaten": [
@@ -24072,7 +24132,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030304123"
                 },
                 "metadaten": [
@@ -24119,7 +24179,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030402140"
                 },
                 "metadaten": [
@@ -24152,7 +24212,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237600140"
                 },
                 "metadaten": [
@@ -24281,7 +24341,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE237700140"
                 },
                 "metadaten": [
@@ -24339,7 +24399,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030504301"
                 },
                 "metadaten": [
@@ -24442,7 +24502,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030606123"
                 },
                 "metadaten": [
@@ -24489,7 +24549,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG030704360"
                 },
                 "metadaten": [
@@ -24532,7 +24592,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053203360"
                 },
                 "metadaten": [
@@ -24777,7 +24837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054200360"
                 },
                 "metadaten": [
@@ -24820,7 +24880,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238402360"
                 },
                 "metadaten": [
@@ -25258,7 +25318,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238501360"
                 },
                 "metadaten": [
@@ -25416,7 +25476,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238601360"
                 },
                 "metadaten": [
@@ -25558,7 +25618,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238700360"
                 },
                 "metadaten": [
@@ -25618,7 +25678,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054300360"
                 },
                 "metadaten": [
@@ -25665,7 +25725,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238802360"
                 },
                 "metadaten": [
@@ -26088,7 +26148,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE238901360"
                 },
                 "metadaten": [
@@ -26190,7 +26250,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054400360"
                 },
                 "metadaten": [
@@ -26321,7 +26381,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG055300360"
                 },
                 "metadaten": [
@@ -26364,7 +26424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247100360"
                 },
                 "metadaten": [
@@ -26574,7 +26634,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247200360"
                 },
                 "metadaten": [
@@ -26633,7 +26693,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG055400360"
                 },
                 "metadaten": [
@@ -26676,7 +26736,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247301360"
                 },
                 "metadaten": [
@@ -27164,7 +27224,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE247401360"
                 },
                 "metadaten": [
@@ -27225,7 +27285,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053300140"
                 },
                 "metadaten": [
@@ -27272,7 +27332,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232601123"
                 },
                 "metadaten": [
@@ -27333,7 +27393,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232703123"
                 },
                 "metadaten": [
@@ -27394,7 +27454,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232803360"
                 },
                 "metadaten": [
@@ -27612,7 +27672,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE232902123"
                 },
                 "metadaten": [
@@ -27742,7 +27802,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233002123"
                 },
                 "metadaten": [
@@ -27801,7 +27861,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233104123"
                 },
                 "metadaten": [
@@ -27959,7 +28019,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233201123"
                 },
                 "metadaten": [
@@ -28130,7 +28190,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233301123"
                 },
                 "metadaten": [
@@ -28190,7 +28250,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233401123"
                 },
                 "metadaten": [
@@ -28244,7 +28304,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233503123"
                 },
                 "metadaten": [
@@ -28468,7 +28528,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233603123"
                 },
                 "metadaten": [
@@ -28683,7 +28743,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233704123"
                 },
                 "metadaten": [
@@ -28824,7 +28884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233803123"
                 },
                 "metadaten": [
@@ -28955,7 +29015,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239600123"
                 },
                 "metadaten": [
@@ -29013,7 +29073,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239700123"
                 },
                 "metadaten": [
@@ -29185,7 +29245,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE233901360"
                 },
                 "metadaten": [
@@ -29245,7 +29305,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234001123"
                 },
                 "metadaten": [
@@ -29361,7 +29421,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234100140"
                 },
                 "metadaten": [
@@ -29504,7 +29564,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234200140"
                 },
                 "metadaten": [
@@ -29643,7 +29703,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239800123"
                 },
                 "metadaten": [
@@ -29784,7 +29844,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054500123"
                 },
                 "metadaten": [
@@ -29831,7 +29891,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239901123"
                 },
                 "metadaten": [
@@ -30101,7 +30161,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240000123"
                 },
                 "metadaten": [
@@ -30161,7 +30221,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053400140"
                 },
                 "metadaten": [
@@ -30208,7 +30268,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053500140"
                 },
                 "metadaten": [
@@ -30255,7 +30315,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234303123"
                 },
                 "metadaten": [
@@ -30313,7 +30373,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234401123"
                 },
                 "metadaten": [
@@ -30371,7 +30431,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053600140"
                 },
                 "metadaten": [
@@ -30418,7 +30478,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234501360"
                 },
                 "metadaten": [
@@ -30476,7 +30536,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234603123"
                 },
                 "metadaten": [
@@ -31088,7 +31148,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234701360"
                 },
                 "metadaten": [
@@ -31146,7 +31206,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234801123"
                 },
                 "metadaten": [
@@ -31260,7 +31320,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE234901123"
                 },
                 "metadaten": [
@@ -31376,7 +31436,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235001123"
                 },
                 "metadaten": [
@@ -31492,7 +31552,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235100140"
                 },
                 "metadaten": [
@@ -31581,7 +31641,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235200140"
                 },
                 "metadaten": [
@@ -31639,7 +31699,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235302123"
                 },
                 "metadaten": [
@@ -31810,7 +31870,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053700140"
                 },
                 "metadaten": [
@@ -31857,7 +31917,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235402123"
                 },
                 "metadaten": [
@@ -31915,7 +31975,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235501123"
                 },
                 "metadaten": [
@@ -32057,7 +32117,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242200123"
                 },
                 "metadaten": [
@@ -32164,7 +32224,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235601123"
                 },
                 "metadaten": [
@@ -32280,7 +32340,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235701123"
                 },
                 "metadaten": [
@@ -32396,7 +32456,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235801123"
                 },
                 "metadaten": [
@@ -32454,7 +32514,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG053801123"
                 },
                 "metadaten": [
@@ -32501,7 +32561,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE235901123"
                 },
                 "metadaten": [
@@ -32560,7 +32620,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242300123"
                 },
                 "metadaten": [
@@ -32618,7 +32678,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236001123"
                 },
                 "metadaten": [
@@ -32676,7 +32736,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236100140"
                 },
                 "metadaten": [
@@ -32734,7 +32794,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054600123"
                 },
                 "metadaten": [
@@ -32767,7 +32827,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240500123"
                 },
                 "metadaten": [
@@ -32825,7 +32885,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240600123"
                 },
                 "metadaten": [
@@ -32978,7 +33038,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE240701360"
                 },
                 "metadaten": [
@@ -33121,7 +33181,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG054900123"
                 },
                 "metadaten": [
@@ -33154,7 +33214,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242500123"
                 },
                 "metadaten": [
@@ -33213,7 +33273,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242600123"
                 },
                 "metadaten": [
@@ -33273,7 +33333,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242700123"
                 },
                 "metadaten": [
@@ -33609,7 +33669,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242800123"
                 },
                 "metadaten": [
@@ -33709,7 +33769,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE242900123"
                 },
                 "metadaten": [
@@ -33767,7 +33827,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243001360"
                 },
                 "metadaten": [
@@ -34128,7 +34188,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243100123"
                 },
                 "metadaten": [
@@ -34187,7 +34247,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243200123"
                 },
                 "metadaten": [
@@ -34246,7 +34306,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243300123"
                 },
                 "metadaten": [
@@ -34360,7 +34420,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243400123"
                 },
                 "metadaten": [
@@ -34528,7 +34588,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG055000123"
                 },
                 "metadaten": [
@@ -34561,7 +34621,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243500123"
                 },
                 "metadaten": [
@@ -34619,7 +34679,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243600123"
                 },
                 "metadaten": [
@@ -34799,7 +34859,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG055101360"
                 },
                 "metadaten": [
@@ -34850,7 +34910,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNG055200123"
                 },
                 "metadaten": [
@@ -34883,7 +34943,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243700123"
                 },
                 "metadaten": [
@@ -34942,7 +35002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243800123"
                 },
                 "metadaten": [
@@ -35000,7 +35060,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE243900123"
                 },
                 "metadaten": [
@@ -35060,7 +35120,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236205360"
                 },
                 "metadaten": [
@@ -35754,7 +35814,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE236303360"
                 },
                 "metadaten": [
@@ -36034,7 +36094,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE239002360"
                 },
                 "metadaten": [
@@ -37632,7 +37692,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246501360"
                 },
                 "metadaten": [
@@ -40335,7 +40395,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213534",
                     "doknr": "BJNR006049896BJNE246601360"
                 },
                 "metadaten": [
@@ -42933,7 +42993,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE236403360"
                 },
                 "metadaten": [
@@ -44165,7 +44225,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE236503360"
                 },
                 "metadaten": [
@@ -45242,7 +45302,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE236604360"
                 },
                 "metadaten": [
@@ -47494,7 +47554,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE237405360"
                 },
                 "metadaten": [
@@ -50862,7 +50922,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE240101360"
                 },
                 "metadaten": [
@@ -52837,7 +52897,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE240201360"
                 },
                 "metadaten": [
@@ -54696,7 +54756,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE240400123"
                 },
                 "metadaten": [
@@ -55026,7 +55086,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244001360"
                 },
                 "metadaten": [
@@ -55834,7 +55894,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214520",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244101360"
                 },
                 "metadaten": [
@@ -56620,7 +56680,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244201360"
                 },
                 "metadaten": [
@@ -57403,7 +57463,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244301360"
                 },
                 "metadaten": [
@@ -57982,7 +58042,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244401360"
                 },
                 "metadaten": [
@@ -58532,7 +58592,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244501360"
                 },
                 "metadaten": [
@@ -59232,7 +59292,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244601360"
                 },
                 "metadaten": [
@@ -59823,7 +59883,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241021214521",
+                    "builddate": "20241031213535",
                     "doknr": "BJNR006049896BJNE244701360"
                 },
                 "metadaten": [
