@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241029214728",
+            "builddate": "20241105214027",
             "doknr": "BJNR434400021"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021"
                 },
                 "metadaten": [
@@ -65,7 +65,7 @@
                                     "Hinweis"
                                 ],
                                 "standkommentar": [
-                                    "Änderung durch Art. 11b G v. 23.10.2024 I Nr. 324 mWv 1.7.2024 noch nicht berücksichtigt"
+                                    "Änderung durch Art. 11b G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             }
                         ]
@@ -106,7 +106,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000100000"
                 },
                 "metadaten": [
@@ -140,8 +140,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
-                    "doknr": "BJNR434400021BJNE000201123"
+                    "builddate": "20241105214027",
+                    "doknr": "BJNR434400021BJNE000203119"
                 },
                 "metadaten": [
                     {
@@ -208,6 +208,12 @@
                                                         }
                                                     },
                                                     {
+                                                        "_": "Abschnitt 7a",
+                                                        "$": {
+                                                            "Class": "S0"
+                                                        }
+                                                    },
+                                                    {
                                                         "_": "Abschnitt 8",
                                                         "$": {
                                                             "Class": "S0"
@@ -215,6 +221,9 @@
                                                     }
                                                 ],
                                                 "P": [
+                                                    "",
+                                                    "",
+                                                    "",
                                                     "",
                                                     "",
                                                     "",
@@ -288,6 +297,13 @@
                                                     },
                                                     {
                                                         "_": "Weitere Verfahrensregelungen",
+                                                        "$": {
+                                                            "Align": "auto",
+                                                            "Class": "S0"
+                                                        }
+                                                    },
+                                                    {
+                                                        "_": "Vergütungsminderung",
                                                         "$": {
                                                             "Align": "auto",
                                                             "Class": "S0"
@@ -1065,6 +1081,66 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
+                                                                                        "_": "§ 23a",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Vergütungsminderung",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "$": {
+                                                            "colsep": "0",
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "rowsep": "0",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colwidth": "8*"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col2",
+                                                                            "colwidth": "72*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
                                                                                         "_": "§ 24",
                                                                                         "$": {
                                                                                             "VJ": "1",
@@ -1178,7 +1254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000100000"
                 },
                 "metadaten": [
@@ -1207,7 +1283,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000303123"
                 },
                 "metadaten": [
@@ -1254,7 +1330,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002900123"
                 },
                 "metadaten": [
@@ -1297,7 +1373,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000401123"
                 },
                 "metadaten": [
@@ -1343,7 +1419,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000200000"
                 },
                 "metadaten": [
@@ -1372,7 +1448,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000500000"
                 },
                 "metadaten": [
@@ -1474,7 +1550,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000600000"
                 },
                 "metadaten": [
@@ -1517,7 +1593,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000700000"
                 },
                 "metadaten": [
@@ -1563,7 +1639,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000800000"
                 },
                 "metadaten": [
@@ -1608,7 +1684,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE000900000"
                 },
                 "metadaten": [
@@ -1653,7 +1729,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001000000"
                 },
                 "metadaten": [
@@ -1698,7 +1774,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001100000"
                 },
                 "metadaten": [
@@ -1823,7 +1899,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000300000"
                 },
                 "metadaten": [
@@ -1852,7 +1928,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001200000"
                 },
                 "metadaten": [
@@ -1944,7 +2020,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001300000"
                 },
                 "metadaten": [
@@ -1987,7 +2063,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001400000"
                 },
                 "metadaten": [
@@ -2031,7 +2107,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001500000"
                 },
                 "metadaten": [
@@ -2076,7 +2152,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000400000"
                 },
                 "metadaten": [
@@ -2105,7 +2181,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001600000"
                 },
                 "metadaten": [
@@ -2179,7 +2255,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000500000"
                 },
                 "metadaten": [
@@ -2208,7 +2284,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001701123"
                 },
                 "metadaten": [
@@ -2459,7 +2535,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001801123"
                 },
                 "metadaten": [
@@ -2592,7 +2668,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE001901123"
                 },
                 "metadaten": [
@@ -2647,7 +2723,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002000000"
                 },
                 "metadaten": [
@@ -2690,7 +2766,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000600000"
                 },
                 "metadaten": [
@@ -2719,7 +2795,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002100000"
                 },
                 "metadaten": [
@@ -2880,7 +2956,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002200000"
                 },
                 "metadaten": [
@@ -3031,7 +3107,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002300000"
                 },
                 "metadaten": [
@@ -3221,7 +3297,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000700000"
                 },
                 "metadaten": [
@@ -3250,7 +3326,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002400000"
                 },
                 "metadaten": [
@@ -3399,7 +3475,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002500000"
                 },
                 "metadaten": [
@@ -3441,7 +3517,79 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
+                    "doknr": "BJNR434400021BJNG000900119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "IRegBV"
+                        ],
+                        "gliederungseinheit": [
+                            {
+                                "gliederungskennzahl": [
+                                    "071"
+                                ],
+                                "gliederungsbez": [
+                                    "Abschnitt 7a"
+                                ],
+                                "gliederungstitel": [
+                                    "Vergütungsminderung"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    ""
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241105214027",
+                    "doknr": "BJNR434400021BJNE003100119"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "IRegBV"
+                        ],
+                        "enbez": [
+                            "§ 23a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Vergütungsminderung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) In den Fällen des § 35 Absatz 1 des Implantateregistergesetzes vermindert sich der Anspruch einer verantwortlichen Gesundheitseinrichtung auf Vergütung der meldepflichtigen implantatbezogenen Maßnahme um 100 Euro.",
+                                            "(2) Die Vergütungsminderung nach Absatz 1 unterbleibt bei implantatbezogenen Maßnahmen, die innerhalb der ersten sechs Monate ab dem nach § 37 Nummer 1 des Implantateregistergesetzes für den jeweiligen Implantattyp festgelegten Zeitpunkt durchgeführt werden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNG000800000"
                 },
                 "metadaten": [
@@ -3470,7 +3618,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002600000"
                 },
                 "metadaten": [
@@ -3512,7 +3660,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002701123"
                 },
                 "metadaten": [
@@ -4019,7 +4167,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214728",
+                    "builddate": "20241105214027",
                     "doknr": "BJNR434400021BJNE002802123"
                 },
                 "metadaten": [
