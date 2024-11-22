@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241024214008",
+            "builddate": "20241110213001",
             "doknr": "BJNR186700005"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005"
                 },
                 "metadaten": [
@@ -105,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000100000"
                 },
                 "metadaten": [
@@ -139,7 +139,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000200000"
                 },
                 "metadaten": [
@@ -229,7 +229,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000301377"
                 },
                 "metadaten": [
@@ -322,7 +322,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000400000"
                 },
                 "metadaten": [
@@ -356,7 +356,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000500000"
                 },
                 "metadaten": [
@@ -390,7 +390,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000600000"
                 },
                 "metadaten": [
@@ -425,7 +425,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000701311"
                 },
                 "metadaten": [
@@ -462,7 +462,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
+                    "builddate": "20241110213001",
                     "doknr": "BJNR186700005BJNE000800000"
                 },
                 "metadaten": [
@@ -496,8 +496,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241024214008",
-                    "doknr": "BJNR186700005BJNE000900000"
+                    "builddate": "20241110213001",
+                    "doknr": "BJNR186700005BJNE000901377"
                 },
                 "metadaten": [
                     {
@@ -511,7 +511,7 @@
                             {
                                 "_": "(zu § 1)",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -537,10 +537,13 @@
                                                 ],
                                                 "kommentar": [
                                                     {
-                                                        "_": "Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869",
+                                                        "_": "(Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                         "$": {
                                                             "typ": "Fundstelle"
-                                                        }
+                                                        },
+                                                        "BR": [
+                                                            ""
+                                                        ]
                                                     }
                                                 ],
                                                 "BR": [
@@ -3933,27 +3936,6 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Friedrichshafen-Löwenthal (Flughafen)",
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "entry": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "VJ": "1",
-                                                                                            "align": "left",
-                                                                                            "colsep": "0",
-                                                                                            "valign": "top"
-                                                                                        }
-                                                                                    },
-                                                                                    {
                                                                                         "_": "Langenargen",
                                                                                         "$": {
                                                                                             "VJ": "1",
@@ -3976,6 +3958,9 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
