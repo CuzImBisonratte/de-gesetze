@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240802214522",
+            "builddate": "20241203223031",
             "doknr": "BJNR395600001"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001"
                 },
                 "metadaten": [
@@ -54,7 +54,18 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "Zuletzt geändert durch Art. 1 G v. 30.7.2024 I Nr. 254"
+                                    "Zuletzt geändert durch Art. 4 G v. 21.8.2024 I Nr. 361"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Mittelbare Änderung durch Art. 6 G v. 21.8.2024 I Nr. 361 ist berücksichtigt"
                                 ]
                             },
                             {
@@ -106,7 +117,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNG000102123"
                 },
                 "metadaten": [
@@ -154,8 +165,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
-                    "doknr": "BJNR395600001BJNE002402123"
+                    "builddate": "20241203223031",
+                    "doknr": "BJNR395600001BJNE002403123"
                 },
                 "metadaten": [
                     {
@@ -318,10 +329,6 @@
                                             },
                                             {
                                                 "_": "(2) Die im Folgenden genannten Beträge verändern die Anteile des Bundes, der Länder und Gemeinden nach Absatz 1: ",
-                                                "BR": [
-                                                    "",
-                                                    ""
-                                                ],
                                                 "table": [
                                                     {
                                                         "$": {
@@ -340,29 +347,29 @@
                                                                 "colspec": [
                                                                     {
                                                                         "$": {
-                                                                            "colname": "c1",
+                                                                            "colname": "col1",
                                                                             "colwidth": "25*"
                                                                         }
                                                                     },
                                                                     {
                                                                         "$": {
                                                                             "align": "center",
-                                                                            "colname": "c2",
-                                                                            "colwidth": "48*"
+                                                                            "colname": "col2",
+                                                                            "colwidth": "50*"
                                                                         }
                                                                     },
                                                                     {
                                                                         "$": {
                                                                             "align": "center",
-                                                                            "colname": "c3",
-                                                                            "colwidth": "56*"
+                                                                            "colname": "col3",
+                                                                            "colwidth": "65*"
                                                                         }
                                                                     },
                                                                     {
                                                                         "$": {
-                                                                            "align": "center",
-                                                                            "colname": "c4",
-                                                                            "colwidth": "33*"
+                                                                            "align": "right",
+                                                                            "colname": "col4",
+                                                                            "colwidth": "35*"
                                                                         }
                                                                     }
                                                                 ],
@@ -373,11 +380,15 @@
                                                                         },
                                                                         "row": [
                                                                             {
+                                                                                "$": {
+                                                                                    "valign": "middle"
+                                                                                },
                                                                                 "entry": [
                                                                                     {
                                                                                         "_": "Kalenderjahr",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -386,6 +397,8 @@
                                                                                         "_": "Bund",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -394,6 +407,8 @@
                                                                                         "_": "Länder",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -402,6 +417,8 @@
                                                                                         "_": "Gemeinden",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -422,6 +439,7 @@
                                                                                         "_": "2020",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -430,6 +448,7 @@
                                                                                         "_": "minus 20 533 717 472 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -438,6 +457,7 @@
                                                                                         "_": "15 858 934 915 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -446,6 +466,7 @@
                                                                                         "_": "4 674 782 557 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -457,6 +478,7 @@
                                                                                         "_": "2021",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -465,6 +487,7 @@
                                                                                         "_": "minus 17 142 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -473,6 +496,7 @@
                                                                                         "_": "12 988 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -481,6 +505,7 @@
                                                                                         "_": "4 154 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -492,6 +517,7 @@
                                                                                         "_": "2022",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -500,6 +526,7 @@
                                                                                         "_": "minus 15 008 682 590 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -508,6 +535,7 @@
                                                                                         "_": "12 608 682 590 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -516,6 +544,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -527,6 +556,7 @@
                                                                                         "_": "2023",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -535,6 +565,7 @@
                                                                                         "_": "minus 13 792 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -543,6 +574,7 @@
                                                                                         "_": "11 392 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -551,6 +583,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -562,6 +595,7 @@
                                                                                         "_": "2024",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -570,6 +604,7 @@
                                                                                         "_": "minus 12 480 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -578,6 +613,7 @@
                                                                                         "_": "10 080 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -586,6 +622,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -597,6 +634,7 @@
                                                                                         "_": "2025",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -605,6 +643,7 @@
                                                                                         "_": "minus 11 305 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -613,6 +652,7 @@
                                                                                         "_": " 8 905 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -621,6 +661,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -632,22 +673,25 @@
                                                                                         "_": "2026",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "minus 11 305 407 683 Euro",
+                                                                                        "_": "minus 11 440 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 8 905 407 683 Euro",
+                                                                                        "_": " 9 040 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -656,6 +700,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -667,22 +712,25 @@
                                                                                         "_": "2027",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "minus 11 117 407 683 Euro",
+                                                                                        "_": "minus 11 577 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 8 717 407 683 Euro",
+                                                                                        "_": " 9 177 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -691,6 +739,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -702,22 +751,25 @@
                                                                                         "_": "2028",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "minus 11 117 407 683 Euro",
+                                                                                        "_": "minus 11 902 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 8 717 407 683 Euro",
+                                                                                        "_": " 9 502 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -726,6 +778,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -737,22 +790,25 @@
                                                                                         "_": "2029",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "minus 11 017 407 683 Euro",
+                                                                                        "_": "minus 12 127 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 8 617 407 683 Euro",
+                                                                                        "_": " 9 727 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0",
                                                                                             "rowsep": "0"
                                                                                         }
@@ -761,6 +817,7 @@
                                                                                         "_": "2 400 000 000 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col4",
                                                                                             "rowsep": "0"
                                                                                         }
                                                                                     }
@@ -772,27 +829,31 @@
                                                                                         "_": "ab 2030",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col1",
                                                                                             "colsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "minus 10 417 407 683 Euro",
+                                                                                        "_": "minus 11 717 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col2",
                                                                                             "colsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 8 017 407 683 Euro",
+                                                                                        "_": " 9 317 407 683 Euro",
                                                                                         "$": {
                                                                                             "VJ": "1",
+                                                                                            "colname": "col3",
                                                                                             "colsep": "0"
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "2 400 000 000 Euro.",
+                                                                                        "_": "2 400 000 000 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1"
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col4"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -823,7 +884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000202123"
                 },
                 "metadaten": [
@@ -869,7 +930,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000302123"
                 },
                 "metadaten": [
@@ -915,7 +976,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNG000202123"
                 },
                 "metadaten": [
@@ -963,7 +1024,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000402123"
                 },
                 "metadaten": [
@@ -1009,7 +1070,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000502123"
                 },
                 "metadaten": [
@@ -1056,7 +1117,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000602123"
                 },
                 "metadaten": [
@@ -1103,7 +1164,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000707123"
                 },
                 "metadaten": [
@@ -1221,7 +1282,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000802123"
                 },
                 "metadaten": [
@@ -1311,7 +1372,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE000902123"
                 },
                 "metadaten": [
@@ -1359,7 +1420,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001002123"
                 },
                 "metadaten": [
@@ -1406,7 +1467,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNG000302123"
                 },
                 "metadaten": [
@@ -1454,7 +1515,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001112123"
                 },
                 "metadaten": [
@@ -1904,7 +1965,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNG000402123"
                 },
                 "metadaten": [
@@ -1952,7 +2013,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001202123"
                 },
                 "metadaten": [
@@ -1998,7 +2059,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE002300123"
                 },
                 "metadaten": [
@@ -2044,7 +2105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001302123"
                 },
                 "metadaten": [
@@ -2146,7 +2207,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001404123"
                 },
                 "metadaten": [
@@ -2195,7 +2256,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001502123"
                 },
                 "metadaten": [
@@ -2241,7 +2302,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001602123"
                 },
                 "metadaten": [
@@ -2288,7 +2349,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001704123"
                 },
                 "metadaten": [
@@ -2335,7 +2396,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001802123"
                 },
                 "metadaten": [
@@ -2382,7 +2443,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240802214522",
+                    "builddate": "20241203223031",
                     "doknr": "BJNR395600001BJNE001902123"
                 },
                 "metadaten": [

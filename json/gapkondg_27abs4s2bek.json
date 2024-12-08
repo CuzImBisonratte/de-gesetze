@@ -1,26 +1,23 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20230922213003",
-            "doknr": "BJNR716900022"
+            "builddate": "20241205223054",
+            "doknr": "BJNR1850A0024"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20230922213003",
-                    "doknr": "BJNR716900022"
+                    "builddate": "20241205223054",
+                    "doknr": "BJNR1850A0024"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "RheinSchPV1994AbwV 44"
-                        ],
-                        "amtabk": [
-                            "44. RheinSchPVAbweichV"
+                            "GAPKondG§27Abs4S2Bek"
                         ],
                         "ausfertigung-datum": [
                             {
-                                "_": "2022-03-01",
+                                "_": "2024-12-02",
                                 "$": {
                                     "manuell": "ja"
                                 }
@@ -32,28 +29,15 @@
                                     "typ": "amtlich"
                                 },
                                 "periodikum": [
-                                    "VkBl"
+                                    "BGBl. I"
                                 ],
                                 "zitstelle": [
-                                    "2022, 169"
+                                    "2024, Nr. 389"
                                 ]
                             }
                         ],
                         "langue": [
-                            "Vierundvierzigste Verordnung zur vorübergehenden Abweichung von der Rheinschifffahrtspolizeiverordnung"
-                        ],
-                        "standangabe": [
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Aufh"
-                                ],
-                                "standkommentar": [
-                                    "Diese V tritt gem. § 4 idF d. Art. 1 V v. 9.2.2023 II Nr. 62 mit Ablauf des 30.11.2024 außer Kraft"
-                                ]
-                            }
+                            "Bekanntmachung nach § 27 Absatz 4 Satz 2 des GAP-Konditionalitäten-Gesetzes"
                         ]
                     }
                 ],
@@ -70,20 +54,51 @@
                                                 ],
                                                 "pre": [
                                                     {
-                                                        "_": " V nur mit Überschrift aufgenommen V geändert durch Art. 1 V v. 9.2.2023 II Nr. 62 ",
+                                                        "_": "(+++ Textnachweis ab: 5.12.2024 +++)",
                                                         "$": {
                                                             "xml:space": "preserve"
                                                         },
                                                         "BR": [
-                                                            "",
-                                                            "",
-                                                            "",
                                                             "",
                                                             ""
                                                         ]
                                                     }
                                                 ]
                                             }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241205223054",
+                    "doknr": "BJNR1850A0024BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GAPKondG§27Abs4S2Bek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Nach § 27 Absatz 4 Satz 2 des GAP-Konditionalitäten-Gesetzes vom 16. Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262), das zuletzt durch Artikel 1 des Gesetzes vom 18. November 2024 (BGBl. 2024 I Nr. 356) geändert worden ist, gibt das Bundesministerium für Ernährung und Landwirtschaft hierdurch bekannt, dass die Europäische Kommission der Bundesrepublik Deutschland den Durchführungsbeschluss mit der Genehmigung der Änderung des am 21. November 2022 genehmigten, durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raumes zu finanzierenden Strategieplans für Deutschland am 22. Oktober 2024 bekanntgegeben hat."
                                         ]
                                     }
                                 ]

@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20210913213504",
+            "builddate": "20241204222008",
             "doknr": "BJNR171200021"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021"
                 },
                 "metadaten": [
@@ -46,6 +46,17 @@
                             "Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Materialforschung und -prüfung"
                         ],
                         "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Geändert durch Art. 4 V v. 2.12.2024 I Nr. 384"
+                                ]
+                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -94,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021BJNE000100000"
                 },
                 "metadaten": [
@@ -128,7 +139,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021BJNE000200000"
                 },
                 "metadaten": [
@@ -256,7 +267,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021BJNE000300000"
                 },
                 "metadaten": [
@@ -331,7 +342,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021BJNE000400000"
                 },
                 "metadaten": [
@@ -375,7 +386,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR171200021BJNE000500000"
                 },
                 "metadaten": [
@@ -418,8 +429,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210913213504",
-                    "doknr": "BJNR171200021BJNE000600000"
+                    "builddate": "20241204222008",
+                    "doknr": "BJNR171200021BJNE000601130"
                 },
                 "metadaten": [
                     {
@@ -454,10 +465,13 @@
                                                     {
                                                         "kommentar": [
                                                             {
-                                                                "_": "(Fundstelle: BGBl. I 2021, 1714 - 1716)",
+                                                                "_": "(Fundstelle: BGBl. I 2021, 1714 - 1716;bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                                 "$": {
                                                                     "typ": "Fundstelle"
-                                                                }
+                                                                },
+                                                                "BR": [
+                                                                    ""
+                                                                ]
                                                             }
                                                         ]
                                                     }
@@ -1816,7 +1830,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Gutachten zum Nachweis, dass inerte Stoffe die thermische Sensibilität und die Sensibilität gegen eine einwirkende Detonation nicht erhöhen, gemäß § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 7 GefStoffV",
+                                                                                "_": "Gutachten zum Nachweis, dass inerte Stoffe die thermische Sensibilität und die Sensibilität gegen eine einwirkende Detonation nicht erhöhen, gemäß § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 7 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -1847,7 +1861,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Gutachten zur Feststellung der Gefährlichkeit und der Festlegung der Anforderungen an die Lagerung, Abfüllung und innerbetrieblichen Beförderung von Ammoniumnitraten und ammoniumnitrathaltigen Gemischen nach § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 8 GefStoffV",
+                                                                                "_": "Gutachten zur Feststellung der Gefährlichkeit und der Festlegung der Anforderungen an die Lagerung, Abfüllung und innerbetrieblichen Beförderung von Ammoniumnitraten und ammoniumnitrathaltigen Gemischen nach § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 8 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -1878,7 +1892,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Gutachten zum Nachweis der Gefahrenfreiheit von einer selbstunterhaltenden fortschreitenden thermischen Zersetzung ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 9 GefStoffV",
+                                                                                "_": "Gutachten zum Nachweis der Gefahrenfreiheit von einer selbstunterhaltenden fortschreitenden thermischen Zersetzung ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 9 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -1909,7 +1923,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Gutachten zum Nachweis der Erfüllung der europarechtlichen Beschaffenheitsanforderungen der Stoffe und Zubereitungen der Untergruppen A I, A II und A IV und zum Nachweis, dass Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind, gemäß § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1 GefStoffV",
+                                                                                "_": "Gutachten zum Nachweis der Erfüllung der europarechtlichen Beschaffenheitsanforderungen der Stoffe und Zubereitungen der Untergruppen A I, A II und A IV und zum Nachweis, dass Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind, gemäß § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -1940,7 +1954,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Feststellung und Bekanntgabe der Gefahrgruppenzuordnung bei organischen Peroxiden gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 3 GefStoffV",
+                                                                                "_": "Feststellung und Bekanntgabe der Gefahrgruppenzuordnung bei organischen Peroxiden gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 3 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -1971,7 +1985,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Bewertung und Bekanntgabe der Gefahrgruppenzuordnung, wenn die Gefahrgruppenzuordnung von einer anderen geeigneten Stelle vorgenommen wurde, gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 4 GefStoffV",
+                                                                                "_": "Bewertung und Bekanntgabe der Gefahrgruppenzuordnung, wenn die Gefahrgruppenzuordnung von einer anderen geeigneten Stelle vorgenommen wurde, gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 4 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -2002,7 +2016,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Gutachten über die zu treffenden Schutzmaßnahmen für die Gefährdungsbeurteilung bei Tätigkeiten mit organischen Peroxiden, bei denen Gemische auftreten können, die detonationsfähig sind oder zur schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.4 Absatz 2 GefStoffV",
+                                                                                "_": "Gutachten über die zu treffenden Schutzmaßnahmen für die Gefährdungsbeurteilung bei Tätigkeiten mit organischen Peroxiden, bei denen Gemische auftreten können, die detonationsfähig sind oder zur schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.4 Absatz 2 GefStoffV",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2",
@@ -2110,6 +2124,9 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]

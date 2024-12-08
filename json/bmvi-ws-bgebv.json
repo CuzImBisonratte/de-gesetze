@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240930214521",
+            "builddate": "20241129222508",
             "doknr": "BJNR474400021"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021"
                 },
                 "metadaten": [
@@ -54,7 +54,7 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "Zuletzt geändert durch Art. 1 V v. 18.9.2024 I Nr. 286"
+                                    "Zuletzt geändert durch Art. 2 Abs. 3 V v. 22.11.2024 I Nr. 370"
                                 ]
                             }
                         ]
@@ -97,7 +97,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000100000"
                 },
                 "metadaten": [
@@ -132,7 +132,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000207130"
                 },
                 "metadaten": [
@@ -1245,7 +1245,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000300000"
                 },
                 "metadaten": [
@@ -1290,7 +1290,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000400000"
                 },
                 "metadaten": [
@@ -1333,7 +1333,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000503130"
                 },
                 "metadaten": [
@@ -1382,7 +1382,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
+                    "builddate": "20241129222508",
                     "doknr": "BJNR474400021BJNE000600000"
                 },
                 "metadaten": [
@@ -1425,8 +1425,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240930214521",
-                    "doknr": "BJNR474400021BJNE000709130"
+                    "builddate": "20241129222508",
+                    "doknr": "BJNR474400021BJNE000710130"
                 },
                 "metadaten": [
                     {
@@ -7436,16 +7436,50 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Befreiung von Gebühren und Auslagen",
+                                                                        "_": "Befreiung von Gebühren und Auslagen ",
                                                                         "$": {
                                                                             "Size": "normal"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "_": "Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom Bund getragen werden, ist die zu untersuchende Person von der Entrichtung von Gebühren und Auslagen befreit.",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom Bund getragen werden, ist die zu untersuchende Person von der Entrichtung von Gebühren und Auslagen befreit.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Für die Erteilung eines Sicherheitszeugnisses für Schiffe im Sinne des § 6 Absatz 1a Satz 1 Nummer 2 der Schiffssicherheitsverordnung werden keine Gebühren nach den Nummern 0303 und 0304 erhoben.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
                                                                     }
                                                                 ]
                                                             }
@@ -11784,13 +11818,16 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "§ 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 BinSchPersV§ 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV",
+                                                                                "_": "§ 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 BinSchPersV § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV",
                                                                                 "$": {
                                                                                     "VJ": "1"
                                                                                 },
                                                                                 "BR": [
                                                                                     "",
                                                                                     ""
+                                                                                ],
+                                                                                "I": [
+                                                                                    "§ 4.01 Nummer 3 RheinSchPersV i. V. m."
                                                                                 ]
                                                                             },
                                                                             {
@@ -11816,13 +11853,16 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "§ 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV§ 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV",
+                                                                                "_": "§ 21 Absatz 3 und 4,auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV",
                                                                                 "$": {
                                                                                     "VJ": "1"
                                                                                 },
                                                                                 "BR": [
                                                                                     "",
                                                                                     ""
+                                                                                ],
+                                                                                "I": [
+                                                                                    "§ 4.01 Nummer 3 RheinSchPersV i. V. m."
                                                                                 ]
                                                                             },
                                                                             {
@@ -12081,10 +12121,12 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "1101",
                                                                                 "$": {
                                                                                     "VJ": "1"
-                                                                                }
+                                                                                },
+                                                                                "I": [
+                                                                                    "1111"
+                                                                                ]
                                                                             },
                                                                             {
                                                                                 "_": "Zulassung eines Fahrsimulators",
@@ -12109,10 +12151,12 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "1102",
                                                                                 "$": {
                                                                                     "VJ": "1"
-                                                                                }
+                                                                                },
+                                                                                "I": [
+                                                                                    "1112"
+                                                                                ]
                                                                             },
                                                                             {
                                                                                 "_": "Zulassung eines Radarsimulators",
@@ -12592,7 +12636,7 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "§ 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUOES-TRINArtikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel 11.08. Nummer 1, Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01",
+                                                                                "_": "§ 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUOES-TRINArtikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2,  Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col3"
@@ -12600,6 +12644,9 @@
                                                                                 "BR": [
                                                                                     "",
                                                                                     ""
+                                                                                ],
+                                                                                "I": [
+                                                                                    "Artikel 11.08. Nummer 1,"
                                                                                 ]
                                                                             },
                                                                             {
@@ -20193,29 +20240,25 @@
                                                                             {
                                                                                 "_": "0301",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen",
+                                                                                "_": "Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
                                                                                 "_": "§ 9 Absatz 3 SchSV",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col3"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
                                                                                 "_": "1 356",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col4"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -20225,29 +20268,84 @@
                                                                             {
                                                                                 "_": "0302",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen",
+                                                                                "_": "Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
                                                                                 "_": "§ 9 Absatz 3 SchSV",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col3"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
                                                                                 "_": "1 077",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col4"
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "0303",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung der Zwischenbesichtigung für Kleinfahrzeuge mit einer Schiffslänge von 3,60 m bis 8 m",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "§ 9 Absatz 3 SchSV",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "749",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "0304",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung der Zwischenbesichtigung für Kleinfahrzeuge mit einer Schiffslänge von 3,60 m bis 8 m",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                },
+                                                                                "BR": [
+                                                                                    ""
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "_": "§ 9 Absatz 3 SchSV",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "530",
+                                                                                "$": {
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -20781,42 +20879,6 @@
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Erteilung der Bescheinigung für Schiffe unter fremder Flagge, die in der Nationalen Fahrt eingesetzt werden sollen",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2"
-                                                                                }
-                                                                            },
-                                                                            {
-                                                                                "_": "§ 9 Absatz 6 SchSV i. V. m. § 5 Absatz 5, § 3 Absatz 3 Nummer 2, Anlage 1 Abschnitt D III. SchSV",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col3"
-                                                                                },
-                                                                                "BR": [
-                                                                                    "",
-                                                                                    ""
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "_": "231",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col4"
-                                                                                }
-                                                                            }
-                                                                        ]
-                                                                    },
-                                                                    {
-                                                                        "entry": [
-                                                                            {
-                                                                                "_": "0804",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1"
-                                                                                }
-                                                                            },
-                                                                            {
                                                                                 "_": "Zulassung im Bereich Schiffssicherheit, die nicht unter die Schiffsausrüstungsverordnung fällt",
                                                                                 "$": {
                                                                                     "VJ": "1",
@@ -20845,7 +20907,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0805",
+                                                                                "_": "0804",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -20883,7 +20945,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0806",
+                                                                                "_": "0805",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -20921,7 +20983,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0807",
+                                                                                "_": "0806",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -20952,7 +21014,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0808",
+                                                                                "_": "0807",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -20988,7 +21050,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0809",
+                                                                                "_": "0808",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -21019,7 +21081,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0810",
+                                                                                "_": "0809",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -21054,7 +21116,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0811",
+                                                                                "_": "0810",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -21086,7 +21148,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0812",
+                                                                                "_": "0811",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -21121,7 +21183,7 @@
                                                                     {
                                                                         "entry": [
                                                                             {
-                                                                                "_": "0813",
+                                                                                "_": "0812",
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col1"
@@ -21726,7 +21788,7 @@
                                                                                     "namest": "col1"
                                                                                 },
                                                                                 "B": [
-                                                                                    "D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem"
+                                                                                    "D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem"
                                                                                 ]
                                                                             }
                                                                         ]
@@ -21736,33 +21798,21 @@
                                                                             {
                                                                                 "_": "2301",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 bis 7 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 i. V. m. Anhang 1 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes",
+                                                                                "_": "Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2"
-                                                                                },
-                                                                                "BR": [
-                                                                                    "",
-                                                                                    "",
-                                                                                    ""
-                                                                                ]
+                                                                                    "VJ": "1"
+                                                                                }
                                                                             },
                                                                             {
-                                                                                "_": "§ 9 Absatz 1 und 3 Nummer 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. VII. Nummer 26 i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens",
+                                                                                "_": "§ 9 Absatz 1 und 3 Nummer 1, § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col3"
+                                                                                    "VJ": "1"
                                                                                 },
                                                                                 "BR": [
-                                                                                    "",
-                                                                                    "",
-                                                                                    "",
-                                                                                    "",
                                                                                     "",
                                                                                     ""
                                                                                 ]
@@ -21770,8 +21820,7 @@
                                                                             {
                                                                                 "_": "299",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col4"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -21781,31 +21830,27 @@
                                                                             {
                                                                                 "_": "2302",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             },
                                                                             {
-                                                                                "_": "Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 bis 7 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des IAFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) für vorhandene Schiffe",
+                                                                                "_": "Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach  bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) für vorhandene Schiffe",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2"
+                                                                                    "VJ": "1"
                                                                                 },
+                                                                                "I": [
+                                                                                    "Anlage 4 Regel 2 des AFS-Übereinkommens"
+                                                                                ],
                                                                                 "BR": [
-                                                                                    "",
                                                                                     ""
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "_": "§ 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. VII. Nummer 26 i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27 a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens",
+                                                                                "_": "§ 9 Absatz 1 und 3 Nummer 1, Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col3"
+                                                                                    "VJ": "1"
                                                                                 },
                                                                                 "BR": [
-                                                                                    "",
-                                                                                    "",
-                                                                                    "",
                                                                                     "",
                                                                                     ""
                                                                                 ]
@@ -21813,8 +21858,7 @@
                                                                             {
                                                                                 "_": "164",
                                                                                 "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col4"
+                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -26067,8 +26111,9 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(+++ Anlage Abschn. 4: Zur Anwendung vgl. § 4 Abs.4 +++) Anlage Abschn. 2 Tabelle Tabellenabschn. 2 Nr. 203 Spalte 3: IdF d. Art. 4 Nr. 3 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird die Angabe \"Artikel 11.08. Nummer 1,\" durch die Angabe \"Artikel 11.08 Nummer 1,\" ersetzt. Anlage Abschn. 3 Vorbemerkung Nr. 1 u. 2: Früher einziger Text, jetzt Nr. 1 u. 2 gem. u. idF. d. Art. 1 Nr. 3 Buchst. a V v. 11.5.2023 I Nr. 127 mWv 18.5.2023 Anlage Abschn. 3 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach den Worten \"gemäß § 9 Absatz 4 BGebG\" das Satzzeichen Doppelpunkt \":\" eingesetzt.",
+                                                "_": "(+++ Anlage Abschn. 4: Zur Anwendung vgl. § 4 Abs.4 +++) Anlage Abschn. 2 Tabelle Tabellenabschn. 2 Nr. 203 Spalte 3: IdF d. Art. 4 Nr. 3 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird die Angabe \"Artikel 11.08. Nummer 1,\" durch die Angabe \"Artikel 11.08 Nummer 1,\" ersetzt. Anlage Abschn. 3 Nr. 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach den Worten \"gemäß § 9 Absatz 4 BGebG\" das Satzzeichen Doppelpunkt \":\" eingesetzt. Anlage Abschn. 5 Tabelle Tabellenabschn. II. Nr. 2302 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wird die Angabe \"Anlage 4 Regel 2 des IAFS-Übereinkommens\" durch die Angabe \"Anlage 4 Regel 2 des AFS-Übereinkommens\" ersetzt.",
                                                 "BR": [
+                                                    "",
                                                     "",
                                                     ""
                                                 ]

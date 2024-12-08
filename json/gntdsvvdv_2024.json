@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241104213507",
+            "builddate": "20241204222007",
             "doknr": "BJNR14A0A0024"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024"
                 },
                 "metadaten": [
@@ -70,11 +70,13 @@
                                                 ],
                                                 "pre": [
                                                     {
-                                                        "_": "(+++ Textnachweis ab: 1.9.2024 +++)",
+                                                        "_": "(+++ Textnachweis ab: 1.9.2024 +++) (+++ zur Anwendung vgl. §§ 18, 27 +++)",
                                                         "$": {
                                                             "xml:space": "preserve"
                                                         },
                                                         "BR": [
+                                                            "",
+                                                            "",
                                                             "",
                                                             ""
                                                         ]
@@ -91,7 +93,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000100000"
                 },
                 "metadaten": [
@@ -126,7 +128,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000200000"
                 },
                 "metadaten": [
@@ -1135,7 +1137,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNG000100000"
                 },
                 "metadaten": [
@@ -1165,7 +1167,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000300000"
                 },
                 "metadaten": [
@@ -1208,7 +1210,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000400000"
                 },
                 "metadaten": [
@@ -1251,7 +1253,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000500000"
                 },
                 "metadaten": [
@@ -1294,7 +1296,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000600000"
                 },
                 "metadaten": [
@@ -1371,7 +1373,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000700000"
                 },
                 "metadaten": [
@@ -1445,7 +1447,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000800000"
                 },
                 "metadaten": [
@@ -1489,7 +1491,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNG000200000"
                 },
                 "metadaten": [
@@ -1519,7 +1521,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE000900000"
                 },
                 "metadaten": [
@@ -1554,7 +1556,23 @@
                                             "(1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde aufgrund eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind.",
                                             "(2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung genannten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, kann die Zahl der Teilnehmerinnen und Teilnehmer am Auswahlverfahren beschränkt werden. Es sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zum Auswahlverfahren zuzulassen, wie Studienplätze zur Verfügung stehen. In diesem Fall wird zum Auswahlverfahren zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist.",
                                             "(3) Wird die Zahl der Teilnehmerinnen und Teilnehmer am Auswahlverfahren nach § 10a Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.",
-                                            "(4) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Eingereichte Bewerbungsunterlagen werden entsprechend der Datenschutzgrundverordnung spätestens ein Jahr nach der Ablehnung vernichtet oder im Falle elektronischer Bewerbungsunterlagen gelöscht."
+                                            {
+                                                "_": "(4) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Eingereichte Bewerbungsunterlagen werden entsprechend der  spätestens ein Jahr nach der Ablehnung vernichtet oder im Falle elektronischer Bewerbungsunterlagen gelöscht.",
+                                                "I": [
+                                                    "Datenschutz-Grundverordnung"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "§ 7 Abs. 4 Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wird das Wort \"Datenschutzgrundverordnung\" durch das Wort \"Datenschutz-Grundverordnung\" ersetzt"
                                         ]
                                     }
                                 ]
@@ -1565,7 +1583,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001000000"
                 },
                 "metadaten": [
@@ -1659,7 +1677,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001100000"
                 },
                 "metadaten": [
@@ -1705,7 +1723,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001200000"
                 },
                 "metadaten": [
@@ -1869,7 +1887,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001300000"
                 },
                 "metadaten": [
@@ -1914,7 +1932,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNG000300000"
                 },
                 "metadaten": [
@@ -1944,7 +1962,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001400000"
                 },
                 "metadaten": [
@@ -2225,7 +2243,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001500000"
                 },
                 "metadaten": [
@@ -2317,7 +2335,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001600000"
                 },
                 "metadaten": [
@@ -2364,7 +2382,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001700000"
                 },
                 "metadaten": [
@@ -2458,7 +2476,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001800000"
                 },
                 "metadaten": [
@@ -2501,7 +2519,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE001900000"
                 },
                 "metadaten": [
@@ -2586,7 +2604,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002000000"
                 },
                 "metadaten": [
@@ -2643,7 +2661,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002100000"
                 },
                 "metadaten": [
@@ -2687,7 +2705,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNG000400000"
                 },
                 "metadaten": [
@@ -2717,7 +2735,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002200000"
                 },
                 "metadaten": [
@@ -2800,7 +2818,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002300000"
                 },
                 "metadaten": [
@@ -2978,7 +2996,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002400000"
                 },
                 "metadaten": [
@@ -3055,7 +3073,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002500000"
                 },
                 "metadaten": [
@@ -3102,7 +3120,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002600000"
                 },
                 "metadaten": [
@@ -3361,7 +3379,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002700000"
                 },
                 "metadaten": [
@@ -3410,7 +3428,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002800000"
                 },
                 "metadaten": [
@@ -3457,7 +3475,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE002900000"
                 },
                 "metadaten": [
@@ -4195,7 +4213,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003000000"
                 },
                 "metadaten": [
@@ -5010,7 +5028,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003100000"
                 },
                 "metadaten": [
@@ -5088,7 +5106,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003200000"
                 },
                 "metadaten": [
@@ -5134,7 +5152,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003300000"
                 },
                 "metadaten": [
@@ -5177,7 +5195,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003400000"
                 },
                 "metadaten": [
@@ -5225,7 +5243,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003500000"
                 },
                 "metadaten": [
@@ -5368,7 +5386,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003600000"
                 },
                 "metadaten": [
@@ -5544,7 +5562,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003700000"
                 },
                 "metadaten": [
@@ -5669,7 +5687,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNG000500000"
                 },
                 "metadaten": [
@@ -5699,7 +5717,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003800000"
                 },
                 "metadaten": [
@@ -5742,7 +5760,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241104213507",
+                    "builddate": "20241204222007",
                     "doknr": "BJNR14A0A0024BJNE003900000"
                 },
                 "metadaten": [

@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241031213531",
+            "builddate": "20241205223003",
             "doknr": "BJNR005850965"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965"
                 },
                 "metadaten": [
@@ -78,6 +78,17 @@
                                 "standkommentar": [
                                     "Änderung durch Art. 49 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 51 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -123,7 +134,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE000106308"
                 },
                 "metadaten": [
@@ -214,7 +225,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE000223377"
                 },
                 "metadaten": [
@@ -678,7 +689,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE001906360"
                 },
                 "metadaten": [
@@ -786,7 +797,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002112377"
                 },
                 "metadaten": [
@@ -990,7 +1001,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002205308"
                 },
                 "metadaten": [
@@ -1076,7 +1087,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002306308"
                 },
                 "metadaten": [
@@ -1205,7 +1216,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002406308"
                 },
                 "metadaten": [
@@ -1250,7 +1261,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002608377"
                 },
                 "metadaten": [
@@ -1443,7 +1454,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002507308"
                 },
                 "metadaten": [
@@ -1535,7 +1546,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE000306308"
                 },
                 "metadaten": [
@@ -1583,7 +1594,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE000407308"
                 },
                 "metadaten": [
@@ -1676,7 +1687,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE000609308"
                 },
                 "metadaten": [
@@ -1722,7 +1733,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE001224126"
                 },
                 "metadaten": [
@@ -1836,7 +1847,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE001312360"
                 },
                 "metadaten": [
@@ -1967,7 +1978,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE001413126"
                 },
                 "metadaten": [
@@ -2124,7 +2135,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE001605308"
                 },
                 "metadaten": [
@@ -2167,8 +2178,54 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
-                    "doknr": "BJNR005850965BJNE001724126"
+                    "builddate": "20241205223003",
+                    "doknr": "BJNR005850965BJNE002800126"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VermBG 2",
+                            "5. VermBG"
+                        ],
+                        "enbez": [
+                            "§ 16a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Gleichstellung der Wertpapierinstitute",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für die Anwendung der vorstehenden Vorschriften dieses Gesetzes sind Wertpapierinstitute im Sinne des Wertpapierinstitutsgesetzes den Kreditinstituten sowie den Kapitalverwaltungsgesellschaften im Sinne des Kapitalanlagegesetzbuchs gleichgestellt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241205223003",
+                    "doknr": "BJNR005850965BJNE001725126"
                 },
                 "metadaten": [
                     {
@@ -2271,7 +2328,8 @@
                                             "(14) Das Bundesministerium der Finanzen teilt den Zeitpunkt der erstmaligen Anwendung der §§ 13 und 14 Absatz 4 sowie des § 15 in der Fassung des Artikels 18 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben mit. Bis zu diesem Zeitpunkt sind die §§ 13 und 14 Absatz 4 sowie der § 15 in der Fassung des Artikels 13 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) weiter anzuwenden.",
                                             "(15) § 2 Absatz 1 Nummer 1 in der Fassung des Artikels 5 des Gesetzes vom 18. Dezember 2013 (BGBl. I S. 4318) ist erstmals für vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember 2013 angelegt werden. § 4 Absatz 4 Nummer 4 in der Fassung des Artikels 5 des Gesetzes vom 18. Dezember 2013 (BGBl. I S. 4318) ist erstmals bei Verfügungen nach dem 31. Dezember 2013 anzuwenden.",
                                             "(16) Zur Abwicklung von Verträgen, die vor dem 25. Mai 2018 unter den Voraussetzungen des § 15 Absatz 1 Satz 4 in der am 30. Juni 2013 geltenden Fassung abgeschlossen wurden, sind das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte Gläubiger verpflichtet, die Daten nach Maßgabe des § 15 Absatz 1 Satz 1 zu übermitteln, es sei denn, der Arbeitnehmer hat der Datenübermittlung schriftlich widersprochen.",
-                                            "(17) § 13 Absatz 1 Satz 1 in der Fassung des Artikels 34 des Gesetzes vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember 2023 angelegt werden."
+                                            "(17) § 13 Absatz 1 Satz 1 in der Fassung des Artikels 34 des Gesetzes vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember 2023 angelegt werden.",
+                                            "(18) § 16a ist rückwirkend ab Inkrafttreten des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990) anzuwenden."
                                         ]
                                     }
                                 ]
@@ -2285,7 +2343,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241031213531",
+                    "builddate": "20241205223003",
                     "doknr": "BJNR005850965BJNE002701308"
                 },
                 "metadaten": [

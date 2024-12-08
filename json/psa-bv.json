@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20130405131827",
+            "builddate": "20241204222008",
             "doknr": "BJNR184110996"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20130405131827",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR184110996"
                 },
                 "metadaten": [
@@ -44,6 +44,19 @@
                         ],
                         "langue": [
                             "Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 2 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
+                            }
                         ]
                     }
                 ],
@@ -101,7 +114,7 @@
             },
             {
                 "$": {
-                    "builddate": "20130405131827",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR184110996BJNE000300000"
                 },
                 "metadaten": [
@@ -258,8 +271,8 @@
             },
             {
                 "$": {
-                    "builddate": "20130405131827",
-                    "doknr": "BJNR184110996BJNE000400000"
+                    "builddate": "20241204222008",
+                    "doknr": "BJNR184110996BJNE000401126"
                 },
                 "metadaten": [
                     {
@@ -273,7 +286,7 @@
                             {
                                 "_": "Bereitstellung und Benutzung",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -290,7 +303,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des Arbeitsschutzgesetzes darf der Arbeitgeber nur persönliche Schutzausrüstungen auswählen und den Beschäftigten bereitstellen, die  ",
+                                                "_": "(1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des Arbeitsschutzgesetzes darf der Arbeitgeber nur persönliche Schutzausrüstungen auswählen und den Beschäftigten bereitstellen, die ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -310,7 +323,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "den Anforderungen der Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen entsprechen,",
+                                                                        "_": "den Anforderungen der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der Richtlinie 89/686/EWG des Rates (ABl. L 81 vom 31.3.2016, S. 51) in der jeweils geltenden Fassung entsprechen,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -373,7 +386,7 @@
             },
             {
                 "$": {
-                    "builddate": "20130405131827",
+                    "builddate": "20241204222008",
                     "doknr": "BJNR184110996BJNE000500000"
                 },
                 "metadaten": [
