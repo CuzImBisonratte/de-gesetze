@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241030214029",
+            "builddate": "20241211222535",
             "doknr": "BJNR0BC0A0024"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024"
                 },
                 "metadaten": [
@@ -32,7 +32,7 @@
                                     "typ": "amtlich"
                                 },
                                 "periodikum": [
-                                    "BGBl. I"
+                                    "BGBl I"
                                 ],
                                 "zitstelle": [
                                     "2024, Nr. 188"
@@ -44,6 +44,19 @@
                         ],
                         "langue": [
                             "Verordnung über die Grundsätze der Personalbedarfsbemessung in der stationären Krankenpflege"
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 5b G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
+                            }
                         ]
                     }
                 ],
@@ -83,7 +96,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000100000"
                 },
                 "metadaten": [
@@ -117,7 +130,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000100000"
                 },
                 "metadaten": [
@@ -146,7 +159,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000200000"
                 },
                 "metadaten": [
@@ -190,8 +203,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
-                    "doknr": "BJNR0BC0A0024BJNE000300000"
+                    "builddate": "20241211222535",
+                    "doknr": "BJNR0BC0A0024BJNE000301126"
                 },
                 "metadaten": [
                     {
@@ -228,6 +241,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -242,7 +256,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen hat,"
+                                                                    {
+                                                                        "_": "die erfolgreich eine landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege von mindestens einjähriger Dauer abgeschlossen hat,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -250,7 +269,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die erfolgreich eine landesrechtlich geregelte Ausbildung in der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens einjähriger Dauer abgeschlossen hat,"
+                                                                    {
+                                                                        "_": "die erfolgreich eine landesrechtlich geregelte Ausbildung in der Krankenpflegehilfe oder in der Altenpflegehilfe von mindestens einjähriger Dauer abgeschlossen hat,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -258,7 +282,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "der auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 (BGBl. I S. 893) in der am 31. Dezember 2003 geltenden Fassung eine Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist oder"
+                                                                    {
+                                                                        "_": "der auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 (BGBl. I S. 893) in der am 31. Dezember 2003 geltenden Fassung eine Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer erteilt worden ist oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -268,9 +297,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "die einer der folgenden Personengruppen angehört: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -284,7 +317,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen haben oder eine Qualifikation vorweisen, die dieser Ausbildung entspricht,"
+                                                                                            {
+                                                                                                "_": "Medizinische Fachangestellte, die erfolgreich eine Ausbildung nach der Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten abgeschlossen haben oder eine Qualifikation vorweisen, die dieser Ausbildung entspricht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -292,7 +330,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, die über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes verfügen,"
+                                                                                            {
+                                                                                                "_": "Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten, die über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes verfügen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -300,7 +343,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Notfallsanitäterinnen und Notfallsanitäter, denen auf Grundlage des Notfallsanitätergesetzes eine Erlaubnis zum Führen der entsprechenden Berufsbezeichnung erteilt worden ist."
+                                                                                            {
+                                                                                                "_": "Notfallsanitäterinnen und Notfallsanitäter, denen auf Grundlage des Notfallsanitätergesetzes eine Erlaubnis zum Führen der entsprechenden Berufsbezeichnung erteilt worden ist.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -314,16 +362,7 @@
                                                 ]
                                             },
                                             "(4) Hebamme im Sinne dieser Verordnung ist eine Person mit einer Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ nach § 5 Absatz 1 des Hebammengesetzes, auch in Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes.",
-                                            {
-                                                "_": "(5) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2 der Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes zwischen dem GKV-Spitzenverband KdöR, Berlin, und der Deutschen Krankenhausgesellschaft e.V., Berlin, vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist.",
-                                                "FnR": [
-                                                    {
-                                                        "$": {
-                                                            "ID": "F830285_01_BJNR0BC0A0024BJNE000300000"
-                                                        }
-                                                    }
-                                                ]
-                                            },
+                                            "(5) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2a des Krankenhausfinanzierungsgesetzes.",
                                             "(6) Patientin oder Patient im Sinne dieser Verordnung ist eine Person, die in ein Krankenhaus zur stationären oder teilstationären Behandlung aufgenommen wurde oder die in einem Krankenhaus nach § 115f des Fünften Buches Sozialgesetzbuch vergütete Leistungen in Anspruch nimmt.",
                                             "(7) Ein Vollzeitäquivalent im Sinne dieser Verordnung entspricht 38,5 Stunden Arbeitszeit pro Woche.",
                                             "(8) Station im Sinne dieser Verordnung ist die kleinste bettenführende organisatorische Einheit in der Patientenversorgung am Standort eines Krankenhauses, die räumlich ausgewiesen ist und die anhand einer ihr zugewiesenen individuellen Bezeichnung auch für Dritte identifizierbar ist und auf der Patientinnen und Patienten entweder in einem medizinischen Fachgebiet oder interdisziplinär in verschiedenen medizinischen Fachgebieten behandelt werden.",
@@ -331,21 +370,6 @@
                                             "(10) Eine Station ist Normalstation im Sinne dieser Verordnung, wenn sie bettenführend ist und keine Intensivstation ist.",
                                             "(11) Die Tagschicht im Sinne dieser Verordnung umfasst den Zeitraum von 6 bis 22 Uhr. Die Nachtschicht im Sinne dieser Verordnung umfasst den Zeitraum von 22 bis 6 Uhr.",
                                             "(12) Erwachsene im Sinne dieser Verordnung sind Personen, die das achtzehnte Lebensjahr vollendet haben."
-                                        ]
-                                    }
-                                ],
-                                "Footnotes": [
-                                    {
-                                        "Footnote": [
-                                            {
-                                                "_": "Amtlicher Hinweis: die Vereinbarung ist abrufbar unter https://www.dkgev.de/fileadmin/default/Mediapool/2_Themen/2.1_Digitalisierung_Daten/2.1.2._Informationstechnik_im_Krankenhaus/2.1.2.1._Verzeichnisse_und_Register/Vereinbarungen_Standortdefinition.pdf",
-                                                "$": {
-                                                    "FnZ": "*",
-                                                    "Group": "column",
-                                                    "ID": "F830285_01_BJNR0BC0A0024BJNE000300000",
-                                                    "Pos": "normal"
-                                                }
-                                            }
                                         ]
                                     }
                                 ]
@@ -356,7 +380,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000400000"
                 },
                 "metadaten": [
@@ -398,7 +422,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000200000"
                 },
                 "metadaten": [
@@ -427,7 +451,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000500000"
                 },
                 "metadaten": [
@@ -580,7 +604,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000600000"
                 },
                 "metadaten": [
@@ -682,7 +706,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000700000"
                 },
                 "metadaten": [
@@ -761,7 +785,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000800000"
                 },
                 "metadaten": [
@@ -807,7 +831,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE000900000"
                 },
                 "metadaten": [
@@ -850,7 +874,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000300000"
                 },
                 "metadaten": [
@@ -879,7 +903,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001000000"
                 },
                 "metadaten": [
@@ -1286,7 +1310,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001100000"
                 },
                 "metadaten": [
@@ -1402,7 +1426,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001200000"
                 },
                 "metadaten": [
@@ -1447,7 +1471,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001300000"
                 },
                 "metadaten": [
@@ -2112,7 +2136,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000400000"
                 },
                 "metadaten": [
@@ -2141,7 +2165,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000500000"
                 },
                 "metadaten": [
@@ -2170,7 +2194,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001400000"
                 },
                 "metadaten": [
@@ -2701,7 +2725,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001500000"
                 },
                 "metadaten": [
@@ -3496,7 +3520,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001600000"
                 },
                 "metadaten": [
@@ -3615,7 +3639,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001700000"
                 },
                 "metadaten": [
@@ -3660,7 +3684,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000600000"
                 },
                 "metadaten": [
@@ -3689,7 +3713,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001800000"
                 },
                 "metadaten": [
@@ -4100,7 +4124,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE001900000"
                 },
                 "metadaten": [
@@ -4145,7 +4169,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002000000"
                 },
                 "metadaten": [
@@ -5026,7 +5050,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNG000700000"
                 },
                 "metadaten": [
@@ -5055,7 +5079,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002100000"
                 },
                 "metadaten": [
@@ -5137,7 +5161,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002200000"
                 },
                 "metadaten": [
@@ -5179,7 +5203,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002300000"
                 },
                 "metadaten": [
@@ -5213,7 +5237,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002400000"
                 },
                 "metadaten": [
@@ -5913,7 +5937,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002500000"
                 },
                 "metadaten": [
@@ -9466,7 +9490,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222535",
                     "doknr": "BJNR0BC0A0024BJNE002600000"
                 },
                 "metadaten": [
@@ -20160,7 +20184,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214029",
+                    "builddate": "20241211222536",
                     "doknr": "BJNR0BC0A0024BJNE002700000"
                 },
                 "metadaten": [
@@ -22733,7 +22757,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241030214030",
+                    "builddate": "20241211222536",
                     "doknr": "BJNR0BC0A0024BJNE002800000"
                 },
                 "metadaten": [

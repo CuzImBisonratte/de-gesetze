@@ -1,0 +1,729 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20241213221534",
+            "doknr": "BJNR634600024"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20241213221534",
+                    "doknr": "BJNR634600024"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SGB92018§§160Abs3ua/WMVO§39Abs4S6uaBek"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2024-12-02",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BAnz"
+                                ],
+                                "zitstelle": [
+                                    "AT 11.12.2024 B2"
+                                ]
+                            }
+                        ],
+                        "langue": [
+                            "Bekanntmachung über die Anpassung der Ausgleichsabgabe, der Eigenbeteiligung für die unentgeltliche Beförderung, der übernahmefähigen Kinderbetreuungskosten und der Finanzierung der beiden Interessenvertretungen in Werkstätten für behinderte Menschen auf Bundesebene"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 11.12.2024 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241213221534",
+                    "doknr": "BJNR634600024BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SGB92018§§160Abs3ua/WMVO§39Abs4S6uaBek"
+                        ],
+                        "enbez": [
+                            "(XXXX)"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Gemäß § 160 Absatz 3 des Neunten Buches Sozialgesetzbuch (SGB IX) erhöhen sich die monatlichen Sätze der Ausgleichsabgabe (§ 160 Absatz 2 SGB IX) ab dem 1. Januar 2025 wie folgt:",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Ausgleichsabgabe",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "BR": [
+                                                                            "",
+                                                                            "",
+                                                                            ""
+                                                                        ],
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "colsep": "1",
+                                                                                    "frame": "top",
+                                                                                    "pgwide": "1",
+                                                                                    "rowsep": "1",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "left",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "3"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "colname": "col1",
+                                                                                                    "colnum": "1",
+                                                                                                    "colwidth": "70*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col2",
+                                                                                                    "colnum": "2",
+                                                                                                    "colwidth": "30*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col3",
+                                                                                                    "colnum": "3",
+                                                                                                    "colwidth": "70*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "thead": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "bottom"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "Erfüllungsquote",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "heute",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "Neue Beträge ab 1. Januar 2025",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "3 bis unter 5 Prozent",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "140 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "155 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "2 bis unter 3 Prozent",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "245 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "275 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "0 bis unter 2 Prozent",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "360 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "405 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "0 Prozent",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "720 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "815 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "_": "Kleinbetriebsregelung",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "_": "Für Arbeitgeber mit jahresdurchschnittlich weniger als 40 beziehungsweise 60 zu berücksichtigenden Arbeitsplätzen ergeben sich folgende monatliche Beträge: Die Erhöhung der Ausgleichsabgabe tritt zum 1. Januar 2025 ein. Die erhöhten Werte sind erstmalig zum 31. März 2026 zu zahlen, wenn die Ausgleichsabgabe für das Jahr 2025 fällig wird.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "BR": [
+                                                                            ""
+                                                                        ],
+                                                                        "table": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "colsep": "1",
+                                                                                    "frame": "none",
+                                                                                    "pgwide": "1",
+                                                                                    "rowsep": "1",
+                                                                                    "tocentry": "%yes;"
+                                                                                },
+                                                                                "tgroup": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "align": "left",
+                                                                                            "char": "",
+                                                                                            "charoff": "50",
+                                                                                            "cols": "5"
+                                                                                        },
+                                                                                        "colspec": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "colname": "col1",
+                                                                                                    "colnum": "1",
+                                                                                                    "colwidth": "40*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col2",
+                                                                                                    "colnum": "2",
+                                                                                                    "colwidth": "20*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col3",
+                                                                                                    "colnum": "3",
+                                                                                                    "colwidth": "45*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col4",
+                                                                                                    "colnum": "4",
+                                                                                                    "colwidth": "20*"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "align": "center",
+                                                                                                    "colname": "col5",
+                                                                                                    "colnum": "5",
+                                                                                                    "colwidth": "45*"
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "thead": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "bottom"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "Jahresdurchschnittliche Beschäftigung von",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1",
+                                                                                                                    "morerows": "1"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "weniger als 40 Arbeitsplätze",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "nameend": "col3",
+                                                                                                                    "namest": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "weniger als 60 Arbeitsplätze",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "nameend": "col5",
+                                                                                                                    "namest": "col4"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "heute",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "Neuer Betrag ab 1. Januar 2025",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "heute",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col4"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "Neuer Betrag ab 1. Januar 2025",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col5"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ],
+                                                                                        "tbody": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "valign": "top"
+                                                                                                },
+                                                                                                "row": [
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "weniger als 2 schwerbehinderten Menschen",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "–",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "–",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "140 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col4"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "155 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col5"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "weniger als 1 schwerbehinderten Menschen",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "140 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "155 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "245 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col4"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "275 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col5"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "entry": [
+                                                                                                            {
+                                                                                                                "_": "null schwerbehinderten Menschen",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col1"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "210 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col2"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "235 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col3"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "410 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col4"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "_": "465 Euro",
+                                                                                                                "$": {
+                                                                                                                    "VJ": "1",
+                                                                                                                    "colname": "col5"
+                                                                                                                },
+                                                                                                                "BR": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Gemäß § 228 Absatz 2 Satz 2 in Verbindung mit § 160 Absatz 3 SGB IX beträgt die Eigenbeteiligung für die unentgeltliche Beförderung schwerbehinderter Menschen ab dem 1. Januar 2025 für ein Jahr 104 Euro oder für ein halbes Jahr 53 Euro.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Gemäß § 74 Absatz 3 Satz 3 in Verbindung mit § 160 Absatz 3 SGB IX können ab dem 1. Januar 2025 die Kinderbetreuungskosten bis zu einem Betrag von 200 Euro je Kind und Monat übernommen werden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Gemäß den §§ 39 Absatz 4 Satz 6 und 39a Absatz 6 Satz 6 der Werkstätten-Mitwirkungsverordnung beträgt der jährliche Überweisungsbetrag an die beiden Interessenvertretungen in Werkstätten für behinderte Menschen (Werkstatträte Deutschland e. V. und  ab dem 1. Januar 2025 jeweils 2,06 Euro.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "NB": [
+                                                                            "Starke.Frauen.Machen. e. V.)"
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241213221534",
+                    "doknr": "BJNR634600024BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "SGB92018§§160Abs3ua/WMVO§39Abs4S6uaBek"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Bundesministerium für Arbeit und Soziales"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
