@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20211028213015",
+            "builddate": "20241223221541",
             "doknr": "BJNR383610013"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013"
                 },
                 "metadaten": [
@@ -50,6 +50,17 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 30 G v. 20.8.2021 I 3932"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 8 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -89,7 +100,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNG000101000"
                 },
                 "metadaten": [
@@ -118,7 +129,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000101000"
                 },
                 "metadaten": [
@@ -160,7 +171,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000200000"
                 },
                 "metadaten": [
@@ -204,7 +215,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000301126"
                 },
                 "metadaten": [
@@ -250,7 +261,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000401124"
                 },
                 "metadaten": [
@@ -296,7 +307,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001501126"
                 },
                 "metadaten": [
@@ -400,7 +411,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001600126"
                 },
                 "metadaten": [
@@ -445,8 +456,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
-                    "doknr": "BJNR383610013BJNE001700126"
+                    "builddate": "20241223221541",
+                    "doknr": "BJNR383610013BJNE001701126"
                 },
                 "metadaten": [
                     {
@@ -481,6 +492,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -495,7 +507,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2 Unterabschnitt 1 und 2 des Soldatenentschädigungsgesetzes,"
+                                                                    {
+                                                                        "_": "Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2 Unterabschnitt 1 und 2 und die Leistungen der Hilfsmittelversorgung nach den Kapiteln 3 bis 5 für alle früheren Soldatinnen und Soldaten nach § 31 Absatz 2 des Siebten Buches Sozialgesetzbuch,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -503,7 +520,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 des Soldatenentschädigungsgesetzes,"
+                                                                    {
+                                                                        "_": "Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 des Soldatenentschädigungsgesetzes für geschädigte Personen, die sich nicht im Wehrdienstverhältnis befinden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -511,7 +533,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Leistungen der Wohnungshilfe nach § 33 Absatz 2 Nummer 2 des Soldatenentschädigungsgesetzes und"
+                                                                    {
+                                                                        "_": "Leistungen der Wohnungshilfe nach dem Soldatenentschädigungsgesetz und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -519,7 +546,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Leistungen zur Teilhabe am Arbeitsleben nach § 46 des Soldatenentschädigungsgesetzes."
+                                                                    {
+                                                                        "_": "Leistungen zur Teilhabe am Arbeitsleben nach § 46 des Soldatenentschädigungsgesetzes.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -534,6 +566,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -546,7 +579,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die laufenden Leistungsausgaben und Verwaltungskosten,"
+                                                                    {
+                                                                        "_": "die laufenden Leistungsausgaben und Verwaltungskosten,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -554,7 +592,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Kosten der Einrichtung der informationstechnischen Systeme und Schnittstellen sowie weitere Kosten, die zur Vorbereitung der Leistungserbringung nach Absatz 1 notwendig sind, auch soweit diese Kosten vor dem 1. Januar 2025 anfallen."
+                                                                    {
+                                                                        "_": "die Kosten der Einrichtung der informationstechnischen Systeme und Schnittstellen sowie weitere Kosten, die zur Vorbereitung der Leistungserbringung nach Absatz 1 notwendig sind, auch soweit diese Kosten vor dem 1. Januar 2025 anfallen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -575,7 +618,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000500000"
                 },
                 "metadaten": [
@@ -618,7 +661,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNG000201000"
                 },
                 "metadaten": [
@@ -647,7 +690,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000601000"
                 },
                 "metadaten": [
@@ -691,7 +734,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000701000"
                 },
                 "metadaten": [
@@ -736,7 +779,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000801126"
                 },
                 "metadaten": [
@@ -784,7 +827,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNG000301000"
                 },
                 "metadaten": [
@@ -813,7 +856,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE000901000"
                 },
                 "metadaten": [
@@ -855,7 +898,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001000000"
                 },
                 "metadaten": [
@@ -900,7 +943,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001100000"
                 },
                 "metadaten": [
@@ -943,7 +986,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNG000400000"
                 },
                 "metadaten": [
@@ -972,7 +1015,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001202119"
                 },
                 "metadaten": [
@@ -1018,7 +1061,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001301000"
                 },
                 "metadaten": [
@@ -1060,7 +1103,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211028213015",
+                    "builddate": "20241223221541",
                     "doknr": "BJNR383610013BJNE001401119"
                 },
                 "metadaten": [

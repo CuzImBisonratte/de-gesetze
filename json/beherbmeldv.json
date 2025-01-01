@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241029214639",
+            "builddate": "20241231222249",
             "doknr": "BJNR121800020"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241029214639",
+                    "builddate": "20241231222249",
                     "doknr": "BJNR121800020"
                 },
                 "metadaten": [
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
+                    "builddate": "20241231222249",
                     "doknr": "BJNR121800020BJNE000100000"
                 },
                 "metadaten": [
@@ -128,8 +128,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
-                    "doknr": "BJNR121800020BJNE000200000"
+                    "builddate": "20241231222249",
+                    "doknr": "BJNR121800020BJNE000201130"
                 },
                 "metadaten": [
                     {
@@ -159,7 +159,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes."
+                                            "Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten ausländischen Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes."
                                         ]
                                     }
                                 ]
@@ -170,8 +170,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
-                    "doknr": "BJNR121800020BJNE000300000"
+                    "builddate": "20241231222249",
+                    "doknr": "BJNR121800020BJNE000301130"
                 },
                 "metadaten": [
                     {
@@ -201,8 +201,8 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.",
-                                            "(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.",
+                                            "(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten ausländischen Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.",
+                                            "(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern und für Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.",
                                             {
                                                 "_": "(3) Die Datei ist nach dem Muster „JJJJMMTT__Zaehler.xml“ zu benennen. Dabei ist einzusetzen: ",
                                                 "NB": [
@@ -269,7 +269,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
+                    "builddate": "20241231222249",
                     "doknr": "BJNR121800020BJNE000400000"
                 },
                 "metadaten": [
@@ -311,7 +311,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
+                    "builddate": "20241231222249",
                     "doknr": "BJNR121800020BJNE000500000"
                 },
                 "metadaten": [
@@ -353,8 +353,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241029214639",
-                    "doknr": "BJNR121800020BJNE000600000"
+                    "builddate": "20241231222249",
+                    "doknr": "BJNR121800020BJNE000601130"
                 },
                 "metadaten": [
                     {
@@ -777,7 +777,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes",
+                                                                                        "_": "Anzahl der mitreisenden ausländischen Ehegatten, Lebenspartner und minderjährigen Kinder gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col3"
@@ -802,7 +802,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes",
+                                                                                        "_": "Anzahl der ausländischen Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col3"
@@ -827,7 +827,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "sämtliche Staatsangehörigkeiten der Mitreisenden der Reisegesellschaften",
+                                                                                        "_": "sämtliche Staatsangehörigkeiten der ausländischen Mitreisenden der Reisegesellschaften",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col3"

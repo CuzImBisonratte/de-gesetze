@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240425215002",
+            "builddate": "20241231222036",
             "doknr": "BJNR003050908"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908"
                 },
                 "metadaten": [
@@ -78,7 +78,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000101377"
                 },
                 "metadaten": [
@@ -126,7 +126,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000201377"
                 },
                 "metadaten": [
@@ -202,7 +202,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000301377"
                 },
                 "metadaten": [
@@ -250,7 +250,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000401377"
                 },
                 "metadaten": [
@@ -297,7 +297,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000501377"
                 },
                 "metadaten": [
@@ -383,7 +383,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000601377"
                 },
                 "metadaten": [
@@ -428,7 +428,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE001601118"
                 },
                 "metadaten": [
@@ -473,7 +473,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
+                    "builddate": "20241231222036",
                     "doknr": "BJNR003050908BJNE000802119"
                 },
                 "metadaten": [
@@ -518,8 +518,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240425215002",
-                    "doknr": "BJNR003050908BJNE000705119"
+                    "builddate": "20241231222036",
+                    "doknr": "BJNR003050908BJNE000902128"
                 },
                 "metadaten": [
                     {
@@ -527,7 +527,52 @@
                             "VVGEG"
                         ],
                         "enbez": [
-                            "(XXXX) Art 9 bis 15"
+                            "Art 9"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übergangsvorschrift zu § 7a Absatz 5 des Versicherungsvertragsgesetzes",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "§ 7a Absatz 5 des Versicherungsvertragsgesetzes in der ab dem 1. Januar 2025 geltenden Fassung ist nur auf Restschuldversicherungen anzuwenden, die sich auf einen Allgemein-Verbraucherdarlehensvertrag beziehen, der nach dem 1. Januar 2025 abgeschlossen wurde."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241231222036",
+                    "doknr": "BJNR003050908BJNE000706128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "VVGEG"
+                        ],
+                        "enbez": [
+                            "(XXXX) Art 10 bis 15"
                         ],
                         "titel": [
                             {

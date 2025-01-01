@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241220221503",
+            "builddate": "20241231222108",
             "doknr": "BJNR007700016"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016"
                 },
                 "metadaten": [
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000101123"
                 },
                 "metadaten": [
@@ -163,7 +163,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000202123"
                 },
                 "metadaten": [
@@ -817,7 +817,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNG000100000"
                 },
                 "metadaten": [
@@ -847,7 +847,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000300000"
                 },
                 "metadaten": [
@@ -983,7 +983,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000400000"
                 },
                 "metadaten": [
@@ -1120,8 +1120,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
-                    "doknr": "BJNR007700016BJNE000501123"
+                    "builddate": "20241231222108",
+                    "doknr": "BJNR007700016BJNE000502119"
                 },
                 "metadaten": [
                     {
@@ -1157,6 +1157,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1169,7 +1170,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "ein schriftlicher Antrag bei der Bundesnetzagentur gestellt werden und"
+                                                                    {
+                                                                        "_": "ein schriftlicher oder elektronischer Antrag bei der Bundesnetzagentur gestellt werden und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1177,7 +1183,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "der Antragsteller muss in Deutschland seinen Hauptsitz haben."
+                                                                    {
+                                                                        "_": "der Antragsteller muss in Deutschland seinen Hauptsitz haben.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1189,6 +1200,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1203,9 +1215,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "eine Beschreibung ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -1219,7 +1235,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "der Konformitätsbewertungstätigkeiten,"
+                                                                                            {
+                                                                                                "_": "der Konformitätsbewertungstätigkeiten,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1227,7 +1248,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "des Konformitätsmoduls oder der Konformitätsmodule und"
+                                                                                            {
+                                                                                                "_": "des Konformitätsmoduls oder der Konformitätsmodule und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1235,7 +1261,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz beansprucht und"
+                                                                                            {
+                                                                                                "_": "des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz beansprucht und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -1249,7 +1280,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditierungsstelle ausgestellt wurde, und in der diese bescheinigt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt."
+                                                                    {
+                                                                        "_": "wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditierungsstelle ausgestellt wurde, und in der diese bescheinigt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1279,8 +1315,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
-                    "doknr": "BJNR007700016BJNE000601123"
+                    "builddate": "20241231222108",
+                    "doknr": "BJNR007700016BJNE000602119"
                 },
                 "metadaten": [
                     {
@@ -1312,10 +1348,11 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes enthalten: ",
+                                                "_": "(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen oder elektronischen Bescheid erteilt. Der Bescheid muss Folgendes enthalten: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1331,9 +1368,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Vollständige Angaben zu ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -1347,7 +1388,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "den Konformitätsbewertungstätigkeiten,"
+                                                                                            {
+                                                                                                "_": "den Konformitätsbewertungstätigkeiten,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1355,7 +1401,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "dem betreffenden Konformitätsbewertungsmodul oder den betreffenden Konformitätsbewertungsmodulen und"
+                                                                                            {
+                                                                                                "_": "dem betreffenden Konformitätsbewertungsmodul oder den betreffenden Konformitätsbewertungsmodulen und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1363,7 +1414,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "dem betreffenden Gerät oder der betreffenden Funkanlage,"
+                                                                                            {
+                                                                                                "_": "dem betreffenden Gerät oder der betreffenden Funkanlage,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -1377,7 +1433,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Bestätigung, dass die Voraussetzungen des § 5 dieser Verordnung erfüllt sind und"
+                                                                    {
+                                                                        "_": "die Bestätigung, dass die Voraussetzungen des § 5 dieser Verordnung erfüllt sind und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1385,7 +1446,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Befristung der Anerkennung als notifizierte Stelle."
+                                                                    {
+                                                                        "_": "die Befristung der Anerkennung als notifizierte Stelle.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1397,6 +1463,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1409,7 +1476,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "innerhalb von zwei Wochen, sofern nach § 3 Absatz 2 Nummer 2 eine Akkreditierungsurkunde vorgelegt wird, oder"
+                                                                    {
+                                                                        "_": "innerhalb von zwei Wochen, sofern nach § 3 Absatz 2 Nummer 2 eine Akkreditierungsurkunde vorgelegt wird, oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1417,7 +1489,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "innerhalb von zwei Monaten, sofern der Nachweis der Erfüllung der Anforderungen nach § 3 Absatz 3 erfolgt."
+                                                                    {
+                                                                        "_": "innerhalb von zwei Monaten, sofern der Nachweis der Erfüllung der Anforderungen nach § 3 Absatz 3 erfolgt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1450,7 +1527,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000700000"
                 },
                 "metadaten": [
@@ -1746,7 +1823,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000801123"
                 },
                 "metadaten": [
@@ -1800,7 +1877,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE000900000"
                 },
                 "metadaten": [
@@ -1920,7 +1997,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001000000"
                 },
                 "metadaten": [
@@ -2025,7 +2102,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001101123"
                 },
                 "metadaten": [
@@ -2082,7 +2159,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNG000200000"
                 },
                 "metadaten": [
@@ -2112,7 +2189,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001201123"
                 },
                 "metadaten": [
@@ -2166,7 +2243,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001300000"
                 },
                 "metadaten": [
@@ -2211,7 +2288,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNG000300000"
                 },
                 "metadaten": [
@@ -2241,7 +2318,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001401123"
                 },
                 "metadaten": [
@@ -2287,7 +2364,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001500000"
                 },
                 "metadaten": [
@@ -2332,7 +2409,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNG000400000"
                 },
                 "metadaten": [
@@ -2362,8 +2439,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
-                    "doknr": "BJNR007700016BJNE001601123"
+                    "builddate": "20241231222108",
+                    "doknr": "BJNR007700016BJNE001602119"
                 },
                 "metadaten": [
                     {
@@ -2394,13 +2471,14 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich anzuzeigen.",
+                                            "(1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich oder elektronisch anzuzeigen.",
                                             "(2) Stellt die Bundesnetzagentur fest, dass eine notifizierte Stelle oder eine Konformitätsbewertungsstelle für Drittstaaten die in § 5 dieser Verordnung genannten Anforderungen nicht mehr erfüllt oder sonstigen Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten darüber.",
                                             {
                                                 "_": "(3) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittsaaten ist zu widerrufen, wenn ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2413,7 +2491,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten den Verpflichtungen der Verordnung wiederholt und trotz Aufforderung nicht nachkommt oder"
+                                                                    {
+                                                                        "_": "die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten den Verpflichtungen der Verordnung wiederholt und trotz Aufforderung nicht nachkommt oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2421,7 +2504,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten dies beantragt."
+                                                                    {
+                                                                        "_": "die notifizierte Stelle oder die Konformitätsbewertungsstelle für Drittstaaten dies beantragt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2433,6 +2521,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2445,7 +2534,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Akten dieser Stelle von einer anderen notifizierten Stelle oder einer anderen Konformitätsbewertungsstelle für Drittstaaten weiter bearbeitet werden und"
+                                                                    {
+                                                                        "_": "die Akten dieser Stelle von einer anderen notifizierten Stelle oder einer anderen Konformitätsbewertungsstelle für Drittstaaten weiter bearbeitet werden und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2453,7 +2547,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Akten für die Marktüberwachungsbehörde und für die Bundesnetzagentur auf Verlangen bereitgehalten werden."
+                                                                    {
+                                                                        "_": "die Akten für die Marktüberwachungsbehörde und für die Bundesnetzagentur auf Verlangen bereitgehalten werden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2473,7 +2572,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001701123"
                 },
                 "metadaten": [
@@ -2515,7 +2614,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001802123"
                 },
                 "metadaten": [
@@ -2561,7 +2660,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE001900000"
                 },
                 "metadaten": [
@@ -2628,7 +2727,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE002000000"
                 },
                 "metadaten": [
@@ -2695,7 +2794,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241220221503",
+                    "builddate": "20241231222108",
                     "doknr": "BJNR007700016BJNE002101123"
                 },
                 "metadaten": [

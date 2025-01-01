@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20210930213127",
+            "builddate": "20241231222347",
             "doknr": "BJNR233600006"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006"
                 },
                 "metadaten": [
@@ -55,6 +55,39 @@
                                 ],
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 17 G v. 20.8.2021 I 3932"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 4 G v. 18.12.2024 I Nr. 423 mWv 24.12.2024 noch nicht berücksichtigt"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 5 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Mittelbare Änderung durch Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt"
                                 ]
                             }
                         ]
@@ -110,7 +143,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE000100000"
                 },
                 "metadaten": [
@@ -144,8 +177,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE000202377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE000203377"
                 },
                 "metadaten": [
                     {
@@ -189,14 +222,14 @@
                                                                         "$": {
                                                                             "colname": "col1",
                                                                             "colnum": "1",
-                                                                            "colwidth": "50"
+                                                                            "colwidth": "11.11*"
                                                                         }
                                                                     },
                                                                     {
                                                                         "$": {
                                                                             "colname": "col2",
                                                                             "colnum": "2",
-                                                                            "colwidth": "400"
+                                                                            "colwidth": "88.89*"
                                                                         }
                                                                     }
                                                                 ],
@@ -221,7 +254,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "Berufsberatung nach § 3a des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Berufsberatung nach § 5 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "nameend": "col2",
@@ -336,7 +369,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 4 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 6 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "nameend": "col2",
@@ -402,7 +435,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Bestandteile der Bewilligungen nach § 6 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -435,7 +468,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "Förderung der schulischen Bildung nach § 5 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Förderung der schulischen Bildung nach § 7 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "nameend": "col2",
@@ -582,7 +615,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "Förderung der beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Förderung der beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "nameend": "col2",
@@ -824,7 +857,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Bestandteile der Bewilligungen nach § 7 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -863,7 +896,7 @@
                                                                             {
                                                                                 "entry": [
                                                                                     {
-                                                                                        "_": "Eingliederung nach § 7 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Eingliederung nach § 9 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "nameend": "col2",
@@ -961,7 +994,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -977,7 +1010,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -1009,7 +1042,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes",
+                                                                                        "_": "Eingliederungsseminar nach § 9 Absatz 8 des Soldatenversorgungsgesetzes",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -1104,8 +1137,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNG000100000"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNG000101377"
                 },
                 "metadaten": [
                     {
@@ -1121,7 +1154,7 @@
                                     "Teil 1"
                                 ],
                                 "gliederungstitel": [
-                                    "Berufsberatung nach § 3a des\nSoldatenversorgungsgesetzes"
+                                    "Berufsberatung nach § 5 des Soldatenversorgungsgesetzes"
                                 ]
                             }
                         ]
@@ -1142,13 +1175,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE000302377"
                 },
                 "metadaten": [
@@ -1195,8 +1231,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE004300377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE004301377"
                 },
                 "metadaten": [
                     {
@@ -1285,7 +1321,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(4) Das Bundesamt für das Personalmanagement der Bundeswehr trifft die Entscheidungen nach § 5 Absatz 12 des Soldatenversorgungsgesetzes sowie nach § 15 Absatz 6 Satz 2 und nach § 26 dieser Verordnung. Es übt die Fachaufsicht über die Karrierecenter der Bundeswehr – Berufsförderungsdienst – aus.",
+                                            "(4) Das Bundesamt für das Personalmanagement der Bundeswehr trifft die Entscheidungen nach § 7 Absatz 13 des Soldatenversorgungsgesetzes sowie nach § 15 Absatz 6 Satz 2 und nach § 26 dieser Verordnung. Es übt die Fachaufsicht über die Karrierecenter der Bundeswehr – Berufsförderungsdienst – aus.",
                                             "(5) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – trifft die Entscheidung nach § 11 Absatz 1 und 2 nach Abstimmung mit der Leiterin oder dem Leiter der Bundeswehrfachschule, die die Förderungsberechtigten besucht haben oder besuchen werden. Die Entscheidung nach § 14 Absatz 1 trifft die Lehrerkonferenz unter Vorsitz der Leiterin oder des Leiters der Bundeswehrfachschule oder deren oder dessen Vertreterin oder Vertreter.",
                                             "(6) Das Bildungszentrum der Bundeswehr trifft die Entscheidungen über die Einrichtung von Lehrgängen und Studienkursen nach § 9, die Zulassung zu diesen Lehrgängen und Studienkursen sowie den Ausbildungsort. Es übt die Fachaufsicht über die Bundeswehrfachschulen aus."
                                         ]
@@ -1301,8 +1337,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE000402377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE000403377"
                 },
                 "metadaten": [
                     {
@@ -1573,7 +1609,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(4) Die Förderungsberechtigten nach § 3a Absatz 3 des Soldatenversorgungsgesetzes haben an der Berufsberatung teilzunehmen. Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – vereinbart mit den truppendienstlichen Vorgesetzten jeweils einen Termin. Die truppendienstlichen Vorgesetzten stellen die Teilnahme sicher. Die Verpflichtung zur Teilnahme entfällt, wenn im Zeitraum nach § 3a Absatz 3 des Soldatenversorgungsgesetzes bereits eine entsprechende Beratung stattgefunden hat.",
+                                            "(4) Die Förderungsberechtigten nach § 5 Absatz 3 des Soldatenversorgungsgesetzes haben an der Berufsberatung teilzunehmen. Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – vereinbart mit den truppendienstlichen Vorgesetzten jeweils einen Termin. Die truppendienstlichen Vorgesetzten stellen die Teilnahme sicher. Die Verpflichtung zur Teilnahme entfällt, wenn im Zeitraum nach § 5 Absatz 3 des Soldatenversorgungsgesetzes bereits eine entsprechende Beratung stattgefunden hat.",
                                             "(5) Die Berufsberatung kann mit Zustimmung der Förderungsberechtigten zur Feststellung der beruflichen Eignung durch ärztliche und psychologische Untersuchungen unterstützt werden.",
                                             "(6) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – kann mit Zustimmung der Förderungsberechtigten Untersuchungs- oder Beratungsleistungen Dritter einleiten, wenn sichergestellt ist, dass die Ergebnisse dem Karrierecenter zur Verfügung gestellt werden.",
                                             "(7) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – arbeitet bei der Berufsberatung mit den Institutionen der Wirtschaft und den öffentlichen Verwaltungen sowie den Aus-, Fort- und Weiterbildungspartnern der Erwachsenenbildung zusammen.",
@@ -1592,8 +1628,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE004400377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE004401377"
                 },
                 "metadaten": [
                     {
@@ -1624,7 +1660,7 @@
                                     {
                                         "P": [
                                             "(1) Hat die Soldatin auf Zeit oder der Soldat auf Zeit die Wehrdienstzeit beendet und ist ihr oder ihm gestattet worden, von einem auswärtigen Wohn-, Maßnahme- oder Arbeitsort zur Berufsberatung anzureisen, so werden die Aufwendungen für Fahrten zum und vom nächstgelegenen Beratungsort erstattet. Der Umfang der Erstattung richtet sich nach den für die Beamtinnen und Beamten des Bundes geltenden reisekostenrechtlichen Vorschriften.",
-                                            "(2) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Verpflichtungszeit von mindestens vier Jahren können auf Antrag für die Teilnahme von Personen nach § 2 Absatz 3 Satz 2 an einem gemeinsamen Beratungsgespräch im Inland Kosten in entsprechender Anwendung des § 6 Absatz 3 des Soldatenversorgungsgesetzes erstattet werden. Der Antrag ist nur zulässig, wenn er vor dem Beratungsgespräch gestellt wird. Absatz 1 gilt entsprechend."
+                                            "(2) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Verpflichtungszeit von mindestens vier Jahren können auf Antrag für die Teilnahme von Personen nach § 2 Absatz 3 Satz 2 an einem gemeinsamen Beratungsgespräch im Inland Kosten in entsprechender Anwendung des § 8 Absatz 3 des Soldatenversorgungsgesetzes erstattet werden. Der Antrag ist nur zulässig, wenn er vor dem Beratungsgespräch gestellt wird. Absatz 1 gilt entsprechend."
                                         ]
                                     }
                                 ]
@@ -1638,7 +1674,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE000501116"
                 },
                 "metadaten": [
@@ -1684,8 +1720,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNG000200000"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNG000201377"
                 },
                 "metadaten": [
                     {
@@ -1701,7 +1737,7 @@
                                     "Teil 2"
                                 ],
                                 "gliederungstitel": [
-                                    "Dienstzeitbegleitende Förderung der schulischen und\nberuflichen Bildung nach § 4 des Soldatenversorgungsgesetzes"
+                                    "Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 6 des Soldatenversorgungsgesetzes"
                                 ]
                             }
                         ]
@@ -1722,13 +1758,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE000601116"
                 },
                 "metadaten": [
@@ -1840,7 +1879,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE000702377"
                 },
                 "metadaten": [
@@ -1895,8 +1934,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE000803377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE000804377"
                 },
                 "metadaten": [
                     {
@@ -1926,7 +1965,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Die Teilnahme an internen Maßnahmen ist kostenfrei. § 6 Absatz 3 des Soldatenversorgungsgesetzes gilt entsprechend.",
+                                            "(1) Die Teilnahme an internen Maßnahmen ist kostenfrei. § 8 Absatz 3 des Soldatenversorgungsgesetzes gilt entsprechend.",
                                             "(2) Lehrgangs- und Prüfungsgebühren einschließlich Anmelde- und Prüfungskosten werden erstattet, wenn sie auf Grund einer Teilnahme an dienstzeitbegleitenden Maßnahmen entstehen. Kosten für Lernmittel und Verbrauchsmaterial können pauschal erstattet werden. Sonstige Kosten sind nur mit Zustimmung des Bundesministeriums der Verteidigung oder der von ihm bestimmten Stelle erstattungsfähig.",
                                             "(3) Erstattungsfähige Kosten sind innerhalb einer Frist von sechs Monaten nach Abschluss der Maßnahme schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – geltend zu machen."
                                         ]
@@ -1950,8 +1989,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE000902377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE000903377"
                 },
                 "metadaten": [
                     {
@@ -1963,7 +2002,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes",
+                                "_": "Bestandteile der Bewilligungen nach § 6 des Soldatenversorgungsgesetzes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -2027,7 +2066,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistende, die an einer externen Maßnahme teilnehmen, in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit mit einem Förderungsanspruch nach § 5 des Soldatenversorgungsgesetzes berufen worden sind.",
+                                                                        "_": "freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistende, die an einer externen Maßnahme teilnehmen, in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit mit einem Förderungsanspruch nach § 7 des Soldatenversorgungsgesetzes berufen worden sind.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2123,8 +2162,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNG000300000"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNG000301377"
                 },
                 "metadaten": [
                     {
@@ -2140,7 +2179,7 @@
                                     "Teil 3"
                                 ],
                                 "gliederungstitel": [
-                                    "Förderung der schulischen Bildung nach § 5 des\nSoldatenversorgungsgesetzes"
+                                    "Förderung der schulischen Bildung nach § 7 des Soldatenversorgungsgesetzes"
                                 ]
                             }
                         ]
@@ -2161,13 +2200,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001001116"
                 },
                 "metadaten": [
@@ -2212,8 +2254,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE001102377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE001103377"
                 },
                 "metadaten": [
                     {
@@ -2412,7 +2454,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "schulische Maßnahmen im Sinne des § 5 Absatz 2 des Soldatenversorgungsgesetzes,",
+                                                                        "_": "schulische Maßnahmen im Sinne des § 7 Absatz 3 des Soldatenversorgungsgesetzes,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2425,7 +2467,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Maßnahmen der schulischen Bildung im Sinne des § 6 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes.",
+                                                                        "_": "Maßnahmen der schulischen Bildung im Sinne des § 8 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2528,7 +2570,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "für Förderungsberechtigte, die die Fachhochschulreife nach Absatz 1 Satz 1 Nummer 6 im Rahmen der Förderung nach § 5 des Soldatenversorgungsgesetzes erworben haben und im folgenden Schulhalbjahr einen Studienkurs besuchen wollen, in der Regel drei Monate,",
+                                                                        "_": "für Förderungsberechtigte, die die Fachhochschulreife nach Absatz 1 Satz 1 Nummer 6 im Rahmen der Förderung nach § 7 des Soldatenversorgungsgesetzes erworben haben und im folgenden Schulhalbjahr einen Studienkurs besuchen wollen, in der Regel drei Monate,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2565,7 +2607,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001201116"
                 },
                 "metadaten": [
@@ -2610,7 +2652,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001302377"
                 },
                 "metadaten": [
@@ -2657,8 +2699,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE001402377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE001403377"
                 },
                 "metadaten": [
                     {
@@ -2689,7 +2731,7 @@
                                     {
                                         "P": [
                                             "(1) Bei Maßnahmen nach § 9 Absatz 1 Satz 1 Nummer 7 werden pro angefangenem Monat der Förderung pauschal 200 Euro, höchstens jedoch 1 200 Euro pro Studienhalbjahr auf den Höchstbetrag nach § 19 Absatz 2 angerechnet. Mit Zustimmung des Bundesministeriums der Verteidigung kann in begründeten Fällen bei einzelnen Lehrgängen von der Anrechnung abgesehen werden.",
-                                            "(2) Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer an Bundeswehrfachschulen sind zum Wohnen in der Gemeinschaftsunterkunft berechtigt. Soweit zur Lehrgangsteilnahme kostenfreie Unterkunft oder Gemeinschaftsverpflegung gegen Bezahlung bereitgestellt wird, sind die Förderungsberechtigten auf die Inanspruchnahme zu verweisen. Wird eine der in Satz 2 genannten Leistungen nicht in Anspruch genommen, führt dies nicht zu höheren Leistungen nach § 6 Absatz 3 des Soldatenversorgungsgesetzes."
+                                            "(2) Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer an Bundeswehrfachschulen sind zum Wohnen in der Gemeinschaftsunterkunft berechtigt. Soweit zur Lehrgangsteilnahme kostenfreie Unterkunft oder Gemeinschaftsverpflegung gegen Bezahlung bereitgestellt wird, sind die Förderungsberechtigten auf die Inanspruchnahme zu verweisen. Wird eine der in Satz 2 genannten Leistungen nicht in Anspruch genommen, führt dies nicht zu höheren Leistungen nach § 8 Absatz 3 des Soldatenversorgungsgesetzes."
                                         ]
                                     }
                                 ]
@@ -2703,7 +2745,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001503377"
                 },
                 "metadaten": [
@@ -2750,7 +2792,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001601377"
                 },
                 "metadaten": [
@@ -2797,8 +2839,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNG000400000"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNG000401377"
                 },
                 "metadaten": [
                     {
@@ -2814,7 +2856,7 @@
                                     "Teil 4"
                                 ],
                                 "gliederungstitel": [
-                                    "Förderung der beruflichen Bildung nach § 5 des\nSoldatenversorgungsgesetzes"
+                                    "Förderung der beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes"
                                 ]
                             }
                         ]
@@ -2835,13 +2877,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001702123"
                 },
                 "metadaten": [
@@ -3045,8 +3090,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE001802377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE001803377"
                 },
                 "metadaten": [
                     {
@@ -3076,7 +3121,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sechs Jahren nach Beendigung des Dienstverhältnisses begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 5 des Soldatenversorgungsgesetzes erfolgen.",
+                                            "(1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sechs Jahren nach Beendigung des Dienstverhältnisses begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes erfolgen.",
                                             {
                                                 "_": "(2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann ausnahmsweise bis zu drei Monate vor dem Dienstzeitende gefördert werden, wenn Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren mit der Maßgabe, dass die Förderung bis zu sechs Monate vor dem Dienstzeitende erfolgen kann. Als Ermessensleistung können die Förderungsberechtigten zur Teilnahme an der Maßnahme vom militärischen Dienst freigestellt werden.",
                                                 "DL": [
@@ -3173,7 +3218,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(+++ § 16: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)"
+                                            "(+++ § 16: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung  vgl. § 38 F. 4.8.2019 +++)"
                                         ]
                                     }
                                 ]
@@ -3184,7 +3229,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE001903377"
                 },
                 "metadaten": [
@@ -3230,8 +3275,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE002001116"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE002002377"
                 },
                 "metadaten": [
                     {
@@ -3319,7 +3364,7 @@
                                                 ]
                                             },
                                             "(2) Bei Zweifeln an der Eignung der Förderungsberechtigten ist die Maßnahme nur zu bewilligen, wenn das Vorliegen der fraglichen Voraussetzungen in einer Eignungsfeststellung nachgewiesen werden konnte. Wirken die Förderungsberechtigten bei der Feststellung ihrer Eignung nicht mit, wird der Antrag abgelehnt, wenn die Förderungsberechtigten auf diese Folge schriftlich hingewiesen worden sind und ihrer Mitwirkungspflicht nicht innerhalb einer angemessenen Frist nachgekommen sind.",
-                                            "(3) Die Eignung kann auch durch eine probeweise Teilnahme an der beabsichtigten Maßnahme der beruflichen Bildung im Rahmen des § 5 des Soldatenversorgungsgesetzes nachgewiesen werden, die nicht länger als einen Monat dauern sollte. Vor Bewilligung der Förderung der Maßnahme der beruflichen Bildung können die Leiterin oder der Leiter der Bundeswehrfachschule, die Disziplinarvorgesetzten, die Bundesagentur für Arbeit, Ausbildungsbehörden, Schulen, Industrie- und Handelskammern, Handwerks- und Landwirtschaftskammern sowie berufsständische Organisationen gutachtlich gehört werden."
+                                            "(3) Die Eignung kann auch durch eine probeweise Teilnahme an der beabsichtigten Maßnahme der beruflichen Bildung im Rahmen des § 7 des Soldatenversorgungsgesetzes nachgewiesen werden, die nicht länger als einen Monat dauern sollte. Vor Bewilligung der Förderung der Maßnahme der beruflichen Bildung können die Leiterin oder der Leiter der Bundeswehrfachschule, die Disziplinarvorgesetzten, die Bundesagentur für Arbeit, Ausbildungsbehörden, Schulen, Industrie- und Handelskammern, Handwerks- und Landwirtschaftskammern sowie berufsständische Organisationen gutachtlich gehört werden."
                                         ]
                                     }
                                 ]
@@ -3333,8 +3378,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE002102377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE002103377"
                 },
                 "metadaten": [
                     {
@@ -3464,7 +3509,7 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich nur bis zu folgenden Höchstbeträgen erstattet: Wenn sich die Förderungsdauer nicht nach § 5 Absatz 4 des Soldatenversorgungsgesetzes richtet, reduziert oder erhöht sich der Höchstbetrag für jeden Monat, für den Anspruch auf Förderung nicht besteht beziehungsweise besteht, um 333,33 Euro, insbesondere Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens 15 Jahren um 1 000 Euro, von mindestens 20 Jahren um 2 000 Euro und von 25 Jahren um 3 000 Euro. In Ausnahmefällen kann das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle eine Überschreitung des Höchstbetrags zulassen. Wird eine ehemalige Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit erneut in ein Dienstverhältnis als Soldatin auf Zeit oder als Soldat auf Zeit berufen, werden bereits erfolgte Kostenerstattungen nach § 5 des Soldatenversorgungsgesetzes auf den Höchstbetrag angerechnet, der auf Grund der neuen Verpflichtungsdauer besteht. Nicht ausgeschöpfte Beträge werden nicht ausgezahlt.",
+                                                "_": "(2) Kosten nach Absatz 1 Satz 1 Nummer 1 und 2 werden grundsätzlich nur bis zu folgenden Höchstbeträgen erstattet: Wenn sich die Förderungsdauer nicht nach § 7 Absatz 5 des Soldatenversorgungsgesetzes richtet, reduziert oder erhöht sich der Höchstbetrag für jeden Monat, für den Anspruch auf Förderung nicht besteht beziehungsweise besteht, um 333,33 Euro, insbesondere Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens 15 Jahren um 1 000 Euro, von mindestens 20 Jahren um 2 000 Euro und von 25 Jahren um 3 000 Euro. In Ausnahmefällen kann das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle eine Überschreitung des Höchstbetrags zulassen. Wird eine ehemalige Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit erneut in ein Dienstverhältnis als Soldatin auf Zeit oder als Soldat auf Zeit berufen, werden bereits erfolgte Kostenerstattungen nach § 5 des Soldatenversorgungsgesetzes auf den Höchstbetrag angerechnet, der auf Grund der neuen Verpflichtungsdauer besteht. Nicht ausgeschöpfte Beträge werden nicht ausgezahlt.",
                                                 "BR": [
                                                     "",
                                                     "",
@@ -3525,13 +3570,12 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Dauer der Förderung nach § 5 Absatz 4 des Soldaten- versorgungsgesetzes in Monaten",
+                                                                                        "_": "Dauer der Förderung nach § 7 Absatz 5 des Soldatenversorgungsgesetzes in Monaten",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "colname": "col2"
                                                                                         },
                                                                                         "BR": [
-                                                                                            "",
                                                                                             "",
                                                                                             "",
                                                                                             ""
@@ -3833,7 +3877,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "bei einer Verminderung der Förderungsdauer nach § 5 Absatz 6 bis 8 und 10 des Soldatenversorgungsgesetzes,",
+                                                                        "_": "bei einer Verminderung der Förderungsdauer nach § 7 Absatz 7 bis 9 und 11 des Soldatenversorgungsgesetzes,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3846,7 +3890,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "in den Fällen des § 5 Absatz 9 des Soldatenversorgungsgesetzes oder",
+                                                                        "_": "in den Fällen des § 7 Absatz 10 des Soldatenversorgungsgesetzes oder",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3859,7 +3903,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "bei einer Kürzung der Förderungsdauer nach den §§ 13b und 13c des Soldatenversorgungsgesetzes.",
+                                                                        "_": "bei einer Kürzung der Förderungsdauer nach den §§ 22 und 23 des Soldatenversorgungsgesetzes.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -3871,7 +3915,7 @@
                                                 ]
                                             },
                                             "(3) Ist der Höchstbetrag nach Absatz 2 ausgeschöpft worden und hätte eine sich nachträglich ergebende Verminderung der Förderungsdauer, Kürzung der Förderungshöchstdauer, Dienstzeitverkürzung oder Ernennung zur Berufssoldatin oder zum Berufssoldaten eine geringere Förderung ergeben, führt dies nicht zu einer Rückforderung der Förderungsleistung.",
-                                            "(4) Nach § 5 Absatz 2 gewährte Leistungen werden auf Leistungen nach § 5 Absatz 1a in Verbindung mit Absatz 1 Satz 1 des Soldatenversorgungsgesetzes nicht angerechnet."
+                                            "(4) Nach § 5 Absatz 2 gewährte Leistungen werden auf Leistungen nach § 7 Absatz 2 in Verbindung mit Absatz 1 Satz 1 des Soldatenversorgungsgesetzes nicht angerechnet."
                                         ]
                                     }
                                 ]
@@ -3893,8 +3937,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE002202377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE002203377"
                 },
                 "metadaten": [
                     {
@@ -3925,7 +3969,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Zu den Lehrgangs- und Studiengebühren gehören auch Aufnahme- und Prüfungsgebühren. Die Prüfungsgebühren und die durch Teilnahme an der Prüfung verursachten weiteren Auslagen sind nach Ablauf der Förderungszeit nach § 5 Abs. 4 des Soldatenversorgungsgesetzes jedoch nur zu erstatten, wenn ",
+                                                "_": "(1) Zu den Lehrgangs- und Studiengebühren gehören auch Aufnahme- und Prüfungsgebühren. Die Prüfungsgebühren und die durch Teilnahme an der Prüfung verursachten weiteren Auslagen sind nach Ablauf der Förderungszeit nach § 7 Absatz 5 des Soldatenversorgungsgesetzes jedoch nur zu erstatten, wenn ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -3968,7 +4012,7 @@
                                                 ]
                                             },
                                             "(2) § 6 Absatz 3 gilt entsprechend.",
-                                            "(3) Wird eine ehemalige Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit, die oder der an einer geförderten Maßnahme nach § 4 Absatz 2 oder § 5 des Soldatenversorgungsgesetzes teilnimmt, erneut bei der Bundeswehr in ein Dienstverhältnis als Beamtin oder Beamter oder als Soldatin oder Soldat berufen oder als Arbeitnehmerin oder Arbeitnehmer eingestellt, erstattet ihr oder ihm der Bund die bis zum Zeitpunkt der Berufung oder Einstellung entstandenen notwendigen Kosten der Maßnahme."
+                                            "(3) Wird eine ehemalige Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit, die oder der an einer geförderten Maßnahme nach § 6 Absatz 2 oder § 7 des Soldatenversorgungsgesetzes teilnimmt, erneut bei der Bundeswehr in ein Dienstverhältnis als Beamtin oder Beamter oder als Soldatin oder Soldat berufen oder als Arbeitnehmerin oder Arbeitnehmer eingestellt, erstattet ihr oder ihm der Bund die bis zum Zeitpunkt der Berufung oder Einstellung entstandenen notwendigen Kosten der Maßnahme."
                                         ]
                                     }
                                 ]
@@ -3982,8 +4026,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE002301116"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE002302377"
                 },
                 "metadaten": [
                     {
@@ -4084,7 +4128,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(2) Für Lernmittel und Verbrauchsmaterial ist bei Maßnahmen in Vollzeitform im Sinne des § 15 Absatz 4 eine Pauschale in Höhe von 200 Euro festzusetzen. Findet die Maßnahme in Teilzeitform statt, wird eine Pauschale in Höhe von 100 Euro gewährt. Mit den Pauschalen sind auch Aufwendungen für die Anschaffung und Nutzung eines Datenverarbeitungssystems einschließlich Zubehör sowie eines Taschenrechners abgegolten. Beginnend mit der Förderung nach § 5 des Soldatenversorgungsgesetzes wird die Pauschale jeweils für einen Zeitraum von sechs Monaten gewährt, und zwar unabhängig von der Dauer und der Anzahl der in diesem Zeitraum geförderten Maßnahmen. Findet am Tag nach Ablauf des Zeitraums nach Satz 4 keine Förderung statt, beginnt die Frist mit der nächsten Förderung erneut.",
+                                            "(2) Für Lernmittel und Verbrauchsmaterial ist bei Maßnahmen in Vollzeitform im Sinne des § 15 Absatz 4 eine Pauschale in Höhe von 200 Euro festzusetzen. Findet die Maßnahme in Teilzeitform statt, wird eine Pauschale in Höhe von 100 Euro gewährt. Mit den Pauschalen sind auch Aufwendungen für die Anschaffung und Nutzung eines Datenverarbeitungssystems einschließlich Zubehör sowie eines Taschenrechners abgegolten. Beginnend mit der Förderung nach § 7 des Soldatenversorgungsgesetzes wird die Pauschale jeweils für einen Zeitraum von sechs Monaten gewährt, und zwar unabhängig von der Dauer und der Anzahl der in diesem Zeitraum geförderten Maßnahmen. Findet am Tag nach Ablauf des Zeitraums nach Satz 4 keine Förderung statt, beginnt die Frist mit der nächsten Förderung erneut.",
                                             {
                                                 "_": "(3) Die Kosten für ein Lernhilfsmittel, das werden nur anteilig erstattet. Die Höhe des zu erstattenden Anteils entspricht dem Verhältnis der Nutzungsdauer im Rahmen der Maßnahme der beruflichen Bildung zur durchschnittlichen Gesamtnutzungsdauer nach der AfA-Tabelle für die allgemein verwendbaren Anlagegüter vom 15. Dezember 2000 (Bundessteuerblatt I S. 1532) in der jeweils geltenden Fassung.",
                                                 "DL": [
@@ -4142,7 +4186,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002402377"
                 },
                 "metadaten": [
@@ -4187,7 +4231,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002501116"
                 },
                 "metadaten": [
@@ -4234,7 +4278,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002602377"
                 },
                 "metadaten": [
@@ -4280,7 +4324,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002703377"
                 },
                 "metadaten": [
@@ -4326,7 +4370,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002801123"
                 },
                 "metadaten": [
@@ -4427,7 +4471,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE002902377"
                 },
                 "metadaten": [
@@ -4480,8 +4524,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003003377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003004377"
                 },
                 "metadaten": [
                     {
@@ -4641,7 +4685,7 @@
                                                 ]
                                             },
                                             "(4) Die Förderungsberechtigten haben das aus der geförderten Maßnahme der beruflichen Bildung erzielte Einkommen und jede Änderung des Einkommens dem Karrierecenter der Bundeswehr – Berufsförderungsdienst – und der für die Zahlung ihrer Besoldung oder Versorgung zuständigen Stelle unverzüglich schriftlich oder elektronisch anzuzeigen.",
-                                            "(5) Hinsichtlich der Auskunftspflicht nach § 60 Abs. 4 des Soldatenversorgungsgesetzes fordert das Karrierecenter der Bundeswehr – Berufsförderungsdienst – zur Abgabe der Erklärung über den Stand der zivilberuflichen Eingliederung auf und überwacht deren Eingang."
+                                            "(5) Hinsichtlich der Auskunftspflicht nach § 81 Absatz 5 des Soldatenversorgungsgesetzes fordert das Karrierecenter der Bundeswehr – Berufsförderungsdienst – zur Abgabe der Erklärung über den Stand der zivilberuflichen Eingliederung auf und überwacht deren Eingang."
                                         ]
                                     }
                                 ]
@@ -4655,8 +4699,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003102377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003103377"
                 },
                 "metadaten": [
                     {
@@ -4668,7 +4712,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes",
+                                "_": "Bestandteile der Bewilligungen nach § 7 des Soldatenversorgungsgesetzes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -4841,8 +4885,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNG000500000"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNG000501377"
                 },
                 "metadaten": [
                     {
@@ -4858,7 +4902,7 @@
                                     "Teil 5"
                                 ],
                                 "gliederungstitel": [
-                                    "Eingliederung nach § 7 des Soldatenversorgungsgesetzes"
+                                    "Eingliederung nach § 9 des Soldatenversorgungsgesetzes"
                                 ]
                             }
                         ]
@@ -4879,13 +4923,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE003202377"
                 },
                 "metadaten": [
@@ -5012,8 +5059,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003302377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003303377"
                 },
                 "metadaten": [
                     {
@@ -5044,7 +5091,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Zu den Eingliederungshilfen zählen neben den Eingliederungsmaßnahmen im Sinne des § 7 Abs. 2 des Soldatenversorgungsgesetzes ",
+                                                "_": "(1) Zu den Eingliederungshilfen zählen neben den Eingliederungsmaßnahmen nach § 9 Absatz 2 des Soldatenversorgungsgesetzes ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -5128,9 +5175,9 @@
                                                     }
                                                 ]
                                             },
-                                            "(2) Soldatinnen auf Zeit und Soldaten auf Zeit, die einen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes haben, werden Eingliederungshilfen nur innerhalb von sieben Jahren nach Beendigung des Dienstverhältnisses gewährt. Dies gilt nicht für die Eingliederungshilfen nach Absatz 1 Nummer 3 und 5.",
-                                            "(3) Ist bei Eingliederungsmaßnahmen nach § 7 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes eine Teilnahme an entsprechenden internen Maßnahmen des Karrierecenters der Bundeswehr – Berufsförderungsdienst – nicht oder nicht rechtzeitig möglich, kann eine Förderung nach § 5 des Soldatenversorgungsgesetzes bewilligt werden. Ist die Frist nach § 5 Absatz 5 des Soldatenversorgungsgesetzes abgelaufen oder der Höchstbetrag nach § 19 Absatz 2 ausgeschöpft, können auf schriftlichen Antrag ausnahmsweise die notwendigen Kosten für die Teilnahme erstattet werden. § 20 Absatz 2 und § 23 gelten entsprechend.",
-                                            "(4) Soldatinnen auf Zeit und Soldaten auf Zeit, die keinen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes erworben haben, sowie Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden Eingliederungshilfen nach Absatz 1 mit Ausnahme der Hilfen nach Absatz 1 Nummer 3 und 5 nur gewährt, wenn sie innerhalb eines Jahres nach Beendigung des Dienstverhältnisses mit der Maßnahme beginnen."
+                                            "(2) Soldatinnen auf Zeit und Soldaten auf Zeit, die einen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes haben, werden Eingliederungshilfen nur innerhalb von sieben Jahren nach Beendigung des Dienstverhältnisses gewährt. Dies gilt nicht für die Eingliederungshilfen nach Absatz 1 Nummer 3 und 5.",
+                                            "(3) Ist bei Eingliederungsmaßnahmen nach § 9 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes eine Teilnahme an entsprechenden internen Maßnahmen des Karrierecenters der Bundeswehr – Berufsförderungsdienst – nicht oder nicht rechtzeitig möglich, kann eine Förderung nach § 7 des Soldatenversorgungsgesetzes bewilligt werden. Ist die Frist nach § 7 Absatz 6 des Soldatenversorgungsgesetzes abgelaufen oder der Höchstbetrag nach § 19 Absatz 2 ausgeschöpft, können auf schriftlichen Antrag ausnahmsweise die notwendigen Kosten für die Teilnahme erstattet werden. § 20 Absatz 2 und § 23 gelten entsprechend.",
+                                            "(4) Soldatinnen auf Zeit und Soldaten auf Zeit, die keinen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes erworben haben, sowie Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden Eingliederungshilfen nach Absatz 1 mit Ausnahme der Hilfen nach Absatz 1 Nummer 3 und 5 nur gewährt, wenn sie innerhalb eines Jahres nach Beendigung des Dienstverhältnisses mit der Maßnahme beginnen."
                                         ]
                                     }
                                 ]
@@ -5144,7 +5191,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE003402123"
                 },
                 "metadaten": [
@@ -5195,8 +5242,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE004500377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE004501377"
                 },
                 "metadaten": [
                     {
@@ -5226,7 +5273,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Von einem zusätzlichen Unterstützungsbedarf im Sinne des § 7 Absatz 9 des Soldatenversorgungsgesetzes ist auszugehen, wenn nach den Gesamtumständen des Einzelfalls unter Berücksichtigung der Arbeitsmarktsituation nicht von einer baldigen Eingliederung in das zivile Erwerbsleben auf einen zumutbaren Arbeitsplatz ausgegangen werden kann. Ein zusätzlicher Unterstützungsbedarf liegt nicht vor, wenn die ehemalige Soldatin oder der ehemalige Soldat bisher nicht in zumutbarer Weise an der Eingliederung mitgewirkt hat. Die Feststellung des Unterstützungsbedarfs erfolgt schriftlich und ist der ehemaligen Soldatin auf Zeit oder dem ehemaligen Soldaten auf Zeit auszuhändigen.",
+                                            "(1) Von einem zusätzlichen Unterstützungsbedarf im Sinne des § 9 Absatz 9 des Soldatenversorgungsgesetzes ist auszugehen, wenn nach den Gesamtumständen des Einzelfalls unter Berücksichtigung der Arbeitsmarktsituation nicht von einer baldigen Eingliederung in das zivile Erwerbsleben auf einen zumutbaren Arbeitsplatz ausgegangen werden kann. Ein zusätzlicher Unterstützungsbedarf liegt nicht vor, wenn die ehemalige Soldatin oder der ehemalige Soldat bisher nicht in zumutbarer Weise an der Eingliederung mitgewirkt hat. Die Feststellung des Unterstützungsbedarfs erfolgt schriftlich und ist der ehemaligen Soldatin auf Zeit oder dem ehemaligen Soldaten auf Zeit auszuhändigen.",
                                             {
                                                 "_": "(2) Der Lohnkostenzuschuss beträgt bei einem regelmäßig gezahlten Arbeitsentgelt vonZuschläge und sonstige Lohnersatzleistungen und Sonderzahlungen gelten nicht als Arbeitsentgelt. Die Zahlung des Zuschusses erfolgt monatlich nachträglich an die Arbeitgeberin oder den Arbeitgeber gegen Vorlage eines Nachweises über den gezahlten Lohn.",
                                                 "BR": [
@@ -5489,7 +5536,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE003502123"
                 },
                 "metadaten": [
@@ -5537,8 +5584,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003602123"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003603377"
                 },
                 "metadaten": [
                     {
@@ -5550,7 +5597,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes",
+                                "_": "Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -5568,7 +5615,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Über die Freistellung vom militärischen Dienst zur Teilnahme an einem Berufsorientierungspraktikum nach § 7 Abs. 3 des Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums schriftlich oder elektronisch gestellten Antrag der Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3 entschieden.",
+                                            "(1) Über die Freistellung vom militärischen Dienst zur Teilnahme an einem Berufsorientierungspraktikum nach § 9 Absatz 3 des Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums schriftlich oder elektronisch gestellten Antrag der Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3 entschieden.",
                                             "(2) Grundsätzlich wird nur die Teilnahme an kostenfreien Praktika gefördert. Im Einzelfall kann die Teilnahme an einem entgeltlichen Praktikum unter Anrechnung der Kosten auf den Höchstbetrag nach § 19 Absatz 2 bewilligt werden. Hinsichtlich der Fahrtkosten und der Kosten für auswärtige Unterkunft und Verpflegung gilt § 23 entsprechend.",
                                             "(3) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend."
                                         ]
@@ -5592,8 +5639,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003702377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003703377"
                 },
                 "metadaten": [
                     {
@@ -5605,7 +5652,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes",
+                                "_": "Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -5623,8 +5670,8 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Über die Freistellung vom militärischen Dienst nach § 7 Absatz 3 des Soldatenversorgungsgesetzes zur Teilnahme an einem Berufsorientierungspraktikum entscheidet das Karrierecenter der Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt entsprechend. Der Antrag ist vor Beginn des Berufsorientierungspraktikums zu stellen.",
-                                            "(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 7 Abs. 4 des Soldatenversorgungsgesetzes liegt regelmäßig vor, wenn die Förderungsberechtigten noch keine abschließende Berufswahlentscheidung getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder berufliche Alternativen erprobt werden sollen.",
+                                            "(1) Über die Freistellung vom militärischen Dienst nach § 9 Absatz 3 des Soldatenversorgungsgesetzes zur Teilnahme an einem Berufsorientierungspraktikum entscheidet das Karrierecenter der Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt entsprechend. Der Antrag ist vor Beginn des Berufsorientierungspraktikums zu stellen.",
+                                            "(2) Erhöhter Berufsorientierungsbedarf im Sinne des § 9 Absatz 4 des Soldatenversorgungsgesetzes liegt regelmäßig vor, wenn die Förderungsberechtigten noch keine abschließende Berufswahlentscheidung getroffen haben, Neigung und Eignung für bestimmte Berufe geklärt oder berufliche Alternativen erprobt werden sollen.",
                                             "(3) Bei einer Teilnahme an einem Berufsorientierungspraktikum werden Kosten nicht erstattet. Über Ausnahmen entscheidet das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle.",
                                             "(4) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend."
                                         ]
@@ -5648,8 +5695,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE003801123"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE003802377"
                 },
                 "metadaten": [
                     {
@@ -5663,7 +5710,7 @@
                             {
                                 "_": "Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -5679,7 +5726,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Auf schriftlichen oder elektronischen Antrag werden die Kosten für fachberufliche Prüfungen, die unabhängig von Maßnahmen nach den §§ 4 und 5 des Soldatenversorgungsgesetzes für den Zivilberuf abgelegt werden, sowie Kosten für die Umschreibung der im militärischen Bereich erworbenen in die im zivilen Bereich gültigen Berechtigungen im Rahmen der zur Verfügung stehenden Haushaltsmittel erstattet, wenn dadurch die Eingliederung in das zivile Berufsleben voraussichtlich erleichtert wird. Hinsichtlich der Anrechnung der Kosten gilt § 5 Abs. 2 entsprechend. Reise- und Trennungsauslagen werden nicht erstattet."
+                                            "Auf schriftlichen oder elektronischen Antrag werden die Kosten für fachberufliche Prüfungen, die unabhängig von Maßnahmen nach den §§ 6 und 7 des Soldatenversorgungsgesetzes für den Zivilberuf abgelegt werden, sowie Kosten für die Umschreibung der im militärischen Bereich erworbenen in die im zivilen Bereich gültigen Berechtigungen im Rahmen der zur Verfügung stehenden Haushaltsmittel erstattet, wenn dadurch die Eingliederung in das zivile Berufsleben voraussichtlich erleichtert wird. Hinsichtlich der Anrechnung der Kosten gilt § 5 Abs. 2 entsprechend. Reise- und Trennungsauslagen werden nicht erstattet."
                                         ]
                                     }
                                 ]
@@ -5693,8 +5740,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE004600377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE004601377"
                 },
                 "metadaten": [
                     {
@@ -5706,7 +5753,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes",
+                                "_": "Eingliederungsseminar nach § 9 Absatz 5 des Soldatenversorgungsgesetzes",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -5724,7 +5771,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – bietet unter Beteiligung des Sozialdienstes der Bundeswehr regelmäßig zielgruppenspezifische Eingliederungsseminare nach § 7 Absatz 5 des Soldatenversorgungsgesetzes an. Die Teilnahme ist kostenfrei; dies gilt auch für Personen nach § 7 Absatz 5 Satz 3 des Soldatenversorgungsgesetzes.",
+                                            "(1) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – bietet unter Beteiligung des Sozialdienstes der Bundeswehr regelmäßig zielgruppenspezifische Eingliederungsseminare nach § 9 Absatz 5 des Soldatenversorgungsgesetzes an. Die Teilnahme ist kostenfrei; dies gilt auch für Personen nach § 9 Absatz 5 Satz 3 des Soldatenversorgungsgesetzes.",
                                             "(2) Die Einladung zum Eingliederungsseminar ist vom Karrierecenter der Bundeswehr – Berufsförderungsdienst – über die truppendienstlichen Vorgesetzten gegen Empfangsbekenntnis auszusprechen.",
                                             "(3) Die truppendienstlichen Vorgesetzten sorgen dafür, dass die Soldatin auf Zeit oder der Soldat auf Zeit an dem Eingliederungsseminar teilnimmt."
                                         ]
@@ -5740,7 +5787,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE003902377"
                 },
                 "metadaten": [
@@ -5785,7 +5832,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNG000600000"
                 },
                 "metadaten": [
@@ -5829,8 +5876,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
-                    "doknr": "BJNR233600006BJNE004002377"
+                    "builddate": "20241231222347",
+                    "doknr": "BJNR233600006BJNE004003377"
                 },
                 "metadaten": [
                     {
@@ -5860,7 +5907,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Für Soldatinnen auf Zeit und Soldaten auf Zeit, für die nach § 102 des Soldatenversorgungsgesetzes das Soldatenversorgungsgesetz in der bis zum 25. Juli 2012 geltenden Fassung gilt, sind § 4 Absatz 4, § 5 Absatz 2, die §§ 16 und 19 Absatz 2, § 27 Absatz 2, § 34 Absatz 1 und 2 sowie § 35 Absatz 1 in der bis zum 27. August 2015 geltenden Fassung weiter anzuwenden.",
+                                            "(1) Für Soldatinnen auf Zeit und Soldaten auf Zeit, für die nach § 126 des Soldatenversorgungsgesetzes das Soldatenversorgungsgesetz in der bis zum 25. Juli 2012 geltenden Fassung gilt, sind § 4 Absatz 4, § 5 Absatz 2, die §§ 16 und 19 Absatz 2, § 27 Absatz 2, § 34 Absatz 1 und 2 sowie § 35 Absatz 1 in der bis zum 27. August 2015 geltenden Fassung weiter anzuwenden.",
                                             "(2) § 6 Absatz 1 Satz 2 ist erstmalig anzuwenden bei Maßnahmen, die ab dem 1. Oktober 2019 beginnen."
                                         ]
                                     }
@@ -5875,7 +5922,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210930213127",
+                    "builddate": "20241231222347",
                     "doknr": "BJNR233600006BJNE004200000"
                 },
                 "metadaten": [

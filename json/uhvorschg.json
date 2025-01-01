@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241205223022",
+            "builddate": "20241231222131",
             "doknr": "BJNR011840979"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979"
                 },
                 "metadaten": [
@@ -104,7 +104,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000218130"
                 },
                 "metadaten": [
@@ -436,7 +436,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000312116"
                 },
                 "metadaten": [
@@ -526,8 +526,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
-                    "doknr": "BJNR011840979BJNE000407116"
+                    "builddate": "20241231222131",
+                    "doknr": "BJNR011840979BJNE000408130"
                 },
                 "metadaten": [
                     {
@@ -539,7 +539,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "(weggefallen)",
+                                "_": "Dauer und Bewilligung der Unterhaltsleistung",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -557,7 +557,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            ""
+                                            "Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die Unterhaltsleistung erbracht und für diese Dauer bewilligt."
                                         ]
                                     }
                                 ]
@@ -571,8 +571,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
-                    "doknr": "BJNR011840979BJNE000506310"
+                    "builddate": "20241231222131",
+                    "doknr": "BJNR011840979BJNE000507130"
                 },
                 "metadaten": [
                     {
@@ -584,9 +584,9 @@
                         ],
                         "titel": [
                             {
-                                "_": "Beschränkte Rückwirkung",
+                                "_": "Beginn und beschränkte Rückwirkung der Unterhaltsleistung",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -602,7 +602,8 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor dem Monat gezahlt, in dem der Antrag hierauf bei der zuständigen Stelle oder bei einer der in § 16 Abs. 2 Satz 1 des Ersten Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu Unterhaltszahlungen zu veranlassen."
+                                            "(1) Die Unterhaltsleistung wird erbracht, sobald ein wirksamer Antrag gestellt wurde und die Anspruchsvoraussetzungen für die Unterhaltsleistung vorliegen. Liegen alle Anspruchsvoraussetzungen für die Unterhaltsleistung am Beginn des Kalendermonats vor, in dem der Antrag gestellt wurde, so besteht der Anspruch auf die Unterhaltsleistung ab Beginn dieses Kalendermonats.",
+                                            "(2) Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor dem Monat der Antragstellung gezahlt, soweit es nicht an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Absatz 1 Nummer 3 bezeichneten Elternteil zu Unterhaltszahlungen zu veranlassen."
                                         ]
                                     }
                                 ]
@@ -616,7 +617,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000606116"
                 },
                 "metadaten": [
@@ -704,7 +705,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000707116"
                 },
                 "metadaten": [
@@ -755,7 +756,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000808116"
                 },
                 "metadaten": [
@@ -846,52 +847,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
-                    "doknr": "BJNR011840979BJNE001800116"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "UhVorschG"
-                        ],
-                        "enbez": [
-                            "§ 7a"
-                        ],
-                        "titel": [
-                            {
-                                "_": "Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit",
-                                "$": {
-                                    "format": "XML"
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und über kein eigenes Einkommen im Sinne von § 11 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch verfügt, wird der nach § 7 übergegangene Unterhaltsanspruch nicht verfolgt."
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE000906116"
                 },
                 "metadaten": [
@@ -937,8 +893,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
-                    "doknr": "BJNR011840979BJNE001008116"
+                    "builddate": "20241231222131",
+                    "doknr": "BJNR011840979BJNE001009130"
                 },
                 "metadaten": [
                     {
@@ -970,7 +926,9 @@
                                         "P": [
                                             "(1) Über die Zahlung der Unterhaltsleistung wird auf schriftlichen Antrag des Elternteils, bei dem der Berechtigte lebt, oder des gesetzlichen Vertreters des Berechtigten entschieden. Der Antrag soll an die durch Landesrecht bestimmte Stelle, in deren Bezirk der Berechtigte seinen Wohnsitz hat, gerichtet werden.",
                                             "(2) Die Entscheidung ist dem Antragsteller schriftlich oder elektronisch mitzuteilen. In dem Bescheid sind die nach § 2 Absatz 2 bis 4 angerechneten Beträge anzugeben.",
-                                            "(3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen. Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5 Euro werden nicht geleistet."
+                                            "(3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen. Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5 Euro werden nicht geleistet.",
+                                            "(4) Die durch Landesrecht bestimmte Stelle kann die Zahlung einer laufenden Unterhaltsleistung ohne Erteilung eines Bescheides vorläufig einstellen, wenn sie Kenntnis von Tatsachen erhält, die kraft Gesetzes zum Ruhen oder zum Wegfall des Anspruchs führen, und wenn der Bescheid, aus dem sich der Anspruch ergibt, deshalb aufzuheben ist. Vor der vorläufigen Einstellung sind der Person, die den Antrag auf Zahlung der Unterhaltsleistung gestellt hat, die beabsichtigte vorläufige Einstellung der Zahlung sowie die dafür maßgeblichen Gründe mitzuteilen und es ist ihr Gelegenheit zu geben, sich innerhalb von 14 Tagen zu äußern. Die vorläufige Einstellung der Zahlung ist ihr unverzüglich in Textform mitzuteilen. Sofern innerhalb des Äußerungszeitraums eine Unterhaltsleistung zu zahlen ist, soll die durch Landesrecht bestimmte Stelle die Unterhaltsleistung nur für den Äußerungszeitraum gewähren.",
+                                            "(5) Die durch Landesrecht bestimmte Stelle hat eine vorläufig eingestellte Zahlung einer laufenden Unterhaltsleistung unverzüglich nachzuholen, soweit der Bescheid, aus dem sich der Anspruch ergibt, zwei Monate nach der vorläufigen Einstellung der Zahlung nicht aufgehoben ist."
                                         ]
                                     }
                                 ]
@@ -984,7 +942,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE001104310"
                 },
                 "metadaten": [
@@ -1073,7 +1031,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE001209130"
                 },
                 "metadaten": [
@@ -1119,52 +1077,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241205223022",
-                    "doknr": "BJNR011840979BJNE001701116"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "UhVorschG"
-                        ],
-                        "enbez": [
-                            "§ 11a"
-                        ],
-                        "titel": [
-                            {
-                                "_": "Anwendungsvorschrift",
-                                "$": {
-                                    "format": "XML"
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis zum 30. Juni 2015 die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 317 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 364 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Für die Zeit vom 1. Juli 2015 bis zum 31. Dezember 2015 beträgt die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 328 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 376 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Bis zum 31. Dezember 2015 gilt als für ein erstes Kind zu zahlendes Kindergeld im Sinne von § 2 Absatz 2 Satz 1 ein Betrag in Höhe von monatlich 184 Euro."
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20241205223022",
+                    "builddate": "20241231222131",
                     "doknr": "BJNR011840979BJNE001307116"
                 },
                 "metadaten": [

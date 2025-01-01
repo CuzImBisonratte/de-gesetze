@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241217222023",
+            "builddate": "20241231222213",
             "doknr": "BJNR054710003"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241217222023",
+                    "builddate": "20241231222213",
                     "doknr": "BJNR054710003"
                 },
                 "metadaten": [
@@ -120,8 +120,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000100000"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000101128"
                 },
                 "metadaten": [
                     {
@@ -136,7 +136,7 @@
                             {
                                 "_": "Versteigerungsauftrag",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -153,7 +153,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Der Versteigerer darf nur auf Grund eines schriftlichen Vertrags mit dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten: ",
+                                                "_": "Der Versteigerer darf nur auf Grund eines Vertrags in Textform mit dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -315,8 +315,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000201308"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000202119"
                 },
                 "metadaten": [
                     {
@@ -348,7 +348,7 @@
                                     {
                                         "P": [
                                             "(1) Der Versteigerer hat bis spätestens zwei Wochen vor der Versteigerung ein Verzeichnis der zu versteigernden Sachen anzufertigen, in dem das Versteigerungsgut jedes Auftraggebers einheitlich zu kennzeichnen ist. Das Versteigerungsgut ist durch den Namen des Auftraggebers oder durch Deckworte, Buchstaben oder Zahlen bei jeder einzelnen Nummer des Verzeichnisses oder bei übersichtlichen Zusammenstellungen der den einzelnen Auftraggebern gehörenden Sachen zu kennzeichnen. Bei den Zusammenstellungen sind die Sachen, die dem Versteigerer gehören, gesondert aufzuführen und als solche zu kennzeichnen.",
-                                            "(2) Absatz 1 gilt nicht für Briefmarkenversteigerungen, Münzversteigerungen und öffentliche Versteigerungen auf Grund gesetzlicher Vorschrift (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs). Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die am Ort der Versteigerung zuständige Behörde Ausnahmen von den Anforderungen nach Absatz 1 zugelassen werden."
+                                            "(2) Absatz 1 gilt nicht für Briefmarkenversteigerungen, Münzversteigerungen und öffentliche Versteigerungen auf Grund gesetzlicher Vorschrift (§ 383 Absatz 2 des Bürgerlichen Gesetzbuchs). Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die am Versteigerungsort zuständige Behörde Ausnahmen von den Anforderungen nach Absatz 1 zugelassen werden."
                                         ]
                                     }
                                 ]
@@ -362,8 +362,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000302118"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000303128"
                 },
                 "metadaten": [
                     {
@@ -394,10 +394,66 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor dem in Aussicht genommenen Versteigerungstermin der zuständigen Behörde sowie der Industrie- und Handelskammer, in deren Bezirk die Versteigerung stattfinden soll, schriftlich oder elektronisch mit den Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh ist keine Anzeige erforderlich.",
-                                            "(2) In der Anzeige sind Ort und Zeitpunkt der Versteigerung sowie die Gattung der zu versteigernden Ware anzugeben. In den Fällen des § 6 Abs. 1 Satz 1 sind der Anlass der Versteigerung sowie Name und Anschrift der Auftraggeber anzugeben.",
-                                            "(2a) Erkennt der Versteigerer in den Fällen des § 6 Abs. 1 Satz 1 Nr. 1 und 2 erst nach Erstattung der Anzeige nach Absatz 1, dass einzelne Gegenstände zu dem zu versteigernden Nachlass oder der zur versteigernden Insolvenzmasse oder zum aufgegebenen Geschäftsbetrieb gehören, darf er diese Gegenstände versteigern, wenn er dies der zuständigen Behörde sowie der Industrie- und Handelskammer unter Bezugnahme auf die nach Absatz 1 erstattete Anzeige unverzüglich anzeigt.",
-                                            "(3) Eine neue Versteigerung am Ort der vorhergehenden Versteigerung darf erst dann begonnen werden, wenn die vorhergehende Versteigerung mindestens vor fünf Tagen beendet wurde. Keine der Versteigerungen darf die Dauer von sechs Tagen überschreiten. Die zuständige Behörde kann in Einzelfällen, insbesondere bei Grundstücksversteigerungen, gegebenenfalls nach Einholen einer Stellungnahme bei der örtlich zuständigen Industrie- und Handelskammer, Ausnahmen von den Fristen der Sätze 1 und 2 zulassen.",
+                                            "(1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor dem in Aussicht genommenen Versteigerungstermin der zuständigen Behörde schriftlich oder elektronisch mit den Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh ist keine Anzeige erforderlich.",
+                                            {
+                                                "_": "(2) In der Anzeige sind neben der Gattung der zu versteigernden Ware und dem Zeitpunkt der Versteigerung die folgenden Angaben zu machen: In den Fällen des § 6 Abs. 1 Satz 1 sind der Anlass der Versteigerung sowie Name und Anschrift der Auftraggeber anzugeben.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "in den Fällen der Versteigerung und der öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 1 des Bürgerlichen Gesetzbuchs der Versteigerungsort,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Fall der virtuellen öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 2 des Bürgerlichen Gesetzbuchs die Zugangsdaten,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Fall der hybriden öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 3 des Bürgerlichen Gesetzbuchs der Versteigerungsort und die Zugangsdaten.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2a) Erkennt der Versteigerer in den Fällen des § 6 Abs. 1 Satz 1 Nr. 1 und 2 erst nach Erstattung der Anzeige nach Absatz 1, dass einzelne Gegenstände zu dem zu versteigernden Nachlass oder der zur versteigernden Insolvenzmasse oder zum aufgegebenen Geschäftsbetrieb gehören, darf er diese Gegenstände versteigern, wenn er dies der zuständigen Behörde unter Bezugnahme auf die nach Absatz 1 erstattete Anzeige unverzüglich anzeigt.",
+                                            "(3) Eine neue Versteigerung am Ort der vorhergehenden Versteigerung darf erst dann begonnen werden, wenn die vorhergehende Versteigerung mindestens vor fünf Tagen beendet wurde. Keine der Versteigerungen darf die Dauer von sechs Tagen überschreiten. Sofern in einer Versteigerung eine Vielzahl von Versteigerungsobjekten unterschiedlicher Art zur Versteigerung gelangt, die aufgrund ihrer Anzahl nicht innerhalb der Frist des Satzes 2 versteigert werden kann, darf die Versteigerung eine Dauer von zwölf Tagen nicht überschreiten. Die zuständige Behörde kann in Einzelfällen, insbesondere bei Grundstücksversteigerungen, gegebenenfalls nach Einholen einer Stellungnahme bei der örtlich zuständigen Industrie- und Handelskammer, Ausnahmen von den Fristen der Sätze 1 bis 3 zulassen.",
                                             {
                                                 "_": "(4) Der Versteigerer hat auf Verlangen Zur Ausübung der Befugnisse nach Satz 1 Nr. 1 bis 3 kann sich die Behörde der Industrie- und Handelskammern bedienen. Die Behörde kann die Industrie- und Handelskammer auch auffordern, bis zum dritten Tag vor der Versteigerung eine Stellungnahme abzugeben.",
                                                 "DL": [
@@ -469,8 +525,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000400000"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000401128"
                 },
                 "metadaten": [
                     {
@@ -483,9 +539,9 @@
                         ],
                         "titel": [
                             {
-                                "_": "Besichtigung",
+                                "_": "(weggefallen)",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -501,18 +557,21 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Der Versteigerer hat für die Dauer von mindestens zwei Stunden Gelegenheit zur Besichtigung des Versteigerungsgutes zu geben. Die zuständige Behörde kann Ausnahmen zulassen, wenn der Versteigerer den Bietern in anderer Weise hinreichend Gelegenheit gibt, das Versteigerungsgut zu beurteilen."
+                                            ""
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
+                    "builddate": "20241231222213",
                     "doknr": "BJNR054710003BJNE000501308"
                 },
                 "metadaten": [
@@ -558,8 +617,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000600000"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000601119"
                 },
                 "metadaten": [
                     {
@@ -574,7 +633,7 @@
                             {
                                 "_": "Ausnahme von den verbotenen Tätigkeiten",
                                 "$": {
-                                    "format": "parat"
+                                    "format": "XML"
                                 }
                             }
                         ]
@@ -636,7 +695,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "im Wege der öffentlichen Versteigerung auf Grund gesetzlicher Vorschrift veräußert wird (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs).",
+                                                                        "_": "im Wege der öffentlichen Versteigerung auf Grund gesetzlicher Vorschrift veräußert wird (§ 383 Absatz 2 des Bürgerlichen Gesetzbuchs).",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -679,7 +738,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "das Versteigerungsgut zum Zweck der Versteigerung in eine andere Gemeinde verbracht ist; dies gilt nicht, soweit der Versteigerer glaubhaft macht, dass es sich um einen geeigneten anderen Ort im Sinne des § 383 Abs. 2 des Bürgerlichen Gesetzbuchs handelt.",
+                                                                        "_": "das Versteigerungsgut zum Zweck der Versteigerung in eine andere Gemeinde verbracht ist; dies gilt nicht, soweit der Versteigerer glaubhaft macht, dass es sich um einen Versteigerungsort im Sinne des § 383 Absatz 2 des Bürgerlichen Gesetzbuchs handelt.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -694,13 +753,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
+                    "builddate": "20241231222213",
                     "doknr": "BJNR054710003BJNE000700000"
                 },
                 "metadaten": [
@@ -743,7 +805,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
+                    "builddate": "20241231222213",
                     "doknr": "BJNR054710003BJNE000800000"
                 },
                 "metadaten": [
@@ -788,8 +850,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE000901308"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE000902128"
                 },
                 "metadaten": [
                     {
@@ -820,7 +882,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen oder eine begonnene Versteigerung aufheben oder unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der Gewerbeordnung oder gegen § 2 Abs. 1 oder §§ 3, 4 oder § 6 Abs. 2 dieser Verordnung verstößt oder verstoßen hat."
+                                            "Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen oder eine begonnene Versteigerung aufheben oder unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der Gewerbeordnung oder gegen die §§ 2, 3 oder § 6 Absatz 2 dieser Verordnung verstößt oder verstoßen hat."
                                         ]
                                     }
                                 ]
@@ -834,8 +896,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
-                    "doknr": "BJNR054710003BJNE001002360"
+                    "builddate": "20241231222213",
+                    "doknr": "BJNR054710003BJNE001003128"
                 },
                 "metadaten": [
                     {
@@ -891,7 +953,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "entgegen § 1 Satz 1 ohne schriftlichen Vertrag versteigert,",
+                                                                        "_": "entgegen § 1 Satz 1 ohne Vertrag in Textform versteigert,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1009,7 +1071,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241217222023",
+                    "builddate": "20241231222213",
                     "doknr": "BJNR054710003BJNE001100377"
                 },
                 "metadaten": [

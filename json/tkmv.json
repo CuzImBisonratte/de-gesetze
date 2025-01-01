@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20220617213004",
+            "builddate": "20241230221506",
             "doknr": "BJNR088000022"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022"
                 },
                 "metadaten": [
@@ -51,6 +51,19 @@
                                             "ID": "F822229_01_BJNR088000022"
                                         }
                                     }
+                                ]
+                            }
+                        ],
+                        "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Stand"
+                                ],
+                                "standkommentar": [
+                                    "Geändert durch Art. 1 V v. 20.12.2024 I Nr. 447"
                                 ]
                             }
                         ]
@@ -117,7 +130,7 @@
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022BJNE000100000"
                 },
                 "metadaten": [
@@ -151,7 +164,7 @@
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022BJNE000200000"
                 },
                 "metadaten": [
@@ -224,8 +237,8 @@
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
-                    "doknr": "BJNR088000022BJNE000300000"
+                    "builddate": "20241230221506",
+                    "doknr": "BJNR088000022BJNE000301119"
                 },
                 "metadaten": [
                     {
@@ -260,6 +273,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -274,9 +288,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Bandbreite ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -289,7 +307,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "im Download: mindestens 10,0 Megabit pro Sekunde;"
+                                                                                            {
+                                                                                                "_": "im Download: mindestens 15,0 Megabit pro Sekunde;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -297,7 +320,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "im Upload: mindestens 1,7 Megabit pro Sekunde;"
+                                                                                            {
+                                                                                                "_": "im Upload: mindestens 5,0 Megabit pro Sekunde;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -311,7 +339,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Latenz: höchstens 150,0 Millisekunden."
+                                                                    {
+                                                                        "_": "Latenz: höchstens 150,0 Millisekunden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -322,13 +355,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022BJNE000400000"
                 },
                 "metadaten": [
@@ -432,7 +468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022BJNE000500000"
                 },
                 "metadaten": [
@@ -474,7 +510,7 @@
             },
             {
                 "$": {
-                    "builddate": "20220617213004",
+                    "builddate": "20241230221506",
                     "doknr": "BJNR088000022BJNE000600000"
                 },
                 "metadaten": [

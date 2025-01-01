@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20210921213522",
+            "builddate": "20241231222416",
             "doknr": "BJNR315700005"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005"
                 },
                 "metadaten": [
@@ -108,7 +108,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000100000"
                 },
                 "metadaten": [
@@ -142,8 +142,8 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
-                    "doknr": "BJNR315700005BJNE000202377"
+                    "builddate": "20241231222416",
+                    "doknr": "BJNR315700005BJNE000203126"
                 },
                 "metadaten": [
                     {
@@ -174,7 +174,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig: ",
+                                                "_": "(1) Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -229,7 +229,51 @@
                                                         ]
                                                     }
                                                 ]
-                                            }
+                                            },
+                                            {
+                                                "_": "(2) Die Teilzeitbeschäftigung ist ausnahmsweise über die Dauer von zwölf Jahren hinaus zulässig, wenn tatsächlich betreut oder gepflegt wird und zwingende dienstliche Gründe nicht entgegenstehen.",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "mindestens ein Kind unter zwölf Jahren oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "ein pflegebedürftiger sonstiger Angehöriger",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(3) In den Fällen des Absatzes 2 kann die Teilzeitbeschäftigung auch im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit bewilligt werden, wenn keine zwingenden dienstlichen Gründe entgegenstehen."
                                         ]
                                     }
                                 ]
@@ -243,7 +287,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000301377"
                 },
                 "metadaten": [
@@ -292,7 +336,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000401377"
                 },
                 "metadaten": [
@@ -446,7 +490,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000501377"
                 },
                 "metadaten": [
@@ -563,7 +607,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000600000"
                 },
                 "metadaten": [
@@ -606,7 +650,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000702377"
                 },
                 "metadaten": [
@@ -725,7 +769,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000802377"
                 },
                 "metadaten": [
@@ -772,7 +816,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE000900000"
                 },
                 "metadaten": [
@@ -815,7 +859,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE001001377"
                 },
                 "metadaten": [
@@ -860,7 +904,7 @@
             },
             {
                 "$": {
-                    "builddate": "20210921213522",
+                    "builddate": "20241231222416",
                     "doknr": "BJNR315700005BJNE001100377"
                 },
                 "metadaten": [
