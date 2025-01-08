@@ -1,0 +1,569 @@
+{
+    "dokumente": {
+        "$": {
+            "builddate": "20241231222433",
+            "doknr": "BJNR1970A0024"
+        },
+        "norm": [
+            {
+                "$": {
+                    "builddate": "20241231222433",
+                    "doknr": "BJNR1970A0024"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "amtabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "ausfertigung-datum": [
+                            {
+                                "_": "2024-12-09",
+                                "$": {
+                                    "manuell": "ja"
+                                }
+                            }
+                        ],
+                        "fundstelle": [
+                            {
+                                "$": {
+                                    "typ": "amtlich"
+                                },
+                                "periodikum": [
+                                    "BGBl. I"
+                                ],
+                                "zitstelle": [
+                                    "2024, Nr. 407"
+                                ]
+                            }
+                        ],
+                        "kurzue": [
+                            "Gräberpauschalenverordnung 2025/2026"
+                        ],
+                        "langue": [
+                            "Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2025 und 2026"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "fussnoten": [
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 1.1.2025 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241231222433",
+                    "doknr": "BJNR1970A0024BJNE000100000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Auf Grund des § 10 Absatz 4 Satz 2 des Gräbergesetzes in der Fassung der Bekanntmachung vom 16. Januar 2012 (BGBl. I S. 98) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241231222433",
+                    "doknr": "BJNR1970A0024BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "enbez": [
+                            "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Pauschalen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10 Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre 2025 und 2026 jeweils:",
+                                            {
+                                                "table": [
+                                                    {
+                                                        "$": {
+                                                            "frame": "none",
+                                                            "tocentry": "%yes;"
+                                                        },
+                                                        "tgroup": [
+                                                            {
+                                                                "$": {
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
+                                                                },
+                                                                "colspec": [
+                                                                    {
+                                                                        "$": {
+                                                                            "colname": "col1",
+                                                                            "colnum": "1"
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "align": "right",
+                                                                            "colname": "col2",
+                                                                            "colnum": "2"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Baden-Württemberg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 000 313 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bayern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 353 435 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Berlin",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "3 439 294 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Brandenburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 834 137 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Bremen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "114 900 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hamburg",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "712 081 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Hessen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 867 865 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Mecklenburg-Vorpommern",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 043 777 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Niedersachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "2 809 113 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Nordrhein-Westfalen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "6 485 934 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Rheinland-Pfalz",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 735 830 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Saarland",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "512 065 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 718 053 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Sachsen-Anhalt",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "1 202 005 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Schleswig-Holstein",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "844 099 Euro ",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "Thüringen",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "807 495 Euro.",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241231222433",
+                    "doknr": "BJNR1970A0024BJNE000300000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "enbez": [
+                            "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Inkrafttreten, Außerkrafttreten",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt die Gräberpauschalenverordnung 2019/2020 vom 15. Februar 2019 (BGBl. I S. 121) außer Kraft."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20241231222433",
+                    "doknr": "BJNR1970A0024BJNE000400000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "GräbPauschV 2025/2026"
+                        ],
+                        "enbez": [
+                            "Schlussformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Der Bundesrat hat zugestimmt."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

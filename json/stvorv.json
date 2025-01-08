@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241231222322",
+            "builddate": "20250107222009",
             "doknr": "BJNR190600999"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999"
                 },
                 "metadaten": [
@@ -39,33 +39,10 @@
                                 ]
                             }
                         ],
-                        "kurzue": [
+                        "langue": [
                             "Stellenvorbehaltsverordnung"
                         ],
-                        "langue": [
-                            {
-                                "_": "Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes",
-                                "FnR": [
-                                    {
-                                        "$": {
-                                            "ID": "BJNR106610014_01_BJNR190600999"
-                                        }
-                                    }
-                                ]
-                            }
-                        ],
                         "standangabe": [
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Sonst"
-                                ],
-                                "standkommentar": [
-                                    "Zukünftige amtl. Langüberschrift: Stellenvorbehaltsverordnung (ab 1.1.2025; 2021 I 3932)"
-                                ]
-                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -82,42 +59,13 @@
                 ],
                 "textdaten": [
                     {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Footnotes": [
-                                    {
-                                        "Footnote": [
-                                            {
-                                                "$": {
-                                                    "FnZ": "*",
-                                                    "Group": "column",
-                                                    "ID": "BJNR106610014_01_BJNR190600999",
-                                                    "Pos": "normal"
-                                                },
-                                                "noindex": [
-                                                    "Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 16 Nr. 1 G v. 20.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:"
-                                                ],
-                                                "BR": [
-                                                    ""
-                                                ],
-                                                "B": [
-                                                    "Stellenvorbehaltsverordnung (StVorV)"
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
                         "fussnoten": [
                             {
                                 "Content": [
                                     {
                                         "P": [
                                             {
+                                                "_": " Überschrift: IdF d. Art. 16 Nr. 1 G v. 20.8.2021 I 3932 mWv 1.1.2025",
                                                 "BR": [
                                                     ""
                                                 ],
@@ -144,7 +92,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE000700305"
                 },
                 "metadaten": [
@@ -178,7 +126,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000100305"
                 },
                 "metadaten": [
@@ -222,7 +170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE000802377"
                 },
                 "metadaten": [
@@ -377,7 +325,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE000901377"
                 },
                 "metadaten": [
@@ -602,7 +550,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001000305"
                 },
                 "metadaten": [
@@ -757,7 +705,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000200305"
                 },
                 "metadaten": [
@@ -801,7 +749,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001100305"
                 },
                 "metadaten": [
@@ -844,7 +792,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001201310"
                 },
                 "metadaten": [
@@ -1015,7 +963,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000300305"
                 },
                 "metadaten": [
@@ -1059,7 +1007,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001301377"
                 },
                 "metadaten": [
@@ -1176,7 +1124,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000400305"
                 },
                 "metadaten": [
@@ -1220,7 +1168,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001400305"
                 },
                 "metadaten": [
@@ -1262,7 +1210,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001500305"
                 },
                 "metadaten": [
@@ -1306,7 +1254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001600305"
                 },
                 "metadaten": [
@@ -1350,7 +1298,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001702377"
                 },
                 "metadaten": [
@@ -1396,7 +1344,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001800305"
                 },
                 "metadaten": [
@@ -1438,7 +1386,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000500305"
                 },
                 "metadaten": [
@@ -1482,7 +1430,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE001902377"
                 },
                 "metadaten": [
@@ -1527,7 +1475,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNG000600305"
                 },
                 "metadaten": [
@@ -1571,7 +1519,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE002001377"
                 },
                 "metadaten": [
@@ -1616,7 +1564,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE002100305"
                 },
                 "metadaten": [
@@ -1661,7 +1609,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222322",
+                    "builddate": "20250107222009",
                     "doknr": "BJNR190600999BJNE002200305"
                 },
                 "metadaten": [

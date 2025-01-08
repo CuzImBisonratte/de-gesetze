@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241227221541",
+            "builddate": "20250103221546",
             "doknr": "BJNR373500013"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013"
                 },
                 "metadaten": [
@@ -65,7 +65,7 @@
                                     "Hinweis"
                                 ],
                                 "standkommentar": [
-                                    "Änderung durch Art. 21 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt"
+                                    "Änderung durch Art. 21 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             }
                         ]
@@ -107,7 +107,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000100000"
                 },
                 "metadaten": [
@@ -141,8 +141,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
-                    "doknr": "BJNR373500013BJNE000200000"
+                    "builddate": "20250103221546",
+                    "doknr": "BJNR373500013BJNE000201128"
                 },
                 "metadaten": [
                     {
@@ -177,12 +177,14 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4."
                                                         ],
                                                         "DD": [
                                                             {
@@ -190,7 +192,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "des Kreditwesengesetzes in der jeweils geltenden Fassung,"
+                                                                    {
+                                                                        "_": "des Kreditwesengesetzes in der jeweils geltenden Fassung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -198,7 +205,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "des Finanzkonglomerate-Aufsichtsgesetzes in der jeweils geltenden Fassung sowie"
+                                                                    {
+                                                                        "_": "des Finanzkonglomerate-Aufsichtsgesetzes in der jeweils geltenden Fassung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -206,7 +218,25 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung"
+                                                                    {
+                                                                        "_": "der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -225,8 +255,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
-                    "doknr": "BJNR373500013BJNE000302128"
+                    "builddate": "20250103221546",
+                    "doknr": "BJNR373500013BJNE000303128"
                 },
                 "metadaten": [
                     {
@@ -257,7 +287,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind entsprechend anzuwenden: ",
+                                                "_": "Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung (EU) 2022/2554 und des Kreditwesengesetzes sind entsprechend anzuwenden: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -271,7 +301,8 @@
                                                             "4.",
                                                             "5.",
                                                             "6.",
-                                                            "7."
+                                                            "7.",
+                                                            "8."
                                                         ],
                                                         "DD": [
                                                             {
@@ -345,7 +376,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die §§ 6b bis 6d des Kreditwesengesetzes und",
+                                                                        "_": "die §§ 6b bis 6d des Kreditwesengesetzes,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -358,7 +389,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "§ 8 Absatz 2 des Kreditwesengesetzes.",
+                                                                        "_": "§ 8 Absatz 2 des Kreditwesengesetzes und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Artikel 3 und 4 der Verordnung (EU) 2022/2554.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -382,8 +426,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
-                    "doknr": "BJNR373500013BJNE000401128"
+                    "builddate": "20250103221546",
+                    "doknr": "BJNR373500013BJNE000402128"
                 },
                 "metadaten": [
                     {
@@ -414,7 +458,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden: ",
+                                                "_": "Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung (EU) 2022/2554 und des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -436,7 +480,10 @@
                                                             "12.",
                                                             "13.",
                                                             "14.",
-                                                            "15."
+                                                            "15.",
+                                                            "16.",
+                                                            "17.",
+                                                            "18."
                                                         ],
                                                         "DD": [
                                                             {
@@ -614,7 +661,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Artikel 429 bis 429g der Verordnung (EU) Nr. 575/2013 und",
+                                                                        "_": "die Artikel 429 bis 429g der Verordnung (EU) Nr. 575/2013,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -627,7 +674,46 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Artikel 430 und 430b der Verordnung (EU) Nr. 575/2013.",
+                                                                        "_": "die Artikel 430 und 430b der Verordnung (EU) Nr. 575/2013,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Artikel 5 bis 15 der Verordnung (EU) 2022/2554,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Artikel 17 bis 30 der Verordnung (EU) 2022/2554 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Artikel 45 der Verordnung (EU) 2022/2554.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -651,7 +737,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000502128"
                 },
                 "metadaten": [
@@ -780,7 +866,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000600000"
                 },
                 "metadaten": [
@@ -822,7 +908,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000700000"
                 },
                 "metadaten": [
@@ -864,7 +950,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000800000"
                 },
                 "metadaten": [
@@ -906,7 +992,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE000900000"
                 },
                 "metadaten": [
@@ -948,7 +1034,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE001002128"
                 },
                 "metadaten": [
@@ -1037,7 +1123,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221541",
+                    "builddate": "20250103221546",
                     "doknr": "BJNR373500013BJNE001100000"
                 },
                 "metadaten": [

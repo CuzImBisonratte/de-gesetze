@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241227221513",
+            "builddate": "20250103221507",
             "doknr": "BJNR008810961"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961"
                 },
                 "metadaten": [
@@ -76,7 +76,7 @@
                                     "Hinweis"
                                 ],
                                 "standkommentar": [
-                                    "Änderung durch Art. 3 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt"
+                                    "Änderung durch Art. 3 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             }
                         ]
@@ -426,8 +426,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE030420128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE030421128"
                 },
                 "metadaten": [
                     {
@@ -3083,7 +3083,7 @@
                                                                                                         },
                                                                                                         "LA": [
                                                                                                             {
-                                                                                                                "_": "Besondere Pflichten bei Kryptoverwahrung",
+                                                                                                                "_": "Besondere Pflichten bei qualifizierter Kryptoverwahrung",
                                                                                                                 "$": {
                                                                                                                     "Size": "normal"
                                                                                                                 }
@@ -4227,7 +4227,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung",
+                                                                                        "_": "Zuordnung verwahrter kryptografischer Instrumente, Kosten der Aussonderung",
                                                                                         "$": {
                                                                                             "VJ": "1",
                                                                                             "align": "justify"
@@ -4252,6 +4252,23 @@
                                                                                             "align": "justify",
                                                                                             "colsep": "1",
                                                                                             "rowsep": "0"
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "§ 47a",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Besondere Befugnisse nach der Verordnung (EU) 2022/2554",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "justify"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -5575,7 +5592,7 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402",
+                                                                                        "_": "Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554",
                                                                                         "$": {
                                                                                             "VJ": "1"
                                                                                         }
@@ -6156,6 +6173,22 @@
                                                                                         }
                                                                                     }
                                                                                 ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "_": "§ 65a",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz",
+                                                                                        "$": {
+                                                                                            "VJ": "1"
+                                                                                        }
+                                                                                    }
+                                                                                ]
                                                                             }
                                                                         ]
                                                                     }
@@ -6178,7 +6211,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000104377"
                 },
                 "metadaten": [
@@ -6223,7 +6256,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000209118"
                 },
                 "metadaten": [
@@ -6271,8 +6304,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE030221128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE030222128"
                 },
                 "metadaten": [
                     {
@@ -6772,10 +6805,116 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Verwahrung, die Verwaltung und die Sicherung von Kryptowerten oder privaten kryptografischen Schlüsseln, die dazu dienen, Kryptowerte für andere zu halten, zu speichern oder darüber zu verfügen, sowie die Sicherung von privaten kryptografischen Schlüsseln, die dazu dienen, Kryptowertpapiere für andere nach § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere zu halten, zu speichern oder darüber zu verfügen (Kryptoverwahrgeschäft),",
+                                                                        "_": "das qualifizierte Kryptoverwahrgeschäft durch Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine kryptografischen Instrumente im Sinne dieses Gesetzes sind ",
                                                                         "$": {
                                                                             "Size": "normal"
-                                                                        }
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "die Verwahrung und Verwaltung kryptografischer Instrumente für andere oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "die Sicherung privater kryptografischer Schlüssel für andere, die dazu dienen, kryptografische Instrumente oder Kryptowertpapiere, Kryptofondsanteile oder in- und ausländische Wertpapiere, die unter Verwendung der Distributed-Ledger-Technologie oder einer ähnlichen Technologie übertragen und gespeichert werden können, zu speichern oder darüber zu verfügen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "arabic"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "1.",
+                                                                                    "2.",
+                                                                                    "3.",
+                                                                                    "4."
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "monetäre Werte, die die Vorgaben nach § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen oder nur für Zahlungsvorgänge im Sinne des § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt werden,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, im Anwendungsbereich der Verordnung (EU) 2023/1114 und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Wertpapiere im Sinne des Depotgesetzes.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
                                                                     }
                                                                 ]
                                                             },
@@ -7189,7 +7328,7 @@
                                             "(9) Eine bedeutende Beteiligung im Sinne dieses Gesetzes ist eine qualifizierte Beteiligung gemäß Artikel 4 Absatz 1 Nummer 36 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung. Für die Berechnung des Anteils der Stimmrechte gelten § 33 Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 5, § 34 Absatz 1 und 2, § 35 Absatz 1 bis 3 in Verbindung mit einer Rechtsverordnung nach Absatz 6 und § 36 des Wertpapierhandelsgesetzes entsprechend. Unberücksichtigt bleiben die Stimmrechte oder Kapitalanteile, die Institute oder Wertpapierinstitute im Rahmen des Emissionsgeschäfts nach Absatz 1 Satz 2 Nummer 10 oder nach § 2 Absatz 2 Nummer 2 des Wertpapierinstitutsgesetzes halten, vorausgesetzt, diese Rechte werden nicht ausgeübt oder anderweitig benutzt, um in die Geschäftsführung des Emittenten einzugreifen, und sie werden innerhalb eines Jahres nach dem Zeitpunkt des Erwerbs veräußert.",
                                             "(10) Auslagerungsunternehmen sind Unternehmen, auf die ein Institut oder ein übergeordnetes Unternehmen Aktivitäten und Prozesse zur Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen ausgelagert hat, sowie deren Subunternehmen bei Weiterverlagerungen von Aktivitäten und Prozessen, die für die Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen wesentlich sind.",
                                             {
-                                                "_": "(11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Absatz 1 und 6 sind Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen gebietsfremden Emittenten gehandelt werden können. Geldmarktinstrumente sind Instrumente im Sinne des Artikels 11 der Delegierten Verordnung (EU) 2017/565 mit Ausnahme von Zahlungsinstrumenten. Kryptowerte im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine Kryptowerte im Sinne dieses Gesetzes sind Derivate sind ",
+                                                "_": "(11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Absatz 1 und 6 sind Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen gebietsfremden Emittenten gehandelt werden können. Geldmarktinstrumente sind Instrumente im Sinne des Artikels 11 der Delegierten Verordnung (EU) 2017/565 mit Ausnahme von Zahlungsinstrumenten. Kryptowerte sind solche im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114. Keine Kryptowerte im Sinne dieses Gesetzes sind solche nach Artikel 4 Absatz 3 Buchstabe c der Verordnung (EU) 2023/1114. Derivate sind ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -7333,7 +7472,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Kryptowerte sowie",
+                                                                        "_": "(weggefallen)",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -7347,44 +7486,6 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "für Schwarmfinanzierungszwecke nach Artikel 2 Absatz 1 Buchstabe n der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, zugelassene Instrumente (Schwarmfinanzierungsinstrumente).",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "$": {
-                                                            "Font": "normal",
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes oder",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "ein monetärer Wert, der die Anforderungen des § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllt oder nur für Zahlungsvorgänge nach § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt wird.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -7450,7 +7551,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "Devisen, soweit das Geschäft nicht die Voraussetzungen des Artikels 10 der Delegierten Verordnung (EU) 2017/565 erfüllt, oder Rechnungseinheiten,",
+                                                                                                "_": "Devisen, soweit das Geschäft nicht die Voraussetzungen des Artikels 10 der Delegierten Verordnung (EU) 2017/565 erfüllt, Rechnungseinheiten oder Kryptowerte,",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -7716,7 +7817,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Wertpapierinstitute im Sinne des Absatzes 3d Satz 2, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an;",
+                                                                        "_": "die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Wertpapierinstitute im Sinne des Absatzes 3d Satz 2, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an und Institute im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes;",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -8178,8 +8279,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE016609128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE016610128"
                 },
                 "metadaten": [
                     {
@@ -8267,7 +8368,69 @@
                                                     }
                                                 ]
                                             },
-                                            "(2) (weggefallen)",
+                                            {
+                                                "_": "(2) Für Einrichtungen, die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU namentlich genannt werden, gelten die Vorgaben der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)  (ABl. L 333 vom 27.12.2022, S. 1) und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen, als wenn diese Einrichtungen CRR-Kreditinstitute wären.",
+                                                "NB": [
+                                                    "2016/1011"
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2a) Für Institute, die nicht nach Artikel 2 der Verordnung (EU) 2022/2554 im Geltungsbereich der Verordnung (EU) 2022/2554 liegen, gelten die Vorgaben der Verordnung (EU) 2022/2554 und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen so, als wären diese Institute. Abweichend von Satz 1 finden ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "anstelle der Vorgaben der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 die Vorgaben des vereinfachten Informations- und Kommunikationstechnologien-Risikomanagementrahmens nach Artikel 16 der Verordnung (EU) 2022/2554 Anwendung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Vorgaben an die Durchführung der bedrohungsgeleiteten Penetrationstests nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 keine Anwendung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Vorgaben an das IKT-Drittparteienrisikomanagement nach den Artikeln 28 bis 30 der Verordnung (EU) 2022/2554 auf Kleinstunternehmen im Sinne von Artikel 3 Nummer 60 der Verordnung (EU) 2022/2554 keine Anwendung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
                                             "(3) Für Kreditinstitute und Finanzdienstleistungsinstitute, die keine CRR-Kreditinstitute und keine Wohnungsunternehmen mit Spareinrichtung sind, gelten die Vorgaben von Artikel 4 Absatz 1 Unterabsatz 1, Artikel 5a Absatz 1, der Artikel 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S. 57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Verordnung (EU) 2017/2402 (ABl. L 347 vom 28.12.2017, S. 35) geändert worden ist, und die auf ihrer Grundlage erlassenen Rechtsakte so, als seien diese Kreditinstitute und Finanzdienstleistungsinstitute CRR-Kreditinstitute.",
                                             "(4) Für Kreditinstitute, die zwar über eine Erlaubnis verfügen, Bankgeschäfte im Sinne von § 1 Absatz 1 Satz 2 Nummer 1 und 2 zu betreiben, die aber weder CRR-Kreditinstitute noch Zweigstellen im Sinne des § 53 Absatz 1 Satz 1 sind, gelten die Meldeanforderungen der Verordnung (EU) 2015/534 der Europäischen Zentralbank vom 17. März 2015 über die Meldung aufsichtlicher Finanzinformationen (EZB/2015/13) (ABl. L 86 vom 31.3.2015, S. 13; L 65 vom 8.3.2018, S. 48), die zuletzt durch die Verordnung (EU) 2020/605 (ABl. L 145 vom 7.5.2020, S. 1) geändert worden ist, so, als seien diese Kreditinstitute CRR-Kreditinstitute. Die für die Bestimmung des Meldeumfangs erforderliche Einstufung als bedeutendes oder weniger bedeutendes Kreditinstitut erfolgt auf der Grundlage des Größenkriteriums „Gesamtwert der Aktiva“ nach Artikel 50 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1; L 113 vom 29.4.2017, S. 64; L 65 vom 8.3.2018, S. 49). Die Meldungen sind der Deutschen Bundesbank elektronisch einzureichen."
                                         ]
@@ -8291,7 +8454,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE018902311"
                 },
                 "metadaten": [
@@ -8345,8 +8508,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE033108128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE033109128"
                 },
                 "metadaten": [
                     {
@@ -8686,7 +8849,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;",
+                                                                                                "_": "(weggefallen)",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -9201,7 +9364,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;",
+                                                                                                "_": "(weggefallen)",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -9417,7 +9580,7 @@
                                             },
                                             "(7) Auf Finanzdienstleistungsinstitute, die außer der Drittstaateneinlagenvermittlung und dem Sortengeschäft keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 10i, 11 bis 18 und 24 Absatz 1 Nummer 9, 14 bis 14b, die §§ 24a, 25a Absatz 5, die §§ 26a und 33 Absatz 1 Satz 1 Nummer 1 und die §§ 45 und 46 Absatz 1 Satz 2 Nummer 4 bis 6 und die §§ 46b und 46c dieses Gesetzes sowie die Artikel 24 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.",
                                             "(7a) Auf Unternehmen, die ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 erbringen, sind die §§ 10, 10c bis 10i, 11 bis 13c, 15 bis 18 und 24 Absatz 1 Nummer 4, 9, 11, 14 bis 14b, 16 und 17, Absatz 1a Nummer 5, die §§ 25, 25a Absatz 5 und 5b, § 25d Absatz 7 Satz 2, die §§ 26a und 33 Absatz 1 Satz 1 Nummer 1 und die §§ 45, 46b und 46c dieses Gesetzes sowie die Artikel 24 bis 455 und 465 bis 519 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.",
-                                            "(7b) Auf Finanzdienstleistungsinstitute, die außer dem Kryptoverwahrgeschäft oder der Kryptowertpapierregisterführung keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 18 und 24 Absatz 1 Nummer 14 bis 14b, die §§ 24a und 25a Absatz 5, die §§ 26a und 45 dieses Gesetzes sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.",
+                                            "(7b) Auf Finanzdienstleistungsinstitute, die außer dem qualifizierten Kryptoverwahrgeschäft oder der Kryptowertpapierregisterführung keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 18 und 24 Absatz 1 Nummer 14 bis 14b, die §§ 24a und 25a Absatz 5, die §§ 26a und 45 dieses Gesetzes sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.",
                                             "(8) (weggefallen)",
                                             "(8a) Die Anforderungen des § 24 Absatz 1 Nummer 14 bis 14b, § 25a Absatz 5, des § 26a und der Artikel 39, 41, 89 bis 386, 429 bis 429g, 430 Absatz 1 Unterabsatz 1 Buchstabe a, b, e bis g und Absatz 2 bis 5 sowie der Artikel 430a und 430b der Verordnung (EU) Nr. 575/2013 gelten, vorbehaltlich des § 64h Absatz 7, nicht für die Institute, deren Haupttätigkeit ausschließlich im Betreiben von Bankgeschäften oder der Erbringung von Finanzdienstleistungen im Zusammenhang mit Derivaten nach § 1 Absatz 11 Satz 3 Nummer 2, 3 und 5 besteht.",
                                             "(8b) (weggefallen)",
@@ -9461,7 +9624,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016705118"
                 },
                 "metadaten": [
@@ -9525,7 +9688,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE002608128"
                 },
                 "metadaten": [
@@ -9572,7 +9735,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE010628128"
                 },
                 "metadaten": [
@@ -10031,7 +10194,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014005119"
                 },
                 "metadaten": [
@@ -10133,7 +10296,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE024002119"
                 },
                 "metadaten": [
@@ -10180,7 +10343,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032502128"
                 },
                 "metadaten": [
@@ -10638,7 +10801,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032601128"
                 },
                 "metadaten": [
@@ -10941,7 +11104,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE002709128"
                 },
                 "metadaten": [
@@ -11329,7 +11492,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE002807128"
                 },
                 "metadaten": [
@@ -11375,7 +11538,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000305377"
                 },
                 "metadaten": [
@@ -11423,7 +11586,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE002908128"
                 },
                 "metadaten": [
@@ -11563,8 +11726,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE031106128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE031107128"
                 },
                 "metadaten": [
                     {
@@ -11658,6 +11821,7 @@
                                                 ]
                                             },
                                             "(1f) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) nach den Vorschriften dieses Gesetzes, soweit nicht § 295 Absatz 1 Nummer 7 des Versicherungsaufsichtsgesetzes, § 32a Absatz 1 des Wertpapierhandelsgesetzes oder § 5 Absatz 13 des Kapitalanlagegesetzbuchs anzuwenden sind.",
+                                            "(1g) Die Aufsichtsbehörden nach § 1 Absatz 5 sind zuständige Behörden nach Artikel 46 der Verordnung (EU) 2022/2554. Bei der Durchführung der Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wirkt die Bundesanstalt mit der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 gilt entsprechend.",
                                             "(2) Die Bundesanstalt hat Mißständen im Kredit- und Finanzdienstleistungswesen entgegenzuwirken, welche die Sicherheit der den Instituten anvertrauten Vermögenswerte gefährden, die ordnungsmäßige Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen oder erhebliche Nachteile für die Gesamtwirtschaft herbeiführen können.",
                                             "(3) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen Aufgaben gegenüber den Instituten und ihren Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen aufsichtsrechtliche Bestimmungen zu verhindern oder zu unterbinden oder um Missstände in einem Institut zu verhindern oder zu beseitigen, welche die Sicherheit der dem Institut anvertrauten Vermögenswerte gefährden können oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen. Die Anordnungsbefugnis nach Satz 1 besteht auch gegenüber Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften sowie gegenüber den Personen, die die Geschäfte dieser Gesellschaften tatsächlich führen.",
                                             "(4) Die Bundesanstalt hat bei der Ausübung ihrer Aufgaben in angemessener Weise die möglichen Auswirkungen ihrer Entscheidungen auf die Stabilität des Finanzsystems in den jeweils betroffenen Staaten des Europäischen Wirtschaftsraums zu berücksichtigen.",
@@ -11689,7 +11853,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE013604128"
                 },
                 "metadaten": [
@@ -11809,7 +11973,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE029102119"
                 },
                 "metadaten": [
@@ -12223,7 +12387,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032000119"
                 },
                 "metadaten": [
@@ -12542,7 +12706,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032102128"
                 },
                 "metadaten": [
@@ -12604,7 +12768,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE003111123"
                 },
                 "metadaten": [
@@ -12668,7 +12832,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE022205128"
                 },
                 "metadaten": [
@@ -12906,7 +13070,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE022313128"
                 },
                 "metadaten": [
@@ -13564,7 +13728,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE022401119"
                 },
                 "metadaten": [
@@ -13610,7 +13774,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE029201119"
                 },
                 "metadaten": [
@@ -13656,7 +13820,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE003223128"
                 },
                 "metadaten": [
@@ -14121,7 +14285,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016805119"
                 },
                 "metadaten": [
@@ -14298,7 +14462,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014108128"
                 },
                 "metadaten": [
@@ -14456,7 +14620,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE011711119"
                 },
                 "metadaten": [
@@ -14546,7 +14710,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014202360"
                 },
                 "metadaten": [
@@ -14588,7 +14752,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE019004119"
                 },
                 "metadaten": [
@@ -14741,7 +14905,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE029301128"
                 },
                 "metadaten": [
@@ -14853,7 +15017,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032200119"
                 },
                 "metadaten": [
@@ -14899,7 +15063,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032301128"
                 },
                 "metadaten": [
@@ -14976,7 +15140,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE022112128"
                 },
                 "metadaten": [
@@ -15541,7 +15705,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000408118"
                 },
                 "metadaten": [
@@ -15589,7 +15753,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000505377"
                 },
                 "metadaten": [
@@ -15634,7 +15798,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032800128"
                 },
                 "metadaten": [
@@ -16225,7 +16389,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032900128"
                 },
                 "metadaten": [
@@ -16340,7 +16504,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014307119"
                 },
                 "metadaten": [
@@ -16484,7 +16648,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016904119"
                 },
                 "metadaten": [
@@ -16546,7 +16710,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE026902119"
                 },
                 "metadaten": [
@@ -16673,7 +16837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027001119"
                 },
                 "metadaten": [
@@ -17025,7 +17189,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027103128"
                 },
                 "metadaten": [
@@ -17275,7 +17439,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027202119"
                 },
                 "metadaten": [
@@ -17512,7 +17676,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027302119"
                 },
                 "metadaten": [
@@ -17576,7 +17740,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027403128"
                 },
                 "metadaten": [
@@ -18244,7 +18408,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE032400119"
                 },
                 "metadaten": [
@@ -18584,7 +18748,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE003614119"
                 },
                 "metadaten": [
@@ -18705,7 +18869,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE003818119"
                 },
                 "metadaten": [
@@ -18806,7 +18970,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE003913301"
                 },
                 "metadaten": [
@@ -18871,7 +19035,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000604377"
                 },
                 "metadaten": [
@@ -18916,7 +19080,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE026803119"
                 },
                 "metadaten": [
@@ -19054,7 +19218,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004112301"
                 },
                 "metadaten": [
@@ -19096,7 +19260,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014408128"
                 },
                 "metadaten": [
@@ -19260,7 +19424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE014501360"
                 },
                 "metadaten": [
@@ -19302,7 +19466,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE027503128"
                 },
                 "metadaten": [
@@ -19371,7 +19535,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004316119"
                 },
                 "metadaten": [
@@ -19678,7 +19842,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004406377"
                 },
                 "metadaten": [
@@ -19713,7 +19877,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004505377"
                 },
                 "metadaten": [
@@ -19778,7 +19942,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004614119"
                 },
                 "metadaten": [
@@ -19950,7 +20114,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE019107128"
                 },
                 "metadaten": [
@@ -20317,7 +20481,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004711118"
                 },
                 "metadaten": [
@@ -20881,7 +21045,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004814301"
                 },
                 "metadaten": [
@@ -21052,7 +21216,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE017005301"
                 },
                 "metadaten": [
@@ -21094,7 +21258,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE004913118"
                 },
                 "metadaten": [
@@ -21539,7 +21703,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE011908301"
                 },
                 "metadaten": [
@@ -21710,7 +21874,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG002400377"
                 },
                 "metadaten": [
@@ -21758,7 +21922,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015102301"
                 },
                 "metadaten": [
@@ -21821,7 +21985,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015202301"
                 },
                 "metadaten": [
@@ -21889,7 +22053,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015300377"
                 },
                 "metadaten": [
@@ -21943,7 +22107,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015403118"
                 },
                 "metadaten": [
@@ -22077,7 +22241,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015502128"
                 },
                 "metadaten": [
@@ -22141,7 +22305,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015600377"
                 },
                 "metadaten": [
@@ -22201,7 +22365,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015700377"
                 },
                 "metadaten": [
@@ -22318,7 +22482,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015800377"
                 },
                 "metadaten": [
@@ -22379,7 +22543,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE015901360"
                 },
                 "metadaten": [
@@ -22442,7 +22606,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016002301"
                 },
                 "metadaten": [
@@ -22504,7 +22668,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016101301"
                 },
                 "metadaten": [
@@ -22565,7 +22729,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016200377"
                 },
                 "metadaten": [
@@ -22628,7 +22792,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016301128"
                 },
                 "metadaten": [
@@ -22689,7 +22853,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016400377"
                 },
                 "metadaten": [
@@ -22753,7 +22917,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE016501360"
                 },
                 "metadaten": [
@@ -22814,7 +22978,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG002201377"
                 },
                 "metadaten": [
@@ -22862,7 +23026,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE013202360"
                 },
                 "metadaten": [
@@ -22908,7 +23072,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000806377"
                 },
                 "metadaten": [
@@ -22953,7 +23117,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE005208118"
                 },
                 "metadaten": [
@@ -23014,7 +23178,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNE010711118"
                 },
                 "metadaten": [
@@ -23076,7 +23240,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221507",
                     "doknr": "BJNR008810961BJNG000908118"
                 },
                 "metadaten": [
@@ -23124,8 +23288,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE005334128"
+                    "builddate": "20250103221507",
+                    "doknr": "BJNR008810961BJNE005335128"
                 },
                 "metadaten": [
                     {
@@ -23621,7 +23785,7 @@
                                             "(1b) Bei der Anzeige eines Kredits nach Absatz 1 Nummer 17 hat das Institut die gestellten Sicherheiten und die Kreditbedingungen anzugeben. Es hat einen Kredit, den es nach Absatz 1 Nummer 17 angezeigt hat, unverzüglich erneut der Aufsichtsbehörde und der Deutschen Bundesbank anzuzeigen, wenn die gestellten Sicherheiten oder die Kreditbedingungen rechtsgeschäftlich geändert werden, und die entsprechenden Änderungen anzugeben. Die Aufsichtsbehörde kann von den Instituten fordern, ihr und der Deutschen Bundesbank alle fünf Jahre eine Sammelanzeige der nach Absatz 1 Nummer 17 anzuzeigenden Kredite einzureichen.",
                                             "(1c) Ein CRR-Kreditinstitut, das einen Beschluss über die Billigung eines höheren Höchstwerts für die variable Vergütung nach § 25a Absatz 5 Satz 5 gefasst hat, hat der Aufsichtsbehörde und der Deutschen Bundesbank zweijährlich die Informationen anzuzeigen, die für die Zwecke des Artikels 94 Absatz 1 Buchstabe g Unterabsatz 2 Spiegelstrich 5 der Richtlinie 2013/36/EU erforderlich sind.",
                                             "(1d) Ein CRR-Kreditinstitut, das bedeutend im Sinne des § 1 Absatz 3c ist oder das von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurde, hat der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich die Informationen zum geschlechtsspezifischen Lohngefälle anzuzeigen, die für die Zwecke des Artikels 75 Absatz 1 der Richtlinie 2013/36/EU erforderlich sind.",
-                                            "(2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.",
+                                            "(2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem Institut im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.",
                                             "(2a) Ein Mitglied eines Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens unverzüglich anzuzeigen.",
                                             {
                                                 "_": "(3) Ein Geschäftsleiter eines Instituts und die Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, haben der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen Als unmittelbare Beteiligung im Sinne des Satzes 1 Nr. 2 gilt das Halten von mindestens 25 vom Hundert der Anteile am Kapital des Unternehmens.",
@@ -23865,7 +24029,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010822128"
                 },
                 "metadaten": [
@@ -24111,7 +24275,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013109128"
                 },
                 "metadaten": [
@@ -24175,7 +24339,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013310128"
                 },
                 "metadaten": [
@@ -24512,7 +24676,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE027602119"
                 },
                 "metadaten": [
@@ -24655,7 +24819,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE033001128"
                 },
                 "metadaten": [
@@ -25198,7 +25362,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE027803123"
                 },
                 "metadaten": [
@@ -25391,7 +25555,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE027908123"
                 },
                 "metadaten": [
@@ -26246,7 +26410,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028010128"
                 },
                 "metadaten": [
@@ -26710,7 +26874,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028102128"
                 },
                 "metadaten": [
@@ -26769,7 +26933,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE029601118"
                 },
                 "metadaten": [
@@ -26829,7 +26993,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001010360"
                 },
                 "metadaten": [
@@ -26877,8 +27041,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
-                    "doknr": "BJNR008810961BJNE013509118"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE013510128"
                 },
                 "metadaten": [
                     {
@@ -26930,7 +27094,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1),",
+                                                                        "_": "der Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150 vom 9.6.2023, S. 1),",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -27003,7 +27167,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017810123"
                 },
                 "metadaten": [
@@ -27069,7 +27233,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017909123"
                 },
                 "metadaten": [
@@ -27325,7 +27489,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221513",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018004118"
                 },
                 "metadaten": [
@@ -27384,7 +27548,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018107118"
                 },
                 "metadaten": [
@@ -27444,7 +27608,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018209119"
                 },
                 "metadaten": [
@@ -27498,7 +27662,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018404118"
                 },
                 "metadaten": [
@@ -27589,7 +27753,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002700377"
                 },
                 "metadaten": [
@@ -27637,7 +27801,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE005714118"
                 },
                 "metadaten": [
@@ -27700,7 +27864,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002601377"
                 },
                 "metadaten": [
@@ -27747,7 +27911,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017307128"
                 },
                 "metadaten": [
@@ -27906,8 +28070,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNG002602128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNG002603128"
                 },
                 "metadaten": [
                     {
@@ -27923,7 +28087,7 @@
                                     "5d."
                                 ],
                                 "gliederungstitel": [
-                                    "Besondere Pflichten bei Kryptoverwahrung"
+                                    "Besondere Pflichten bei qualifizierter Kryptoverwahrung"
                                 ]
                             }
                         ]
@@ -27953,8 +28117,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE033500128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE033501128"
                 },
                 "metadaten": [
                     {
@@ -27985,8 +28149,8 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Ein Institut, das das Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die Kryptowerte und privaten kryptographischen Schlüssel der Kunden getrennt von den Kryptowerten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden Kryptowerte mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.",
-                                            "(2) Das Institut hat sicherzustellen, dass über die verwahrten Kryptowerte und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann."
+                                            "(1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die kryptografischen Instrumente und privaten kryptographischen Schlüssel der Kunden getrennt von den kryptografischen Instrumenten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden kryptografische Instrumente mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.",
+                                            "(2) Das Institut hat sicherzustellen, dass über die verwahrten kryptografischen Instrumente und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann."
                                         ]
                                     }
                                 ]
@@ -28008,7 +28172,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001105377"
                 },
                 "metadaten": [
@@ -28053,7 +28217,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE006007377"
                 },
                 "metadaten": [
@@ -28099,7 +28263,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE006113123"
                 },
                 "metadaten": [
@@ -28217,8 +28381,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE006250128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE006251128"
                 },
                 "metadaten": [
                     {
@@ -28312,7 +28476,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,",
+                                                                                                "_": "nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, nach den §§ 26a und § 26b, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -28442,7 +28606,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "nach den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere und",
+                                                                                                "_": "nach § 5 Absatz 1 und 2 sowie den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere und",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -28455,7 +28619,31 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "nach den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1), sofern die davon betroffenen Geschäfte von dem Institut erbracht werden.",
+                                                                                                "_": "nach den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1), sofern die davon betroffenen Geschäfte von dem Institut erbracht werden und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "m)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -28474,7 +28662,7 @@
                                             },
                                             "(1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, nach den Artikeln 4a und 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, Artikel 8 Absatz 1 bis 4, den Artikeln 26, 29 und 33 bis 54 der Verordnung (EU) Nr. 648/2012 und nach Artikel 29 Absatz 2, den Artikeln 30 und 35 der Verordnung (EU) Nr. 600/2014 sowie der gemäß diesen Artikeln erlassenen technischen Regulierungsstandards eingehalten sind. Satz 1 gilt entsprechend für den verkürzten Abschluss einer zentralen Gegenpartei, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.",
                                             "(1b) Bei der Prüfung des Jahresabschlusses eines Zentralverwahrers ist auch zu prüfen, ob die Anforderungen nach den Artikeln 6, 7, 26 bis 53, 54 Absatz 3 und nach Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Bei der Prüfung des Jahresabschlusses eines Kreditinstituts, das von einem Zentralverwahrer nach Artikel 54 Absatz 4 der Verordnung (EU) Nr. 909/2014 dazu benannt wurde, bankartige Nebendienstleistungen zu erbringen, ist zudem zu prüfen, ob die Anforderungen nach Artikel 54 Absatz 4 und Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Die Sätze 1 und 2 gelten entsprechend für den verkürzten Abschluss eines Zentralverwahrers, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.",
-                                            "(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1), der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.",
+                                            "(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2023/1113, der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.",
                                             "(3) Der Prüfer hat unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, wenn ihm bei der Prüfung Tatsachen bekannt werden, welche die Einschränkung oder Versagung des Bestätigungsvermerkes rechtfertigen, die den Bestand des Instituts gefährden oder seine Entwicklung wesentlich beeinträchtigen können, die einen erheblichen Verstoß gegen die Vorschriften über die Zulassungsvoraussetzungen des Instituts oder die Ausübung einer Tätigkeit nach diesem Gesetz darstellen oder die schwerwiegende Verstöße der Geschäftsleiter gegen Gesetz, Satzung oder Gesellschaftsvertrag erkennen lassen. Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ihnen die Art und den Umfang seines Vorgehens darzustellen, den Prüfungsbericht zu erläutern und sonstige bei der Prüfung bekannt gewordene Tatsachen mitzuteilen, die gegen eine ordnungsgemäße Durchführung der Geschäfte des Instituts sprechen. Die Anzeige-, Erläuterungs- und Mitteilungspflichten nach den Sätzen 1 und 2 bestehen auch in Bezug auf ein Unternehmen, das mit dem Institut in enger Verbindung steht, sofern dem Prüfer die Tatsachen im Rahmen der Prüfung des Instituts bekannt werden. Der Prüfer haftet nicht für die Richtigkeit von Tatsachen, die er nach diesem Absatz in gutem Glauben anzeigt.",
                                             {
                                                 "_": "(4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung nähere Bestimmungen über zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Institut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Geschäfte zu erhalten. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.",
@@ -28562,7 +28750,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE006308377"
                 },
                 "metadaten": [
@@ -28621,7 +28809,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001204377"
                 },
                 "metadaten": [
@@ -28666,7 +28854,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE029801119"
                 },
                 "metadaten": [
@@ -28786,7 +28974,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001305377"
                 },
                 "metadaten": [
@@ -28831,7 +29019,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001404377"
                 },
                 "metadaten": [
@@ -28876,8 +29064,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE006538128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE006539128"
                 },
                 "metadaten": [
                     {
@@ -29373,7 +29561,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.",
+                                                                                                "_": "das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt,",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -29386,7 +29574,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt,",
+                                                                                                "_": "(weggefallen)",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -29520,7 +29708,7 @@
                                                 ]
                                             },
                                             "(2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Sie kann die Erlaubnis auf einzelne Bankgeschäfte oder Finanzdienstleistungen beschränken.",
-                                            "(2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann, außer in den Fällen des Absatzes 1 Satz 2, nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder Kryptowerte im Sinne des § 1 Absatz 11 Nummer 10 beziehen.",
+                                            "(2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann, außer in den Fällen des Absatzes 1 Satz 2, nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das qualifizierte Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder kryptografische Instrumente im Sinne des § 1 Absatz 1a Satz 9 und 10 beziehen.",
                                             "(3) Vor Erteilung der Erlaubnis hat die Bundesanstalt die für das Institut in Betracht kommende Sicherungseinrichtung zu hören.",
                                             "(3a) Mit der Erteilung der Erlaubnis ist dem Institut, sofern es nach den Vorschriften des Zweiten Abschnittes des Einlagensicherungsgesetzes oder nach § 8 Absatz 1 des Anlegerentschädigungsgesetzes beitragspflichtig ist, die Entschädigungseinrichtung mitzuteilen, der das Institut zugeordnet ist. Bezieht sich die Tätigkeit eines Wertpapierdienstleistungsunternehmens im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes auf strukturierte Einlagen im Sinne des Wertpapierhandelsgesetzes und wird die strukturierte Einlage von einem Kreditinstitut ausgegeben, das Mitglied eines Einlagensicherungssystems im Sinne des Einlagensicherungsgesetzes ist, so deckt das Einlagensicherungssystem des Kreditinstituts auch die von dem Kreditinstitut ausgegebenen strukturierten Einlagen ab.",
                                             "(4) Die Bundesanstalt hat die Erteilung der Erlaubnis im Bundesanzeiger bekannt zu machen.",
@@ -29556,7 +29744,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE034200128"
                 },
                 "metadaten": [
@@ -30033,7 +30221,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010911118"
                 },
                 "metadaten": [
@@ -30093,7 +30281,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011014128"
                 },
                 "metadaten": [
@@ -30195,7 +30383,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE006707118"
                 },
                 "metadaten": [
@@ -30256,7 +30444,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE006825311"
                 },
                 "metadaten": [
@@ -30531,7 +30719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE001731123"
                 },
                 "metadaten": [
@@ -30835,7 +31023,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE030605123"
                 },
                 "metadaten": [
@@ -30897,7 +31085,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007016123"
                 },
                 "metadaten": [
@@ -31061,7 +31249,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007113118"
                 },
                 "metadaten": [
@@ -31127,7 +31315,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001505377"
                 },
                 "metadaten": [
@@ -31172,7 +31360,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007207377"
                 },
                 "metadaten": [
@@ -31275,7 +31463,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007305377"
                 },
                 "metadaten": [
@@ -31391,7 +31579,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007405377"
                 },
                 "metadaten": [
@@ -31445,7 +31633,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007505377"
                 },
                 "metadaten": [
@@ -31504,7 +31692,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007607377"
                 },
                 "metadaten": [
@@ -31565,7 +31753,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001604377"
                 },
                 "metadaten": [
@@ -31610,7 +31798,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007724128"
                 },
                 "metadaten": [
@@ -31682,7 +31870,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007819128"
                 },
                 "metadaten": [
@@ -31745,7 +31933,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011109377"
                 },
                 "metadaten": [
@@ -31877,7 +32065,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012714123"
                 },
                 "metadaten": [
@@ -32026,7 +32214,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001704377"
                 },
                 "metadaten": [
@@ -32071,7 +32259,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE007922119"
                 },
                 "metadaten": [
@@ -32629,7 +32817,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012010301"
                 },
                 "metadaten": [
@@ -32734,7 +32922,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017511123"
                 },
                 "metadaten": [
@@ -32852,7 +33040,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE019808311"
                 },
                 "metadaten": [
@@ -33089,7 +33277,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008015119"
                 },
                 "metadaten": [
@@ -33253,7 +33441,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008118119"
                 },
                 "metadaten": [
@@ -33315,7 +33503,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008219118"
                 },
                 "metadaten": [
@@ -33380,7 +33568,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008308360"
                 },
                 "metadaten": [
@@ -33444,7 +33632,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013705301"
                 },
                 "metadaten": [
@@ -33507,7 +33695,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013806128"
                 },
                 "metadaten": [
@@ -33571,7 +33759,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013908119"
                 },
                 "metadaten": [
@@ -33850,7 +34038,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008408301"
                 },
                 "metadaten": [
@@ -33968,7 +34156,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008506301"
                 },
                 "metadaten": [
@@ -34029,8 +34217,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE033600128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE033601128"
                 },
                 "metadaten": [
                     {
@@ -34043,7 +34231,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung",
+                                "_": "Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -34061,9 +34249,9 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Der im Rahmen eines Kryptoverwahrgeschäfts für einen Kunden verwahrte Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.",
-                                            "(2) Absatz 1 gilt entsprechend für den dem Kunden zustehenden Anteil an Kryptowerten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptographische Schlüssel.",
-                                            "(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden."
+                                            "(1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.",
+                                            "(2) Absatz 1 gilt im Rahmen eines qualifizierten Kryptoverwahrgeschäfts entsprechend für den dem Kunden zustehenden Anteil an kryptografischen Instrumenten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptographische Schlüssel.",
+                                            "(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das qualifizierte Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden."
                                         ]
                                     }
                                 ]
@@ -34077,7 +34265,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE024202118"
                 },
                 "metadaten": [
@@ -34172,7 +34360,124 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE034300128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KredWG",
+                            "KWG"
+                        ],
+                        "enbez": [
+                            "§ 47a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Besondere Befugnisse nach der Verordnung (EU) 2022/2554",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Sie kann gegenüber einem Institut insbesondere anordnen, ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Korrektur- und Abhilfemaßnahmen vorzunehmen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 44 Absatz 6 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031701123"
                 },
                 "metadaten": [
@@ -34220,7 +34525,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002802118"
                 },
                 "metadaten": [
@@ -34268,7 +34573,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE019901118"
                 },
                 "metadaten": [
@@ -34314,7 +34619,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028302119"
                 },
                 "metadaten": [
@@ -34600,7 +34905,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031401123"
                 },
                 "metadaten": [
@@ -34945,7 +35250,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001805377"
                 },
                 "metadaten": [
@@ -34990,8 +35295,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE008635128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE008636128"
                 },
                 "metadaten": [
                     {
@@ -35022,7 +35327,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 10f Absatz 1 und 2, des § 10g Absatz 1 bis 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25b Absatz 4a des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.",
+                                            "(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 10f Absatz 1 und 2, des § 10g Absatz 1 bis 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25b Absatz 4a des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 47a, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.",
                                             "(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Bundesanstalt auf der Grundlage des Artikels 6 Absatz 4, des Artikels 8 Absatz 1 und des Artikels 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung."
                                         ]
                                     }
@@ -35051,7 +35356,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008708377"
                 },
                 "metadaten": [
@@ -35089,7 +35394,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008813119"
                 },
                 "metadaten": [
@@ -35146,7 +35451,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001400301"
                 },
                 "metadaten": [
@@ -35194,7 +35499,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028801116"
                 },
                 "metadaten": [
@@ -35510,7 +35815,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028900360"
                 },
                 "metadaten": [
@@ -35614,7 +35919,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028603119"
                 },
                 "metadaten": [
@@ -35664,7 +35969,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG001905377"
                 },
                 "metadaten": [
@@ -35712,7 +36017,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE008906377"
                 },
                 "metadaten": [
@@ -35766,7 +36071,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE021800360"
                 },
                 "metadaten": [
@@ -35821,7 +36126,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009114128"
                 },
                 "metadaten": [
@@ -35998,7 +36303,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009206377"
                 },
                 "metadaten": [
@@ -36052,7 +36357,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011236123"
                 },
                 "metadaten": [
@@ -36523,7 +36828,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011310118"
                 },
                 "metadaten": [
@@ -36666,7 +36971,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE014906124"
                 },
                 "metadaten": [
@@ -36715,7 +37020,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002901118"
                 },
                 "metadaten": [
@@ -36763,7 +37068,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG003100118"
                 },
                 "metadaten": [
@@ -36811,7 +37116,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE022700360"
                 },
                 "metadaten": [
@@ -36865,7 +37170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE022800360"
                 },
                 "metadaten": [
@@ -36920,7 +37225,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE022900360"
                 },
                 "metadaten": [
@@ -37030,7 +37335,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023000360"
                 },
                 "metadaten": [
@@ -37084,7 +37389,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023101128"
                 },
                 "metadaten": [
@@ -37180,7 +37485,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023200360"
                 },
                 "metadaten": [
@@ -37390,7 +37695,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023301301"
                 },
                 "metadaten": [
@@ -37454,7 +37759,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023401116"
                 },
                 "metadaten": [
@@ -37551,7 +37856,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023500360"
                 },
                 "metadaten": [
@@ -37760,7 +38065,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023603123"
                 },
                 "metadaten": [
@@ -38228,7 +38533,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG003200118"
                 },
                 "metadaten": [
@@ -38276,7 +38581,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE030301128"
                 },
                 "metadaten": [
@@ -38324,7 +38629,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE030700118"
                 },
                 "metadaten": [
@@ -38370,7 +38675,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE030800118"
                 },
                 "metadaten": [
@@ -38457,7 +38762,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002902128"
                 },
                 "metadaten": [
@@ -38505,7 +38810,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE033700128"
                 },
                 "metadaten": [
@@ -38551,7 +38856,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE033800128"
                 },
                 "metadaten": [
@@ -38598,7 +38903,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE033900128"
                 },
                 "metadaten": [
@@ -38644,7 +38949,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE034000128"
                 },
                 "metadaten": [
@@ -38691,7 +38996,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE034100128"
                 },
                 "metadaten": [
@@ -38738,7 +39043,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002006360"
                 },
                 "metadaten": [
@@ -38786,7 +39091,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009311128"
                 },
                 "metadaten": [
@@ -38900,7 +39205,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE029500301"
                 },
                 "metadaten": [
@@ -38948,7 +39253,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009408377"
                 },
                 "metadaten": [
@@ -38995,7 +39300,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012803377"
                 },
                 "metadaten": [
@@ -39042,7 +39347,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012904377"
                 },
                 "metadaten": [
@@ -39090,8 +39395,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE033301128"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE033302128"
                 },
                 "metadaten": [
                     {
@@ -40195,7 +40500,7 @@
                                             },
                                             "(3) (weggefallen)",
                                             {
-                                                "_": "(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über begleitende Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) verstößt, indem er bei Geldtransfers vorsätzlich oder fahrlässig ",
+                                                "_": "(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie 2015/849 (ABl. L 150 vom 9.6.2023, S. 1) verstößt, indem er bei Geldtransfers vorsätzlich oder fahrlässig ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -42684,6 +42989,185 @@
                                                 ]
                                             },
                                             {
+                                                "_": "(5e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) verstößt, indem er vorsätzlich oder fahrlässig ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "einer vollziehbaren Anordnung nach zuwiderhandelt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Artikel 6 Absatz 5 Satz 3, Artikel 28 Absatz 3 Unterabsatz 4 oder Artikel 42 Absatz 6 Satz 1 oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "Artikel 16 Absatz 2 Satz 3 oder Artikel 26 Absatz 1 Satz 2",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen Artikel 19 Absatz 4 dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen Artikel 26 Absatz 1 Satz 1 einen Test nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen Artikel 28 Absatz 3 Unterabsatz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen Artikel 28 Absatz 3 Unterabsatz 5 die Behörde nicht, nicht richtig oder nicht vollständig unterrichtet oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "über eine geplante vertragliche Vereinbarung bis zum Abschluss einer solchen Vereinbarung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "unverzüglich über den Fall, dass eine Funktion kritisch oder wichtig geworden ist,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "entgegen Artikel 45 Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
                                                 "_": "(6) Die Ordnungswidrigkeit kann ",
                                                 "DL": [
                                                     {
@@ -42705,7 +43189,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5d mit einer Geldbuße bis zu fünf Millionen Euro,",
+                                                                        "_": "in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -42731,7 +43215,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "in den Fällen der Absätze 1 und 2 Nummer 3 Buchstabe l und des Absatzes 5a mit einer Geldbuße bis zu fünfhunderttausend Euro,",
+                                                                        "_": "in den Fällen der Absätze 1 und 2 Nummer 3 Buchstabe l und der Absätze 5a und 5e Nummer 1, 4, 5 und 6 mit einer Geldbuße bis zu fünfhunderttausend Euro,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -42984,7 +43468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009605128"
                 },
                 "metadaten": [
@@ -43071,7 +43555,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009606128"
                 },
                 "metadaten": [
@@ -43117,7 +43601,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009707377"
                 },
                 "metadaten": [
@@ -43163,7 +43647,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009805377"
                 },
                 "metadaten": [
@@ -43209,7 +43693,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013006119"
                 },
                 "metadaten": [
@@ -43327,7 +43811,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE028905128"
                 },
                 "metadaten": [
@@ -43446,8 +43930,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE030903118"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE030904128"
                 },
                 "metadaten": [
                     {
@@ -43460,7 +43944,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402",
+                                "_": "Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -43579,7 +44063,7 @@
                                             },
                                             "(4) Bei nicht bestands- oder nicht rechtskräftigen Entscheidungen fügt die Bundesanstalt einen entsprechenden Hinweis hinzu. Wird gegen die bekanntzumachende Entscheidung ein Rechtsbehelf eingelegt, so ergänzt die Bundesanstalt die Bekanntmachung unverzüglich um einen Hinweis auf den Rechtsbehelf sowie um alle weiteren Informationen über das Ergebnis des Rechtsbehelfsverfahrens.",
                                             "(5) Eine Bekanntmachung nach Absatz 1 ist fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.",
-                                            "(6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde."
+                                            "(6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 oder wegen Verstößen gegen die Verordnung (EU) 2022/2554 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde."
                                         ]
                                     }
                                 ]
@@ -43601,7 +44085,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031500118"
                 },
                 "metadaten": [
@@ -43722,7 +44206,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNG002106360"
                 },
                 "metadaten": [
@@ -43770,7 +44254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE009904377"
                 },
                 "metadaten": [
@@ -43813,7 +44297,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010108377"
                 },
                 "metadaten": [
@@ -43861,7 +44345,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010204377"
                 },
                 "metadaten": [
@@ -43896,7 +44380,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010510377"
                 },
                 "metadaten": [
@@ -43944,7 +44428,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010307377"
                 },
                 "metadaten": [
@@ -43987,7 +44471,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011508128"
                 },
                 "metadaten": [
@@ -44035,7 +44519,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE011609128"
                 },
                 "metadaten": [
@@ -44081,7 +44565,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012105377"
                 },
                 "metadaten": [
@@ -44127,7 +44611,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012207301"
                 },
                 "metadaten": [
@@ -44169,7 +44653,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE012309128"
                 },
                 "metadaten": [
@@ -44227,7 +44711,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE013401377"
                 },
                 "metadaten": [
@@ -44275,7 +44759,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE015002118"
                 },
                 "metadaten": [
@@ -44504,7 +44988,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017605123"
                 },
                 "metadaten": [
@@ -44556,7 +45040,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE017700377"
                 },
                 "metadaten": [
@@ -44606,7 +45090,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018500377"
                 },
                 "metadaten": [
@@ -44653,7 +45137,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018700377"
                 },
                 "metadaten": [
@@ -44699,7 +45183,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE018800377"
                 },
                 "metadaten": [
@@ -44745,7 +45229,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE019302128"
                 },
                 "metadaten": [
@@ -44792,7 +45276,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE022500360"
                 },
                 "metadaten": [
@@ -44838,7 +45322,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023800360"
                 },
                 "metadaten": [
@@ -44886,7 +45370,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE023900377"
                 },
                 "metadaten": [
@@ -44932,7 +45416,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE024100360"
                 },
                 "metadaten": [
@@ -44979,7 +45463,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE029006119"
                 },
                 "metadaten": [
@@ -45043,7 +45527,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE029701119"
                 },
                 "metadaten": [
@@ -45089,7 +45573,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031000118"
                 },
                 "metadaten": [
@@ -45136,7 +45620,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031301119"
                 },
                 "metadaten": [
@@ -45182,7 +45666,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE031601118"
                 },
                 "metadaten": [
@@ -45243,8 +45727,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
-                    "doknr": "BJNR008810961BJNE031800123"
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE031801128"
                 },
                 "metadaten": [
                     {
@@ -45257,7 +45741,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie",
+                                "_": "(weggefallen)",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -45275,8 +45759,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Für ein Unternehmen, das auf Grund des neuen Tatbestands in § 1 Absatz 1a Satz 2 Nummer 6 am 1. Januar 2020 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis für den Betrieb des Kryptoverwahrgeschäftes als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 30. November 2020 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt und wenn es die Absicht, einen Erlaubnisantrag zu stellen, bis zum 31. März 2020 der Bundesanstalt schriftlich anzeigt. Unternehmen nach Satz 1, die am 1. Januar 2020 auch als vertraglich gebundene Vermittler nach § 2 Absatz 10 tätig sind, können neben der Tätigkeit als vertraglich gebundener Vermittler bis zum 30. November 2020 weiterhin das Kryptoverwahrgeschäft betreiben.",
-                                            "(2) Für ein Unternehmen, das auf Grund der Erweiterung des Begriffs des Finanzinstruments im Sinne des § 1 Absatz 11 um Kryptowerte am 1. Januar 2020 eine Erlaubnis nach § 32 Absatz 1 Satz 1 benötigt, gilt die Erlaubnis für das Betreiben der dann nach diesem Gesetz erlaubnispflichtigen Geschäfte als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 30. November 2020 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt und wenn es die Absicht, einen Erlaubnisantrag zu stellen, bis zum 31. März 2020 der Bundesanstalt schriftlich anzeigt."
+                                            ""
                                         ]
                                     }
                                 ]
@@ -45290,7 +45773,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE010405119"
                 },
                 "metadaten": [
@@ -45337,7 +45820,55 @@
             },
             {
                 "$": {
-                    "builddate": "20241227221514",
+                    "builddate": "20250103221508",
+                    "doknr": "BJNR008810961BJNE034400128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "KredWG",
+                            "KWG"
+                        ],
+                        "enbez": [
+                            "§ 65a"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(1) Für ein Institut, das am 29. Dezember 2024 über eine Erlaubnis zur Erbringung des Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 verfügt, gilt die Erlaubnis für die Erbringung des qualifizierten Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 in der Fassung vom 30. Dezember 2024 als erteilt.",
+                                            "(2) § 29 Absatz 1 Satz 2 Nummer 2 Buchstabe m ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.",
+                                            "(3) § 1a Absatz 2a ist ab dem 1. Januar 2027 anzuwenden. Die Anforderungen an das Meldewesen nach Kapitel III der Verordnung (EU) 2022/2554 sind ab dem 17. Januar 2025 anzuwenden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20250103221508",
                     "doknr": "BJNR008810961BJNE030101128"
                 },
                 "metadaten": [

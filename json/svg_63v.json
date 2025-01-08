@@ -1,19 +1,22 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241231222037",
+            "builddate": "20250107222001",
             "doknr": "BJNR003670962"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
                             "SVG§63V"
+                        ],
+                        "amtabk": [
+                            "SUEV"
                         ],
                         "ausfertigung-datum": [
                             {
@@ -36,52 +39,13 @@
                                 ]
                             }
                         ],
+                        "kurzue": [
+                            "Soldaten-Unfallentschädigungsverordnung"
+                        ],
                         "langue": [
-                            {
-                                "_": "Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes",
-                                "FnR": [
-                                    {
-                                        "$": {
-                                            "ID": "BJNR003670962_01"
-                                        }
-                                    }
-                                ]
-                            }
+                            "Verordnung über die einmalige Unfallentschädigung nach § 84 des Soldatenversorgungsgesetzes"
                         ],
                         "standangabe": [
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Sonst"
-                                ],
-                                "standkommentar": [
-                                    "Zukünftige amtl. Langüberschrift: Verordnung über die einmalige Unfallentschädigung nach § 84 des Soldatenversorgungsgesetzes (ab 1.1.2025; 2021 I 3932)"
-                                ]
-                            },
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Sonst"
-                                ],
-                                "standkommentar": [
-                                    "Zukünftige amtl. Kurzüberschrift: Soldaten-Unfallentschädigungsverordnung (ab 1.1.2025; 2021 I 3932)"
-                                ]
-                            },
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Sonst"
-                                ],
-                                "standkommentar": [
-                                    "Zukünftige amtl. Buchstabenabkürzung: SUEV (ab 1.1.2025; 2021 I 3932)"
-                                ]
-                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -109,42 +73,13 @@
                 ],
                 "textdaten": [
                     {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Footnotes": [
-                                    {
-                                        "Footnote": [
-                                            {
-                                                "$": {
-                                                    "FnZ": "*",
-                                                    "Group": "column",
-                                                    "ID": "BJNR003670962_01",
-                                                    "Pos": "normal"
-                                                },
-                                                "noindex": [
-                                                    "Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 14 Nr. 1 G v. 20.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:"
-                                                ],
-                                                "BR": [
-                                                    ""
-                                                ],
-                                                "B": [
-                                                    "Verordnung über die einmalige Unfallentschädigung nach § 84 des Soldatenversorgungsgesetzes (Soldaten-Unfallentschädigungsverordnung - SUEV)"
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
                         "fussnoten": [
                             {
                                 "Content": [
                                     {
                                         "P": [
                                             {
+                                                "_": " Überschrift: IdF d. Art. 14 Nr. 1 G v. 20.8.2021 I 3932 mWv 1.1.2025",
                                                 "BR": [
                                                     ""
                                                 ],
@@ -171,7 +106,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000101377"
                 },
                 "metadaten": [
@@ -329,13 +264,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000201307"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 2"
@@ -474,13 +410,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000300319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 3"
@@ -742,13 +679,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000400319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 4"
@@ -854,13 +792,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000500319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 5"
@@ -938,13 +877,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000600319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 6"
@@ -1065,13 +1005,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000700319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 7"
@@ -1180,13 +1121,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000800319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 8"
@@ -1223,13 +1165,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE000900319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 9"
@@ -1267,13 +1210,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001000319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 10"
@@ -1311,13 +1255,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001100319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 11"
@@ -1355,13 +1300,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001200319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 12"
@@ -1399,13 +1345,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001300319"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 13"
@@ -1484,13 +1431,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001600307"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 14"
@@ -1530,13 +1478,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001700320"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 15"
@@ -1576,13 +1525,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001402320"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 16"
@@ -1621,13 +1571,14 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222037",
+                    "builddate": "20250107222001",
                     "doknr": "BJNR003670962BJNE001502320"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "SVG§63V"
+                            "SVG§63V",
+                            "SUEV"
                         ],
                         "enbez": [
                             "§ 17"

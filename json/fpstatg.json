@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241203223010",
+            "builddate": "20250101221501",
             "doknr": "BJNR021190992"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992"
                 },
                 "metadaten": [
@@ -105,8 +105,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
-                    "doknr": "BJNR021190992BJNE000204377"
+                    "builddate": "20250101221501",
+                    "doknr": "BJNR021190992BJNE000205123"
                 },
                 "metadaten": [
                     {
@@ -211,7 +211,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Statistik über die Empfänger von Versorgungsbezügen (Versorgungsempfängerstatistik).",
+                                                                        "_": "die Statistik über die Empfängerinnen und Empfänger von Versorgungsbezügen sowie Altersgeldberechtigten und Hinterbliebenenaltersgeldberechtigten (Versorgungsempfänger- und Altersgeldstatistik).",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -248,7 +248,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE000310123"
                 },
                 "metadaten": [
@@ -495,8 +495,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
-                    "doknr": "BJNR021190992BJNE000408123"
+                    "builddate": "20250101221501",
+                    "doknr": "BJNR021190992BJNE000409123"
                 },
                 "metadaten": [
                     {
@@ -713,8 +713,7 @@
                                                                                     "f)",
                                                                                     "g)",
                                                                                     "h)",
-                                                                                    "i)",
-                                                                                    "j)"
+                                                                                    "i)"
                                                                                 ],
                                                                                 "DD": [
                                                                                     {
@@ -827,20 +826,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "die Aufnahme und die Tilgung von Kreditmarktmitteln;",
-                                                                                                "$": {
-                                                                                                    "Size": "normal"
-                                                                                                }
-                                                                                            }
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "Font": "normal"
-                                                                                        },
-                                                                                        "LA": [
-                                                                                            {
-                                                                                                "_": "die Kassenkredite.",
+                                                                                                "_": "die Aufnahme und die Tilgung von Kreditmarktmitteln.",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -922,7 +908,8 @@
                                                                                                         },
                                                                                                         "DT": [
                                                                                                             "aa)",
-                                                                                                            "bb)"
+                                                                                                            "bb)",
+                                                                                                            "cc)"
                                                                                                         ],
                                                                                                         "DD": [
                                                                                                             {
@@ -945,6 +932,19 @@
                                                                                                                 "LA": [
                                                                                                                     {
                                                                                                                         "_": "die Aktiva und Passiva der Vermögensrechnung nach Arten sowie die Erträge und Aufwendungen der Ergebnisrechnung nach Arten und Produktgruppen entsprechend der für die Finanzstatistik maßgeblichen geltenden Systematik und Ansatz- und Bewertungsvorschriften;",
+                                                                                                                        "$": {
+                                                                                                                            "Size": "normal"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "$": {
+                                                                                                                    "Font": "normal"
+                                                                                                                },
+                                                                                                                "LA": [
+                                                                                                                    {
+                                                                                                                        "_": "den Status der erfassten Ein- und Auszahlungen, der Vermögensrechnung und der Ergebnisrechnung;",
                                                                                                                         "$": {
                                                                                                                             "Size": "normal"
                                                                                                                         }
@@ -1627,7 +1627,8 @@
                                                                                 },
                                                                                 "DT": [
                                                                                     "a)",
-                                                                                    "b)"
+                                                                                    "b)",
+                                                                                    "c)"
                                                                                 ],
                                                                                 "DD": [
                                                                                     {
@@ -1650,6 +1651,19 @@
                                                                                         "LA": [
                                                                                             {
                                                                                                 "_": "die Aktiva und Passiva der Vermögensrechnung nach Arten sowie die Erträge und Aufwendungen der Ergebnisrechnung nach Arten und Produktgruppen entsprechend der für die Finanzstatistik maßgeblichen geltenden Systematik und Ansatz- und Bewertungsvorschriften;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den Status der erfassten Ein- und Auszahlungen, der Vermögensrechnung und der Ergebnisrechnung;",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -1706,7 +1720,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE000505123"
                 },
                 "metadaten": [
@@ -1897,8 +1911,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
-                    "doknr": "BJNR021190992BJNE001901123"
+                    "builddate": "20250101221501",
+                    "doknr": "BJNR021190992BJNE001902123"
                 },
                 "metadaten": [
                     {
@@ -2017,7 +2031,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "die Summe der Bürgschaften und die berichtigte Summe der Bürgschaften des Vorjahres, wobei jeweils nach Bürgschaftsnehmern zu unterteilen ist, sowie der Garantien und sonstigen Gewährleistungen und die berichtigte Summe der Garantien und sonstigen Gewährleistungen des Vorjahres, wobei jeweils nach den unterschiedlichen Begünstigten aus der Garantie oder Gewährleistung zu unterteilen ist;",
+                                                                                                "_": "die Summe der Bürgschaften, Garantien und sonstigen Gewährleistungen, die Summe der neu im Berichtsjahr gewährten Bürgschaften, Garantien und sonstigen Gewährleistungen und die berichtigte Summe der Bürgschaften, Garantien und sonstigen Gewährleistungen des Vorjahres, wobei bei den Bürgschaften jeweils nach Bürgschaftsnehmern und bei den Garantien und sonstigen Gewährleistungen jeweils nach den aus der Garantie oder Gewährleistung Begünstigten zu unterteilen ist;",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -2056,7 +2070,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "die Verbindlichkeiten aus Lieferungen und Leistungen und erhaltene Anzahlungen nach Laufzeiten;",
+                                                                                                "_": "die Verbindlichkeiten aus Lieferungen und Leistungen und erhaltene Anzahlungen nach Laufzeiten, wobei bei den Verbindlichkeiten und Anzahlungen mit einer Laufzeit von über einem Jahr anzugeben ist, ob deren Gläubiger dem Sektor Staat zugerechnet werden;",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -2069,7 +2083,7 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "die Schuldenübernahmen nach Schuldarten, wobei nach Schuldnern zu unterteilen ist;",
+                                                                                                "_": "die Schuldenübernahmen nach Schuldarten und jeweils unterteilt nach Schuldnern, wobei die Schuldenübernahmen von garantierten Schulden nach Schuldarten und jeweils nach Schuldnern, die nach den Definitionen im Anhang A der Verordnung (EU) Nr. 549/2013 in der jeweils geltenden Fassung dem öffentlichen Sektor und nicht dem Sektor Staat zugerechnet werden, und Schuldnern, die Kreditinstituten in öffentlich-rechtlicher oder privater Rechtsform und nach den Definitionen im Anhang A der Verordnung (EU) Nr. 549/2013 in der jeweils geltenden Fassung staatlich kontrolliert sind und dem Sektor Finanzielle Kapitalgesellschaften zugerechnet werden, zu unterteilen sind;",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -2274,8 +2288,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
-                    "doknr": "BJNR021190992BJNE000707123"
+                    "builddate": "20250101221501",
+                    "doknr": "BJNR021190992BJNE000708123"
                 },
                 "metadaten": [
                     {
@@ -2307,10 +2321,11 @@
                                         "P": [
                                             "(1) Die Personalstandstatistik erfasst bei den Erhebungseinheiten nach § 2 jährlich zum 30. Juni die in einem unmittelbaren öffentlich-rechtlichen Dienstverhältnis oder einem privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst stehenden Beschäftigten. Erfasst werden auch die in einem Berufsausbildungsverhältnis stehenden Beschäftigten. Bezogen auf die jeweiligen Erhebungseinheiten umfasst die Personalstandstatistik die Erhebungsmerkmale nach Maßgabe der Absätze 2 bis 7.",
                                             {
-                                                "_": "(2) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 bis 3 und bei rechtlich unselbständigen Erhebungseinheiten nach Absatz 3 Satz 1 Nummer 2: ",
+                                                "_": "(2) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 bis 3 und bei rechtlich unselbständigen Erhebungseinheiten nach Absatz 3 Satz 1 Nummer 2 werden erfasst: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2331,7 +2346,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Geburtsmonat und -jahr,"
+                                                                    {
+                                                                        "_": "Geburtsmonat und -jahr,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2339,7 +2359,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Geschlecht,"
+                                                                    {
+                                                                        "_": "Geschlecht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2347,7 +2372,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Art, Umfang einschließlich der Arbeitszeit und Dauer der in Absatz 1 genannten Beschäftigungsverhältnisse,"
+                                                                    {
+                                                                        "_": "Art, Umfang einschließlich der Arbeitszeit und Dauer der in Absatz 1 genannten Beschäftigungsverhältnisse,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2355,7 +2385,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Laufbahngruppe, Einstufung, Stufe einer Bezügetabelle, Stufe des Familienzuschlags, Bruttobezüge im Berichtsmonat, gegliedert nach Bezügebestandteilen,"
+                                                                    {
+                                                                        "_": "Laufbahngruppe, Einstufung, Stufe einer Bezügetabelle, Stufe des Familienzuschlags, Bruttobezüge im Berichtsmonat, gegliedert nach Bezügebestandteilen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2363,7 +2398,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Dienst- oder Arbeitsort sowie bei den in einem unmittelbaren Dienstverhältnis stehenden Personen den Wohnort,"
+                                                                    {
+                                                                        "_": "Dienst- oder Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis, bei den in einem unmittelbaren Dienstverhältnis stehenden Personen der Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der Gemeindename mit Postleitzahl der Wohnanschrift, bei Orten im Ausland die Angaben hierzu,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2371,7 +2411,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes handelt und soweit die Beschäftigten in einem unmittelbaren Dienstverhältnis stehen, zusätzlich den Monat und das Jahr, ab dem Zuweisungen zum Versorgungsfonds des Bundes geleistet werden,"
+                                                                    {
+                                                                        "_": "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes handelt und soweit die Beschäftigten in einem unmittelbaren Dienstverhältnis stehen, zusätzlich der Monat und das Jahr, ab dem Zuweisungen zum Versorgungsfonds des Bundes geleistet werden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2379,7 +2424,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und 2 sowie Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes oder eines Landes handelt, zusätzlich Einzelplan, Kapitel und Aufgabenbereich,"
+                                                                    {
+                                                                        "_": "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und 2 sowie Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes oder eines Landes handelt, zusätzlich Einzelplan, Kapitel und Aufgabenbereich,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2387,7 +2437,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 3 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen einer Gemeinde oder eines Gemeindeverbandes handelt, zusätzlich Aufgabenbereich oder Produktgruppe,"
+                                                                    {
+                                                                        "_": "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 3 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen einer Gemeinde oder eines Gemeindeverbandes handelt, zusätzlich Aufgabenbereich oder Produktgruppe,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2395,7 +2450,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes handelt, zusätzlich Geburtsland, ausgeübte Nebentätigkeiten und das Vorliegen einer Schwerbehinderung,"
+                                                                    {
+                                                                        "_": "bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 1 und Absatz 3 Satz 1 Nummer 2 Satz 2, sofern es sich um rechtlich unselbständige Stellen des Bundes handelt, zusätzlich Geburtsland, ausgeübte Nebentätigkeiten und das Vorliegen einer Schwerbehinderung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2403,7 +2463,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Einrichtungen für Forschung und Entwicklung und den Instituten an Hochschulen nach § 2 Absatz 2 Satz 1 Nummer 1 bis 3 und Absatz 3 Satz 1 Nummer 2, sofern es sich um rechtlich unselbständige Stellen handelt, zusätzlich Bildungsabschluss und Staatsangehörigkeit."
+                                                                    {
+                                                                        "_": "bei den Einrichtungen für Forschung und Entwicklung und den Instituten an Hochschulen nach § 2 Absatz 2 Satz 1 Nummer 1 bis 3 und Absatz 3 Satz 1 Nummer 2, sofern es sich um rechtlich unselbständige Stellen handelt, zusätzlich Bildungsabschluss und Staatsangehörigkeit.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2411,10 +2476,11 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(3) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 4 und Absatz 3 Satz 1 Nummer 1: ",
+                                                "_": "(3) Bei den Erhebungseinheiten nach § 2 Absatz 2 Satz 1 Nummer 4 und Absatz 3 Satz 1 Nummer 1 werden erfasst: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2427,7 +2493,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,"
+                                                                    {
+                                                                        "_": "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2435,7 +2506,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Dienst- oder Arbeitsort sowie bei den in einem unmittelbaren Dienstverhältnis stehenden Personen und bei Dienstordnungsangestellten einschließlich derer, die sich in einem Berufsausbildungsverhältnis befinden, den Wohnort."
+                                                                    {
+                                                                        "_": "Dienst- oder Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis, bei den in einem unmittelbaren Dienstverhältnis stehenden Personen und bei Dienstordnungsangestellten einschließlich derer, die sich in einem Berufsausbildungsverhältnis befinden, der Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der Gemeindename mit Postleitzahl der Wohnanschrift, bei Orten im Ausland die Angaben hierzu.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2443,10 +2519,11 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(4) Bei den Erhebungseinheiten nach § 2 Absatz 3 Satz 1 Nummer 2, sofern es sich um eine rechtlich selbständige Stelle handelt, und bei den Erhebungseinheiten nach § 2 Absatz 5: ",
+                                                "_": "(4) Bei den Erhebungseinheiten nach § 2 Absatz 3 Satz 1 Nummer 2, sofern es sich um eine rechtlich selbständige Stelle handelt, und bei den Erhebungseinheiten nach § 2 Absatz 5 werden erfasst: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2462,7 +2539,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,"
+                                                                    {
+                                                                        "_": "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 4,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2470,7 +2552,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erhebungsmerkmale nach Absatz 3 Nummer 2,"
+                                                                    {
+                                                                        "_": "die Erhebungsmerkmale nach Absatz 3 Nummer 2,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2478,7 +2565,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei Einrichtungen, die der Aufsicht des Bundes oder der Länder unterstehen, den Aufgabenbereich,"
+                                                                    {
+                                                                        "_": "bei Einrichtungen, die der Aufsicht des Bundes oder der Länder unterstehen, der Aufgabenbereich,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2486,7 +2578,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei Zweckverbänden und anderen kommunalen Einrichtungen den Aufgabenbereich oder die Produktgruppe,"
+                                                                    {
+                                                                        "_": "bei Zweckverbänden und anderen kommunalen Einrichtungen der Aufgabenbereich oder die Produktgruppe,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2494,7 +2591,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei Einrichtungen für Forschung und Entwicklung und den Instituten an Hochschulen zusätzlich den Bildungsabschluss, die Staatsangehörigkeit, die Art der Beschäftigung und das Wissenschaftsgebiet."
+                                                                    {
+                                                                        "_": "bei Einrichtungen für Forschung und Entwicklung und den Instituten an Hochschulen zusätzlich der Bildungsabschluss, die Staatsangehörigkeit, die Art der Beschäftigung und das Wissenschaftsgebiet.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2502,10 +2604,11 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(5) Bei den Erhebungseinheiten nach § 2 Absatz 6 Nummer 1, insbesondere den Postnachfolgeunternehmen nach § 38 in Verbindung mit den §§ 1 und 2 des Postpersonalrechtsgesetzes bei den in einem unmittelbaren Dienstverhältnis stehenden Beschäftigten: ",
+                                                "_": "(5) Bei den Erhebungseinheiten nach § 2 Absatz 6 Nummer 1, insbesondere den Postnachfolgeunternehmen nach § 38 in Verbindung mit den §§ 1 und 2 des Postpersonalrechtsgesetzes, werden bei den in einem unmittelbaren Dienstverhältnis stehenden Beschäftigten erfasst: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2520,7 +2623,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erhebungsmerkmale nach Absatz 2 Nummer 1 und 2,"
+                                                                    {
+                                                                        "_": "die Erhebungsmerkmale nach Absatz 2 Nummer 1 und 2,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2528,7 +2636,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Art, Umfang einschließlich der Arbeitszeit und Dauer des Dienstverhältnisses,"
+                                                                    {
+                                                                        "_": "Art, Umfang einschließlich der Arbeitszeit und Dauer des Dienstverhältnisses,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2536,7 +2649,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Laufbahngruppe, Besoldungsgruppe, Stufe einer Bezügetabelle, Stufe des Familienzuschlags und Bruttobezüge im Berichtsmonat,"
+                                                                    {
+                                                                        "_": "Laufbahngruppe, Besoldungsgruppe, Stufe einer Bezügetabelle, Stufe des Familienzuschlags und Bruttobezüge im Berichtsmonat,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2544,7 +2662,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Dienst- und Wohnort."
+                                                                    {
+                                                                        "_": "Dienst- und Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder bei dem Wohnort der Gemeindename mit Postleitzahl der Wohnanschrift, bei Orten im Ausland die Angaben hierzu.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2556,6 +2679,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2569,7 +2693,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Geschlecht,"
+                                                                    {
+                                                                        "_": "Geschlecht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2577,7 +2706,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Art, Umfang und Dauer des Arbeits- oder Berufsausbildungsverhältnisses,"
+                                                                    {
+                                                                        "_": "Art, Umfang und Dauer des Arbeits- oder Berufsausbildungsverhältnisses,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2585,7 +2719,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Arbeitsort."
+                                                                    {
+                                                                        "_": "Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der Gemeindename mit Postleitzahl der Arbeitsanschrift, bei einem Ort im Ausland die Angabe hierzu.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2597,6 +2736,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2614,7 +2754,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 3,"
+                                                                    {
+                                                                        "_": "die Erhebungsmerkmale nach Absatz 2 Nummer 1 bis 3,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2622,7 +2767,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Einstufung,"
+                                                                    {
+                                                                        "_": "Einstufung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2630,7 +2780,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Arbeitsort,"
+                                                                    {
+                                                                        "_": "Arbeitsort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis, bei einem Ort im Ausland die Angabe hierzu,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2638,7 +2793,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Bildungsabschluss oder angestrebter Bildungsabschluss,"
+                                                                    {
+                                                                        "_": "Bildungsabschluss oder angestrebter Bildungsabschluss,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2646,7 +2806,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Staatsangehörigkeit,"
+                                                                    {
+                                                                        "_": "Staatsangehörigkeit,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2654,7 +2819,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Art der Beschäftigung,"
+                                                                    {
+                                                                        "_": "Art der Beschäftigung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2662,7 +2832,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Wissenschaftsgebiet."
+                                                                    {
+                                                                        "_": "Wissenschaftsgebiet.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2683,8 +2858,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
-                    "doknr": "BJNR021190992BJNE000806123"
+                    "builddate": "20250101221501",
+                    "doknr": "BJNR021190992BJNE000807123"
                 },
                 "metadaten": [
                     {
@@ -2696,7 +2871,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Versorgungsempfängerstatistik",
+                                "_": "Versorgungsempfänger- und Altersgeldstatistik",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -2715,7 +2890,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Die Statistik nach § 1 Nr. 5 erfasst bei den Erhebungseinheiten nach § 2 Absatz 2 bis 7 jährlich zum Stichtag 1. Januar die Empfängerinnen und Empfänger von Versorgungsbezügen nach Beamten- und Soldatenversorgungsrecht sowie beamtenrechtlichen Grundsätzen nach folgenden Erhebungsmerkmalen: ",
+                                                "_": "Die Statistik nach § 1 Nummer 5 erfasst bei den Erhebungseinheiten nach § 2 Absatz 2 bis 7 jährlich zum Stichtag 1. Januar die Empfängerinnen und Empfänger von Versorgungsbezügen sowie die Altersgeldberechtigten und die Hinterbliebenenaltersgeldberechtigten nach Beamten- und Soldatenversorgungsrecht, beamtenrechtlichen Grundsätzen sowie Altersgeldrecht nach folgenden Erhebungsmerkmalen: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -2783,7 +2958,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Rechtsgrundlage der Versorgung,",
+                                                                        "_": "Rechtsgrundlage der Versorgung oder des Altersgeldes,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2796,7 +2971,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Art des Versorgungsanspruchs,",
+                                                                        "_": "Art des Versorgungs- oder Altersgeldanspruchs,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2822,7 +2997,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Wohnort,",
+                                                                        "_": "Wohnort nach dem jeweiligen Schlüssel im Gemeindeverzeichnis oder der Gemeindename mit Postleitzahl der Wohnanschrift, bei einem Ort im Ausland die Angabe hierzu,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2835,7 +3010,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Ruhegehaltssatz,",
+                                                                        "_": "Ruhegehalts- oder Altersgeldsatz,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2848,7 +3023,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Bestandsveränderungen im Vorjahr, Grund für den Eintritt des Versorgungsfalls, letzter Aufgabenbereich,",
+                                                                        "_": "Bestandsveränderungen im Vorjahr, Grund für den Eintritt des Versorgungsfalls einschließlich der Zahlungsaufnahme des Alters- und Hinterbliebenenaltersgeldes, letzter Aufgabenbereich,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2861,7 +3036,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Bruttoversorgungsbezüge des Vorjahres,",
+                                                                        "_": "Bruttoversorgungsbezüge, Bruttoaltersgeld und Bruttohinterbliebenenaltersgeld des Vorjahres,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2874,7 +3049,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Bruttoversorgungsbezüge im Berichtsmonat gegliedert nach Bezügebestandteilen,",
+                                                                        "_": "Bruttoversorgungsbezüge, Bruttoaltersgeld und Bruttohinterbliebenenaltersgeld im Berichtsmonat, gegliedert nach Bezügebestandteilen,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2887,7 +3062,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Versorgungsabschläge bei vorzeitiger Versetzung in den Ruhestand,",
+                                                                        "_": "Versorgungsabschläge bei vorzeitiger Versetzung in den Ruhestand oder Altersgeldabschlag bei vorzeitigem Bezug von Altersgeld,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -2899,7 +3074,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei den Erhebungseinheiten nach § 2 Absatz 2 Nummer 1 auch nach dem Einzelplan."
+                                                                    {
+                                                                        "_": "bei den Erhebungseinheiten nach § 2 Absatz 2 Nummer 1 auch nach dem Einzelplan.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2919,7 +3099,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE000904377"
                 },
                 "metadaten": [
@@ -2964,7 +3144,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001006123"
                 },
                 "metadaten": [
@@ -3147,7 +3327,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001802123"
                 },
                 "metadaten": [
@@ -3438,7 +3618,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001106123"
                 },
                 "metadaten": [
@@ -3539,7 +3719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001206123"
                 },
                 "metadaten": [
@@ -3796,7 +3976,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001306123"
                 },
                 "metadaten": [
@@ -4183,7 +4363,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001406123"
                 },
                 "metadaten": [
@@ -4229,7 +4409,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001505123"
                 },
                 "metadaten": [
@@ -4277,7 +4457,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001604123"
                 },
                 "metadaten": [
@@ -4390,7 +4570,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE001703123"
                 },
                 "metadaten": [
@@ -4477,7 +4657,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241203223010",
+                    "builddate": "20250101221501",
                     "doknr": "BJNR021190992BJNE002000123"
                 },
                 "metadaten": [
