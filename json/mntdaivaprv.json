@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20230123213507",
+            "builddate": "20250124224504",
             "doknr": "BJNR155400012"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012"
                 },
                 "metadaten": [
@@ -53,6 +53,17 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 4 V v. 15.12.2022 I 2862"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 2 V v. 15.1.2025 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -92,7 +103,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000100000"
                 },
                 "metadaten": [
@@ -127,8 +138,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE000201311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE000202311"
                 },
                 "metadaten": [
                     {
@@ -289,22 +300,6 @@
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2"
-                                                                                }
-                                                                            }
-                                                                        ]
-                                                                    },
-                                                                    {
-                                                                        "entry": [
-                                                                            {
-                                                                                "_": "§  1a",
-                                                                                "$": {
-                                                                                    "VJ": "1"
-                                                                                }
-                                                                            },
-                                                                            {
-                                                                                "_": "Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie",
-                                                                                "$": {
-                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -922,7 +917,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNG000100000"
                 },
                 "metadaten": [
@@ -952,7 +947,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000300000"
                 },
                 "metadaten": [
@@ -995,53 +990,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE003001311"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "MntDAIVAPrV",
-                            "MntDAIVVDV"
-                        ],
-                        "enbez": [
-                            "§ 1a"
-                        ],
-                        "titel": [
-                            {
-                                "_": "Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie",
-                                "$": {
-                                    "format": "XML"
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist."
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000400000"
                 },
                 "metadaten": [
@@ -1084,7 +1033,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000500000"
                 },
                 "metadaten": [
@@ -1128,8 +1077,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE000604311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE000605311"
                 },
                 "metadaten": [
                     {
@@ -1173,8 +1122,7 @@
                                                         },
                                                         "DT": [
                                                             "1.",
-                                                            "2.",
-                                                            "3."
+                                                            "2."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1183,20 +1131,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "einer Beamtin oder einem Beamten des höheren oder gehobenen nichttechnischen Verwaltungsdienstes des Bundes und",
+                                                                        "_": "einer Beamtin oder einem Beamten des höheren oder gehobenen nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1220,38 +1155,7 @@
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(4a) Die Einstellungsbehörde kann festlegen, dass die Auswahlkommission bis zum 31. Dezember 2024 – abweichend von Absatz 4 Satz 1 – nur aus folgenden Mitgliedern besteht: ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "einer Beamtin oder einem Beamten des höheren nichttechnischen Verwaltungsdienstes des Bundes oder des gehobenen nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "einer Beamtin oder einem Beamten des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder des mittleren nichttechnischen Verwaltungsdienstes des Bundes."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(4a) (weggefallen)",
                                             "(5) Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden.",
                                             "(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig.",
                                             "(7) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Kommissionen die gleichen Auswahlmaßstäbe anlegen."
@@ -1268,7 +1172,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000701116"
                 },
                 "metadaten": [
@@ -1759,7 +1663,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE000800000"
                 },
                 "metadaten": [
@@ -1802,7 +1706,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNG000200000"
                 },
                 "metadaten": [
@@ -1832,8 +1736,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE000902311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE000903311"
                 },
                 "metadaten": [
                     {
@@ -1865,9 +1769,9 @@
                                     {
                                         "P": [
                                             "(1) Die Ausbildung gliedert sich in eng verzahnte fachtheoretische Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch Behörden des Bundes und der Kommunen unterstützt.",
-                                            "(1a) Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen digitale Lehrformate genutzt werden.",
+                                            "(2) Für einzelne oder alle Lehrveranstaltungen können digitale Lehrformate genutzt werden.",
                                             {
-                                                "_": "(2) Die Ausbildung gliedert sich in folgende Abschnitte: ",
+                                                "_": "(3) Die Ausbildung gliedert sich in folgende Abschnitte: ",
                                                 "BR": [
                                                     "",
                                                     ""
@@ -2168,64 +2072,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 das Praktikum II – abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.",
-                                            {
-                                                "_": "(4) Das Bundesverwaltungsamt kann mit Zustimmung des Bundesministeriums des Innern und für Heimat festlegen, dass bis zum 31. Dezember 2024 die Ausbildungsabschnitte – abweichend von Absatz 2 – ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Font": "normal",
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2.",
-                                                            "3."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "anders gegliedert werden,",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "in einer anderen Abfolge durchgeführt werden und",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "eine andere Dauer haben.",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
+                                            "(4) Das Bundesverwaltungsamt kann festlegen, dass das Praktikum II – abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird."
                                         ]
                                     }
                                 ]
@@ -2239,8 +2086,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE001002311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE001003311"
                 },
                 "metadaten": [
                     {
@@ -2272,12 +2119,13 @@
                                     {
                                         "P": [
                                             "(1) Die fachtheoretische Ausbildung umfasst mindestens 1 090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den Einführungslehrgang, mindestens 320 Lehrstunden auf den Zwischenlehrgang und mindestens 540 Lehrstunden auf den Abschlusslehrgang.",
-                                            "(1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 die Lehrstunden – abweichend von Absatz 1 Satz 2 – anders auf die Ausbildungsabschnitte verteilt werden.",
+                                            "(1a) (weggefallen)",
                                             {
                                                 "_": "(2) Die fachtheoretische Ausbildung erstreckt sich auf folgende Fachgebiete: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2298,7 +2146,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Staats- und Verfassungsrecht,"
+                                                                    {
+                                                                        "_": "Staats- und Verfassungsrecht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2306,7 +2159,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Verwaltungsrecht,"
+                                                                    {
+                                                                        "_": "Verwaltungsrecht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2314,7 +2172,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bürgerliches Recht,"
+                                                                    {
+                                                                        "_": "bürgerliches Recht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2324,9 +2187,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Recht des öffentlichen Dienstes, insbesondere ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -2343,7 +2210,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "allgemeines Beamtenrecht,"
+                                                                                            {
+                                                                                                "_": "allgemeines Beamtenrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2351,7 +2223,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Besoldungsrecht,"
+                                                                                            {
+                                                                                                "_": "Besoldungsrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2359,7 +2236,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Beihilferecht,"
+                                                                                            {
+                                                                                                "_": "Beihilferecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2367,7 +2249,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Reisekostenrecht,"
+                                                                                            {
+                                                                                                "_": "Reisekostenrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2375,7 +2262,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Arbeits- und Tarifrecht,"
+                                                                                            {
+                                                                                                "_": "Arbeits- und Tarifrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2383,7 +2275,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Personalvertretungsrecht,"
+                                                                                            {
+                                                                                                "_": "Personalvertretungsrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -2399,9 +2296,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "öffentliche Finanzwirtschaft, insbesondere ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -2416,7 +2317,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Haushalts- und Rechnungswesen,"
+                                                                                            {
+                                                                                                "_": "Haushalts- und Rechnungswesen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2424,7 +2330,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Kassenrecht,"
+                                                                                            {
+                                                                                                "_": "Kassenrecht,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2432,7 +2343,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Kosten- und Leistungsrechnung,"
+                                                                                            {
+                                                                                                "_": "Kosten- und Leistungsrechnung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2440,7 +2356,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Controlling,"
+                                                                                            {
+                                                                                                "_": "Controlling,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -2456,9 +2377,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "Organisation der Bundesverwaltung, insbesondere ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -2471,7 +2396,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Aufbau der Bundesverwaltung,"
+                                                                                            {
+                                                                                                "_": "Aufbau der Bundesverwaltung,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2479,7 +2409,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "innerbehördliche Organisation,"
+                                                                                            {
+                                                                                                "_": "innerbehördliche Organisation,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -2493,7 +2428,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Informationstechnik,"
+                                                                    {
+                                                                        "_": "Informationstechnik,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2501,7 +2441,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Vergaberecht,"
+                                                                    {
+                                                                        "_": "Vergaberecht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2509,7 +2454,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Kommunikation und Kooperation,"
+                                                                    {
+                                                                        "_": "Kommunikation und Kooperation,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2517,7 +2467,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Gesundheitsmanagement."
+                                                                    {
+                                                                        "_": "Gesundheitsmanagement.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2538,8 +2493,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE001102311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE001103311"
                 },
                 "metadaten": [
                     {
@@ -2575,6 +2530,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -2588,7 +2544,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Einführungslehrgang zwei schriftliche Leistungstests,"
+                                                                    {
+                                                                        "_": "im Einführungslehrgang zwei schriftliche Leistungstests,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2596,7 +2557,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Zwischenlehrgang drei schriftliche Leistungstests,"
+                                                                    {
+                                                                        "_": "im Zwischenlehrgang drei schriftliche Leistungstests,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2606,9 +2572,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "im Abschlusslehrgang ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -2621,7 +2591,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "fünf schriftliche Leistungstests und"
+                                                                                            {
+                                                                                                "_": "fünf schriftliche Leistungstests und",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -2629,7 +2604,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "zwei schriftliche oder mündliche Leistungstests."
+                                                                                            {
+                                                                                                "_": "zwei schriftliche oder mündliche Leistungstests.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -2642,10 +2622,9 @@
                                                     }
                                                 ]
                                             },
-                                            "(1a) Bis zum 31. Dezember 2024 können schriftliche Leistungstests mit Unterstützung durch Informationstechnik durchgeführt werden.",
-                                            "(1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember 2024 – abweichend von Absatz 1 Satz 1 – weniger Leistungstests zu absolvieren sind.",
-                                            "(2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.",
-                                            "(3) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§ 18) erbracht, gilt er als mit null Rangpunkten bewertet."
+                                            "(2) Schriftliche Leistungstests können mit Unterstützung durch Informationstechnik durchgeführt werden.",
+                                            "(3) Leistungstests werden mindestens eine Woche im Voraus angekündigt.",
+                                            "(4) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§ 18) erbracht, gilt er als mit null Rangpunkten bewertet."
                                         ]
                                     }
                                 ]
@@ -2659,7 +2638,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001200000"
                 },
                 "metadaten": [
@@ -2704,7 +2683,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001301311"
                 },
                 "metadaten": [
@@ -2785,7 +2764,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001400000"
                 },
                 "metadaten": [
@@ -2829,7 +2808,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001500000"
                 },
                 "metadaten": [
@@ -2874,7 +2853,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNG000300000"
                 },
                 "metadaten": [
@@ -2904,7 +2883,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001601311"
                 },
                 "metadaten": [
@@ -3035,7 +3014,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001700000"
                 },
                 "metadaten": [
@@ -3112,7 +3091,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001800000"
                 },
                 "metadaten": [
@@ -3204,7 +3183,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE001900000"
                 },
                 "metadaten": [
@@ -3253,7 +3232,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002001311"
                 },
                 "metadaten": [
@@ -3304,8 +3283,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE002105311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE002106311"
                 },
                 "metadaten": [
                     {
@@ -3337,7 +3316,7 @@
                                     {
                                         "P": [
                                             "(1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen Kenntnisse nachzuweisen.",
-                                            "(1a) Mit Zustimmung des Bundesministeriums des Innern und für Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31. Dezember 2024 auf die Durchführung der mündlichen Abschlussprüfung verzichtet wird, wenn nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie erfolgt.",
+                                            "(1a) (weggefallen)",
                                             "(2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl von mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern wird rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen Abschlussprüfung zugelassen werden oder nicht.",
                                             "(3) Die Dauer der mündlichen Abschlussprüfung darf 30 Minuten je Anwärterin oder Anwärter nicht unterschreiten und soll 40 Minuten nicht überschreiten. Bei Gruppenprüfungen sollen nicht mehr als fünf Anwärterinnen und Anwärter gleichzeitig geprüft werden.",
                                             "(4) Die Prüfungskommission bewertet die Leistungen. Auf Vorschlag der Fachprüferin oder des Fachprüfers bewertet die Prüfungskommission einvernehmlich die Prüfungsleistung des jeweiligen Fachgebiets. Das Ergebnis der mündlichen Abschlussprüfung wird aus dem Durchschnitt der Bewertungen für die einzelnen Fachgebiete gebildet.",
@@ -3357,7 +3336,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002200000"
                 },
                 "metadaten": [
@@ -3402,7 +3381,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002300000"
                 },
                 "metadaten": [
@@ -3449,7 +3428,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002400000"
                 },
                 "metadaten": [
@@ -3495,8 +3474,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR155400012BJNE002501311"
+                    "builddate": "20250124224504",
+                    "doknr": "BJNR155400012BJNE002502311"
                 },
                 "metadaten": [
                     {
@@ -3528,7 +3507,6 @@
                                     {
                                         "P": [
                                             "(1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von mindestens 5 erreicht worden ist.",
-                                            "(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung verzichtet wird, so wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung die Bewertung der mündlichen Abschlussprüfung ersetzt durch das arithmetische Mittel aus den Bewertungen aller in der Ausbildung erbrachten Leistungen.",
                                             {
                                                 "_": "(2) Die Rangpunktzahl der Laufbahnprüfung wird von der oder dem Vorsitzenden der Prüfungskommission im Anschluss an die mündliche Abschlussprüfung ermittelt. Sie wird aus den Durchschnittsrangpunktzahlen der Zwischenprüfung, der fachtheoretischen Ausbildung und der berufspraktischen Ausbildung sowie aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung und aus der Bewertung der mündlichen Abschlussprüfung errechnet; diese sind wie folgt zu gewichten: Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Ermittlung der Abschlussnote bei Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten abgerundet.",
                                                 "DL": [
@@ -3932,6 +3910,7 @@
                                                     }
                                                 ]
                                             },
+                                            "(2a) (weggefallen)",
                                             "(3) Die oder der Vorsitzende der Prüfungskommission teilt den Anwärterinnen und Anwärtern die erreichten Rangpunkte mit und erläutert die Bewertungen auf Wunsch kurz mündlich."
                                         ]
                                     }
@@ -3946,7 +3925,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002600000"
                 },
                 "metadaten": [
@@ -4022,7 +4001,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002700000"
                 },
                 "metadaten": [
@@ -4115,7 +4094,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNG000400000"
                 },
                 "metadaten": [
@@ -4145,7 +4124,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002800000"
                 },
                 "metadaten": [
@@ -4188,7 +4167,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250124224504",
                     "doknr": "BJNR155400012BJNE002900000"
                 },
                 "metadaten": [
