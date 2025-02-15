@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240723214529",
+            "builddate": "20250212223005",
             "doknr": "BJNR274910013"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013"
                 },
                 "metadaten": [
@@ -54,29 +54,7 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "Zuletzt geändert durch Art. 1 G v. 16.7.2021 I 2941"
-                                ]
-                            },
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Hinweis"
-                                ],
-                                "standkommentar": [
-                                    "Änderung durch Art. 2 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
-                                ]
-                            },
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Sonst"
-                                ],
-                                "standkommentar": [
-                                    "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+                                    "Zuletzt geändert durch Art. 2 G v. 19.7.2024 I Nr. 245"
                                 ]
                             }
                         ]
@@ -96,11 +74,12 @@
                                                 ],
                                                 "pre": [
                                                     {
-                                                        "_": "(+++ Textnachweis ab: 1.8.2013 +++)",
+                                                        "_": "(+++ Textnachweis ab: 1.8.2013 +++)(+++ Zur Nichtanwendung vgl. § 4a Abs. 4 +++)",
                                                         "$": {
                                                             "xml:space": "preserve"
                                                         },
                                                         "BR": [
+                                                            "",
                                                             "",
                                                             ""
                                                         ]
@@ -117,7 +96,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000110130"
                 },
                 "metadaten": [
@@ -675,7 +654,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000202130"
                 },
                 "metadaten": [
@@ -757,14 +736,22 @@
                             }
                         ],
                         "fussnoten": [
-                            ""
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ § 1 Abs. 4: Zur Nichtanwendung vgl. § 4a Abs. 4 +++)"
+                                        ]
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000306130"
                 },
                 "metadaten": [
@@ -818,7 +805,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002600130"
                 },
                 "metadaten": [
@@ -895,13 +882,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000403130"
                 },
                 "metadaten": [
@@ -949,7 +939,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000502130"
                 },
                 "metadaten": [
@@ -995,7 +985,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001803130"
                 },
                 "metadaten": [
@@ -1156,7 +1146,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000602130"
                 },
                 "metadaten": [
@@ -1280,13 +1270,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002700130"
                 },
                 "metadaten": [
@@ -1324,13 +1317,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002800130"
                 },
                 "metadaten": [
@@ -1368,13 +1364,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000702130"
                 },
                 "metadaten": [
@@ -1419,7 +1418,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000800000"
                 },
                 "metadaten": [
@@ -1462,7 +1461,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE000900000"
                 },
                 "metadaten": [
@@ -1553,7 +1552,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001000000"
                 },
                 "metadaten": [
@@ -1597,7 +1596,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002301130"
                 },
                 "metadaten": [
@@ -1796,7 +1795,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002401130"
                 },
                 "metadaten": [
@@ -1844,7 +1843,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002501130"
                 },
                 "metadaten": [
@@ -1876,8 +1875,7 @@
                                     {
                                         "P": [
                                             "(1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes nach § 9a Absatz 3 Nummer 3 bis 6 und nach § 9b Absatz 2 und 3 ist die jeweils zuständige Behörde des Bundes datenschutzrechtlich verantwortlich; die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle wird insofern tätig als Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2).",
-                                            "(2) Im Übrigen führt die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle die Verarbeitung personenbezogener Daten in ausschließlich eigener datenschutzrechtlicher Verantwortlichkeit aus.",
-                                            "(3) (weggefallen)"
+                                            "(2) Im Übrigen führt die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle die Verarbeitung personenbezogener Daten in ausschließlich eigener datenschutzrechtlicher Verantwortlichkeit aus."
                                         ]
                                     }
                                 ]
@@ -1891,7 +1889,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001100000"
                 },
                 "metadaten": [
@@ -1933,7 +1931,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001202116"
                 },
                 "metadaten": [
@@ -1981,7 +1979,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001301116"
                 },
                 "metadaten": [
@@ -2030,7 +2028,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002101116"
                 },
                 "metadaten": [
@@ -2417,7 +2415,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001400000"
                 },
                 "metadaten": [
@@ -2459,7 +2457,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001501000"
                 },
                 "metadaten": [
@@ -2505,7 +2503,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001600000"
                 },
                 "metadaten": [
@@ -2548,7 +2546,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001701130"
                 },
                 "metadaten": [
@@ -2584,13 +2582,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002900130"
                 },
                 "metadaten": [
@@ -2626,13 +2627,16 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE001900116"
                 },
                 "metadaten": [
@@ -2677,7 +2681,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002000116"
                 },
                 "metadaten": [
@@ -2722,7 +2726,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240723214529",
+                    "builddate": "20250212223005",
                     "doknr": "BJNR274910013BJNE002201116"
                 },
                 "metadaten": [

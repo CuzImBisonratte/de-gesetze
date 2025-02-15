@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20181129212005",
+            "builddate": "20250213223035",
             "doknr": "BJNR152000018"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20181129212005",
+                    "builddate": "20250213223035",
                     "doknr": "BJNR152000018"
                 },
                 "metadaten": [
@@ -81,7 +81,7 @@
             },
             {
                 "$": {
-                    "builddate": "20181129212005",
+                    "builddate": "20250213223035",
                     "doknr": "BJNR152000018BJNE000100000"
                 },
                 "metadaten": [
@@ -123,6 +123,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -136,7 +137,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "einer Typgenehmigung für Bordkläranlagen, Navigationsradaranlagen und Wendeanzeiger,"
+                                                                    {
+                                                                        "_": "einer Typgenehmigung für Bordkläranlagen, Navigationsradaranlagen und Wendeanzeiger,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -144,7 +150,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "den Bestimmungen zum Einbau und zur Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern sowie"
+                                                                    {
+                                                                        "_": "den Bestimmungen zum Einbau und zur Funktionsprüfung von Navigationsradaranlagen und Wendeanzeigern sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -152,13 +163,19 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "einer Konformitätserklärung"
+                                                                    {
+                                                                        "_": "einer Konformitätserklärung",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     },
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -172,7 +189,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Typgenehmigungen,"
+                                                                    {
+                                                                        "_": "Typgenehmigungen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -180,7 +202,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Fall einer Typgenehmigung zu beachtenden Vorschriften zum Einbau und zur Funktionsprüfung sowie"
+                                                                    {
+                                                                        "_": "im Fall einer Typgenehmigung zu beachtenden Vorschriften zum Einbau und zur Funktionsprüfung sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -188,16 +215,18 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Konformitätserklärungen"
+                                                                    {
+                                                                        "_": "Konformitätserklärungen",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             }
-                                        ],
-                                        "BR": [
-                                            ""
                                         ]
                                     }
                                 ]

@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20160824215508",
+            "builddate": "20250213223032",
             "doknr": "BJNR102220968"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20160824215508",
+                    "builddate": "20250213223032",
                     "doknr": "BJNR102220968"
                 },
                 "metadaten": [
@@ -102,7 +102,7 @@
             },
             {
                 "$": {
-                    "builddate": "20160824215508",
+                    "builddate": "20250213223032",
                     "doknr": "BJNR102220968BJNE000101377"
                 },
                 "metadaten": [
@@ -378,163 +378,163 @@
                                                             }
                                                         ]
                                                     }
-                                                ]
-                                            }
-                                        ],
-                                        "BR": [
-                                            "",
-                                            ""
-                                        ],
-                                        "table": [
-                                            {
-                                                "$": {
-                                                    "frame": "none",
-                                                    "pgwide": "1",
-                                                    "tocentry": "%yes;"
-                                                },
-                                                "tgroup": [
+                                                ],
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "table": [
                                                     {
                                                         "$": {
-                                                            "align": "left",
-                                                            "char": "",
-                                                            "charoff": "50",
-                                                            "cols": "2"
+                                                            "frame": "none",
+                                                            "pgwide": "1",
+                                                            "tocentry": "%yes;"
                                                         },
-                                                        "colspec": [
+                                                        "tgroup": [
                                                             {
                                                                 "$": {
-                                                                    "align": "center",
-                                                                    "colname": "col1",
-                                                                    "colwidth": "10*"
-                                                                }
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "align": "center",
-                                                                    "colname": "col2",
-                                                                    "colwidth": "10*"
-                                                                }
-                                                            }
-                                                        ],
-                                                        "tbody": [
-                                                            {
-                                                                "$": {
-                                                                    "valign": "top"
+                                                                    "align": "left",
+                                                                    "char": "",
+                                                                    "charoff": "50",
+                                                                    "cols": "2"
                                                                 },
-                                                                "row": [
+                                                                "colspec": [
                                                                     {
-                                                                        "entry": [
-                                                                            {
-                                                                                "_": "Vorderseite",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1",
-                                                                                    "colsep": "0",
-                                                                                    "rowsep": "0"
-                                                                                }
-                                                                            },
-                                                                            {
-                                                                                "_": "Rückseite",
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2",
-                                                                                    "rowsep": "0"
-                                                                                }
-                                                                            }
-                                                                        ]
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col1",
+                                                                            "colwidth": "10*"
+                                                                        }
                                                                     },
                                                                     {
-                                                                        "entry": [
+                                                                        "$": {
+                                                                            "align": "center",
+                                                                            "colname": "col2",
+                                                                            "colwidth": "10*"
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "tbody": [
+                                                                    {
+                                                                        "$": {
+                                                                            "valign": "top"
+                                                                        },
+                                                                        "row": [
                                                                             {
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col1",
-                                                                                    "colsep": "0",
-                                                                                    "rowsep": "0"
-                                                                                },
-                                                                                "IMG": [
+                                                                                "entry": [
                                                                                     {
+                                                                                        "_": "Vorderseite",
                                                                                         "$": {
-                                                                                            "Align": "center",
-                                                                                            "Height": "886",
-                                                                                            "Pos": "inline",
-                                                                                            "SRC": "bgbl1_2016_j1978-1_0010.jpg",
-                                                                                            "Type": "TIF",
-                                                                                            "Units": "300",
-                                                                                            "Width": "886",
-                                                                                            "alt": ""
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
+                                                                                        }
+                                                                                    },
+                                                                                    {
+                                                                                        "_": "Rückseite",
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
                                                                                         }
                                                                                     }
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "colname": "col2",
-                                                                                    "rowsep": "0"
-                                                                                },
-                                                                                "IMG": [
+                                                                                "entry": [
                                                                                     {
                                                                                         "$": {
-                                                                                            "Align": "center",
-                                                                                            "Height": "878",
-                                                                                            "Pos": "inline",
-                                                                                            "SRC": "bgbl1_2016_j1978-1_0020.jpg",
-                                                                                            "Type": "TIF",
-                                                                                            "Units": "300",
-                                                                                            "Width": "886",
-                                                                                            "alt": ""
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    },
-                                                                    {
-                                                                        "entry": [
-                                                                            {
-                                                                                "$": {
-                                                                                    "VJ": "1",
-                                                                                    "align": "center",
-                                                                                    "nameend": "col2",
-                                                                                    "namest": "col1",
-                                                                                    "valign": "middle"
-                                                                                },
-                                                                                "DL": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "Font": "normal",
-                                                                                            "Indent": "22",
-                                                                                            "Type": "arabic"
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col1",
+                                                                                            "colsep": "0",
+                                                                                            "rowsep": "0"
                                                                                         },
-                                                                                        "DT": [
-                                                                                            "Plakette:",
-                                                                                            "Originalgröße:"
-                                                                                        ],
-                                                                                        "DD": [
+                                                                                        "IMG": [
                                                                                             {
                                                                                                 "$": {
-                                                                                                    "Font": "normal"
-                                                                                                },
-                                                                                                "LA": [
-                                                                                                    {
-                                                                                                        "_": "rund, Bronze",
-                                                                                                        "$": {
-                                                                                                            "Size": "normal"
-                                                                                                        }
-                                                                                                    }
-                                                                                                ]
-                                                                                            },
+                                                                                                    "Align": "center",
+                                                                                                    "Height": "886",
+                                                                                                    "Pos": "inline",
+                                                                                                    "SRC": "bgbl1_2016_j1978-1_0010.jpg",
+                                                                                                    "Type": "TIF",
+                                                                                                    "Units": "300",
+                                                                                                    "Width": "886",
+                                                                                                    "alt": ""
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "colname": "col2",
+                                                                                            "rowsep": "0"
+                                                                                        },
+                                                                                        "IMG": [
                                                                                             {
                                                                                                 "$": {
-                                                                                                    "Font": "normal"
+                                                                                                    "Align": "center",
+                                                                                                    "Height": "878",
+                                                                                                    "Pos": "inline",
+                                                                                                    "SRC": "bgbl1_2016_j1978-1_0020.jpg",
+                                                                                                    "Type": "TIF",
+                                                                                                    "Units": "300",
+                                                                                                    "Width": "886",
+                                                                                                    "alt": ""
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "entry": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "VJ": "1",
+                                                                                            "align": "center",
+                                                                                            "nameend": "col2",
+                                                                                            "namest": "col1",
+                                                                                            "valign": "middle"
+                                                                                        },
+                                                                                        "DL": [
+                                                                                            {
+                                                                                                "$": {
+                                                                                                    "Font": "normal",
+                                                                                                    "Indent": "22",
+                                                                                                    "Type": "arabic"
                                                                                                 },
-                                                                                                "LA": [
+                                                                                                "DT": [
+                                                                                                    "Plakette:",
+                                                                                                    "Originalgröße:"
+                                                                                                ],
+                                                                                                "DD": [
                                                                                                     {
-                                                                                                        "_": "16 cm",
                                                                                                         "$": {
-                                                                                                            "Size": "normal"
-                                                                                                        }
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "rund, Bronze",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "$": {
+                                                                                                            "Font": "normal"
+                                                                                                        },
+                                                                                                        "LA": [
+                                                                                                            {
+                                                                                                                "_": "16 cm",
+                                                                                                                "$": {
+                                                                                                                    "Size": "normal"
+                                                                                                                }
+                                                                                                            }
+                                                                                                        ]
                                                                                                     }
                                                                                                 ]
                                                                                             }
@@ -563,7 +563,7 @@
             },
             {
                 "$": {
-                    "builddate": "20160824215508",
+                    "builddate": "20250213223032",
                     "doknr": "BJNR102220968BJNE000200315"
                 },
                 "metadaten": [

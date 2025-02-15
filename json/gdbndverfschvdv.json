@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20230123213507",
+            "builddate": "20250214223524",
             "doknr": "BJNR136800018"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018"
                 },
                 "metadaten": [
@@ -52,6 +52,17 @@
                                 ],
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 2 V v. 15.12.2022 I 2865"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 2 V v. 11.2.2025 I Nr. 35 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             },
                             {
@@ -104,7 +115,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000100000"
                 },
                 "metadaten": [
@@ -138,8 +149,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE000203311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE000204129"
                 },
                 "metadaten": [
                     {
@@ -476,22 +487,6 @@
                                                                                 "$": {
                                                                                     "VJ": "1",
                                                                                     "colname": "col2"
-                                                                                }
-                                                                            }
-                                                                        ]
-                                                                    },
-                                                                    {
-                                                                        "entry": [
-                                                                            {
-                                                                                "_": "§  1a",
-                                                                                "$": {
-                                                                                    "VJ": "1"
-                                                                                }
-                                                                            },
-                                                                            {
-                                                                                "_": "Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie",
-                                                                                "$": {
-                                                                                    "VJ": "1"
                                                                                 }
                                                                             }
                                                                         ]
@@ -2561,7 +2556,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000100000"
                 },
                 "metadaten": [
@@ -2590,7 +2585,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000300000"
                 },
                 "metadaten": [
@@ -2663,52 +2658,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE008801311"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "GDBNDVerfSchVDV"
-                        ],
-                        "enbez": [
-                            "§ 1a"
-                        ],
-                        "titel": [
-                            {
-                                "_": "Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie",
-                                "$": {
-                                    "format": "XML"
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist."
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000401311"
                 },
                 "metadaten": [
@@ -2756,7 +2706,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000500000"
                 },
                 "metadaten": [
@@ -2830,7 +2780,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000600000"
                 },
                 "metadaten": [
@@ -2903,7 +2853,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000700000"
                 },
                 "metadaten": [
@@ -2977,7 +2927,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000800000"
                 },
                 "metadaten": [
@@ -3019,7 +2969,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE000901311"
                 },
                 "metadaten": [
@@ -3122,7 +3072,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001000000"
                 },
                 "metadaten": [
@@ -3853,7 +3803,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001100000"
                 },
                 "metadaten": [
@@ -3907,7 +3857,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001200000"
                 },
                 "metadaten": [
@@ -3991,7 +3941,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000200000"
                 },
                 "metadaten": [
@@ -4020,7 +3970,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001301311"
                 },
                 "metadaten": [
@@ -4111,8 +4061,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE001402311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE001403129"
                 },
                 "metadaten": [
                     {
@@ -4201,7 +4151,7 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024 eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht: ",
+                                                "_": "(3) Die Dienstbehörde kann festlegen, dass eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern besteht: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -4243,10 +4193,10 @@
                                                     }
                                                 ]
                                             },
-                                            "(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.",
-                                            "(4) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.",
-                                            "(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.",
-                                            "(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag."
+                                            "(4) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.",
+                                            "(5) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.",
+                                            "(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.",
+                                            "(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag."
                                         ]
                                     }
                                 ]
@@ -4268,7 +4218,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001500000"
                 },
                 "metadaten": [
@@ -4310,7 +4260,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001600000"
                 },
                 "metadaten": [
@@ -4411,8 +4361,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE001702311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE001703129"
                 },
                 "metadaten": [
                     {
@@ -4475,7 +4425,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2024 im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet wird.",
+                                            "(2a) (weggefallen)",
                                             "(3) Von der Teilnahme am Aufsatz kann ausgeschlossen werden, wer in den Leistungstests nicht die erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber."
                                         ]
                                     }
@@ -4490,8 +4440,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE001801311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE001802129"
                 },
                 "metadaten": [
                     {
@@ -4522,7 +4472,7 @@
                                     {
                                         "P": [
                                             "(1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in den Leistungstests und im Aufsatz jeweils die erforderliche Mindestpunktzahl erreicht worden ist.",
-                                            "(1a) Ist festgelegt worden, dass im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet wird, so ist der schriftliche Teil des Auswahlverfahrens bestanden, wenn in den Leistungstests die erforderliche Mindestpunktzahl erreicht worden ist.",
+                                            "(1a) (weggefallen)",
                                             "(2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt."
                                         ]
                                     }
@@ -4537,7 +4487,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE001900000"
                 },
                 "metadaten": [
@@ -4581,7 +4531,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002000000"
                 },
                 "metadaten": [
@@ -4707,7 +4657,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002100000"
                 },
                 "metadaten": [
@@ -4749,7 +4699,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002201311"
                 },
                 "metadaten": [
@@ -4797,7 +4747,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002301311"
                 },
                 "metadaten": [
@@ -4843,7 +4793,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000300000"
                 },
                 "metadaten": [
@@ -4872,7 +4822,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000400000"
                 },
                 "metadaten": [
@@ -4901,8 +4851,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE002402311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE002403129"
                 },
                 "metadaten": [
                     {
@@ -4934,7 +4884,7 @@
                                         "P": [
                                             "(1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Hochschule.",
                                             "(2) Das Studium umfasst Fachstudien an der Hochschule und berufspraktische Studienzeiten.",
-                                            "(2a) Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen, die keine als Verschlusssachen eingestuften Inhalte enthalten, digitale Lehrformate genutzt werden.",
+                                            "(2a) (weggefallen)",
                                             {
                                                 "_": "(3) Das Studium gliedert sich in fünf Studienabschnitte. Die Studienabschnitte verteilen sich wie folgt auf die Semester: ",
                                                 "BR": [
@@ -5210,41 +5160,10 @@
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 Möglich ist auch die Verschiebung von Lehrveranstaltungen der Fachstudien oder von Teilen dieser Lehrveranstaltungen in ein Semester einer berufspraktischen Studienzeit.",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "die Studienabschnitte anders gegliedert werden und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "Lehrveranstaltungen eines Studienabschnitts oder Teile dieser Lehrveranstaltungen in ein anderes Semester verschoben werden."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(3a) (weggefallen)",
                                             "(4) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 000 Lehrstunden.",
-                                            "(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Zahl der Lehrstunden um bis zu 10 Prozent verringert wird.",
-                                            "(5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend."
+                                            "(5) Für die Lehrveranstaltungen können digitale Lehrformate genutzt werden, sofern die Vorgaben zum Umgang mit Verschlusssachen berücksichtigt werden.",
+                                            "(6) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend."
                                         ]
                                     }
                                 ]
@@ -5258,7 +5177,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002500000"
                 },
                 "metadaten": [
@@ -5479,7 +5398,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002600000"
                 },
                 "metadaten": [
@@ -5599,7 +5518,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002701311"
                 },
                 "metadaten": [
@@ -5656,7 +5575,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002801311"
                 },
                 "metadaten": [
@@ -5746,7 +5665,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000500000"
                 },
                 "metadaten": [
@@ -5775,7 +5694,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE002900000"
                 },
                 "metadaten": [
@@ -5875,8 +5794,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE003003311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE003004129"
                 },
                 "metadaten": [
                     {
@@ -5907,7 +5826,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Die Studiengebiete des Hauptstudiums sind: ",
+                                                "_": "Die Studiengebiete des Hauptstudiums sind: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -6032,8 +5951,7 @@
                                                         ]
                                                     }
                                                 ]
-                                            },
-                                            "(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 eine Reduzierung der Studiengebiete vorgenommen wird."
+                                            }
                                         ]
                                     }
                                 ]
@@ -6047,8 +5965,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE003102311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE003103129"
                 },
                 "metadaten": [
                     {
@@ -6079,11 +5997,56 @@
                                     {
                                         "P": [
                                             "(1) Im Hauptstudium sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.",
+                                            "(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass mehr als sechs Leistungstests in einer anderen Form als der Klausur absolviert werden können.",
                                             {
-                                                "_": "(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 im Hauptstudium ",
+                                                "_": "(3) Studierende der Fachrichtung Bundesnachrichtendienst schreiben ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(4) Studierende der Fachrichtung Verfassungsschutz schreiben ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -6097,7 +6060,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Zahl der zu absolvierenden Leistungstests auf weniger als zwölf reduziert wird,"
+                                                                    {
+                                                                        "_": "zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -6105,7 +6073,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "mehr als sechs Leistungstests in einer anderen Form als der Klausur absolviert werden können und"
+                                                                    {
+                                                                        "_": "eine Klausur in dem Studiengebiet nach § 28 Nummer 6 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -6113,119 +6086,19 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "vollständig auf die Leistungstests verzichtet wird."
+                                                                    {
+                                                                        "_": "je eine Klausur in drei der Studiengebiete nach § 28 Nummer 1 bis 5.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(2) Studierende der Fachrichtung Bundesnachrichtendienst schreiben ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3 und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "_": "(3) Studierende der Fachrichtung Verfassungsschutz schreiben ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2.",
-                                                            "3."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3,"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "eine Klausur in dem Studiengebiet nach § 28 Nummer 6 und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "je eine Klausur in drei der Studiengebiete nach § 28 Nummer 1 bis 5."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "_": "(3a) Ist festgelegt worden, dass die Zahl der Leistungstests reduziert wird, so bestimmt die Hochschule im Einvernehmen mit den Dienstbehörden, ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "in welchen Studiengebieten die verbleibenden Leistungstests absolviert werden und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "in welcher Form die verbleibenden Leistungstests absolviert werden."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            "(4) Die Leistungstests des Hauptstudiums II sollen einen Monat vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein."
+                                            "(5) Die Leistungstests des Hauptstudiums II sollen einen Monat vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein."
                                         ]
                                     }
                                 ]
@@ -6239,7 +6112,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003201311"
                 },
                 "metadaten": [
@@ -6327,7 +6200,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000600000"
                 },
                 "metadaten": [
@@ -6356,7 +6229,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003300000"
                 },
                 "metadaten": [
@@ -6432,7 +6305,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003400000"
                 },
                 "metadaten": [
@@ -6507,7 +6380,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003500000"
                 },
                 "metadaten": [
@@ -6551,7 +6424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003600000"
                 },
                 "metadaten": [
@@ -6634,8 +6507,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE003702311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE003703129"
                 },
                 "metadaten": [
                     {
@@ -6665,8 +6538,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests zu absolvieren.",
-                                            "(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 in den praxisbezogenen Lehrveranstaltungen die Zahl der zu absolvierenden Leistungstests auf zwei oder einen reduziert wird."
+                                            "In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests zu absolvieren."
                                         ]
                                     }
                                 ]
@@ -6680,7 +6552,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE003800000"
                 },
                 "metadaten": [
@@ -6723,8 +6595,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE003902311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE003903129"
                 },
                 "metadaten": [
                     {
@@ -6757,7 +6629,7 @@
                                             "(1) Der Fachbereich Nachrichtendienste der Hochschule stellt im Einvernehmen mit den betroffenen Ausbildungsbehörden für jede Studierende und jeden Studierenden einen Ausbildungsplan auf.",
                                             "(2) In dem Ausbildungsplan sind Ort und Dauer der einzelnen Praktika zu bestimmen.",
                                             "(3) Der Ausbildungsplan wird der oder dem Studierenden bekannt gegeben.",
-                                            "(4) Ein bereits bekannt gegebener Ausbildungsplan kann bis zum 31. Dezember 2024 von der jeweiligen Ausbildungsbehörde geändert werden. Die Änderung ist der Hochschule und der oder dem Studierenden mitzuteilen."
+                                            "(4) Ein bereits bekannt gegebener Ausbildungsplan kann von der jeweiligen Ausbildungsbehörde geändert werden. Die Änderung ist der Hochschule und der oder dem Studierenden mitzuteilen."
                                         ]
                                     }
                                 ]
@@ -6771,7 +6643,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004000000"
                 },
                 "metadaten": [
@@ -6814,7 +6686,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004101311"
                 },
                 "metadaten": [
@@ -6860,7 +6732,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000700000"
                 },
                 "metadaten": [
@@ -6889,7 +6761,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000800000"
                 },
                 "metadaten": [
@@ -6918,8 +6790,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE004202311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE004203129"
                 },
                 "metadaten": [
                     {
@@ -6950,7 +6822,7 @@
                                     {
                                         "P": [
                                             "(1) Das Grundstudium schließt mit der Zwischenprüfung ab.",
-                                            "(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Zwischenprüfung studiengangbegleitend durchgeführt wird.",
+                                            "(1a) (weggefallen)",
                                             "(2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt."
                                         ]
                                     }
@@ -6965,7 +6837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004300000"
                 },
                 "metadaten": [
@@ -7007,8 +6879,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE004402311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE004403129"
                 },
                 "metadaten": [
                     {
@@ -7040,10 +6912,10 @@
                                         "P": [
                                             "(1) Die Zwischenprüfung besteht aus vier Klausuren.",
                                             "(2) Je eine Klausur wird in den Studiengebieten des Grundstudiums nach § 27 Nummer 1 bis 4 geschrieben.",
-                                            "(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt werden.",
+                                            "(2a) (weggefallen)",
                                             "(3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.",
                                             "(4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.",
-                                            "(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2024 die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden.",
+                                            "(4a) (weggefallen)",
                                             "(5) Die Klausuren werden unter Aufsicht geschrieben."
                                         ]
                                     }
@@ -7058,7 +6930,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004500000"
                 },
                 "metadaten": [
@@ -7100,7 +6972,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004600000"
                 },
                 "metadaten": [
@@ -7142,7 +7014,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004701311"
                 },
                 "metadaten": [
@@ -7229,7 +7101,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004800000"
                 },
                 "metadaten": [
@@ -7302,7 +7174,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE004900000"
                 },
                 "metadaten": [
@@ -7344,7 +7216,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005002311"
                 },
                 "metadaten": [
@@ -7393,7 +7265,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG000900000"
                 },
                 "metadaten": [
@@ -7422,7 +7294,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001000000"
                 },
                 "metadaten": [
@@ -7451,7 +7323,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005100000"
                 },
                 "metadaten": [
@@ -7493,7 +7365,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005200000"
                 },
                 "metadaten": [
@@ -7535,7 +7407,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005300000"
                 },
                 "metadaten": [
@@ -7617,7 +7489,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001100000"
                 },
                 "metadaten": [
@@ -7646,8 +7518,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE005402311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE005403129"
                 },
                 "metadaten": [
                     {
@@ -7679,7 +7551,7 @@
                                         "P": [
                                             "(1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.",
                                             "(2) Die Diplomarbeit wird während der berufspraktischen Studienzeit II angefertigt.",
-                                            "(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Diplomarbeit ganz oder teilweise während eines anderen Studienabschnitts als der berufspraktischen Studienzeit II angefertigt wird. Die Diplomarbeit ist jedoch so zu planen, dass die Bearbeitungszeit nicht den letzten Tag des dritten Monats des Hauptstudiums II überschreitet."
+                                            "(2a) (weggefallen)"
                                         ]
                                     }
                                 ]
@@ -7693,8 +7565,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE005502311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE005503129"
                 },
                 "metadaten": [
                     {
@@ -7726,7 +7598,7 @@
                                         "P": [
                                             "(1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Die Studierenden können der oder dem Vorschlagsberechtigten eigene Themenvorschläge unterbreiten.",
                                             "(2) Die Bearbeitungszeit für die Diplomarbeit beträgt vier Monate. Sie beginnt mit Ausgabe des Themas.",
-                                            "(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 für die Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen wird. Die Regelungen zur Verhinderung in § 57 bleiben unberührt.",
+                                            "(2a) (weggefallen)",
                                             "(3) Nach der Ausgabe kann das Thema nur im Ausnahmefall und nur mit Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.",
                                             "(4) Das Thema und der Tag der Ausgabe des Themas sind aktenkundig zu machen."
                                         ]
@@ -7742,7 +7614,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005600000"
                 },
                 "metadaten": [
@@ -7784,7 +7656,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005700000"
                 },
                 "metadaten": [
@@ -7859,7 +7731,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005800000"
                 },
                 "metadaten": [
@@ -7902,7 +7774,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE005900000"
                 },
                 "metadaten": [
@@ -7946,7 +7818,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006000000"
                 },
                 "metadaten": [
@@ -8022,7 +7894,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006100000"
                 },
                 "metadaten": [
@@ -8064,7 +7936,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006200000"
                 },
                 "metadaten": [
@@ -8172,8 +8044,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE006302311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE006303129"
                 },
                 "metadaten": [
                     {
@@ -8207,7 +8079,7 @@
                                             "(2) Wird die Diplomarbeit wiederholt, ist auch das Diplomkolloquium zu wiederholen, unabhängig von dessen Bewertung.",
                                             "(3) Für die Wiederholung gibt das Prüfungsamt ein neues Thema aus.",
                                             "(4) Die Bearbeitungszeit beträgt vier Monate. Soweit erforderlich, verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer der Wiederholung.",
-                                            "(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 für die Wiederholung der Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen wird.",
+                                            "(4a) (weggefallen)",
                                             "(5) Für die Dauer der Wiederholung der Diplomarbeit und der Bewertung der Diplomarbeit werden die Studierenden der Dienstbehörde zugewiesen.",
                                             "(6) Vier Wochen vor dem Ende der Bearbeitungszeit werden die Studierenden von ihren übrigen dienstlichen Tätigkeiten freigestellt.",
                                             "(7) Die Rangpunkte, die bei der Wiederholung erreicht werden, ersetzen die zuvor erreichten."
@@ -8224,7 +8096,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001200000"
                 },
                 "metadaten": [
@@ -8253,8 +8125,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE006402311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE006403129"
                 },
                 "metadaten": [
                     {
@@ -8290,6 +8162,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -8302,7 +8175,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3 und"
+                                                                    {
+                                                                        "_": "zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -8310,50 +8188,25 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6."
+                                                                    {
+                                                                        "_": "je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass in der Fachrichtung „Bundesnachrichtendienst“ bis zum 31. Dezember 2024 ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1 Nummer 1 bis 4 und 6 auch anders zugeordnet wird und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Studiengebiete entnommen wird."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(2a) (weggefallen)",
                                             {
                                                 "_": "(3) Studierende der Fachrichtung „Verfassungsschutz“ schreiben ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -8367,7 +8220,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3,"
+                                                                    {
+                                                                        "_": "zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -8375,7 +8233,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "eine Klausur aus dem Studiengebiet nach § 28 Nummer 6 und"
+                                                                    {
+                                                                        "_": "eine Klausur aus dem Studiengebiet nach § 28 Nummer 6 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -8383,79 +8246,22 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "je eine Klausur aus drei der Studiengebiete nach § 28 Nummer 1 bis 5."
+                                                                    {
+                                                                        "_": "je eine Klausur aus drei der Studiengebiete nach § 28 Nummer 1 bis 5.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass in der Fachrichtung „Verfassungsschutz“ bis zum 31. Dezember 2024 ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1 Nummer 1 bis 6 auch anders zugeordnet wird und"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Studiengebiete entnommen wird."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(3a) (weggefallen)",
                                             "(4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.",
                                             "(5) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.",
-                                            {
-                                                "_": "(5a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 ",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "die Klausuren – abweichend von Absatz 5 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden oder"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 5 Satz 3 – mehr als ein freier Tag vorzusehen ist."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(5a) (weggefallen)",
                                             "(6) Die Klausuren werden unter Aufsicht geschrieben."
                                         ]
                                     }
@@ -8470,7 +8276,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006501311"
                 },
                 "metadaten": [
@@ -8547,7 +8353,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006600000"
                 },
                 "metadaten": [
@@ -8589,7 +8395,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006701311"
                 },
                 "metadaten": [
@@ -8676,7 +8482,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001300000"
                 },
                 "metadaten": [
@@ -8705,7 +8511,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE006800000"
                 },
                 "metadaten": [
@@ -8748,8 +8554,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE006902311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE006903129"
                 },
                 "metadaten": [
                     {
@@ -8780,10 +8586,11 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung werden der oder dem Studierenden mitgeteilt Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums zu einem späteren Zeitpunkt mitgeteilt wird als dem Zeitpunkt der Mitteilung über die Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung.",
+                                                "_": "Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung werden der oder dem Studierenden mitgeteilt ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -8796,7 +8603,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die in den Klausuren der schriftlichen Abschlussprüfung jeweils erreichte Rangpunktzahl und"
+                                                                    {
+                                                                        "_": "die in den Klausuren der schriftlichen Abschlussprüfung jeweils erreichte Rangpunktzahl und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -8804,7 +8616,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums."
+                                                                    {
+                                                                        "_": "die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -8824,8 +8641,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE007003311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE007004129"
                 },
                 "metadaten": [
                     {
@@ -8905,7 +8722,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "drei Beamtinnen und Beamten des gehobenen oder höheren Dienstes als Beisitzenden, von denen mindestens eine Beamtin oder ein Beamter dem gehobenen oder höheren nichttechnischen Verwaltungsdienst des Bundes angehören muss.",
+                                                                        "_": "drei Beamtinnen und Beamten des gehobenen oder höheren Dienstes als Beisitzenden.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -8916,81 +8733,10 @@
                                                     }
                                                 ]
                                             },
-                                            {
-                                                "_": "(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2024 Mindestens eines der anwesenden Mitglieder der Prüfungskommission für die Fachrichtung „Bundesnachrichtendienst“ soll der Fachrichtung „Bundesnachrichtendienst“ angehören. Mindestens eines der anwesenden Mitglieder der Prüfungskommission für die Fachrichtung „Verfassungsschutz“ soll der Fachrichtung „Verfassungsschutz“ angehören. Mindestens eins der anwesenden Mitglieder soll haupt- oder nebenamtliche Lehrkraft der Hochschule sein.",
-                                                "DL": [
-                                                    {
-                                                        "$": {
-                                                            "Type": "arabic"
-                                                        },
-                                                        "DT": [
-                                                            "1.",
-                                                            "2."
-                                                        ],
-                                                        "DD": [
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    {
-                                                                        "_": "die Prüfungskommission für die Bewertung der mündlichen Abschlussprüfung nur aus den folgenden Mitgliedern besteht: ",
-                                                                        "DL": [
-                                                                            {
-                                                                                "$": {
-                                                                                    "Type": "alpha"
-                                                                                },
-                                                                                "DT": [
-                                                                                    "a)",
-                                                                                    "b)",
-                                                                                    "c)"
-                                                                                ],
-                                                                                "DD": [
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "Font": "normal"
-                                                                                        },
-                                                                                        "LA": [
-                                                                                            "einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem,"
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "Font": "normal"
-                                                                                        },
-                                                                                        "LA": [
-                                                                                            "einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender oder Beisitzendem und als Vertretung der oder des Vorsitzenden und"
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "$": {
-                                                                                            "Font": "normal"
-                                                                                        },
-                                                                                        "LA": [
-                                                                                            "einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer Beisitzender oder weiterem Beisitzendem und"
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "eine oder einer der Besitzenden auch eine Arbeitnehmerin oder ein Arbeitnehmer oder eine Soldatin oder ein Soldat sein kann."
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
+                                            "(5a) (weggefallen)",
                                             "(6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.",
-                                            "(6a) Ist festgelegt worden, dass die Zahl der Mitglieder der Prüfungskommission auf drei reduziert wird, so ist eine Prüfungskommission beschlussfähig, wenn mindestens zwei Mitglieder anwesend sind.",
-                                            "(7) § 12 Absatz 5 und 6 gilt entsprechend."
+                                            "(6a) (weggefallen)",
+                                            "(7) § 12 Absatz 6 und 7 gilt entsprechend."
                                         ]
                                     }
                                 ]
@@ -9004,8 +8750,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE007102311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE007103129"
                 },
                 "metadaten": [
                     {
@@ -9039,7 +8785,7 @@
                                             "(2) Für jedes ausgewählte Prüfungsfach bestimmt die Prüfungskommission ein fachkundiges Mitglied als Fachprüfende oder Fachprüfender.",
                                             "(3) Die mündliche Abschlussprüfung wird als Gruppenprüfung durchgeführt. In einer Gruppe dürfen nur Studierende derselben Fachrichtung geprüft werden.",
                                             "(4) In einer Gruppe dürfen höchstens fünf Studierende geprüft werden.",
-                                            "(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen, dass bis zum 31. Dezember 2024 die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird.",
+                                            "(4a) (weggefallen)",
                                             "(5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten je Studierende oder Studierenden nicht überschreiten."
                                         ]
                                     }
@@ -9054,7 +8800,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007201311"
                 },
                 "metadaten": [
@@ -9169,7 +8915,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007300000"
                 },
                 "metadaten": [
@@ -9213,7 +8959,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007400000"
                 },
                 "metadaten": [
@@ -9257,7 +9003,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007501311"
                 },
                 "metadaten": [
@@ -9302,7 +9048,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001400000"
                 },
                 "metadaten": [
@@ -9331,8 +9077,8 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
-                    "doknr": "BJNR136800018BJNE007602311"
+                    "builddate": "20250214223524",
+                    "doknr": "BJNR136800018BJNE007603129"
                 },
                 "metadaten": [
                     {
@@ -9490,7 +9236,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(2a) Ist festgelegt worden, dass im Hauptstudium vollständig auf Leistungstests verzichtet wird, so legt die Hochschule im Einvernehmen mit den Dienstbehörden fest, durch welche anderen Bewertungen die Rangpunktzahl der Leistungstests im Hauptstudium ersetzt wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung.",
+                                            "(2a) (weggefallen)",
                                             {
                                                 "_": "(3) Die Laufbahnprüfung hat bestanden, ",
                                                 "DL": [
@@ -9548,7 +9294,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007700000"
                 },
                 "metadaten": [
@@ -9625,7 +9371,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007800000"
                 },
                 "metadaten": [
@@ -9739,7 +9485,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE007900000"
                 },
                 "metadaten": [
@@ -9812,7 +9558,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001500000"
                 },
                 "metadaten": [
@@ -9841,7 +9587,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008000000"
                 },
                 "metadaten": [
@@ -9887,7 +9633,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008100000"
                 },
                 "metadaten": [
@@ -9973,7 +9719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008200000"
                 },
                 "metadaten": [
@@ -10112,7 +9858,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008700311"
                 },
                 "metadaten": [
@@ -10157,7 +9903,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001600000"
                 },
                 "metadaten": [
@@ -10186,7 +9932,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008300000"
                 },
                 "metadaten": [
@@ -10304,7 +10050,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNG001700000"
                 },
                 "metadaten": [
@@ -10333,7 +10079,7 @@
             },
             {
                 "$": {
-                    "builddate": "20230123213507",
+                    "builddate": "20250214223524",
                     "doknr": "BJNR136800018BJNE008400000"
                 },
                 "metadaten": [
