@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20250122224503",
+            "builddate": "20250216223001",
             "doknr": "BJNR196500020"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020"
                 },
                 "metadaten": [
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020BJNE000100000"
                 },
                 "metadaten": [
@@ -128,7 +128,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020BJNE000200000"
                 },
                 "metadaten": [
@@ -170,7 +170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020BJNE000300000"
                 },
                 "metadaten": [
@@ -279,7 +279,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020BJNE000400000"
                 },
                 "metadaten": [
@@ -421,8 +421,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
-                    "doknr": "BJNR196500020BJNE000500000"
+                    "builddate": "20250216223001",
+                    "doknr": "BJNR196500020BJNE000501128"
                 },
                 "metadaten": [
                     {
@@ -459,6 +459,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -471,7 +472,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "der Geschäftsgegenstand treuhänderisch gehalten wird oder gehalten werden soll oder"
+                                                                    {
+                                                                        "_": "der Geschäftsgegenstand treuhänderisch gehalten wird oder gehalten werden soll oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -479,7 +485,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "ein Treuhandverhältnis anlässlich des Rechtsgeschäfts beendet wird oder werden soll,"
+                                                                    {
+                                                                        "_": "ein Treuhandverhältnis anlässlich des Rechtsgeschäfts beendet wird oder werden soll,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -491,6 +502,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -503,7 +515,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat nach § 261 des Strafgesetzbuches ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann oder"
+                                                                    {
+                                                                        "_": "gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat nach § 261 des Strafgesetzbuches ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -511,7 +528,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat im Sinne des § 261 Absatz 1 Satz 2 des Strafgesetzbuches ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen dem Tatertrag oder dem Tatprodukt der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann."
+                                                                    {
+                                                                        "_": "gegen einen an dem Erwerbsvorgang Beteiligten oder einen wirtschaftlich Berechtigten wegen einer rechtswidrigen Tat, bei der es sich um die Vortat einer Geldwäschestraftat nach § 261 des Strafgesetzbuchs handeln könnte, ermittelt wird oder ein Strafverfahren anhängig oder rechtshängig ist oder eine solche Person wegen einer solchen Tat innerhalb der letzten fünf Jahre verurteilt wurde und ein Zusammenhang zwischen dem Tatertrag oder dem Tatprodukt der Tat und dem Erwerbsvorgang nicht ausgeschlossen werden kann.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -525,14 +547,17 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
-                    "doknr": "BJNR196500020BJNE000600000"
+                    "builddate": "20250216223001",
+                    "doknr": "BJNR196500020BJNE000601128"
                 },
                 "metadaten": [
                     {
@@ -605,7 +630,7 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "aufgrund einer Vollmacht handelt, die durch Mitarbeiter der konsularischen Vertretung der Bundesrepublik Deutschland in einem Drittstaat nach § 3 Absatz 1 beglaubigt wurde."
+                                                                    "aufgrund einer Vollmacht handelt, die durch Mitarbeiter der konsularischen Vertretung der Bundesrepublik Deutschland in einem Staat nach § 3 Absatz 1 beglaubigt wurde."
                                                                 ]
                                                             }
                                                         ]
@@ -616,14 +641,17 @@
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
-                    "doknr": "BJNR196500020BJNE000700000"
+                    "builddate": "20250216223001",
+                    "doknr": "BJNR196500020BJNE000701128"
                 },
                 "metadaten": [
                     {
@@ -654,17 +682,19 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Der Verpflichtete hat zu melden, wenn die Gegenleistung Bei Nutzung von Anderkonten gilt die Regelung des Absatzes 3.",
+                                                "_": "(1) Der Verpflichtete hat zu melden, wenn die Gegenleistung ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
                                                             "1.",
                                                             "2.",
                                                             "3.",
-                                                            "4."
+                                                            "4.",
+                                                            "5."
                                                         ],
                                                         "DD": [
                                                             {
@@ -673,16 +703,21 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "vollständig oder teilweise wie folgt bezahlt wird oder bezahlt werden soll: ",
+                                                                        "_": "vollständig oder teilweise wie folgt erbracht wurde oder erbracht werden soll: ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
                                                                                     "a)",
                                                                                     "b)",
-                                                                                    "c)"
+                                                                                    "c)",
+                                                                                    "d)"
                                                                                 ],
                                                                                 "DD": [
                                                                                     {
@@ -690,7 +725,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Mittels Barmitteln im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6) oder gleichgestellten Zahlungsmitteln im Sinne des § 1 Absatz 4 Satz 4 des Zollverwaltungsgesetzes, sofern der Betrag mehr als 10 000 Euro beträgt,"
+                                                                                            {
+                                                                                                "_": "abweichend von § 16a Absatz 1 des Geldwäschegesetzes mittels Bargeld, Gold, Platin oder Edelsteinen, sofern der durch Bargeld, Gold, Platin oder Edelsteine erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -698,7 +738,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "mittels Kryptowerten im Sinne des § 1 Absatz 11 Satz 4 und 5 des Kreditwesengesetzes, oder"
+                                                                                            {
+                                                                                                "_": "mittels anderer Barmittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung (EU) 2018/1672 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 über die Überwachung von Barmitteln, die in die Union oder aus der Union verbracht werden, und zur Aufhebung der Verordnung (EG) Nr. 1889/2005 (ABl. L 284 vom 12.11.2018, S. 6) oder mittels gleichgestellter Zahlungsmittel im Sinne des § 1 Absatz 4 Satz 4 des Zollverwaltungsgesetzes, sofern der durch diese Barmittel oder gleichgestellte Zahlungsmittel erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -706,7 +751,28 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "über ein Bankkonto in einem Drittstaat, es sei denn, ein Sitz, ein Wohnsitz oder der gewöhnliche Aufenthalt der Vertragspartei, die das Bankkonto verwendet, befindet sich in diesem Drittstaat,"
+                                                                                            {
+                                                                                                "_": "abweichend von § 16a Absatz 1 des Geldwäschegesetzes mittels Kryptowerten im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien  und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), sofern der durch die Kryptowerte erbrachte oder zu erbringende Betrag einen Gegenwert von 10 000 Euro überschreitet, oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
+                                                                                                "NB": [
+                                                                                                    "2013/36/EU"
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "über ein Bankkonto in einem Staat im Sinne des § 3 Absatz 1, es sei denn, die Vertragspartei, die das Bankkonto verwendet, ist in diesem Staat ansässig,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -720,15 +786,94 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "erheblich von dem tatsächlichen Verkehrswert des Geschäftsgegenstandes abweicht, soweit die Differenz nicht auf einer dem Verpflichteten offengelegten unentgeltlichen Zuwendung beruht,"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "vollständig oder teilweise bereits vor Abschluss des Rechtsgeschäftes gezahlt wurde oder gezahlt werden soll, sofern der bezahlte oder noch zu bezahlende Betrag mehr als 10 000 Euro beträgt und die veräußernde Person keine juristische Person des öffentlichen Rechts ist, oder"
+                                                                    {
+                                                                        "_": "um mehr als 25 Prozent von dem tatsächlichen Verkehrswert des Geschäftsgegenstandes abweicht, soweit die Differenz nicht auf einer dem Verpflichteten offengelegten unentgeltlichen Zuwendung beruht, es sei denn, die veräußernde Person ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)",
+                                                                                    "e)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "ist Partei kraft Amtes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "ist eine juristische Person des öffentlichen Rechts oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 oder 2 des Geldwäschegesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -737,10 +882,67 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "vollständig oder teilweise von einer oder an eine Person gezahlt wird oder werden soll, die weder am Erwerbsvorgang Beteiligter noch wirtschaftlich Berechtigter ist, es sei denn, diese Person ",
+                                                                        "_": "vollständig oder teilweise bereits vor Abschluss des Rechtsgeschäftes erbracht wurde oder erbracht werden soll, es sei denn, ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "der erbrachte oder zu erbringende Betrag beträgt nicht mehr als 20 000 Euro oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "die veräußernde Person ist eine Person im Sinne der Nummer 2 Buchstabe a bis e,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "vollständig oder teilweise von einer oder an eine Person erbracht wird oder werden soll, die weder am Erwerbsvorgang Beteiligter noch wirtschaftlich Berechtigter ist, und der erbrachte oder zu erbringende Betrag mehr als 20 000 Euro beträgt, es sei denn, diese Person ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -751,7 +953,8 @@
                                                                                     "e)",
                                                                                     "f)",
                                                                                     "g)",
-                                                                                    "h)"
+                                                                                    "h)",
+                                                                                    "i)"
                                                                                 ],
                                                                                 "DD": [
                                                                                     {
@@ -759,7 +962,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist Partei kraft Amtes,"
+                                                                                            {
+                                                                                                "_": "ist Partei kraft Amtes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -767,7 +975,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist der derzeitige oder frühere Ehepartner oder eingetragene Lebenspartner einer Vertragspartei des Erwerbsvorgangs,"
+                                                                                            {
+                                                                                                "_": "ist Verpflichteter nach § 2 Absatz 1 Nummer 10 oder 12 des Geldwäschegesetzes und die Zahlung erfolgt über ein Anderkonto,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -775,7 +988,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist ein Verwandter ersten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,"
+                                                                                            {
+                                                                                                "_": "ist der derzeitige oder frühere Ehepartner oder eingetragene Lebenspartner einer Vertragspartei des Erwerbsvorgangs,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -783,7 +1001,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist ein Verwandter zweiten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,"
+                                                                                            {
+                                                                                                "_": "ist ein Verwandter ersten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -791,7 +1014,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,"
+                                                                                            {
+                                                                                                "_": "ist ein Verwandter zweiten Grades, dessen Ehepartner oder eingetragener Lebenspartner einer Vertragspartei des Erwerbsvorgangs,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -799,7 +1027,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,"
+                                                                                            {
+                                                                                                "_": "ist ein verbundenes Unternehmen im Sinne des § 15 des Aktiengesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -807,7 +1040,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "ist eine juristische Person des öffentlichen Rechts oder"
+                                                                                            {
+                                                                                                "_": "ist ein im Grundbuch eingetragener und abzulösender Gläubiger oder ein abzulösender Gläubiger, dem nach § 10 Absatz 1 Nummer 1, 1a oder 2 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung bei einer Zwangsvollstreckung ein Recht auf Befriedigung aus dem Geschäftsgegenstand gewährt werden würde,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -815,12 +1053,43 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 und 2 des Geldwäschegesetzes."
+                                                                                            {
+                                                                                                "_": "ist eine juristische Person des öffentlichen Rechts oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "unterliegt der Aufsicht der zuständigen Aufsichtsbehörde nach § 50 Nummer 1 und 2 des Geldwäschegesetzes, oder",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
                                                                             }
                                                                         ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "vollständig oder teilweise später als ein Jahr nach Stellung des Antrages auf Eintragung beim Grundbuchamt erbracht werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
                                                                     }
                                                                 ]
                                                             }
@@ -829,10 +1098,11 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(2) Der Verpflichtete hat zu melden, wenn der Geschäftsgegenstand Für die Fristbestimmung nach Satz 1 ist maßgeblich ",
+                                                "_": "(2) Der Verpflichtete hat zu melden, wenn der Geschäftsgegenstand Für die Fristbestimmung nach Satz 1 ist maßgeblich Erfolgt die Veräußerung vor dem dinglichen Rechtserwerb, so ist für den Erwerb der Zeitpunkt des Abschlusses des vorhergehenden Rechtsgeschäfts maßgeblich.",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -845,7 +1115,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "innerhalb von drei Jahren nach vorangegangenem Erwerb zu einem Preis weiterveräußert wird oder werden soll, der erheblich von dem vorherigen Preis abweicht, ohne dass dafür ein nachvollziehbarer Grund besteht, oder"
+                                                                    {
+                                                                        "_": "innerhalb von zwei Jahren nach vorangegangenem Erwerb zu einem Preis weiterveräußert wurde oder werden soll, der erheblich von dem vorherigen Preis abweicht, ohne dass dafür ein nachvollziehbarer Grund besteht, oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -853,13 +1128,19 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "innerhalb von drei Jahren nach vorangegangenem Erwerb wieder an den vorherigen Eigentümer oder einen vorherigen Anteilsinhaber veräußert wird oder werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht."
+                                                                    {
+                                                                        "_": "innerhalb von drei Jahren nach vorangegangenem Erwerb wieder an den vorherigen Eigentümer oder einen vorherigen Anteilsinhaber veräußert wurde oder werden soll, ohne dass dafür ein nachvollziehbarer Grund besteht.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     },
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -872,7 +1153,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für den Erwerb der Zeitpunkt des dinglichen Rechtserwerbs und"
+                                                                    {
+                                                                        "_": "für den Erwerb der Zeitpunkt des dinglichen Rechtserwerbs und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -880,26 +1166,35 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für die Veräußerung der Zeitpunkt des Abschlusses des zugrundeliegenden Rechtsgeschäfts."
+                                                                    {
+                                                                        "_": "für die Veräußerung der Zeitpunkt des Abschlusses des zugrundeliegenden Rechtsgeschäfts.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             },
-                                            "(3) Der Verpflichtete hat zu melden, wenn die Zahlung über ein Anderkonto erfolgen soll, ohne dass ein berechtigtes Sicherungsinteresse besteht. Satz 1 gilt nicht für Anderkonten des Notars."
+                                            "(3) Der Verpflichtete hat zu melden, wenn die Gegenleistung über ein Anderkonto erbracht werden soll, ohne dass ein berechtigtes Sicherungsinteresse besteht. Satz 1 gilt nicht für Anderkonten des Notars.",
+                                            "(4) Der Verpflichtete hat zu melden, wenn ein am Erwerbsvorgang Beteiligter seine Nachweispflicht nach § 16a Absatz 2 Satz 1 des Geldwäschegesetzes trotz Aufforderung nach § 16a Absatz 3 Satz 2 Nummer 1 Buchstabe b des Geldwäschegesetzes gegenüber dem Notar nicht erfüllt hat."
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
-                    "doknr": "BJNR196500020BJNE000800000"
+                    "builddate": "20250216223001",
+                    "doknr": "BJNR196500020BJNE000801128"
                 },
                 "metadaten": [
                     {
@@ -929,18 +1224,21 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten Sachverhalten vorhandenen Anzeichen entkräften, dass ein Vermögensgegenstand aus einer strafbaren Handlung stammt, die eine Vortat der Geldwäsche darstellen könnte, oder dass der Erwerbsvorgang im Zusammenhang mit Terrorismusfinanzierung steht, so besteht keine Pflicht zur Meldung. Die Tatsachen, aufgrund derer nach Satz 1 von einer Meldung abgesehen wird, sind nach § 8 Absatz 1 Satz 1 Nummer 4 des Geldwäschegesetzes aufzuzeichnen. Die Dokumentation ist für Zwecke der aufsichtlichen Prüfung aufzubewahren."
+                                            "Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten Sachverhalten vorhandenen Anzeichen entkräften, dass ein Vermögensgegenstand aus einer strafbaren Handlung stammt, die eine Vortat der Geldwäsche darstellen könnte, oder dass der Erwerbsvorgang im Zusammenhang mit Terrorismusfinanzierung steht, so besteht keine Pflicht zur Meldung. Die Tatsachen, aufgrund derer nach Satz 1 von einer Meldung abgesehen wird, sind nach § 8 Absatz 1 Satz 1 Nummer 5 des Geldwäschegesetzes aufzuzeichnen. Die Dokumentation ist für Zwecke der aufsichtlichen Prüfung aufzubewahren."
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250122224503",
+                    "builddate": "20250216223001",
                     "doknr": "BJNR196500020BJNE000900000"
                 },
                 "metadaten": [

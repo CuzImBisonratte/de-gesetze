@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240523214002",
+            "builddate": "20250219224018",
             "doknr": "BJNR008000998"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998"
                 },
                 "metadaten": [
@@ -54,7 +54,7 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "Zuletzt geändert durch Art. 4 G v. 27.3.2024 I Nr. 109"
+                                    "Zuletzt geändert durch Art. 1 V v. 14.2.2025 I Nr. 37"
                                 ]
                             }
                         ]
@@ -95,7 +95,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000106130"
                 },
                 "metadaten": [
@@ -254,7 +254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000210130"
                 },
                 "metadaten": [
@@ -301,7 +301,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000307130"
                 },
                 "metadaten": [
@@ -348,7 +348,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000408130"
                 },
                 "metadaten": [
@@ -395,7 +395,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000507130"
                 },
                 "metadaten": [
@@ -1127,8 +1127,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
-                    "doknr": "BJNR008000998BJNE002201130"
+                    "builddate": "20250219224018",
+                    "doknr": "BJNR008000998BJNE002202130"
                 },
                 "metadaten": [
                     {
@@ -1159,7 +1159,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Zur Behandlung einer schweren Opioidabhängigkeit können zur Substitution zugelassene Arzneimittel mit dem Stoff Diamorphin verschrieben werden. Der substituierende Arzt darf diese Arzneimittel nur verschreiben, wenn § 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 11 gilt entsprechend. Die Verschreibung darf der Arzt nur einem pharmazeutischen Unternehmer vorlegen.",
+                                                "_": "(1) Zur Behandlung einer schweren Opioidabhängigkeit kann der substituierende Arzt zugelassene Arzneimittel mit dem Stoff Diamorphin oder dessen Zubereitungen verschreiben, wenn Einem Patienten, der das 18. Lebensjahr, jedoch noch nicht das 23. Lebensjahr vollendet hat, dürfen zur Behandlung einer schweren Opioidabhängigkeit zugelassene Arzneimittel mit dem Stoff Diamorphin oder dessen Zubereitungen nur verschrieben werden, wenn neben dem substituierenden Arzt ein weiterer suchtmedizinisch qualifizierter Arzt, der nicht derselben Einrichtung angehört, das Vorliegen der in Satz 1 genannten Voraussetzungen bestätigt hat. § 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 11 gilt entsprechend. Die Verschreibung darf der Arzt nur einem pharmazeutischen Unternehmer vorlegen.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -1170,7 +1170,8 @@
                                                             "1.",
                                                             "2.",
                                                             "3.",
-                                                            "4."
+                                                            "4.",
+                                                            "5."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1192,7 +1193,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "bei dem Patienten eine seit mindestens fünf Jahren bestehende Opioidabhängigkeit verbunden mit schwerwiegenden somatischen und psychischen Störungen bei derzeit überwiegend intravenösem Konsum vorliegt,",
+                                                                        "_": "die Opioidabhängigkeit des Patienten seit mindestens zwei Jahren besteht,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1205,7 +1206,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "ein Nachweis über zwei erfolglos beendete Behandlungen der Opioidabhängigkeit vorliegt, von denen mindestens eine eine sechsmonatige Behandlung nach § 5 sein muss, und",
+                                                                        "_": "der Patient erhebliche Defizite in medizinischer, psychologischer oder sozialer Hinsicht aufweist, die jeweils auf den Missbrauch von unerlaubt erworbenen oder erlangten Opioiden zurückzuführen sind,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1218,7 +1219,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "der Patient das 23. Lebensjahr vollendet hat.",
+                                                                        "_": "Nachweise über Behandlungen der Opioidabhängigkeit mit einem in § 5 Absatz 6 Satz 1 genannten Substitutionsmittel vorliegen, die über einen Zeitraum von insgesamt mindestens sechs Monaten durchgeführt wurden und sich als nicht geeignet oder als erfolgslos erwiesen haben, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "der Patient das 18. Lebensjahr vollendet hat.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1288,7 +1302,7 @@
                                             },
                                             "(3) Diamorphin darf nur innerhalb der Einrichtung nach Absatz 2 verschrieben, verabreicht oder unter Aufsicht des substituierenden Arztes oder des sachkundigen Personals nach Absatz 2 Satz 2 Nummer 2 zum unmittelbaren Verbrauch überlassen werden. In den ersten sechs Monaten der Behandlung müssen Maßnahmen der psychosozialen Betreuung stattfinden.",
                                             "(4) Die Behandlung mit Diamorphin ist nach jeweils spätestens zwei Jahren Behandlungsdauer daraufhin zu überprüfen, ob die Voraussetzungen für die Behandlung noch gegeben sind und ob die Behandlung fortzusetzen ist. Die Überprüfung erfolgt, indem eine Zweitmeinung eines suchtmedizinisch qualifizierten Arztes, der nicht der Einrichtung angehört, eingeholt wird. Ergibt diese Überprüfung, dass die Voraussetzungen für die Behandlung nicht mehr gegeben sind, ist die diamorphingestützte Behandlung zu beenden.",
-                                            "(5) Die Absätze 1 bis 4 und § 5 Absatz 11 sind entsprechend anzuwenden, wenn Diamorphin aus dem Bestand des Praxis- oder Stationsbedarfs nach Absatz 3 Satz 1 verabreicht oder zum unmittelbaren Verbrauch überlassen wird."
+                                            "(5) Die Absätze 1 bis 4 und § 5 Absatz 10 sind entsprechend anzuwenden, wenn Diamorphin aus dem Bestand des Praxis- oder Stationsbedarfs nach Absatz 3 Satz 1 verabreicht oder zum unmittelbaren Verbrauch überlassen wird."
                                         ]
                                     }
                                 ]
@@ -1302,7 +1316,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001907116"
                 },
                 "metadaten": [
@@ -1883,7 +1897,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE002005116"
                 },
                 "metadaten": [
@@ -1987,7 +2001,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE002104130"
                 },
                 "metadaten": [
@@ -2089,7 +2103,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000605130"
                 },
                 "metadaten": [
@@ -2137,7 +2151,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000704116"
                 },
                 "metadaten": [
@@ -2423,7 +2437,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000803360"
                 },
                 "metadaten": [
@@ -2473,7 +2487,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE000906130"
                 },
                 "metadaten": [
@@ -2659,7 +2673,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001004130"
                 },
                 "metadaten": [
@@ -2791,7 +2805,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001101310"
                 },
                 "metadaten": [
@@ -2935,7 +2949,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001206130"
                 },
                 "metadaten": [
@@ -3258,7 +3272,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001306130"
                 },
                 "metadaten": [
@@ -3417,7 +3431,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001402310"
                 },
                 "metadaten": [
@@ -3575,7 +3589,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001500311"
                 },
                 "metadaten": [
@@ -3617,7 +3631,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001604130"
                 },
                 "metadaten": [
@@ -3854,7 +3868,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001706130"
                 },
                 "metadaten": [
@@ -4053,7 +4067,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240523214002",
+                    "builddate": "20250219224018",
                     "doknr": "BJNR008000998BJNE001804130"
                 },
                 "metadaten": [
