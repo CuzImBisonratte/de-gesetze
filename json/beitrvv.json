@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241231222243",
+            "builddate": "20250228223017",
             "doknr": "BJNR113800006"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006"
                 },
                 "metadaten": [
@@ -56,6 +56,17 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 2 V v. 1.10.2024 I Nr. 297"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 6b G v. 25.2.2025 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -94,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000100000"
                 },
                 "metadaten": [
@@ -129,7 +140,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000100000"
                 },
                 "metadaten": [
@@ -174,7 +185,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000200000"
                 },
                 "metadaten": [
@@ -218,7 +229,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000309126"
                 },
                 "metadaten": [
@@ -266,7 +277,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000200000"
                 },
                 "metadaten": [
@@ -311,7 +322,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000402126"
                 },
                 "metadaten": [
@@ -457,7 +468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000502119"
                 },
                 "metadaten": [
@@ -503,7 +514,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000300000"
                 },
                 "metadaten": [
@@ -548,7 +559,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000602126"
                 },
                 "metadaten": [
@@ -653,7 +664,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000702126"
                 },
                 "metadaten": [
@@ -700,7 +711,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001901126"
                 },
                 "metadaten": [
@@ -747,7 +758,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000400000"
                 },
                 "metadaten": [
@@ -792,7 +803,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE000807124"
                 },
                 "metadaten": [
@@ -841,8 +852,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
-                    "doknr": "BJNR113800006BJNE000922126"
+                    "builddate": "20250228223017",
+                    "doknr": "BJNR113800006BJNE000923126"
                 },
                 "metadaten": [
                     {
@@ -1200,7 +1211,8 @@
                                                             "17.",
                                                             "18.",
                                                             "18a.",
-                                                            "19."
+                                                            "19.",
+                                                            "20."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1508,7 +1520,20 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.",
+                                                                        "_": "die Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Zustimmung des Beschäftigten zum Zeitpunkt des Eintritts der Versicherungspflicht aufgrund Beschäftigung nach § 127 Absatz 1 Satz 1 Nummer 2 und Satz 2 des Vierten Buches Sozialgesetzbuch.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -1533,7 +1558,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001006126"
                 },
                 "metadaten": [
@@ -1766,7 +1791,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE002000124"
                 },
                 "metadaten": [
@@ -1812,7 +1837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001102119"
                 },
                 "metadaten": [
@@ -1933,7 +1958,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001200000"
                 },
                 "metadaten": [
@@ -1977,7 +2002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001301119"
                 },
                 "metadaten": [
@@ -2023,7 +2048,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001400000"
                 },
                 "metadaten": [
@@ -2067,7 +2092,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001800308"
                 },
                 "metadaten": [
@@ -2113,7 +2138,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000501119"
                 },
                 "metadaten": [
@@ -2161,7 +2186,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001512126"
                 },
                 "metadaten": [
@@ -2721,7 +2746,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNG000600000"
                 },
                 "metadaten": [
@@ -2766,7 +2791,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001600000"
                 },
                 "metadaten": [
@@ -2812,7 +2837,7 @@
             },
             {
                 "$": {
-                    "builddate": "20241231222243",
+                    "builddate": "20250228223017",
                     "doknr": "BJNR113800006BJNE001700000"
                 },
                 "metadaten": [
