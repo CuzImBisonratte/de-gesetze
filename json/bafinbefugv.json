@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240129215501",
+            "builddate": "20250306223002",
             "doknr": "BJNR000300003"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003"
                 },
                 "metadaten": [
@@ -48,7 +48,7 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "Zuletzt geändert durch Art. 2 V v. 24.1.2024 I Nr. 21"
+                                    "Zuletzt geändert durch Art. 2 V v. 27.2.2025 I Nr. 73"
                                 ]
                             }
                         ]
@@ -94,7 +94,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000100000"
                 },
                 "metadaten": [
@@ -512,7 +512,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000905128"
                 },
                 "metadaten": [
@@ -717,7 +717,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000408128"
                 },
                 "metadaten": [
@@ -838,7 +838,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000500360"
                 },
                 "metadaten": [
@@ -875,7 +875,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000802130"
                 },
                 "metadaten": [
@@ -982,7 +982,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE001000119"
                 },
                 "metadaten": [
@@ -1103,7 +1103,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE001101128"
                 },
                 "metadaten": [
@@ -1140,7 +1140,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE001200119"
                 },
                 "metadaten": [
@@ -1177,7 +1177,114 @@
             },
             {
                 "$": {
-                    "builddate": "20240129215501",
+                    "builddate": "20250306223002",
+                    "doknr": "BJNR000300003BJNE001201128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BAFinBefugV"
+                        ],
+                        "enbez": [
+                            "§ 1g"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            {
+                                                "_": "Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf Grundlage des Kryptomärkteaufsichtsgesetzes zu erlassen: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3.",
+                                                            "4."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 21 Absatz 7 Satz 1,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 36 Absatz 2 Satz 1,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 37 Absatz 6 Satz 1 und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 40 Absatz 4 Satz 1, 2 und 3.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20250306223002",
                     "doknr": "BJNR000300003BJNE000300000"
                 },
                 "metadaten": [

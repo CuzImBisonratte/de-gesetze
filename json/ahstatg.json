@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20211231214721",
+            "builddate": "20250305223034",
             "doknr": "BJNR175110021"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021"
                 },
                 "metadaten": [
@@ -46,6 +46,17 @@
                             "Gesetz über die Statistik des Warenverkehrs mit dem Ausland"
                         ],
                         "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 1 G v. 27.2.2025 I Nr. 71 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
+                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -95,7 +106,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE000101000"
                 },
                 "metadaten": [
@@ -137,8 +148,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE000200000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE000201128"
                 },
                 "metadaten": [
                     {
@@ -175,6 +186,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -188,7 +200,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Zollgebiet der Europäischen Union vollständig gewonnen oder hergestellt wurden und für die keine aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union eingeführten Waren verwendet wurden,"
+                                                                    {
+                                                                        "_": "im Zollgebiet der Europäischen Union vollständig gewonnen oder hergestellt wurden und für die keine aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union eingeführten Waren verwendet wurden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -196,7 +213,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union in dieses Gebiet verbracht und zum zollrechtlich freien Verkehr überlassen wurden oder"
+                                                                    {
+                                                                        "_": "aus Ländern oder Gebieten außerhalb des Zollgebietes der Europäischen Union in dieses Gebiet verbracht und zum zollrechtlich freien Verkehr überlassen wurden oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -204,7 +226,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Zollgebiet der Europäischen Union entweder ausschließlich aus Waren nach Nummer 2 oder aus Waren nach Nummer 1 und 2 gewonnen oder hergestellt wurden."
+                                                                    {
+                                                                        "_": "im Zollgebiet der Europäischen Union entweder ausschließlich aus Waren nach Nummer 2 oder aus Waren nach Nummer 1 und 2 gewonnen oder hergestellt wurden.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -218,6 +245,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -237,7 +265,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Seeschiffe und Luftfahrzeuge,"
+                                                                    {
+                                                                        "_": "Seeschiffe und Luftfahrzeuge,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -245,7 +278,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Schiffs- und Luftfahrzeugbedarf, der als Verbrauchsgut an Bord von Seeschiffen und Luftfahrzeugen geliefert wird,"
+                                                                    {
+                                                                        "_": "Schiffs- und Luftfahrzeugbedarf, der als Verbrauchsgut an Bord von Seeschiffen und Luftfahrzeugen geliefert wird,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -253,7 +291,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Meeresprodukte,"
+                                                                    {
+                                                                        "_": "Meeresprodukte,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -261,7 +304,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Waren für und von Einrichtungen auf hoher See,"
+                                                                    {
+                                                                        "_": "Waren für und von Einrichtungen auf hoher See,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -269,7 +317,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Erdgas, das durch fest installierte Transporteinrichtungen geleitet wird,"
+                                                                    {
+                                                                        "_": "Erdgas, das durch fest installierte Transporteinrichtungen geleitet wird,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -277,7 +330,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "elektrischer Strom,"
+                                                                    {
+                                                                        "_": "elektrischer Strom,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -285,7 +343,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "militärischer Bedarf,"
+                                                                    {
+                                                                        "_": "militärischer Bedarf,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -293,7 +356,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Raumflugkörper und"
+                                                                    {
+                                                                        "_": "Raumflugkörper und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -301,7 +369,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Abfallprodukte."
+                                                                    {
+                                                                        "_": "Abfallprodukte.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -327,16 +400,59 @@
                                             "(18) „Einfuhr“ ist der Import einer Ware aus einem Drittland oder die Entnahme einer Nicht-Unionsware aus einem deutschen Zolllager.",
                                             "(19) „Waren im einfachen Verkehr zwischen Ländern“ sind solche, die von einem Land versandt werden und auf dem Weg zum Bestimmungsland direkt durch das Erhebungsgebiet durchgeführt werden und dort nur Aufenthalte haben, die in unmittelbarem Zusammenhang mit dem Transport stehen.",
                                             "(20) „Importeur“ oder „Exporteur“ ist eine gebietsansässige Person, die einen Vertrag geschlossen hat, der zum grenzüberschreitenden Warenverkehr führt. Liegt ein Vertrag nach Satz 1 nicht vor, so ist „Importeur“ oder „Exporteur“ eine gebietsansässige Person, die Ware aus dem Erhebungsgebiet heraus oder in das Erhebungsgebiet hineinbringt oder bringen lässt oder sie entgegennimmt oder entgegennehmen lässt. Liegt ein Vertrag nach Satz 1 nicht vor und existiert keine Person nach Satz 2 oder ist sie nicht feststellbar, so ist „Importeur“ oder „Exporteur“ eine gebietsansässige Person, die die Ware im Moment der grenzüberschreitenden Lieferung besitzt.",
-                                            "(21) „Gebietsansässig“ sind Personen, wenn sie in Deutschland steuerlich registriert sind. Außerdem gelten Personen in der Extrahandelsstatistik als gebietsansässig, wenn sie eine deutsche EORI-Nummer oder eine ausländische EORI-Nummer mit deutscher Niederlassungsnummer erhalten haben.",
-                                            "(22) „Zollbehörden“ sind die für die Anwendung der zollrechtlichen Vorschriften zuständigen Zollverwaltungen der Mitgliedstaaten der Europäischen Union und sonstige nach einzelstaatlichem Recht zur Anwendung zollrechtlicher Vorschriften ermächtigte Behörden.",
-                                            "(23) „Zollanmeldung“ ist die Handlung, durch die eine Person in der vorgeschriebenen Art und Weise die Absicht bekundet, Waren in ein bestimmtes Zollverfahren zu überführen, gegebenenfalls unter Angabe der dafür in Anspruch zu nehmenden besonderen Rechtsvorschriften.",
-                                            "(24) „Versendungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470 der Kommission vom 12. Oktober 2020 über das Verzeichnis der Länder und Gebiete für die europäischen Statistiken über den internationalen Warenverkehr und die geografische Aufgliederung für sonstige Unternehmensstatistiken (ABl. L 334 vom 13.10.2020, S. 2) in der jeweils geltenden Fassung, von welchem aus eine Ware versandt wird.",
-                                            "(25) „Bestimmungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470, in das eine Ware versandt wird.",
-                                            "(26) „Ursprungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470, in dem die Waren hergestellt oder gewonnen wurden.",
-                                            "(27) „Veredelung“ im Sinne der Außenhandelsstatistik ist die Be- oder Verarbeitung einer Ware, die sich nicht im Eigentum des Be- oder Verarbeitenden befindet, mit dem Ziel, aus ihnen neue oder verbesserte Waren herzustellen. „Veredelungsverkehre“ sind Warenverkehre zur oder nach Veredelung.",
-                                            "(28) „Personen“ sind natürliche und juristische Personen sowie Personengesellschaften.",
-                                            "(29) „Exterritoriale Einheiten“ im Sinne dieses Gesetzes sind diplomatische Vertretungen anderer Staaten, ausländische Streitkräfte und ihre Mitglieder sowie Niederlassungen internationaler Organisationen, die sich auf deutschem Staatsgebiet befinden.",
-                                            "(30) Im Übrigen gelten die Begriffsbestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 des Europäischen Parlaments und des Rates vom 17. April 2019 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, sowie der jeweiligen Durchführungsverordnungen in der jeweils geltenden Fassung."
+                                            {
+                                                "_": "(21) „Gebietsansässig“ sind Personen, wenn sie in Deutschland steuerlich registriert sind. Außerdem gelten folgende Personen als gebietsansässig: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "eine natürliche Person, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Erhebungsgebiet hat,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "eine juristische Person oder Personenvereinigung, die ihren Sitz, ihren Hauptsitz oder ihre ständige Niederlassung im Erhebungsgebiet hat.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            "(22) Eine „ständige Niederlassung“ ist eine dauerhafte Niederlassung oder Betriebsstätte, in der die erforderlichen Personal- und Sachmittel ständig vorhanden sind, mit eigener Leitung oder Verwaltung und gesonderter Buchführung.",
+                                            "(23) „Zollbehörden“ sind die für die Anwendung der zollrechtlichen Vorschriften zuständigen Zollverwaltungen der Mitgliedstaaten der Europäischen Union und sonstige nach einzelstaatlichem Recht zur Anwendung zollrechtlicher Vorschriften ermächtigte Behörden.",
+                                            "(24) „Zollanmeldung“ ist die Handlung, durch die eine Person in der vorgeschriebenen Art und Weise die Absicht bekundet, Waren in ein bestimmtes Zollverfahren zu überführen, gegebenenfalls unter Angabe der dafür in Anspruch zu nehmenden besonderen Rechtsvorschriften.",
+                                            "(25) „Versendungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470 der Kommission vom 12. Oktober 2020 über das Verzeichnis der Länder und Gebiete für die europäischen Statistiken über den internationalen Warenverkehr und die geografische Aufgliederung für sonstige Unternehmensstatistiken (ABl. L 334 vom 13.10.2020, S. 2) in der jeweils geltenden Fassung, von welchem aus eine Ware versandt wird.",
+                                            "(26) „Bestimmungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470, in das eine Ware versandt wird.",
+                                            "(27) „Ursprungsland“ ist das Land nach Anhang 1 der Durchführungsverordnung (EU) 2020/1470, in dem die Waren hergestellt oder gewonnen wurden.",
+                                            "(28) „Veredelung“ im Sinne der Außenhandelsstatistik ist die Be- oder Verarbeitung einer Ware, die sich nicht im Eigentum des Be- oder Verarbeitenden befindet, mit dem Ziel, aus ihnen neue oder verbesserte Waren herzustellen. „Veredelungsverkehre“ sind Warenverkehre zur oder nach Veredelung.",
+                                            "(29) „Personen“ sind natürliche und juristische Personen sowie Personengesellschaften.",
+                                            "(30) „Exterritoriale Einheiten“ im Sinne dieses Gesetzes sind diplomatische Vertretungen anderer Staaten, ausländische Streitkräfte und ihre Mitglieder sowie Niederlassungen internationaler Organisationen, die sich auf deutschem Staatsgebiet befinden.",
+                                            "(31) Im Übrigen gelten die Begriffsbestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1), die zuletzt durch die Verordnung (EU) 2019/632 des Europäischen Parlaments und des Rates vom 17. April 2019 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist, sowie der jeweiligen Durchführungsverordnungen in der jeweils geltenden Fassung."
                                         ]
                                     }
                                 ]
@@ -347,7 +463,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE000300000"
                 },
                 "metadaten": [
@@ -420,7 +536,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE000400000"
                 },
                 "metadaten": [
@@ -543,7 +659,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE000500000"
                 },
                 "metadaten": [
@@ -585,8 +701,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE000600000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE000601128"
                 },
                 "metadaten": [
                     {
@@ -699,7 +815,7 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Nicht-Unionswaren, die im Zollverfahren der aktiven Veredelung in das deutsche Erhebungsgebiet eingeführt werden, sowie solche, die aus dem Zolllager entnommen und in den freien Verkehr übergeführt werden,"
+                                                                                            "Nicht-Unionswaren, die im Zollverfahren der aktiven Veredelung in das deutsche Erhebungsgebiet importiert werden, sowie solche, die aus dem Zolllager entnommen und in den freien Verkehr überlassen oder in die aktive Veredelung überführt werden,"
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -735,8 +851,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE000700000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE000701128"
                 },
                 "metadaten": [
                     {
@@ -771,6 +887,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -794,7 +911,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Bezugszeitraum,"
+                                                                    {
+                                                                        "_": "Bezugszeitraum,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -802,7 +924,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Verkehrsrichtung,"
+                                                                    {
+                                                                        "_": "Verkehrsrichtung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -810,7 +937,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Warennummer,"
+                                                                    {
+                                                                        "_": "Warennummer,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -818,7 +950,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Warenbezeichnung,"
+                                                                    {
+                                                                        "_": "Warenbezeichnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -826,7 +963,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Ursprungsbundesland,"
+                                                                    {
+                                                                        "_": "Ursprungsbundesland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -834,7 +976,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Bestimmungsbundesland,"
+                                                                    {
+                                                                        "_": "Bestimmungsbundesland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -842,7 +989,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Ursprungsland,"
+                                                                    {
+                                                                        "_": "Ursprungsland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -850,7 +1002,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Bestimmungsland,"
+                                                                    {
+                                                                        "_": "Bestimmungsland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -858,7 +1015,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Versendungsland,"
+                                                                    {
+                                                                        "_": "Versendungsland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -866,7 +1028,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Statistischer Wert,"
+                                                                    {
+                                                                        "_": "Statistischer Wert,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -874,7 +1041,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Menge der Ware,"
+                                                                    {
+                                                                        "_": "Menge der Ware,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -882,7 +1054,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Art des Geschäfts,"
+                                                                    {
+                                                                        "_": "Art des Geschäfts,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -890,7 +1067,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Verkehrszweig an der Grenze."
+                                                                    {
+                                                                        "_": "Verkehrszweig an der Grenze.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -902,6 +1084,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -914,7 +1097,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Rechnungsbetrag,"
+                                                                    {
+                                                                        "_": "Rechnungsbetrag,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -922,7 +1110,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "bei Versendungen: Umsatzsteuer-Identifikationsnummer des ausländischen Warenempfängers."
+                                                                    {
+                                                                        "_": "bei Versendungen: Umsatzsteuer-Identifikationsnummer des Handelspartners im Bestimmungsland.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -934,6 +1127,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -948,7 +1142,8 @@
                                                             "9.",
                                                             "10.",
                                                             "11.",
-                                                            "12."
+                                                            "12.",
+                                                            "13."
                                                         ],
                                                         "DD": [
                                                             {
@@ -956,7 +1151,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Kodierung des Zollverfahrens,"
+                                                                    {
+                                                                        "_": "Kodierung des Zollverfahrens,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -964,7 +1164,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Rechnungswährung,"
+                                                                    {
+                                                                        "_": "Rechnungswährung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -972,7 +1177,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Gesamtbetrag der Rechnung,"
+                                                                    {
+                                                                        "_": "Gesamtbetrag der Rechnung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -980,7 +1190,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Präferenzbehandlung bei der Einfuhr, sofern diese von den Zollbehörden gewährt wurde,"
+                                                                    {
+                                                                        "_": "bei der Einfuhr: in Rechnung gestellter Positionsbetrag,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -988,7 +1203,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Verkehrszweig im Inland,"
+                                                                    {
+                                                                        "_": "Präferenzbehandlung bei der Einfuhr, sofern diese von den Zollbehörden gewährt wurde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -996,7 +1216,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Angabe, ob die Ware in Containern befördert wird,"
+                                                                    {
+                                                                        "_": "Verkehrszweig im Inland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1004,7 +1229,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Mitgliedstaat, in dem sich die Ware zum Zeitpunkt der Überführung in das Zollverfahren befindet,"
+                                                                    {
+                                                                        "_": "Angabe, ob die Ware in Containern befördert wird,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1012,7 +1242,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "endgültiges Bestimmungsland,"
+                                                                    {
+                                                                        "_": "Mitgliedstaat, in dem sich die Ware zum Zeitpunkt der Überführung in das Zollverfahren befindet,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1020,7 +1255,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "tatsächliches Ausfuhrland,"
+                                                                    {
+                                                                        "_": "endgültiges Bestimmungsland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1028,7 +1268,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Statistisches Verfahren,"
+                                                                    {
+                                                                        "_": "tatsächliches Ausfuhrland,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1036,7 +1281,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Ort der Ware,"
+                                                                    {
+                                                                        "_": "Statistisches Verfahren,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1044,7 +1294,25 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Lieferbedingung."
+                                                                    {
+                                                                        "_": "Ort der Ware,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Lieferbedingung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1061,8 +1329,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE000800000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE000801128"
                 },
                 "metadaten": [
                     {
@@ -1097,6 +1365,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1111,9 +1380,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "für die Intrahandelsstatistik ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -1127,7 +1400,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,"
+                                                                                            {
+                                                                                                "_": "für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1135,7 +1413,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Steuernummer aus der Umsatzsteuer-Voranmeldung sowie Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen; bei umsatzsteuerrechtlichen Organschaften die Umsatzsteuer-Identifikationsnummer des Organträgers und die Umsatzsteuer-Identifikationsnummer der Organgesellschaft, welche die Ware versendet oder bei der sie eingeht,"
+                                                                                            {
+                                                                                                "_": "Steuernummer aus der Umsatzsteuer-Voranmeldung sowie Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen; bei umsatzsteuerrechtlichen Organschaften die Umsatzsteuer-Identifikationsnummer des Organträgers und die Umsatzsteuer-Identifikationsnummer der Organgesellschaft, welche die Ware versendet oder bei der sie eingeht; bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1143,7 +1426,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen;"
+                                                                                            {
+                                                                                                "_": "Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten;",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -1159,9 +1447,13 @@
                                                                 "LA": [
                                                                     {
                                                                         "_": "für die Extrahandelsstatistik ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
                                                                         "DL": [
                                                                             {
                                                                                 "$": {
+                                                                                    "Font": "normal",
                                                                                     "Type": "alpha"
                                                                                 },
                                                                                 "DT": [
@@ -1175,7 +1467,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,"
+                                                                                            {
+                                                                                                "_": "für den Rechtsverkehr verbindliche Angabe von Name oder Firma, Verwaltungsanschrift unter Angabe von Straße, Hausnummer, Postfach, Postleitzahl, Ort und Länderkennzeichen, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     },
                                                                                     {
@@ -1185,6 +1482,9 @@
                                                                                         "LA": [
                                                                                             {
                                                                                                 "_": "EORI-Nummer, ergänzende nationale Niederlassungsnummer zur EORI-Nummer, TCUI- IOSS-Nummer, Steuernummer der Auskunftspflichtigen aus der Umsatzsteuer- Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen, Registriernummer der Zollanmeldung, sowie weitere, aufgrund einer Rechtsverordnung nach § 18 Nummer 3 festgelegte Identifikatoren,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                },
                                                                                                 "NB": [
                                                                                                     "Nummer,",
                                                                                                     "Voranmeldung,"
@@ -1197,7 +1497,12 @@
                                                                                             "Font": "normal"
                                                                                         },
                                                                                         "LA": [
-                                                                                            "Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen."
+                                                                                            {
+                                                                                                "_": "Bevollmächtigte für die statistische Auskunftserteilung einschließlich deren Kontaktdaten.",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
                                                                                         ]
                                                                                     }
                                                                                 ]
@@ -1220,8 +1525,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE000900000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE000901128"
                 },
                 "metadaten": [
                     {
@@ -1253,17 +1558,17 @@
                                         "P": [
                                             "(1) Für die Außenhandelsstatistik besteht Auskunftspflicht, die auch die Anmeldung nach § 6 umfasst. Die Auskunftserteilung zu den Angaben nach § 8 Nummer 1 Buchstabe c und Nummer 2 Buchstabe c ist freiwillig.",
                                             {
-                                                "_": "(2) Zusätzlich zu Absatz 1 umfasst die Auskunftspflicht die Beantwortung von Rückfragen des Statistischen Bundesamtes zu ",
+                                                "_": "(2) Zusätzlich zu Absatz 1 umfasst die Auskunftspflicht ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3.",
-                                                            "4."
+                                                            "3."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1271,7 +1576,80 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "den angemeldeten Warenverkehren in der Intrahandels- und Extrahandelsstatistik,"
+                                                                    {
+                                                                        "_": "die Beantwortung von Rückfragen des Statistischen Bundesamtes zu ",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        },
+                                                                        "DL": [
+                                                                            {
+                                                                                "$": {
+                                                                                    "Font": "normal",
+                                                                                    "Type": "alpha"
+                                                                                },
+                                                                                "DT": [
+                                                                                    "a)",
+                                                                                    "b)",
+                                                                                    "c)",
+                                                                                    "d)"
+                                                                                ],
+                                                                                "DD": [
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den angemeldeten Warenverkehren in der Intrahandels- und Extrahandelsstatistik,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den nach § 12 übermittelten Daten und Informationen, insbesondere von den Finanzbehörden zu den Umsatzsteuervoranmeldungen sowie zu den Unterlagen, welche die Auskunftspflichtigen im Rahmen der Umsatzsteuer-Voranmeldung den zuständigen Finanzbehörden vorzulegen haben,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den Daten, die von der Deutschen Bundesbank zu Veredelungsverkehren übermittelt werden, sowie",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "den Einzelangaben, die dem Statistischen Bundesamt im Rahmen des Datenaustausches nach § 15 Absatz 6 übermittelt werden,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1279,7 +1657,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "den nach § 12 übermittelten Daten und Informationen, insbesondere von den Finanzbehörden zu den Umsatzsteuervoranmeldungen sowie zu den Unterlagen, welche die Auskunftspflichtigen im Rahmen der Umsatzsteuer-Voranmeldung den zuständigen Finanzbehörden vorzulegen haben,"
+                                                                    {
+                                                                        "_": "für Personen, die nach § 14 Absatz 5 anmeldepflichtig sind, eine Anzeige an das Statistische Bundesamt, falls in einem Bezugszeitraum keine Warenverkehre nach § 6 Absatz 2 stattgefunden haben (Fehlanzeige),",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1287,15 +1670,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "den Daten, die von der Deutschen Bundesbank zu Veredelungsverkehren übermittelt werden sowie"
-                                                                ]
-                                                            },
-                                                            {
-                                                                "$": {
-                                                                    "Font": "normal"
-                                                                },
-                                                                "LA": [
-                                                                    "den Einzelangaben, die dem Statistischen Bundesamt im Rahmen des Datenaustausches nach § 15 Absatz 6 übermittelt werden."
+                                                                    {
+                                                                        "_": "die Berichtigung von fehlerhaften Meldungen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1303,8 +1683,9 @@
                                                 ]
                                             },
                                             "(3) Auskunftspflichtig für einen Warenverkehr ist der Importeur oder Exporteur oder sein Fiskalvertreter nach § 22a des Umsatzsteuergesetzes.",
-                                            "(4) Auskunftspflichtig für die Intrahandelsstatistik sind von den in Absatz 3 genannten Personen nur Unternehmer, die nach § 18 Umsatzsteuergesetz auch zur Abgabe einer Umsatzsteuer-Voranmeldung verpflichtet sind. Im Fall einer umsatzsteuerrechtlichen Organschaft ist der Organträger auskunftspflichtig. Über besondere Waren und Warenbewegungen sind darüber hinaus Privatpersonen auskunftspflichtig, die das wirtschaftliche Eigentum an einer Ware erwerben oder veräußern.",
-                                            "(5) Gewerbsmäßige Versandhändler, die mit Privatpersonen handeln, sind auch über eventuelle Rücksendungen durch Privatpersonen aus dem Erhebungsgebiet heraus auskunftspflichtig."
+                                            "(4) Auskunftspflichtig für die Intrahandelsstatistik sind von den in Absatz 3 genannten Personen nur Unternehmer im Sinne von § 2 des Umsatzsteuergesetzes. Im Fall einer umsatzsteuerrechtlichen Organschaft ist der Organträger auskunftspflichtig. Über besondere Waren und Warenbewegungen sind darüber hinaus Privatpersonen auskunftspflichtig, die das wirtschaftliche Eigentum an einer Ware erwerben oder veräußern.",
+                                            "(5) Existiert kein auskunftspflichtiger Importeur oder Exporteur nach den Absätzen 3 und 4, ist die steuerpflichtige Person nach Titel III der Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1; L 335 vom 20.12.2007, S. 60; L 336 vom 16.12.2017, S. 60), die zuletzt durch die Richtlinie (EU) 2022/890 (ABl. L 155 vom 8.6.2022, S. 1) geändert worden ist, die einen Vertrag geschlossen hat, der zum grenzüberschreitenden Warenverkehr führt, auskunftspflichtig. Falls keine steuerpflichtige Person nach Satz 1 existiert, ist die steuerpflichtige Person auskunftspflichtig, die die Ware aus dem Erhebungsgebiet heraus- oder in das Erhebungsgebiet hineinbringt oder hineinbringen lässt oder sie entgegennimmt oder entgegennehmen lässt.",
+                                            "(6) Gewerbsmäßige Versandhändler, die mit Privatpersonen handeln, sind auch über eventuelle Rücksendungen durch Privatpersonen aus dem Erhebungsgebiet heraus auskunftspflichtig."
                                         ]
                                     }
                                 ]
@@ -1315,8 +1696,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001000000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001001128"
                 },
                 "metadaten": [
                     {
@@ -1353,6 +1734,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1360,7 +1742,8 @@
                                                             "2.",
                                                             "3.",
                                                             "4.",
-                                                            "5."
+                                                            "5.",
+                                                            "6."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1368,7 +1751,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Warenverkehre im Extrahandel nach § 6 Absatz 3 und 5,"
+                                                                    {
+                                                                        "_": "Warenverkehre nach § 6 Absatz 3 und 5,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1376,7 +1764,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Anmeldungen zum Warenverkehr mit Gebieten von Mitgliedstaaten außerhalb des Zollgebietes der Europäischen Union,"
+                                                                    {
+                                                                        "_": "die Anmeldungen zum Warenverkehr mit Gebieten von Mitgliedstaaten außerhalb des Zollgebietes der Europäischen Union,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1384,7 +1777,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Zollanmeldungen im Rahmen der zollamtlich bewilligten aktiven Veredelung innerhalb der Europäischen Union,"
+                                                                    {
+                                                                        "_": "die Anmeldungen zum Warenverkehr mit Gebieten, die in Artikel 6 der Richtlinie 2006/112/EG des Rates vom 28. November 2006 genannt sind,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1392,7 +1790,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "besondere Waren und besondere Warenbewegungen nach § 6 Absatz 4 sowie"
+                                                                    {
+                                                                        "_": "die Zollanmeldungen im Rahmen der zollamtlich bewilligten aktiven Veredelung innerhalb der Europäischen Union,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1400,7 +1803,25 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Warenverkehre zwischen dem Erhebungsgebiet und exterritorialen Einheiten."
+                                                                    {
+                                                                        "_": "besondere Waren und besondere Warenbewegungen nach § 6 Absatz 4 sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Warenverkehre zwischen dem Erhebungsgebiet und exterritorialen Einheiten nach § 6 Absatz 6.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1419,8 +1840,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001100000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001101128"
                 },
                 "metadaten": [
                     {
@@ -1432,7 +1853,7 @@
                         ],
                         "titel": [
                             {
-                                "_": "Berichtszeitraum, Meldefrist und Erhebungszeitraum",
+                                "_": "Bezugszeitraum, Meldefrist und Erhebungszeitraum",
                                 "$": {
                                     "format": "XML"
                                 }
@@ -1450,9 +1871,9 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Der Berichtszeitraum für Warenverkehre ist der Monat, in dem der Warenverkehr stattfindet. Bei Lieferung einer Ware, die aufgrund der Erfordernisse des Handels oder aus Transportgründen demontiert oder zerlegt und über einen längeren Zeitraum als einen Monat befördert wird, ist der Berichtszeitraum der Monat der letzten Teillieferung.",
-                                            "(2) Falls die Datenerhebung durch eine Zollanmeldung erfolgt ist, ist der Berichtszeitraum der Kalendermonat, in dem die Waren in ein Zollverfahren überführt werden.",
-                                            "(3) Beim Statistischen Bundesamt direkt anzumeldende Warenverkehre eines Berichtszeitraumes müssen bis zum zehnten Arbeitstag des Folgemonats gemeldet werden.",
+                                            "(1) Der Bezugszeitraum für Warenverkehre ist der Monat, in dem der Warenverkehr stattfindet. Bei Lieferung einer Ware, die aufgrund der Erfordernisse des Handels oder aus Transportgründen demontiert oder zerlegt und über einen längeren Zeitraum als einen Monat befördert wird, ist der Bezugszeitraum der Monat der letzten Teillieferung.",
+                                            "(2) Falls die Datenerhebung durch eine Zollanmeldung erfolgt ist, ist der Bezugszeitraum der Kalendermonat, in dem die Waren in ein Zollverfahren überführt werden.",
+                                            "(3) Beim Statistischen Bundesamt direkt anzumeldende Warenverkehre eines Bezugszeitraumes müssen bis zum zehnten Arbeitstag des Folgemonats gemeldet werden.",
                                             "(4) Erhebungszeitraum ist das aktuelle Kalenderjahr. Es findet auch eine Revision der Ergebnisse der drei Vorjahre statt. Die auskunftspflichtigen Personen sind verpflichtet, für den Erhebungszeitraum sowie die drei Vorjahre die für die Außenhandelsstatistik relevanten Unterlagen aufzubewahren."
                                         ]
                                     }
@@ -1464,8 +1885,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001200000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001201128"
                 },
                 "metadaten": [
                     {
@@ -1496,8 +1917,8 @@
                                     {
                                         "P": [
                                             "(1) Im Rahmen der Umsatzsteuer-Voranmeldung unterrichten die Finanzverwaltungen die Steuerpflichtigen über die Auskunftspflicht zur Außenhandelsstatistik.",
-                                            "(2) Das Bundeszentralamt für Steuern übermittelt dem Statistischen Bundesamt die Daten nach Anhang 5 Buchstabe b der Verordnung (EU) 2019/2152, die es im Rahmen der Zusammenfassenden Meldung erhält.",
-                                            "(3) Die Zollbehörden übermitteln dem Statistischen Bundesamt ergänzend zu den Erhebungs- und Hilfsmerkmalen nach den §§ 7 und 8 weitere Daten aus Zollanmeldungen, die geeignet sind, die Auskunftspflicht nach § 9 festzustellen oder die Angaben der auskunftspflichtigen Personen zu den Merkmalen nach den §§ 7 und 8 zu überprüfen. Die nach Satz 1 zu übermittelnden Daten werden in einer Rechtsverordnung nach § 18 Nummer 14 festgelegt. Werden von den Zollbehörden nachträglich Korrekturen zu bereits an das Statistische Bundesamt übermittelte Merkmalen nach § 7 oder § 8 einer Zollanmeldung vorgenommen, übermitteln sie diese Korrekturen an das Statistische Bundesamt, sofern die technischen Voraussetzungen für die Übermittlung bei den Zollbehörden gegeben sind.",
+                                            "(2) Das Bundeszentralamt für Steuern sowie die Finanzverwaltungen der Länder übermitteln dem Statistischen Bundesamt die Daten nach Anhang V der Verordnung (EU) 2019/2152, soweit diese Angaben bei ihnen vorliegen.",
+                                            "(3) Die Zollbehörden übermitteln dem Statistischen Bundesamt ergänzend zu den Erhebungs- und Hilfsmerkmalen nach den §§ 7 und 8 weitere Daten, die geeignet sind, die Auskunftspflicht nach § 9 festzustellen oder die Angaben der auskunftspflichtigen Personen zu den Merkmalen nach den §§ 7 und 8 zu überprüfen. Die nach Satz 1 zu übermittelnden Daten werden in einer Rechtsverordnung nach § 18 Nummer 14 festgelegt. Werden von den Zollbehörden nachträglich Korrekturen zu bereits an das Statistische Bundesamt übermittelte Merkmalen nach § 7 oder § 8 einer Zollanmeldung vorgenommen, übermitteln sie diese Korrekturen an das Statistische Bundesamt, sofern die technischen Voraussetzungen für die Übermittlung bei den Zollbehörden gegeben sind.",
                                             "(4) Die Seeschiffsregister, die Bundesanstalt für Landwirtschaft und Ernährung sowie das Luftfahrtbundesamt übermitteln dem Statistischen Bundesamt Daten zu den Merkmalen nach den §§ 7 und 8 sowie zum Bestehen der Auskunftspflicht und zum Übergang des wirtschaftlichen Eigentums von besonderen Waren und Warenbewegungen, soweit diese Angaben bei ihnen vorhanden sind."
                                         ]
                                     }
@@ -1509,8 +1930,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001300000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001301128"
                 },
                 "metadaten": [
                     {
@@ -1546,6 +1967,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1562,7 +1984,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zur Bestimmung der Auskunftspflichtigen nach § 9 Absatz 3 und 4,"
+                                                                    {
+                                                                        "_": "zur Bestimmung der Auskunftspflichtigen nach § 9 Absatz 3 bis 5,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1570,7 +1997,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zur Bestimmung der Befreiungen der Auskunftspflichtigen von der Anmeldung für eine Verkehrsrichtung im Intrahandel nach § 14,"
+                                                                    {
+                                                                        "_": "zur Bestimmung der Befreiungen der Auskunftspflichtigen von der Anmeldung für eine Verkehrsrichtung im Intrahandel nach § 14,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1578,7 +2010,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zur Vollständigkeits- und Plausibilitätskontrolle der Anmeldungen sowie damit verbundenen Rückfragen,"
+                                                                    {
+                                                                        "_": "zur Vollständigkeits- und Plausibilitätskontrolle der Anmeldungen sowie damit verbundenen Rückfragen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1586,7 +2023,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für Datenabgleiche mit dem Statistikregister nach § 13 Absatz 1 des Bundesstatistikgesetzes,"
+                                                                    {
+                                                                        "_": "für Datenabgleiche mit dem Statistikregister nach § 13 Absatz 1 des Bundesstatistikgesetzes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1594,7 +2036,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für die Außenhandelsstatistik nach Unternehmenseigenschaften (TEC) nach Anhang 1 Tabelle 16 der Durchführungsverordnung (EU) 2020/1197,"
+                                                                    {
+                                                                        "_": "für die Außenhandelsstatistik nach Unternehmenseigenschaften (TEC) nach Anhang 1 Tabelle 16 der Durchführungsverordnung (EU) 2020/1197,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1602,7 +2049,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für Auswertungszwecke."
+                                                                    {
+                                                                        "_": "für Auswertungszwecke.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1610,10 +2062,11 @@
                                                 ]
                                             },
                                             {
-                                                "_": "(3) Das Statistische Bundesamt führt in dem Verzeichnis folgende Angaben zu den Auskunftspflichtigen nach § 9 Absatz 3: ",
+                                                "_": "(3) Das Statistische Bundesamt führt in dem Verzeichnis folgende Angaben zu den Auskunftspflichtigen nach § 9 Absatz 3 und 5: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1623,7 +2076,10 @@
                                                             "4.",
                                                             "5.",
                                                             "6.",
-                                                            "7."
+                                                            "7.",
+                                                            "8.",
+                                                            "9.",
+                                                            "10."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1631,7 +2087,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Name des Auskunftspflichtigen sowie Name der meldenden Organgesellschaften bei umsatzsteuerrechtlichen Organschaften,"
+                                                                    {
+                                                                        "_": "Name und Anschrift der Auskunftspflichtigen sowie bei umsatzsteuerrechtlichen Organschaften Name und Anschrift der meldenden Organgesellschaften und der weiteren zugehörigen Organgesellschaften,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1639,7 +2100,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Einzelangaben zu grenzüberschreitenden Warenbewegungen für den Erhebungszeitraum einschließlich der drei Vorjahre nach § 11 Absatz 4,"
+                                                                    {
+                                                                        "_": "im Falle umsatzsteuerrechtlicher Organschaften, für jede Organgesellschaft der Beginn und das Ende der Zugehörigkeit zum Organträger,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1647,7 +2113,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Gesamtwerte der innergemeinschaftlichen Lieferungen der Auskunftspflichtigen jeweils für die letzten zehn Jahre,"
+                                                                    {
+                                                                        "_": "Einzelangaben zu grenzüberschreitenden Warenbewegungen für den Erhebungszeitraum einschließlich der drei Vorjahre nach § 11 Absatz 4,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1655,7 +2126,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Steuernummern aus der Umsatzsteuer-Voranmeldung und Umsatzsteuernummern,"
+                                                                    {
+                                                                        "_": "Gesamtwerte der innergemeinschaftlichen Lieferungen der Auskunftspflichtigen jeweils für die letzten zehn Jahre,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1663,7 +2139,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Umsatzsteuer-Identifikationsnummern,"
+                                                                    {
+                                                                        "_": "Steuernummern aus der Umsatzsteuer-Voranmeldung und Umsatzsteuernummern,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1671,7 +2152,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "EORI-Nummern, TCUI-Nummern, IOSS-Nummern oder, falls nicht vorhanden, ein anderer eindeutiger Identifikator aus der Zollanmeldung, sofern dessen Erhebung durch Rechtsverordnung nach § 18 Nummer 4 angeordnet wurde,"
+                                                                    {
+                                                                        "_": "Umsatzsteuer-Identifikationsnummern,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1679,7 +2165,51 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Datum der erstmaligen Aufnahme des Auskunftspflichtigen und der meldenden Organgesellschaft in das Verzeichnis."
+                                                                    {
+                                                                        "_": "EORI-Nummern, TCUI-Nummern, IOSS-Nummern oder, falls nicht vorhanden, ein anderer eindeutiger Identifikator aus der Zollanmeldung, sofern dessen Erhebung durch Rechtsverordnung nach § 18 Nummer 4 angeordnet wurde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unternehmensbasisdatenregistergesetzes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Kennnummer nach § 1 Absatz 1 Satz 6 des Statistikregistergesetzes sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Datum der erstmaligen Aufnahme des Auskunftspflichtigen, der meldenden Organgesellschaften und der weiteren zugehörigen Organgesellschaften in das Verzeichnis.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -1692,12 +2222,15 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4.",
+                                                            "5."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1705,7 +2238,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Erhebungen nach § 4 Absatz 1,"
+                                                                    {
+                                                                        "_": "Erhebungen nach § 4 Absatz 1,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1713,7 +2251,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Umsatzsteuer-Voranmeldungen, zusammenfassenden Meldungen nach § 18a des Umsatzsteuergesetzes, Zollanmeldungen, Einzelangaben, die von statistischen Ämtern anderer Mitgliedstaaten der Europäischen Union oder von der Deutschen Bundesbank erhoben und dem Statistischen Bundesamt übermittelt wurden sowie"
+                                                                    {
+                                                                        "_": "Daten und Informationen, die nach § 12 von Behörden übermittelt werden, sowie Einzelangaben, die von statistischen Ämtern anderer Mitgliedstaaten der Europäischen Union oder von der Deutschen Bundesbank dem Statistischen Bundesamt übermittelt wurden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1721,13 +2264,45 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "allgemein zugänglichen Quellen."
+                                                                    {
+                                                                        "_": "Daten und Informationen zur Zusammensetzung umsatzsteuerrechtlicher Organschaften, die dem Statistischen Bundesamt auf der Grundlage von § 2 des Verwaltungsdatenverwendungsgesetzes übermittelt wurden,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "dem Statistikregister nach § 1 des Statistikregistergesetzes sowie",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "allgemein zugänglichen Quellen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
-                                            }
+                                            },
+                                            "(6) Durch Rechtsverordnung nach § 18 Nummer 15 dürfen über die in Absatz 3 genannten Angaben hinaus zusätzliche Angaben zu den Auskunftspflichtigen in das Verzeichnis aller am Außenhandel beteiligten Personen aufgenommen werden."
                                         ]
                                     }
                                 ]
@@ -1738,8 +2313,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001400000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001401128"
                 },
                 "metadaten": [
                     {
@@ -1770,8 +2345,8 @@
                                     {
                                         "P": [
                                             "(1) Der Abdeckungsgrad bezeichnet den Anteil des Wertes des Warenverkehrs einer bestimmten Verkehrsrichtung, der durch die Erhebungen zur Intrahandelsstatistik mindestens abzudecken ist.",
-                                            "(2) Durch Rechtsverordnung nach § 18 Nummer 7 wird die Anmeldeschwelle für Versendungen so festgelegt, dass der Abdeckungsgrad nach Anhang 5 Abschnitt 29 der Durchführungsverordnung (EU) 2020/1197 mindestens erreicht wird. In die Berechnung der Anmeldeschwelle wird der gesamte Statistische Wert der Versendungen einer Person mit Ausnahme der nach der Befreiungsliste nicht anzumeldenden Warenverkehre einbezogen.",
-                                            "(3) Der Abdeckungsgrad für Eingänge beträgt 93 Prozent. Durch Rechtsverordnung nach § 18 Nummer 7 wird die Anmeldeschwelle so festgelegt, dass der Abdeckungsgrad mindestens erreicht wird. In die Berechnung der Anmeldeschwelle wird der gesamte Statistische Wert der Versendungen einer Person mit Ausnahme der nach der Befreiungsliste nicht anzumeldenden Warenverkehre einbezogen.",
+                                            "(2) Durch Rechtsverordnung nach § 18 Nummer 5 wird die Anmeldeschwelle für Versendungen so festgelegt, dass der Abdeckungsgrad nach Anhang 5 Abschnitt 29 der Durchführungsverordnung (EU) 2020/1197 mindestens erreicht wird. In die Berechnung der Anmeldeschwelle wird der gesamte Statistische Wert der Versendungen eines Auskunftspflichtigen mit Ausnahme der nach der Befreiungsliste nicht anzumeldenden Warenverkehre einbezogen.",
+                                            "(3) Durch Rechtsverordnung nach § 18 Nummer 5 wird gemäß den Anforderungen an die Ergebnisqualität der Außenhandelsstatistik eine Anmeldeschwelle für Eingänge festgelegt.",
                                             "(4) Personen, deren Eingänge oder Versendungen weder im vorangegangenen noch im aktuellen Kalenderjahr über den Anmeldeschwellen liegen, sind von der Anmeldepflicht für die Warenverkehre für die jeweilige Verkehrsrichtung befreit. Die Daten können jedoch freiwillig übermittelt werden. Ausgenommen von der Befreiung sind Erwerbe und Veräußerungen von Schiffen und Luftfahrzeugen.",
                                             "(5) Überschreiten Eingänge oder Versendungen einer nicht zur Anmeldung verpflichteten Person im laufenden Kalenderjahr die Anmeldeschwelle, ist sie von dem Monat an, in dem die Anmeldeschwelle überschritten wurde, für die jeweilige Verkehrsrichtung anmeldepflichtig."
                                         ]
@@ -1784,7 +2359,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE001500000"
                 },
                 "metadaten": [
@@ -1832,7 +2407,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE001600000"
                 },
                 "metadaten": [
@@ -1877,7 +2452,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE001700000"
                 },
                 "metadaten": [
@@ -1919,8 +2494,8 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
-                    "doknr": "BJNR175110021BJNE001800000"
+                    "builddate": "20250305223034",
+                    "doknr": "BJNR175110021BJNE001802128"
                 },
                 "metadaten": [
                     {
@@ -1951,10 +2526,11 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Energie werden ermächtigt, durch gemeinsame Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln: ",
+                                                "_": "Das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Klimaschutz werden ermächtigt, durch gemeinsame Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln: ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -1971,7 +2547,8 @@
                                                             "11.",
                                                             "12.",
                                                             "13.",
-                                                            "14."
+                                                            "14.",
+                                                            "15."
                                                         ],
                                                         "DD": [
                                                             {
@@ -1979,7 +2556,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Zuordnung bestimmter Warenbewegungen über die Grenze des Erhebungsgebietes zum Intra- oder Extrahandel,"
+                                                                    {
+                                                                        "_": "die Zuordnung bestimmter Warenbewegungen über die Grenze des Erhebungsgebietes zum Intra- oder Extrahandel,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1987,7 +2569,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Festlegungen zum Berichtszeitraum und zum Erhebungszeitraum nach § 11 Absatz 1 und 4,"
+                                                                    {
+                                                                        "_": "nähere Festlegungen zum Bezugszeitraum und zum Erhebungszeitraum nach § 11 Absatz 1 und 4,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -1995,7 +2582,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Aufnahme zusätzlicher Identifikatoren als Hilfsmerkmale nach § 8 Nummer 2 Buchstabe b,"
+                                                                    {
+                                                                        "_": "die Aufnahme zusätzlicher Identifikatoren als Hilfsmerkmale nach § 8 Nummer 2 Buchstabe b,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2003,7 +2595,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zur Übermittlung und Verwendung von Daten dieser öffentlichen Stellen nach § 12,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zur Übermittlung und Verwendung von Daten dieser öffentlichen Stellen nach § 12,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2011,7 +2608,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Anpassung des Abdeckungsgrades für Eingänge sowie der Anmeldeschwellen nach § 14 Absatz 2 und 3,"
+                                                                    {
+                                                                        "_": "die Festlegung der Anmeldeschwellen nach § 14 Absatz 2 und 3,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2019,7 +2621,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zu den Erhebungs- und Hilfsmerkmalen,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zu den Erhebungs- und Hilfsmerkmalen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2027,7 +2634,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zum Anmeldeverfahren,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zum Anmeldeverfahren,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2035,7 +2647,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zur Erfassung von Veredelungsverkehren und zu Befreiungen von Waren und Warenbewegungen von der Anmeldung nach § 6 sowie zur Verlängerung der Meldefristen,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zur Erfassung von Veredelungsverkehren und zu Befreiungen von Waren und Warenbewegungen von der Anmeldung nach § 6 sowie zur Verlängerung der Meldefristen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2043,7 +2660,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Regelungen zu vereinfachten Anmeldungen von Warenverkehren nach § 6 Absatz 7 sowie die Erstellung von Sammelwarennummern zur vereinfachten Anmeldung nach Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1), die zuletzt durch die Verordnung (EU) 2020/1369 vom 29. September 2020 (ABl. L 319 vom 2.10.2020, S. 2) geändert worden ist,"
+                                                                    {
+                                                                        "_": "Regelungen zu vereinfachten Anmeldungen von Warenverkehren nach § 6 Absatz 7 sowie die Erstellung von Sammelwarennummern zur vereinfachten Anmeldung nach Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1), die zuletzt durch die Verordnung (EU) 2020/1369 vom 29. September 2020 (ABl. L 319 vom 2.10.2020, S. 2) geändert worden ist,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2051,7 +2673,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zur Erfassung von Angaben zu besonderen Waren und Warenbewegungen,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zur Erfassung von Angaben zu besonderen Waren und Warenbewegungen,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2059,7 +2686,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Ausnahmen von der Pflicht zur elektronischen Datenübermittlung nach § 11a Absatz 1 und 2 des Bundesstatistikgesetzes in der jeweils geltenden Fassung,"
+                                                                    {
+                                                                        "_": "Ausnahmen von der Pflicht zur elektronischen Datenübermittlung nach § 11a Absatz 1 und 2 des Bundesstatistikgesetzes in der jeweils geltenden Fassung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2067,7 +2699,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "nähere Bestimmungen zu den nach § 15 im Rahmen des Einzeldatenaustausches zu übermittelnden Einzelangaben,"
+                                                                    {
+                                                                        "_": "nähere Bestimmungen zu den nach § 15 im Rahmen des Einzeldatenaustausches zu übermittelnden Einzelangaben,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2075,7 +2712,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Aussetzung der Erhebung einzelner Merkmale, wenn dadurch die hinreichende Qualität der Ergebnisse der Statistik gewährleistet bleibt und der Informationsverlust in einem angemessenen Verhältnis zur Entlastung der Auskunftspflichtigen steht,"
+                                                                    {
+                                                                        "_": "die Aussetzung der Erhebung einzelner Merkmale, wenn dadurch die hinreichende Qualität der Ergebnisse der Statistik gewährleistet bleibt und der Informationsverlust in einem angemessenen Verhältnis zur Entlastung der Auskunftspflichtigen steht,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -2083,7 +2725,25 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Übermittlung von Daten aus Zollanmeldungen zusätzlich zu den Erhebungsmerkmalen nach § 7 und den Hilfsmerkmalen nach § 8 durch die Zollverwaltung an das Statistische Bundesamt zur Feststellung der Auskunftspflicht nach § 9 und zur Überprüfung der Angaben der auskunftspflichtigen Personen zu den Merkmalen nach den §§ 7 und 8."
+                                                                    {
+                                                                        "_": "die Übermittlung von Daten zusätzlich zu den Erhebungsmerkmalen nach § 7 und den Hilfsmerkmalen nach § 8 durch die Zollverwaltung an das Statistische Bundesamt zur Feststellung der Auskunftspflicht nach § 9 und zur Überprüfung der Angaben der auskunftspflichtigen Personen zu den Merkmalen nach den §§ 7 und 8,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "die Aufnahme zusätzlicher Angaben in das Verzeichnis aller am Außenhandel beteiligten Personen nach § 13 Absatz 1.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -2100,7 +2760,7 @@
             },
             {
                 "$": {
-                    "builddate": "20211231214721",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR175110021BJNE001900000"
                 },
                 "metadaten": [

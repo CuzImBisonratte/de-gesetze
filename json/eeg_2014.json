@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20250225223006",
+            "builddate": "20250305223030",
             "doknr": "BJNR106610014"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223030",
                     "doknr": "BJNR106610014"
                 },
                 "metadaten": [
@@ -87,7 +87,7 @@
                                     "Hinweis"
                                 ],
                                 "standkommentar": [
-                                    "Änderung durch Art. 1 G v. 21.2.2025 I Nr. 52 mWv 25.2.2025 noch nicht berücksichtigt"
+                                    "Änderung durch Art. 1 G v. 21.2.2025 I Nr. 52 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
                                 ]
                             }
                         ]
@@ -101,7 +101,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": " Das G wurde als Artikel 1 des G v. 21.7.2014 I 1066 vom Bundestag beschlossen. Es tritt gem. Art. 23 Satz 1 dieses G am 1.8.2014 in Kraft.  Amtliche Buchstabenabkürzung: IdF d. Art. 1 Nr. 1 G v. 13.10.2016 I 2258 mWv 1.1.2017 u. d. Art. 1 Nr. 1 G v. 21.12.2020 I 3138 mWv 1.1.2021",
+                                                "_": " Das G wurde als Artikel 1 des G v. 21.7.2014 I 1066 vom Bundestag beschlossen. Es tritt gem. Art. 23 Satz 1 dieses G am 1.8.2014 in Kraft.  Amtliche Buchstabenabkürzung: IdF d. Art. 1 Nr. 1 G v. 13.10.2016 I 2258 mWv 1.1.2017, d. Art. 1 Nr. 1 G v. 21.12.2020 I 3138 mWv 1.1.2021 u. d. Art. 2 Nr. 1 G v. 20.7.2022 I 1237 mWv 1.1.2023",
                                                 "BR": [
                                                     "",
                                                     "",
@@ -208,8 +208,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE018706128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE018707128"
                 },
                 "metadaten": [
                     {
@@ -3494,6 +3494,22 @@
                                                                     {
                                                                         "entry": [
                                                                             {
+                                                                                "_": "§  51b",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
                                                                                 "_": "§  52",
                                                                                 "$": {
                                                                                     "VJ": "1"
@@ -5222,7 +5238,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000100000"
                 },
                 "metadaten": [
@@ -5269,7 +5285,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000204311"
                 },
                 "metadaten": [
@@ -5317,7 +5333,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024300311"
                 },
                 "metadaten": [
@@ -5396,7 +5412,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000303128"
                 },
                 "metadaten": [
@@ -5450,8 +5466,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE000411128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE000412128"
                 },
                 "metadaten": [
                     {
@@ -5499,6 +5515,7 @@
                                                             "5.",
                                                             "6.",
                                                             "7.",
+                                                            "7a.",
                                                             "8.",
                                                             "9.",
                                                             "10.",
@@ -5552,6 +5569,7 @@
                                                             "46.",
                                                             "46a.",
                                                             "47.",
+                                                            "47a.",
                                                             "48.",
                                                             "49.",
                                                             "50.",
@@ -5700,6 +5718,19 @@
                                                                                 ]
                                                                             }
                                                                         ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "„Betriebsviertelstunde“ jede Viertelstunde, in der die Anlage Strom erzeugt, unabhängig vom Grad der Auslastung der Anlage,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
                                                                     }
                                                                 ]
                                                             },
@@ -6708,6 +6739,19 @@
                                                                 },
                                                                 "LA": [
                                                                     {
+                                                                        "_": "„Wärmeversorgungseinrichtung“ eine Einrichtung zur leitungsgebundenen Versorgung von mehreren Gebäuden mit Wärme aus einer Biomasseanlage mit einer thermischen Gesamtnennleistung von mindestens 300 Kilowatt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
                                                                         "_": "„Windenergieanlage an Land“ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See ist,",
                                                                         "$": {
                                                                             "Size": "normal"
@@ -6802,7 +6846,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000505128"
                 },
                 "metadaten": [
@@ -7118,7 +7162,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024200311"
                 },
                 "metadaten": [
@@ -7298,7 +7342,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000604311"
                 },
                 "metadaten": [
@@ -7545,7 +7589,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000706128"
                 },
                 "metadaten": [
@@ -7679,7 +7723,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000801123"
                 },
                 "metadaten": [
@@ -7801,7 +7845,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000200000"
                 },
                 "metadaten": [
@@ -7848,7 +7892,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000300000"
                 },
                 "metadaten": [
@@ -7895,7 +7939,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE000904128"
                 },
                 "metadaten": [
@@ -8240,7 +8284,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025700128"
                 },
                 "metadaten": [
@@ -8355,7 +8399,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025800128"
                 },
                 "metadaten": [
@@ -8401,7 +8445,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001017128"
                 },
                 "metadaten": [
@@ -8762,7 +8806,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001101118"
                 },
                 "metadaten": [
@@ -8831,7 +8875,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011001128"
                 },
                 "metadaten": [
@@ -8900,7 +8944,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023304128"
                 },
                 "metadaten": [
@@ -9128,7 +9172,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025100128"
                 },
                 "metadaten": [
@@ -9174,7 +9218,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023102128"
                 },
                 "metadaten": [
@@ -9293,7 +9337,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025200128"
                 },
                 "metadaten": [
@@ -9344,7 +9388,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025300128"
                 },
                 "metadaten": [
@@ -9393,7 +9437,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000400000"
                 },
                 "metadaten": [
@@ -9440,7 +9484,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001302311"
                 },
                 "metadaten": [
@@ -9511,7 +9555,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001400000"
                 },
                 "metadaten": [
@@ -9579,7 +9623,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001502118"
                 },
                 "metadaten": [
@@ -9625,7 +9669,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001602118"
                 },
                 "metadaten": [
@@ -9671,7 +9715,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000500000"
                 },
                 "metadaten": [
@@ -9718,7 +9762,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001700000"
                 },
                 "metadaten": [
@@ -9786,7 +9830,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001800000"
                 },
                 "metadaten": [
@@ -9853,7 +9897,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE001901118"
                 },
                 "metadaten": [
@@ -9899,7 +9943,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000601123"
                 },
                 "metadaten": [
@@ -9946,7 +9990,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000701123"
                 },
                 "metadaten": [
@@ -9993,7 +10037,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002008128"
                 },
                 "metadaten": [
@@ -10365,7 +10409,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002107128"
                 },
                 "metadaten": [
@@ -10522,7 +10566,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002208128"
                 },
                 "metadaten": [
@@ -10781,7 +10825,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011100123"
                 },
                 "metadaten": [
@@ -10840,7 +10884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011204128"
                 },
                 "metadaten": [
@@ -11074,7 +11118,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011302128"
                 },
                 "metadaten": [
@@ -11232,7 +11276,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000801123"
                 },
                 "metadaten": [
@@ -11279,7 +11323,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002307128"
                 },
                 "metadaten": [
@@ -11494,7 +11538,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011403119"
                 },
                 "metadaten": [
@@ -11579,7 +11623,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024401128"
                 },
                 "metadaten": [
@@ -11770,7 +11814,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002406128"
                 },
                 "metadaten": [
@@ -12012,7 +12056,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011501128"
                 },
                 "metadaten": [
@@ -12071,7 +12115,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020104128"
                 },
                 "metadaten": [
@@ -12117,7 +12161,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE017903311"
                 },
                 "metadaten": [
@@ -12194,7 +12238,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002507128"
                 },
                 "metadaten": [
@@ -12432,7 +12476,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002608128"
                 },
                 "metadaten": [
@@ -12495,7 +12539,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002704128"
                 },
                 "metadaten": [
@@ -12557,7 +12601,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002802311"
                 },
                 "metadaten": [
@@ -12619,7 +12663,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG000901123"
                 },
                 "metadaten": [
@@ -12666,7 +12710,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002400123"
                 },
                 "metadaten": [
@@ -12713,7 +12757,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE002907128"
                 },
                 "metadaten": [
@@ -13123,7 +13167,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020204311"
                 },
                 "metadaten": [
@@ -13340,7 +13384,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020304128"
                 },
                 "metadaten": [
@@ -13543,8 +13587,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE020404128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE020405128"
                 },
                 "metadaten": [
                     {
@@ -13577,7 +13621,7 @@
                                         "P": [
                                             "(1) Die Ausschreibungen für Biomasseanlagen finden in den Jahren 2023 bis 2028 jeweils zu den Gebotsterminen am 1. April und 1. Oktober statt.",
                                             {
-                                                "_": "(2) Das Ausschreibungsvolumen beträgt Das Ausschreibungsvolumen nach Satz 1 Nummer 1 bis 3 wird jeweils gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt.",
+                                                "_": "(2) Das Ausschreibungsvolumen beträgt Das Ausschreibungsvolumen nach Satz 1 wird jeweils gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -13588,7 +13632,9 @@
                                                             "1.",
                                                             "2.",
                                                             "3.",
-                                                            "4."
+                                                            "4.",
+                                                            "5.",
+                                                            "6."
                                                         ],
                                                         "DD": [
                                                             {
@@ -13623,7 +13669,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "im Jahr 2025 400 Megawatt zu installierende Leistung und",
+                                                                        "_": "im Jahr 2025 1 300 Megawatt zu installierende Leistung,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -13636,7 +13682,33 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "in den Jahren 2026 bis 2028 jeweils 300 Megawatt zu installierende Leistung.",
+                                                                        "_": "im Jahr 2026 1 126 Megawatt zu installierende Leistung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Jahr 2027 326 Megawatt zu installierende Leistung und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "im Jahr 2028 76 Megawatt zu installierende Leistung.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -13838,7 +13910,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(+++ § 28c Abs. 3 Nr. 1 Buchst. a: Zur Anwendung vgl. § 28d Abs. 6 Satz 4 +++)"
+                                            "(+++ § 28c Abs. 3 Nr. 1 Buchst. a: Zur Anwendung vgl. § 28d Abs. 6 Satz 4  +++)"
                                         ]
                                     }
                                 ]
@@ -13849,7 +13921,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024902128"
                 },
                 "metadaten": [
@@ -13942,7 +14014,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025001311"
                 },
                 "metadaten": [
@@ -14059,7 +14131,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023501311"
                 },
                 "metadaten": [
@@ -14215,7 +14287,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023601311"
                 },
                 "metadaten": [
@@ -14344,7 +14416,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003004128"
                 },
                 "metadaten": [
@@ -14519,7 +14591,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003106128"
                 },
                 "metadaten": [
@@ -14891,7 +14963,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011802128"
                 },
                 "metadaten": [
@@ -14963,7 +15035,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003203128"
                 },
                 "metadaten": [
@@ -15079,7 +15151,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003303119"
                 },
                 "metadaten": [
@@ -15173,7 +15245,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003404119"
                 },
                 "metadaten": [
@@ -15417,7 +15489,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003503311"
                 },
                 "metadaten": [
@@ -15562,7 +15634,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024500311"
                 },
                 "metadaten": [
@@ -15618,7 +15690,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003605128"
                 },
                 "metadaten": [
@@ -15959,7 +16031,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE011901128"
                 },
                 "metadaten": [
@@ -16071,7 +16143,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002500123"
                 },
                 "metadaten": [
@@ -16118,7 +16190,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003706128"
                 },
                 "metadaten": [
@@ -16335,7 +16407,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012000123"
                 },
                 "metadaten": [
@@ -16396,7 +16468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012103311"
                 },
                 "metadaten": [
@@ -16458,7 +16530,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012302311"
                 },
                 "metadaten": [
@@ -16550,7 +16622,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020501119"
                 },
                 "metadaten": [
@@ -16596,7 +16668,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012404123"
                 },
                 "metadaten": [
@@ -16661,7 +16733,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012501128"
                 },
                 "metadaten": [
@@ -16725,7 +16797,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012605311"
                 },
                 "metadaten": [
@@ -16771,7 +16843,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012706128"
                 },
                 "metadaten": [
@@ -17286,7 +17358,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012802128"
                 },
                 "metadaten": [
@@ -17347,7 +17419,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020601311"
                 },
                 "metadaten": [
@@ -17467,7 +17539,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020701123"
                 },
                 "metadaten": [
@@ -17509,7 +17581,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002601128"
                 },
                 "metadaten": [
@@ -17558,7 +17630,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003808128"
                 },
                 "metadaten": [
@@ -18244,7 +18316,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE012903311"
                 },
                 "metadaten": [
@@ -18306,7 +18378,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013005128"
                 },
                 "metadaten": [
@@ -18369,7 +18441,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025400128"
                 },
                 "metadaten": [
@@ -18514,7 +18586,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025500128"
                 },
                 "metadaten": [
@@ -18713,7 +18785,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013204128"
                 },
                 "metadaten": [
@@ -18774,7 +18846,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE003904128"
                 },
                 "metadaten": [
@@ -18948,7 +19020,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013305128"
                 },
                 "metadaten": [
@@ -19219,7 +19291,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013404128"
                 },
                 "metadaten": [
@@ -19284,7 +19356,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG003100128"
                 },
                 "metadaten": [
@@ -19333,7 +19405,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020801311"
                 },
                 "metadaten": [
@@ -19396,7 +19468,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE020902128"
                 },
                 "metadaten": [
@@ -19461,7 +19533,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021001311"
                 },
                 "metadaten": [
@@ -19523,7 +19595,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021101123"
                 },
                 "metadaten": [
@@ -19584,7 +19656,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021201123"
                 },
                 "metadaten": [
@@ -19645,7 +19717,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021303128"
                 },
                 "metadaten": [
@@ -19741,7 +19813,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021401123"
                 },
                 "metadaten": [
@@ -19783,7 +19855,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002701128"
                 },
                 "metadaten": [
@@ -19831,7 +19903,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004003311"
                 },
                 "metadaten": [
@@ -20077,7 +20149,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013500123"
                 },
                 "metadaten": [
@@ -20139,7 +20211,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013602311"
                 },
                 "metadaten": [
@@ -20201,7 +20273,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013701311"
                 },
                 "metadaten": [
@@ -20263,8 +20335,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE021502311"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE021503128"
                 },
                 "metadaten": [
                     {
@@ -20295,9 +20367,9 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie separiert die Gebote, die für Neuanlagen abgegeben wurden, von denen, die für Bestandsanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur prüft die Zulässigkeit aller Gebote nach den §§ 33 und 34. Die Bundesnetzagentur sortiert die Gebote für Neuanlagen und für Bestandsanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie erteilt der Reihenfolge nach jeweils allen zulässigen Geboten für Neuanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Neuanlagen erreicht oder erstmalig durch ein Gebot überschritten sind, und allen zulässigen Geboten für Bestandsanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Bestandsanlagen erreicht oder erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.",
-                                            "(2) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz 1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote mindestens der ausgeschriebenen Menge des Gebotstermins entspricht. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die zugelassenen Gebote, die für Projekte in der Südregion abgegeben wurden, und sortiert diese Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 4 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 50 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 5 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis eine weitere Menge in Höhe von 50 Prozent des Ausschreibungsvolumens erstmals durch den Zuschlag zu einem Gebot erreicht oder überschritten ist (Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein Zuschlag erteilt.",
-                                            "(3) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz 1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die zugelassenen Gebote, die für Anlagen in der Südregion abgegeben wurden; sie separiert diese Gebote danach, ob sie für Neuanlagen oder für Bestandsanlagen im Sinne des § 39g abgegeben wurden. Die Bundesnetzagentur sortiert die Gebote, die für Bestandsanlagen in der Südregion abgegeben wurden, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 20 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur die nach Satz 4 erster Halbsatz separierten Gebote, denen noch kein Zuschlag erteilt wurde, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 7 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 40 Prozent einschließlich der nach Satz 6 bezuschlagten Gebotsmenge der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sie separiert die zugelassenen Gebote, die noch nicht bezuschlagt wurden; sie separiert diese Gebote danach, ob sie für Neuanlagen oder für Bestandsanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur sortiert die Gebote, die für Bestandsanlagen abgegeben wurden, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 10 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 20 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur die Gebote, denen noch kein Zuschlag erteilt wurde, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 12 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von weiteren 40 Prozent einschließlich der nach Satz 11 bezuschlagten Gebotsmenge der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist."
+                                            "(1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie separiert die Gebote, die für Neuanlagen abgegeben wurden, von denen, die für bestehende Biomasseanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur prüft die Zulässigkeit aller Gebote nach den §§ 33 und 34. Die Bundesnetzagentur sortiert die Gebote für Neuanlagen und für bestehende Biomasseanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie erteilt der Reihenfolge nach jeweils allen zulässigen Geboten für Neuanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Neuanlagen erreicht oder erstmalig durch ein Gebot überschritten sind, und allen zulässigen Geboten für bestehende Biomasseanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für bestehende Biomasseanlagen erreicht oder erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.",
+                                            "(2) Abweichend von Absatz 1 und § 32 Absatz 1 führt die Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31. Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote mindestens der ausgeschriebenen Menge des Gebotstermins entspricht. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die Gebote für bestehende Biomasseanlagen, die bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen waren und zum Zeitpunkt der Gebotsabgabe noch immer an diese angeschlossen sind (bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung) und deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert die nach Satz 4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 50 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Die Bundesnetzagentur separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach Satz 7 separierten Gebote nach § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 8 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 70 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens, einschließlich des nach Satz 6 bezuschlagten Ausschreibungsvolumens, erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Schließlich sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 6 oder Satz 9 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis das gesamte Ausschreibungsvolumen, einschließlich der nach den Sätzen 6 und 9 bezuschlagten Gebotsmenge, durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein Zuschlag erteilt; das Gebot, durch das die jeweilige Zuschlagsgrenze erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.",
+                                            "(3) Abweichend von Absatz 1 und § 32 Absatz 1 führt die Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31. Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert die nach Satz 4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 40 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Die Bundesnetzagentur separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach Satz 7 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 8 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 60 Prozent, einschließlich der nach Satz 6 bezuschlagten Gebotsmenge, der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Schließlich sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 6 oder Satz 9 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 80 Prozent, einschließlich der nach den Sätzen 6 und 9 bezuschlagten Gebotsmenge, der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die jeweilige Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist."
                                         ]
                                     }
                                 ]
@@ -20326,7 +20398,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013802128"
                 },
                 "metadaten": [
@@ -20432,7 +20504,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE013901128"
                 },
                 "metadaten": [
@@ -20495,8 +20567,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE014004128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE014005128"
                 },
                 "metadaten": [
                     {
@@ -20527,11 +20599,11 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Abweichend von § 39 Absatz 1 Nummer 1 können für Biomasseanlagen, die erstmals vor dem 1. Januar 2017 ausschließlich mit Biomasse im Sinn der Biomasseverordnung in der für die Inbetriebnahme maßgeblichen Fassung in Betrieb genommen worden sind (bestehende Biomasseanlagen), Gebote abgegeben werden, wenn der bisherige Zahlungsanspruch für Strom aus dieser Anlage nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung zum Zeitpunkt der Ausschreibung nur noch für höchstens acht Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2 können auch bestehende Biomasseanlagen mit einer installierten Leistung von 150 Kilowatt oder weniger Gebote abgeben. Der Zuschlagswert ist für alle bezuschlagten Gebote von Anlagen nach Satz 2 abweichend von § 3 Nummer 51 der Gebotswert des höchsten noch bezuschlagten Gebots desselben Gebotstermins.",
-                                            "(2) Erteilt die Bundesnetzagentur nach Absatz 1 einer bestehenden Biomasseanlage einen Zuschlag, tritt der Anspruch nach § 19 Absatz 1 ab dem ersten Tag eines durch den Anlagenbetreiber zu bestimmenden Kalendermonats für die Zukunft an die Stelle aller bisherigen Ansprüche nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung. Der Anlagenbetreiber muss dem Netzbetreiber einen Kalendermonat mitteilen, der nicht vor dem dritten und nicht nach dem 60. Kalendermonat liegt, der auf die öffentliche Bekanntgabe des Zuschlags folgt. Die Mitteilung hat vor Beginn des Kalendermonats zu erfolgen, der dem nach Satz 2 mitzuteilenden Kalendermonat vorangeht. Wenn der Anlagenbetreiber keine Mitteilung nach Satz 2 macht, tritt der neue Anspruch am ersten Tag des 61. Kalendermonats, der auf die öffentliche Bekanntgabe des Zuschlags folgt, an die Stelle der bisherigen Ansprüche. Der Netzbetreiber muss der Bundesnetzagentur den Tag nach Satz 1 mitteilen, sobald dieser ihm bekannt ist.",
-                                            "(3) Die Anlage gilt als an dem Tag nach Absatz 2 neu in Betrieb genommen. Ab diesem Tag sind für diese Anlagen alle Rechte und Pflichten verbindlich, die für Anlagen gelten, die nach dem 31. Dezember 2022 in Betrieb genommen worden sind, und es ist die Biomasseverordnung in der zum Zeitpunkt der Bekanntmachung der Ausschreibung geltenden Fassung verbindlich.",
+                                            "(1) Abweichend von § 39 Absatz 1 Nummer 1 können für Biomasseanlagen, die erstmals vor dem 1. Januar 2017 ausschließlich mit Biomasse im Sinn der Biomasseverordnung in der für die Inbetriebnahme maßgeblichen Fassung in Betrieb genommen worden sind (bestehende Biomasseanlagen), Gebote abgegeben werden, wenn der bisherige Zahlungsanspruch für Strom aus dieser Anlage nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung zum Zeitpunkt der Ausschreibung nur noch für höchstens fünf Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2 können auch bestehende Biomasseanlagen mit einer installierten Leistung von 150 Kilowatt oder weniger Gebote abgeben. Der Zuschlagswert ist für alle bezuschlagten Gebote von Anlagen nach Satz 2 abweichend von § 3 Nummer 51 der Gebotswert des höchsten noch bezuschlagten Gebots desselben Gebotstermins.",
+                                            "(2) Erteilt die Bundesnetzagentur nach Absatz 1 einer bestehenden Biomasseanlage einen Zuschlag, tritt der Anspruch nach § 19 Absatz 1 ab dem ersten Tag eines durch den Anlagenbetreiber zu bestimmenden Kalendermonats für die Zukunft an die Stelle aller bisherigen Ansprüche nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung. Der Anlagenbetreiber muss dem Netzbetreiber einen Kalendermonat mitteilen, der nicht vor dem dritten und nicht nach dem 42. Kalendermonat liegt, der auf die öffentliche Bekanntgabe des Zuschlags folgt. Die Mitteilung hat vor Beginn des Kalendermonats zu erfolgen, der dem nach Satz 2 mitzuteilenden Kalendermonat vorangeht. Wenn der Anlagenbetreiber keine Mitteilung nach Satz 2 macht, tritt der neue Anspruch am ersten Tag des 43. Kalendermonats, der auf die öffentliche Bekanntgabe des Zuschlags folgt, an die Stelle der bisherigen Ansprüche. Der Netzbetreiber muss der Bundesnetzagentur den Tag nach Satz 1 mitteilen, sobald dieser ihm bekannt ist.",
+                                            "(3) Die Anlage gilt als an dem Tag nach Absatz 2 neu in Betrieb genommen. Ab diesem Tag sind für diese Anlagen alle Rechte und Pflichten verbindlich, die zum Zeitpunkt des Gebotstermins gelten, in dem das Angebot für die Anlage abgegeben wurde, und es ist die Biomasseverordnung in der zum Zeitpunkt der Bekanntmachung der Ausschreibung geltenden Fassung verbindlich.",
                                             {
-                                                "_": "(4) Der neue Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 besteht nur, wenn ein Umweltgutachter mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass die Anlage für einen bedarfsorientierten Betrieb technisch geeignet ist und der Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat. Maßgeblich für einen bedarfsorientierten Betrieb sind ",
+                                                "_": "(4) Der neue Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 besteht nur, wenn ein Umweltgutachter mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass die Anlage für einen bedarfsorientierten Betrieb technisch geeignet ist und der Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat. Maßgeblich für einen bedarfsorientierten Betrieb sind Sofern der Zuschlag aufgrund von § 39d Absatz 2 Satz 6 oder Satz 9 oder § 39d Absatz 3 Satz 6 oder Satz 9 erteilt wurde, besteht der Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 nur, wenn ein Umweltgutachter mit einer Zulassung für den Bereich Wärmeversorgung bescheinigt hat, dass die Anlage bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen und zum Zeitpunkt der Gebotsabgabe noch immer an diese angeschlossen war, und der Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -20549,7 +20621,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "für Anlagen, die Biogas einsetzen, die Anforderungen nach § 39i Absatz 2 Satz 2 Nummer 1 und",
+                                                                        "_": "für Anlagen, die Biogas einsetzen, die Anforderungen nach § 39i Absatz 2a und",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -20562,7 +20634,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "für Anlagen, die feste Biomasse einsetzen, die Anforderungen nach § 39i Absatz 2 Satz 2 Nummer 2.",
+                                                                        "_": "für Anlagen, die feste Biomasse einsetzen, die Anforderungen nach § 39i Absatz 2.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -20596,7 +20668,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "die Genehmigung nach § 39 Absatz 1 Nummer 2 für einen Zeitraum bis mindestens zum letzten Tag des elften Kalenderjahres, das auf den Gebotstermin folgt, erteilt worden sein muss,",
+                                                                        "_": "die Genehmigung nach § 39 Absatz 1 Nummer 2 für einen Zeitraum bis mindestens zum letzten Tag des 13. Kalenderjahres, das auf den Gebotstermin folgt, erteilt worden sein muss,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -20634,7 +20706,8 @@
                                                                                 },
                                                                                 "DT": [
                                                                                     "a)",
-                                                                                    "b)"
+                                                                                    "b)",
+                                                                                    "c)"
                                                                                 ],
                                                                                 "DD": [
                                                                                     {
@@ -20643,7 +20716,20 @@
                                                                                         },
                                                                                         "LA": [
                                                                                             {
-                                                                                                "_": "er Betreiber der Biomasseanlage ist und",
+                                                                                                "_": "er Betreiber der Biomasseanlage ist,",
+                                                                                                "$": {
+                                                                                                    "Size": "normal"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "$": {
+                                                                                            "Font": "normal"
+                                                                                        },
+                                                                                        "LA": [
+                                                                                            {
+                                                                                                "_": "falls zutreffend, die Biomasseanlage eine bestehende Biomasseanlage ist, die bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen war und zum Zeitpunkt der Gebotsabgabe noch immer angeschlossen ist, und",
                                                                                                 "$": {
                                                                                                     "Size": "normal"
                                                                                                 }
@@ -20740,8 +20826,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE014101128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE014102128"
                 },
                 "metadaten": [
                     {
@@ -20778,6 +20864,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -20790,7 +20877,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Inbetriebnahme der Biomasseanlage aufgrund einer Fristverlängerung nach § 39e Absatz 2 erst zu einem späteren Zeitpunkt erfolgt,"
+                                                                    {
+                                                                        "_": "die Inbetriebnahme der Biomasseanlage aufgrund einer Fristverlängerung nach § 39e Absatz 2 erst zu einem späteren Zeitpunkt erfolgt,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -20798,14 +20890,19 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "für bestehende Biomasseanlagen die Bescheinigung nach § 39g Absatz 4 erst nach dem Tag nach § 39g Absatz 2 vorgelegt wird."
+                                                                    {
+                                                                        "_": "für bestehende Biomasseanlagen die Bescheinigung nach § 39g Absatz 4 erst nach dem Tag nach § 39g Absatz 2 vorgelegt wird.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     }
                                                 ]
                                             },
-                                            "(3) Abweichend von § 25 Absatz 1 Satz 1 beträgt der Zahlungszeitraum für bestehende Biomasseanlagen zehn Jahre. Dieser Zeitraum kann nicht erneut nach § 39g verlängert werden."
+                                            "(3) Abweichend von § 25 Absatz 1 Satz 1 beträgt der Zahlungszeitraum für bestehende Biomasseanlagen zwölf Jahre. Dieser Zeitraum kann nicht erneut nach § 39g verlängert werden."
                                         ]
                                     }
                                 ]
@@ -20834,8 +20931,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE014204128"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE014205128"
                 },
                 "metadaten": [
                     {
@@ -20877,7 +20974,8 @@
                                                         "DT": [
                                                             "1.",
                                                             "2.",
-                                                            "3."
+                                                            "3.",
+                                                            "4."
                                                         ],
                                                         "DD": [
                                                             {
@@ -20898,12 +20996,15 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    {
-                                                                        "_": "im Jahr 2024 oder 2025 einen Zuschlag erhalten haben, in jedem Kalenderjahr insgesamt höchstens 35 Masseprozent beträgt,",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
+                                                                    "einen Zuschlag in einem Gebotstermin nach dem Ablauf des 31. Dezember 2023 und vor dem 25. Februar 2025 erhalten haben, in jedem Kalenderjahr insgesamt höchstens 35 Masseprozent beträgt,"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "einen Zuschlag in einem Gebotstermin nach dem 25. Februar 2025 und vor dem 1. Januar 2026 erhalten haben, in jedem Kalenderjahr insgesamt höchstens 30 Masseprozent beträgt,"
                                                                 ]
                                                             },
                                                             {
@@ -20912,7 +21013,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem Kalenderjahr höchstens 30 Masseprozent beträgt.",
+                                                                        "_": "im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem Kalenderjahr höchstens 25 Masseprozent beträgt.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -20924,12 +21025,12 @@
                                                 ]
                                             },
                                             "(1a) Ein durch einen Zuschlag erworbener Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht nur, wenn in der Anlage kein Biomethan eingesetzt wird.",
+                                            "(2) Für Strom aus Biomasseanlagen, die feste Biomasse einsetzen, verringert sich der Anspruch nach § 19 Absatz 1 für jede Kilowattstunde, um die in einem Kalenderjahr die Höchstbemessungsleistung der Anlage überschritten wird, in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Höchstbemessungsleistung im Sinn des Satzes 1 ist der um 25 Prozent verringerte Wert der bezuschlagten Gebotsmenge. Wird der Zuschlag nach § 35a teilweise entwertet, ist bei der Bestimmung der Höchstbemessungsleistung nach Satz 2 die bezuschlagte Gebotsmenge entsprechend zu verringern.",
                                             {
-                                                "_": "(2) Für Strom aus Biomasseanlagen verringert sich der Anspruch nach § 19 Absatz 1 für jede Kilowattstunde, um die in einem Kalenderjahr die Höchstbemessungsleistung der Anlage überschritten wird, in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Höchstbemessungsleistung im Sinn von Satz 1 ist Wird der Zuschlag nach § 35a teilweise entwertet, ist bei der Bestimmung der Höchstbemessungsleistung nach Satz 2 die bezuschlagte Gebotsmenge entsprechend zu verringern.",
+                                                "_": "(2a) Für Strom aus Biogasanlagen, deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, besteht der Anspruch nach § 19 Absatz 1 nur für die Kilowattstunden, die in den 11 680 Betriebsviertelstunden eines Kalenderjahres eingespeist werden, in denen die Anlage die höchsten Strommengen je Betriebsviertelstunde eingespeist hat (förderfähige Betriebsviertelstunden). Im ersten Jahr der Geltendmachung des Anspruchs nach Satz 1 reduziert sich die Anzahl der förderfähigen Betriebsviertelstunden nach Satz 1 anteilig im Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz 1 geltend gemacht wird, zu zwölf Kalendermonaten. Die Zahl der förderfähigen Betriebsviertelstunden nach Satz 1 oder Satz 5 reduziert sich jeweils um 500 Betriebsviertelstunden Im letzten Jahr der Geltendmachung des Anspruchs nach Satz 1 reduziert sich die Anzahl der Betriebsviertelstunden nach Satz 3 anteilig im Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz 1 geltend gemacht wird, zu zwölf Kalendermonaten. Abweichend von Satz 1 beträgt die Anzahl der förderfähigen Betriebsviertelstunden für Biogasanlagen mit einer installierten Leistung bis einschließlich 350 Kilowatt, deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, 16 000 Betriebsviertelstunden.",
                                                 "DL": [
                                                     {
                                                         "$": {
-                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -20942,12 +21043,7 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    {
-                                                                        "_": "für Anlagen, die Biogas einsetzen, der um 55 Prozent verringerte Wert der bezuschlagten Gebotsmenge und",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
+                                                                    "für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1. April erhalten haben, ab dem 1. Januar des fünften, des siebten, des neunten und des elften Jahres nach Zuschlagserteilung und"
                                                                 ]
                                                             },
                                                             {
@@ -20955,12 +21051,7 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    {
-                                                                        "_": "für Anlagen, die feste Biomasse einsetzen, der um 25 Prozent verringerte Wert der bezuschlagten Gebotsmenge.",
-                                                                        "$": {
-                                                                            "Size": "normal"
-                                                                        }
-                                                                    }
+                                                                    "für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1. Oktober erhalten haben, ab dem 1. Januar des sechsten, des achten, des neunten und des elften Jahres nach Zuschlagserteilung."
                                                                 ]
                                                             }
                                                         ]
@@ -21023,7 +21114,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(+++ Teil 3 Abschnitt 3 Unterabschnitt 5 außer § 39 Abs. 3 Nr. 5, Abs. 4, §§ 39b, 39d, 39g u. 39i Abs. 1a bis 5: Zur Anwendung vgl. § 39j Abs. 1 +++) (+++ §§ 39a bis 39i: Zur Anwendung vgl. § 100 Abs. 18 Satz 4 +++) (+++ § 39i (früher § 39h): Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++) (+++ § 39i (früher § 39h): Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)",
+                                                "_": "(+++ Teil 3 Abschnitt 3 Unterabschnitt 5 außer § 39 Abs. 3 Nr. 5, Abs. 4,  §§ 39b, 39d, 39g u. 39i Abs. 1a bis 5: Zur Anwendung vgl. § 39j Abs. 1 +++) (+++ §§ 39a bis 39i: Zur Anwendung vgl. § 100 Abs. 18 Satz 4 +++) (+++ § 39i (früher § 39h): Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++) (+++ § 39i (früher § 39h): Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++)",
                                                 "BR": [
                                                     "",
                                                     "",
@@ -21040,7 +21131,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG003200128"
                 },
                 "metadaten": [
@@ -21087,7 +21178,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021603128"
                 },
                 "metadaten": [
@@ -21148,8 +21239,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE021701311"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE021702128"
                 },
                 "metadaten": [
                     {
@@ -21182,7 +21273,7 @@
                                         "P": [
                                             "(1) An den Ausschreibungen dürfen nur Anlagen teilnehmen, die nach Zuschlagserteilung erstmals in Betrieb gesetzt werden.",
                                             "(2) In Ergänzung zu den Anforderungen nach den §§ 30 und 39 müssen Bieter ihren Geboten für Biomethananlagen mit einer installierten Leistung von mehr als 10 Megawatt, die nach dem 30. Juni 2023 nach dem Bundes-Immissionsschutzgesetz genehmigt worden sind, den Nachweis beifügen, dass die Anlagen ab dem 1. Januar 2028 mit höchstens 10 Prozent der Kosten, die eine mögliche Neuerrichtung einer Biomethananlage mit gleicher Leistung nach dem aktuellen Stand der Technik betragen würde, so umgestellt werden können, dass sie ihren Strom ausschließlich auf Basis von Wasserstoff gewinnen können.",
-                                            "(3) In Ergänzung zu den Anforderungen nach § 39 Absatz 1 müssen die Biomethananlagen, für die Gebote abgegeben werden, in der Südregion errichtet werden.",
+                                            "(3) (weggefallen)",
                                             "(4) In den Fällen des § 28d Absatz 6 korrigiert die Bundesnetzagentur das nach § 29 Absatz 1 Satz 2 Nummer 2 bekanntgemachte Ausschreibungsvolumen bis spätestens zwei Wochen vor dem Gebotstermin. § 29 Absatz 2 ist entsprechend anzuwenden."
                                         ]
                                     }
@@ -21210,7 +21301,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021801311"
                 },
                 "metadaten": [
@@ -21270,7 +21361,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE021901311"
                 },
                 "metadaten": [
@@ -21331,7 +21422,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002802119"
                 },
                 "metadaten": [
@@ -21378,7 +21469,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE014403128"
                 },
                 "metadaten": [
@@ -21440,7 +21531,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023700119"
                 },
                 "metadaten": [
@@ -21536,7 +21627,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023800119"
                 },
                 "metadaten": [
@@ -21584,7 +21675,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023900119"
                 },
                 "metadaten": [
@@ -21630,7 +21721,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001001123"
                 },
                 "metadaten": [
@@ -21677,7 +21768,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG002900123"
                 },
                 "metadaten": [
@@ -21724,7 +21815,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004103311"
                 },
                 "metadaten": [
@@ -21941,7 +22032,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004203311"
                 },
                 "metadaten": [
@@ -22143,7 +22234,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004304311"
                 },
                 "metadaten": [
@@ -22202,7 +22293,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004404311"
                 },
                 "metadaten": [
@@ -22304,7 +22395,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004505311"
                 },
                 "metadaten": [
@@ -22463,7 +22554,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE014503311"
                 },
                 "metadaten": [
@@ -22522,8 +22613,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE014602311"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE014603128"
                 },
                 "metadaten": [
                     {
@@ -22554,7 +22645,38 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht für Strom, der in Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt erzeugt wird, nur für den Anteil der in einem Kalenderjahr erzeugten Strommenge, der einer Bemessungsleistung der Anlage von 45 Prozent des Wertes der installierten Leistung entspricht. Für den darüber hinausgehenden Anteil der in dem Kalenderjahr erzeugten Strommenge verringert sich der Anspruch nach § 19 Absatz 1 in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Die Sätze 1 und 2 sind nicht für Strom aus Anlagen im Sinn von § 44 anzuwenden, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist.",
+                                            {
+                                                "_": "(1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht für Strom, der in Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt erzeugt wird, nur für den Anteil der in einem Kalenderjahr erzeugten Strommenge, der einer Bemessungsleistung der Anlage von 45 Prozent des Wertes der installierten Leistung entspricht. Für den darüber hinausgehenden Anteil der in dem Kalenderjahr erzeugten Strommenge verringert sich der Anspruch nach § 19 Absatz 1 in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Die Sätze 1 und 2 sind nicht anzuwenden für Strom ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "aus Anlagen im Sinn des § 44, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und"
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    "aus Biogasanlagen, die einen Zuschlag nach § 39 erhalten haben."
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
                                             "(2) Der Anspruch nach § 19 Absatz 1 für Strom aus Biomasse nach § 42 oder § 43 besteht ferner nur, soweit bei Anlagen, in denen Biomethan eingesetzt wird, der Strom in einer hocheffizienten KWK-Anlage erzeugt wird.",
                                             "(3) Der Anspruch nach § 19 Absatz 1 für Strom aus Biomasse nach § 43 oder § 44 kann nicht mit dem Anspruch nach § 19 Absatz 1 in Verbindung mit § 39 oder § 42 kombiniert werden.",
                                             {
@@ -22631,7 +22753,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE014701128"
                 },
                 "metadaten": [
@@ -22841,7 +22963,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004602128"
                 },
                 "metadaten": [
@@ -22902,7 +23024,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004706128"
                 },
                 "metadaten": [
@@ -22964,7 +23086,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE014802128"
                 },
                 "metadaten": [
@@ -23010,7 +23132,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE004910128"
                 },
                 "metadaten": [
@@ -23900,7 +24022,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE022001311"
                 },
                 "metadaten": [
@@ -24015,7 +24137,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005008311"
                 },
                 "metadaten": [
@@ -24074,7 +24196,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG003000123"
                 },
                 "metadaten": [
@@ -24121,7 +24243,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005102128"
                 },
                 "metadaten": [
@@ -24241,8 +24363,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
-                    "doknr": "BJNR106610014BJNE015003311"
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE015004128"
                 },
                 "metadaten": [
                     {
@@ -24274,7 +24396,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler installierter Leistung 65 Euro pro Kilowatt installierter Leistung und Jahr (Flexibilitätszuschlag) in Der Anspruch nach Satz 1 verringert sich für die Anlagenbetreiber, die für ihre Anlage die Flexibilitätsprämie nach § 50b dieses Gesetzes oder nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes in Anspruch genommen haben, für denjenigen Leistungsteil, der sich als Quotient aus der Gesamtsumme der für diese Anlage in Anspruch genommenen Flexibilitätsprämie in Euro und 1 300 Euro je Kilowatt ergibt, auf 50 Euro je Kilowatt installierter Leistung und Jahr.",
+                                                "_": "(1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler installierter Leistung 100 Euro pro Kilowatt installierter Leistung und Jahr (Flexibilitätszuschlag) in Der Anspruch nach Satz 1 verringert sich für die Anlagenbetreiber, die für ihre Anlage die Flexibilitätsprämie nach § 50b dieses Gesetzes oder nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes in Anspruch genommen haben, für denjenigen Leistungsteil, der sich als Quotient aus der Gesamtsumme der für diese Anlage in Anspruch genommenen Flexibilitätsprämie in Euro und 1 300 Euro je Kilowatt ergibt, auf 50 Euro je Kilowatt installierter Leistung und Jahr.",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -24316,7 +24438,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(2) Der Anspruch auf den Flexibilitätszuschlag besteht nur, wenn der Anlagenbetreiber für den in § 44b Absatz 1 bestimmten Anteil der in einem Kalenderjahr erzeugten Strommenge einen Anspruch nach § 19 Absatz 1 in Verbindung mit § 39, § 42 oder § 43 in Anspruch nimmt und dieser Anspruch nicht nach § 52 verringert ist.",
+                                            "(2) Der Anspruch auf den Flexibilitätszuschlag besteht nur, wenn der Anlagenbetreiber für den in § 44b Absatz 1 bestimmten Anteil der in einem Kalenderjahr erzeugten Strommenge oder für die in den nach § 39i Absatz 2a festgelegten Betriebsviertelstunden erzeugten Strommenge einen Anspruch nach § 19 Absatz 1 in Verbindung mit § 39, § 42 oder § 43 in Anspruch nimmt und dieser Anspruch nicht nach § 52 verringert ist.",
                                             "(3) Der Flexibilitätszuschlag kann für die gesamte Dauer des Anspruchs nach § 19 Absatz 1 verlangt werden."
                                         ]
                                     }
@@ -24347,7 +24469,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015101128"
                 },
                 "metadaten": [
@@ -24407,7 +24529,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001101123"
                 },
                 "metadaten": [
@@ -24454,7 +24576,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223006",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005208128"
                 },
                 "metadaten": [
@@ -24546,7 +24668,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE022103128"
                 },
                 "metadaten": [
@@ -24867,7 +24989,53 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
+                    "doknr": "BJNR106610014BJNE026000128"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "EEG 2014",
+                            "EEG 2023"
+                        ],
+                        "enbez": [
+                            "§ 51b"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Für Anlagen, die Biogas mit Ausnahme von Biomethan einsetzen und deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, verringert sich der anzulegende Wert auf null für Zeiträume, in denen der Spotmarktpreis 2 Cent pro Kilowattstunde oder weniger beträgt. Die §§ 51 und 51a sind auf diese Anlagen nicht anzuwenden."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "fussnoten": [
+                            ""
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005311128"
                 },
                 "metadaten": [
@@ -25245,7 +25413,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE025900128"
                 },
                 "metadaten": [
@@ -25368,7 +25536,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005405128"
                 },
                 "metadaten": [
@@ -25473,7 +25641,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015201128"
                 },
                 "metadaten": [
@@ -25519,7 +25687,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015300123"
                 },
                 "metadaten": [
@@ -25579,7 +25747,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE016700360"
                 },
                 "metadaten": [
@@ -25640,7 +25808,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005503128"
                 },
                 "metadaten": [
@@ -25702,7 +25870,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE022201123"
                 },
                 "metadaten": [
@@ -25744,7 +25912,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005610128"
                 },
                 "metadaten": [
@@ -26345,7 +26513,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015401128"
                 },
                 "metadaten": [
@@ -26505,7 +26673,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE024600311"
                 },
                 "metadaten": [
@@ -26551,7 +26719,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001301311"
                 },
                 "metadaten": [
@@ -26598,7 +26766,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE005703128"
                 },
                 "metadaten": [
@@ -26701,7 +26869,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE023201311"
                 },
                 "metadaten": [
@@ -26767,7 +26935,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE019202311"
                 },
                 "metadaten": [
@@ -26834,7 +27002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006003311"
                 },
                 "metadaten": [
@@ -26876,7 +27044,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006106311"
                 },
                 "metadaten": [
@@ -26918,7 +27086,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006207311"
                 },
                 "metadaten": [
@@ -26960,7 +27128,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006304311"
                 },
                 "metadaten": [
@@ -27002,7 +27170,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006402311"
                 },
                 "metadaten": [
@@ -27044,7 +27212,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006506311"
                 },
                 "metadaten": [
@@ -27086,7 +27254,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006603311"
                 },
                 "metadaten": [
@@ -27128,7 +27296,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006705311"
                 },
                 "metadaten": [
@@ -27170,7 +27338,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006803311"
                 },
                 "metadaten": [
@@ -27212,7 +27380,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE006902311"
                 },
                 "metadaten": [
@@ -27254,7 +27422,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007005311"
                 },
                 "metadaten": [
@@ -27296,7 +27464,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001600000"
                 },
                 "metadaten": [
@@ -27343,7 +27511,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001700000"
                 },
                 "metadaten": [
@@ -27390,7 +27558,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007103128"
                 },
                 "metadaten": [
@@ -27457,7 +27625,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007206128"
                 },
                 "metadaten": [
@@ -27716,7 +27884,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007306311"
                 },
                 "metadaten": [
@@ -27889,7 +28057,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007405311"
                 },
                 "metadaten": [
@@ -27953,7 +28121,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007507311"
                 },
                 "metadaten": [
@@ -28210,7 +28378,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007604311"
                 },
                 "metadaten": [
@@ -28252,7 +28420,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007707311"
                 },
                 "metadaten": [
@@ -28354,7 +28522,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007804311"
                 },
                 "metadaten": [
@@ -28459,7 +28627,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001800000"
                 },
                 "metadaten": [
@@ -28506,7 +28674,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE007906311"
                 },
                 "metadaten": [
@@ -28548,7 +28716,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE008005128"
                 },
                 "metadaten": [
@@ -28834,7 +29002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015803311"
                 },
                 "metadaten": [
@@ -29043,7 +29211,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE008101123"
                 },
                 "metadaten": [
@@ -29105,7 +29273,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE015903128"
                 },
                 "metadaten": [
@@ -29164,7 +29332,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNG001900000"
                 },
                 "metadaten": [
@@ -29211,7 +29379,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE008208311"
                 },
                 "metadaten": [
@@ -29503,7 +29671,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE008301123"
                 },
                 "metadaten": [
@@ -29563,7 +29731,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223031",
                     "doknr": "BJNR106610014BJNE008401123"
                 },
                 "metadaten": [
@@ -29631,7 +29799,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016000123"
                 },
                 "metadaten": [
@@ -29700,7 +29868,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE008501123"
                 },
                 "metadaten": [
@@ -29767,7 +29935,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE022702128"
                 },
                 "metadaten": [
@@ -29813,7 +29981,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE019306128"
                 },
                 "metadaten": [
@@ -30264,7 +30432,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016104128"
                 },
                 "metadaten": [
@@ -30326,7 +30494,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016200123"
                 },
                 "metadaten": [
@@ -30453,7 +30621,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE024701128"
                 },
                 "metadaten": [
@@ -30501,7 +30669,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE025601128"
                 },
                 "metadaten": [
@@ -30578,7 +30746,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE008704311"
                 },
                 "metadaten": [
@@ -30834,7 +31002,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE008804311"
                 },
                 "metadaten": [
@@ -30881,7 +31049,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNG002000000"
                 },
                 "metadaten": [
@@ -30928,7 +31096,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNG002100000"
                 },
                 "metadaten": [
@@ -30975,7 +31143,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE008903311"
                 },
                 "metadaten": [
@@ -31582,7 +31750,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE019802311"
                 },
                 "metadaten": [
@@ -32538,7 +32706,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016402119"
                 },
                 "metadaten": [
@@ -32637,7 +32805,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016504311"
                 },
                 "metadaten": [
@@ -32745,7 +32913,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE016604311"
                 },
                 "metadaten": [
@@ -33448,7 +33616,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE024001311"
                 },
                 "metadaten": [
@@ -34318,7 +34486,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE024101311"
                 },
                 "metadaten": [
@@ -35132,7 +35300,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009002128"
                 },
                 "metadaten": [
@@ -35223,7 +35391,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009104119"
                 },
                 "metadaten": [
@@ -35460,7 +35628,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009206128"
                 },
                 "metadaten": [
@@ -35655,7 +35823,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009306311"
                 },
                 "metadaten": [
@@ -35962,7 +36130,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009406119"
                 },
                 "metadaten": [
@@ -36081,7 +36249,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009504128"
                 },
                 "metadaten": [
@@ -36194,7 +36362,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE019406128"
                 },
                 "metadaten": [
@@ -36731,7 +36899,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009706128"
                 },
                 "metadaten": [
@@ -36794,7 +36962,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNG002201128"
                 },
                 "metadaten": [
@@ -36841,7 +37009,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009807128"
                 },
                 "metadaten": [
@@ -37087,7 +37255,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE009908128"
                 },
                 "metadaten": [
@@ -37388,7 +37556,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE010005311"
                 },
                 "metadaten": [
@@ -37546,7 +37714,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE023401311"
                 },
                 "metadaten": [
@@ -37632,7 +37800,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE024800311"
                 },
                 "metadaten": [
@@ -37678,7 +37846,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNG002301311"
                 },
                 "metadaten": [
@@ -37712,8 +37880,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
-                    "doknr": "BJNR106610014BJNE010132128"
+                    "builddate": "20250305223032",
+                    "doknr": "BJNR106610014BJNE010133128"
                 },
                 "metadaten": [
                     {
@@ -37932,6 +38100,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -37944,7 +38113,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Anlagen nach Absatz 1, die Strom in das Netz einspeisen, und"
+                                                                    {
+                                                                        "_": "Anlagen nach Absatz 1, die Strom in das Netz einspeisen, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -37952,13 +38126,19 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "KWK-Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind und eine installierte Leistung von mehr als 25 Kilowatt haben."
+                                                                    {
+                                                                        "_": "KWK-Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind und eine installierte Leistung von mehr als 25 Kilowatt haben.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
                                                     },
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -37972,7 +38152,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die technischen Einrichtungen nur dazu geeignet sind, die Einspeiseleistung bei Netzüberlastung vollständig oder, sobald die technische Möglichkeit besteht, stufenweise ferngesteuert zu reduzieren,"
+                                                                    {
+                                                                        "_": "die technischen Einrichtungen nur dazu geeignet sind, die Einspeiseleistung bei Netzüberlastung vollständig oder, sobald die technische Möglichkeit besteht, stufenweise ferngesteuert zu reduzieren,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -37980,7 +38165,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "der Anlagenbetreiber nach § 9 Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember 2022 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung die maximale Wirkleistungseinspeisung seiner Anlage am Verknüpfungspunkt mit dem Netz auf 70 Prozent der installierten Leistung begrenzt oder"
+                                                                    {
+                                                                        "_": "der Anlagenbetreiber nach § 9 Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember 2022 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung die maximale Wirkleistungseinspeisung seiner Anlage am Verknüpfungspunkt mit dem Netz auf 70 Prozent der installierten Leistung begrenzt oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -37988,7 +38178,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die technischen Einrichtungen nur dazu geeignet sind, die Anforderungen zu erfüllen, die der Netzbetreiber dem Anlagenbetreiber oder dem Betreiber der KWK-Anlage zur Erfüllung der Pflicht vor der Inbetriebnahme der Anlage übermittelt hat."
+                                                                    {
+                                                                        "_": "die technischen Einrichtungen nur dazu geeignet sind, die Anforderungen zu erfüllen, die der Netzbetreiber dem Anlagenbetreiber oder dem Betreiber der KWK-Anlage zur Erfüllung der Pflicht vor der Inbetriebnahme der Anlage übermittelt hat.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -38000,6 +38195,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -38012,7 +38208,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Anlagen mit technischen Einrichtungen ausgestattet werden mussten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, oder"
+                                                                    {
+                                                                        "_": "die Anlagen mit technischen Einrichtungen ausgestattet werden mussten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -38020,7 +38221,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die maximale Wirkleistungseinspeisung auf 70 Prozent der installierten Leistung begrenzen mussten."
+                                                                    {
+                                                                        "_": "die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die maximale Wirkleistungseinspeisung auf 70 Prozent der installierten Leistung begrenzen mussten.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -38243,7 +38449,7 @@
                                                     }
                                                 ]
                                             },
-                                            "(37) § 39d Absatz 2 und 3 ist bei den Ausschreibungen für Biomasseanlagen und § 39k Absatz 3 ist bei den Ausschreibungen für Biomethananlagen mit einem Gebotstermin nach dem 15. Mai 2024 und vor dem 1. Januar 2028 nicht anzuwenden.",
+                                            "(37) Für Anlagen, deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins nach dem Ablauf des 31. Dezember 2022 und vor dem 24. Februar 2025 ermittelt worden ist, sind § 28c Absatz 1, die §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 1 Satz 1, Absatz 2 Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz 1 Satz 1 und Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden. § 3 Nummer 7a und 47b, § 39i Absatz 2a und § 51b sind nicht auf Anlagen nach Satz 1 anzuwenden.",
                                             "(38) Für Biogasanlagen, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und deren installierte Leistung aufgrund der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes insgesamt höchstens 75 Kilowatt betragen darf, bleibt der Vergütungsanspruch nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes bestehen, wenn die installierte Leistung der Anlage auf höchstens 150 Kilowatt erhöht wird. Der nach Satz 1 fortbestehende Vergütungsanspruch ist jährlich auf die Strommenge begrenzt, die in den drei der Leistungserhöhung vorangegangenen Kalenderjahren durchschnittlich innerhalb eines Kalenderjahres in das Netz eingespeist und vergütet wurde. Es besteht kein Vergütungsanspruch nach diesem Gesetz für Strommengen, die aufgrund der Leistungserhöhung nach Satz 1 erzeugt werden. Der Vergütungsanspruch besteht nach Satz 1 nur fort, wenn bei der Erzeugung des gesamten in der Anlage eingesetzten Biogases die Voraussetzungen von § 44 Absatz 2 Nummer 3 dieses Gesetzes erfüllt sind. § 44 Absatz 3 dieses Gesetzes ist entsprechend anzuwenden. Die aufgrund der Leistungserhöhung zusätzlich erzeugten Strommengen müssen dem Netzbetreiber nicht zur Verfügung gestellt werden. Eine Pflicht zur Direktvermarktung besteht auch dann nicht, wenn durch die Leistungserhöhung eine installierte Leistung von 100 Kilowatt überschritten wird.",
                                             "(39) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor dem 1. Mai 2025 in Betrieb genommen werden, sind § 22 Absatz 3 Satz 2 und § 48 Absatz 1a in der am 15. Mai 2024 geltenden Fassung anzuwenden. Für Ausschreibungen zu Gebotsterminen vor dem 1. Mai 2025 ist § 30 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.",
                                             "(40) Für Anlagen, die vor dem 16. Mai 2024 in Betrieb genommen werden, ist § 48 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden. Bei der Anwendung des § 49 zum 1. August 2024 gelten die in § 48 Absatz 2 genannten Werte als im vorangegangenen Zeitraum geltende anzulegende Werte.",
@@ -38361,8 +38567,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
-                    "doknr": "BJNR106610014BJNE010209128"
+                    "builddate": "20250305223032",
+                    "doknr": "BJNR106610014BJNE010210128"
                 },
                 "metadaten": [
                     {
@@ -38393,7 +38599,8 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden."
+                                            "(1) Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.",
+                                            "(2) Die Bestimmungen von § 28c Absatz 1, der §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, von § 39h Absatz 3 Satz 1, § 39i Absatz 2 Satz 1 und 2, Absatz 2a, § 44b Absatz 1 Satz 3, § 50a Absatz 1 Satz 1, Absatz 2 und § 51b dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 28c Absatz 1, die §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 2 Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz 1 Satz 1 und Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden."
                                         ]
                                     }
                                 ]
@@ -38407,7 +38614,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE010607128"
                 },
                 "metadaten": [
@@ -40198,7 +40405,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE010702118"
                 },
                 "metadaten": [
@@ -40597,7 +40804,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE010807128"
                 },
                 "metadaten": [
@@ -41242,7 +41449,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE010902311"
                 },
                 "metadaten": [
@@ -41284,7 +41491,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250225223007",
+                    "builddate": "20250305223032",
                     "doknr": "BJNR106610014BJNE022900128"
                 },
                 "metadaten": [

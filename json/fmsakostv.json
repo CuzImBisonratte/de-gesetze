@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20200716212536",
+            "builddate": "20250305223034",
             "doknr": "BJNR192810015"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015"
                 },
                 "metadaten": [
@@ -43,9 +43,51 @@
                             "FMSA-Kostenverordnung"
                         ],
                         "langue": [
-                            "Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung"
+                            {
+                                "_": "Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung ",
+                                "FnR": [
+                                    {
+                                        "$": {
+                                            "ID": "BJNR192810015"
+                                        }
+                                    }
+                                ]
+                            }
                         ],
                         "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Zukünftige amtl. Langüberschrift: Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung (ab 1.1.2026; BGBl. 2025 I Nr. 69)"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Zukünftige amtl. Kurzüberschrift: FMS-Kostenverordnung (ab 1.1.2026; BGBl. 2025 I Nr. 69)"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Zukünftige amtl. Buchstabenankürzung: FMSKostV (ab 1.1.2026; BGBl. 2025 I Nr. 69)"
+                                ]
+                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -56,12 +98,56 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 4 Abs. 3 G v. 10.7.2020 I 1633"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 6 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
                 ],
                 "textdaten": [
                     {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Footnotes": [
+                                    {
+                                        "Footnote": [
+                                            {
+                                                "$": {
+                                                    "FnZ": "*",
+                                                    "Group": "column",
+                                                    "ID": "BJNR192810015",
+                                                    "Pos": "normal",
+                                                    "Postfix": ")"
+                                                },
+                                                "noindex": [
+                                                    "Nichtamtlicher Hinweis: Die Überschrift wurde gern. Art. 6 Nr. 1 G v. 28.2.2025 I Nr. 69 mWv 1.1.2026 wie folgt gefasst:"
+                                                ],
+                                                "BR": [
+                                                    "",
+                                                    ""
+                                                ],
+                                                "B": [
+                                                    "Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung",
+                                                    "(FMS-Kostenverordnung - FMSKostV)"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
                         "fussnoten": [
                             {
                                 "Content": [
@@ -95,7 +181,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNG000100000"
                 },
                 "metadaten": [
@@ -124,7 +210,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000102123"
                 },
                 "metadaten": [
@@ -212,7 +298,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000201116"
                 },
                 "metadaten": [
@@ -290,7 +376,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000301116"
                 },
                 "metadaten": [
@@ -337,7 +423,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000401116"
                 },
                 "metadaten": [
@@ -383,7 +469,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000501116"
                 },
                 "metadaten": [
@@ -430,7 +516,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNG000401116"
                 },
                 "metadaten": [
@@ -463,7 +549,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE000901116"
                 },
                 "metadaten": [
@@ -512,7 +598,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001001116"
                 },
                 "metadaten": [
@@ -558,7 +644,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001101116"
                 },
                 "metadaten": [
@@ -794,7 +880,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001201116"
                 },
                 "metadaten": [
@@ -873,7 +959,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001301116"
                 },
                 "metadaten": [
@@ -918,7 +1004,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001401116"
                 },
                 "metadaten": [
@@ -965,7 +1051,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNG000501116"
                 },
                 "metadaten": [
@@ -998,7 +1084,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200716212536",
+                    "builddate": "20250305223034",
                     "doknr": "BJNR192810015BJNE001502123"
                 },
                 "metadaten": [

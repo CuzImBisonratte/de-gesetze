@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20240524214006",
+            "builddate": "20250305223037",
             "doknr": "BJNR246500015"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015"
                 },
                 "metadaten": [
@@ -56,6 +56,17 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 24 G v. 22.12.2023 I Nr. 414"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 3 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
@@ -94,7 +105,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015BJNE000100000"
                 },
                 "metadaten": [
@@ -128,8 +139,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
-                    "doknr": "BJNR246500015BJNE000201360"
+                    "builddate": "20250305223037",
+                    "doknr": "BJNR246500015BJNE000202130"
                 },
                 "metadaten": [
                     {
@@ -164,6 +175,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -177,7 +189,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "im Truppendienst,"
+                                                                    {
+                                                                        "_": "im Truppendienst,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -185,7 +202,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "auf Grund eines Dienstplanes oder"
+                                                                    {
+                                                                        "_": "auf Grund eines Dienstplanes oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -193,7 +215,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "zur Herbeiführung eines im öffentlichen Interesse liegenden unaufschiebbaren und termingebundenen Ergebnisses."
+                                                                    {
+                                                                        "_": "zur Herbeiführung eines im öffentlichen Interesse liegenden unaufschiebbaren und termingebundenen Ergebnisses.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -205,6 +232,7 @@
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -218,7 +246,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "schriftlich angeordnet oder genehmigt wurde,"
+                                                                    {
+                                                                        "_": "schriftlich angeordnet oder genehmigt wurde,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -226,7 +259,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb eines Jahres ausgeglichen werden kann und"
+                                                                    {
+                                                                        "_": "aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung innerhalb eines Jahres ausgeglichen werden kann, wobei die Frist für Soldaten in den Streitkräften auf sechs Monate verkürzt werden kann, und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -234,7 +272,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat (Mindeststundenzahl) übersteigt."
+                                                                    {
+                                                                        "_": "die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat (Mindeststundenzahl) übersteigt.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -256,7 +299,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015BJNE000300000"
                 },
                 "metadaten": [
@@ -299,7 +342,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015BJNE000408360"
                 },
                 "metadaten": [
@@ -501,7 +544,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015BJNE000500000"
                 },
                 "metadaten": [
@@ -550,8 +593,8 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
-                    "doknr": "BJNR246500015BJNE000602360"
+                    "builddate": "20250305223037",
+                    "doknr": "BJNR246500015BJNE000603130"
                 },
                 "metadaten": [
                     {
@@ -582,10 +625,11 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "Die Vergütung wird nicht gewährt neben ",
+                                                "_": "(1) Die Vergütung wird nicht gewährt neben ",
                                                 "DL": [
                                                     {
                                                         "$": {
+                                                            "Font": "normal",
                                                             "Type": "arabic"
                                                         },
                                                         "DT": [
@@ -599,7 +643,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "einer Vergütung nach § 50a des Bundesbesoldungsgesetzes,"
+                                                                    {
+                                                                        "_": "einer Vergütung nach § 50a des Bundesbesoldungsgesetzes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -607,7 +656,12 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,"
+                                                                    {
+                                                                        "_": "Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             },
                                                             {
@@ -615,7 +669,69 @@
                                                                     "Font": "normal"
                                                                 },
                                                                 "LA": [
-                                                                    "einer Vergütung nach der Sanitätsdienstvergütungsverordnung."
+                                                                    {
+                                                                        "_": "einer Vergütung nach der Sanitätsdienstvergütungsverordnung.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "_": "(2) Abweichend von Absatz 1 Nummer 2 kann eine Mehrarbeitsvergütung neben Auslandsdienstbezügen nach § 52 des Bundesbesoldungsgesetzes für soldatische Tätigkeiten in den Streitkräften gewährt werden, wenn eine Dienstbefreiung aus den folgenden Gründen nicht möglich ist: ",
+                                                "DL": [
+                                                    {
+                                                        "$": {
+                                                            "Font": "normal",
+                                                            "Type": "arabic"
+                                                        },
+                                                        "DT": [
+                                                            "1.",
+                                                            "2.",
+                                                            "3."
+                                                        ],
+                                                        "DD": [
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Sicherstellung der militärischen Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Teilnahme an angeordnetem Dienst außerhalb des Grundbetriebs nach § 30c Absatz 4 des Soldatengesetzes oder",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "dienstlich notwendige Teilnahme an militärfachlichen und laufbahnspezifischen Ausbildungen.",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
                                                                 ]
                                                             }
                                                         ]
@@ -635,7 +751,7 @@
             },
             {
                 "$": {
-                    "builddate": "20240524214006",
+                    "builddate": "20250305223037",
                     "doknr": "BJNR246500015BJNE000700000"
                 },
                 "metadaten": [
