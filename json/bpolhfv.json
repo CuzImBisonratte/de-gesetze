@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20200916213506",
+            "builddate": "20250314223502",
             "doknr": "BJNR058600014"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014"
                 },
                 "metadaten": [
@@ -43,9 +43,29 @@
                             "Bundespolizei-Heilfürsorgeverordnung"
                         ],
                         "langue": [
-                            "Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei"
+                            {
+                                "_": "Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei",
+                                "FnR": [
+                                    {
+                                        "$": {
+                                            "ID": "f014610_01_BJNR058600014"
+                                        }
+                                    }
+                                ]
+                            }
                         ],
                         "standangabe": [
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Sonst"
+                                ],
+                                "standkommentar": [
+                                    "Zukünftige amtl. Langüberschrift: Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag (ab 1.11.2025; 2025 I Nr. 80)"
+                                ]
+                            },
                             {
                                 "$": {
                                     "checked": "ja"
@@ -56,18 +76,61 @@
                                 "standkommentar": [
                                     "Zuletzt geändert durch Art. 65 V v. 19.6.2020 I 1328"
                                 ]
+                            },
+                            {
+                                "$": {
+                                    "checked": "ja"
+                                },
+                                "standtyp": [
+                                    "Hinweis"
+                                ],
+                                "standkommentar": [
+                                    "Änderung durch Art. 1 V v. 11.3.2025 I Nr. 80 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+                                ]
                             }
                         ]
                     }
                 ],
                 "textdaten": [
                     {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Footnotes": [
+                                    {
+                                        "Footnote": [
+                                            {
+                                                "$": {
+                                                    "FnZ": "*",
+                                                    "Group": "column",
+                                                    "ID": "f014610_01_BJNR058600014",
+                                                    "Pos": "normal",
+                                                    "Postfix": ")"
+                                                },
+                                                "noindex": [
+                                                    "Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v. 11.3.2025 I Nr. 80 mWv 1.11.2025 wie folgt gefasst:"
+                                                ],
+                                                "BR": [
+                                                    ""
+                                                ],
+                                                "B": [
+                                                    "Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
                         "fussnoten": [
                             {
                                 "Content": [
                                     {
                                         "P": [
                                             {
+                                                "_": " Überschrift: IdF d. Art. 1 Nr. 1 V v. 11.3.2025 I Nr. 80 mWv 1.11.2025",
                                                 "BR": [
                                                     ""
                                                 ],
@@ -94,7 +157,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000100000"
                 },
                 "metadaten": [
@@ -128,7 +191,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000200000"
                 },
                 "metadaten": [
@@ -708,7 +771,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNG000100000"
                 },
                 "metadaten": [
@@ -737,7 +800,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000300000"
                 },
                 "metadaten": [
@@ -782,7 +845,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000400000"
                 },
                 "metadaten": [
@@ -824,7 +887,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000501116"
                 },
                 "metadaten": [
@@ -871,7 +934,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000602116"
                 },
                 "metadaten": [
@@ -1158,7 +1221,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNG000200000"
                 },
                 "metadaten": [
@@ -1187,7 +1250,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000700000"
                 },
                 "metadaten": [
@@ -1230,7 +1293,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000800000"
                 },
                 "metadaten": [
@@ -1290,7 +1353,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE000900000"
                 },
                 "metadaten": [
@@ -1332,7 +1395,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001000000"
                 },
                 "metadaten": [
@@ -1376,7 +1439,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001100000"
                 },
                 "metadaten": [
@@ -1419,7 +1482,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001200000"
                 },
                 "metadaten": [
@@ -1461,7 +1524,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001300000"
                 },
                 "metadaten": [
@@ -1505,7 +1568,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001400000"
                 },
                 "metadaten": [
@@ -1580,7 +1643,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001500000"
                 },
                 "metadaten": [
@@ -1622,7 +1685,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001601116"
                 },
                 "metadaten": [
@@ -1672,7 +1735,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001700000"
                 },
                 "metadaten": [
@@ -1746,7 +1809,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001800000"
                 },
                 "metadaten": [
@@ -1789,7 +1852,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE001900000"
                 },
                 "metadaten": [
@@ -1872,7 +1935,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE002000000"
                 },
                 "metadaten": [
@@ -1948,7 +2011,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE002101116"
                 },
                 "metadaten": [
@@ -1995,7 +2058,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNG000300000"
                 },
                 "metadaten": [
@@ -2024,7 +2087,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE002201116"
                 },
                 "metadaten": [
@@ -2069,7 +2132,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200916213506",
+                    "builddate": "20250314223502",
                     "doknr": "BJNR058600014BJNE002300000"
                 },
                 "metadaten": [

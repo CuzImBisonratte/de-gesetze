@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20200507212514",
+            "builddate": "20250311223005",
             "doknr": "BJNR122600995"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20200507212514",
+                    "builddate": "20250311223005",
                     "doknr": "BJNR122600995"
                 },
                 "metadaten": [
@@ -65,7 +65,7 @@
                                     "Stand"
                                 ],
                                 "standkommentar": [
-                                    "zuletzt geändert durch Art. 6 V v. 8.1.2020 I 27"
+                                    "zuletzt geändert durch Art. 1 V v. 6.3.2025 I Nr. 78"
                                 ]
                             }
                         ]
@@ -106,7 +106,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200507212514",
+                    "builddate": "20250311223005",
                     "doknr": "BJNR122600995BJNE000205360"
                 },
                 "metadaten": [
@@ -153,7 +153,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200507212514",
+                    "builddate": "20250311223005",
                     "doknr": "BJNR122600995BJNE000306116"
                 },
                 "metadaten": [
@@ -361,8 +361,8 @@
             },
             {
                 "$": {
-                    "builddate": "20200507212514",
-                    "doknr": "BJNR122600995BJNE000408360"
+                    "builddate": "20250311223005",
+                    "doknr": "BJNR122600995BJNE000409130"
                 },
                 "metadaten": [
                     {
@@ -421,7 +421,7 @@
                                                                         "$": {
                                                                             "colname": "col1",
                                                                             "colnum": "1",
-                                                                            "colwidth": "3*"
+                                                                            "colwidth": "2.56*"
                                                                         }
                                                                     },
                                                                     {
@@ -429,7 +429,7 @@
                                                                             "align": "center",
                                                                             "colname": "col2",
                                                                             "colnum": "2",
-                                                                            "colwidth": "5*"
+                                                                            "colwidth": "4.28*"
                                                                         }
                                                                     },
                                                                     {
@@ -437,15 +437,14 @@
                                                                             "align": "justify",
                                                                             "colname": "col3",
                                                                             "colnum": "3",
-                                                                            "colwidth": "50*"
+                                                                            "colwidth": "42.77*"
                                                                         }
                                                                     },
                                                                     {
                                                                         "$": {
-                                                                            "align": "center",
-                                                                            "colname": "col4",
+                                                                            "colname": "COLSPEC0",
                                                                             "colnum": "4",
-                                                                            "colwidth": "10*"
+                                                                            "colwidth": "9.39*"
                                                                         }
                                                                     }
                                                                 ],
@@ -483,8 +482,7 @@
                                                                                         "_": "Zuschlag",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "align": "center",
-                                                                                            "colname": "col4"
+                                                                                            "align": "center"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -517,8 +515,7 @@
                                                                                         "_": "3",
                                                                                         "$": {
                                                                                             "VJ": "1",
-                                                                                            "align": "center",
-                                                                                            "colname": "col4"
+                                                                                            "align": "center"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -556,10 +553,9 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": " 48 Euro",
+                                                                                        "_": " 54 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -682,10 +678,9 @@
                                                                                         ]
                                                                                     },
                                                                                     {
-                                                                                        "_": " 69 Euro",
+                                                                                        "_": " 77 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -754,10 +749,9 @@
                                                                                         ]
                                                                                     },
                                                                                     {
-                                                                                        "_": " 85 Euro",
+                                                                                        "_": " 93 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -786,10 +780,9 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "103 Euro",
+                                                                                        "_": "111 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -818,10 +811,9 @@
                                                                                         }
                                                                                     },
                                                                                     {
-                                                                                        "_": "123 Euro",
+                                                                                        "_": "131 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -890,10 +882,9 @@
                                                                                         ]
                                                                                     },
                                                                                     {
-                                                                                        "_": "145 Euro",
+                                                                                        "_": "153 Euro",
                                                                                         "$": {
-                                                                                            "VJ": "1",
-                                                                                            "colname": "col4"
+                                                                                            "VJ": "1"
                                                                                         }
                                                                                     }
                                                                                 ]
@@ -922,7 +913,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200507212514",
+                    "builddate": "20250311223005",
                     "doknr": "BJNR122600995BJNE000506360"
                 },
                 "metadaten": [
@@ -969,7 +960,7 @@
             },
             {
                 "$": {
-                    "builddate": "20200507212514",
+                    "builddate": "20250311223005",
                     "doknr": "BJNR122600995BJNE000902360"
                 },
                 "metadaten": [
