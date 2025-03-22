@@ -1,26 +1,26 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20250319223513",
-            "doknr": "BJNR240210999"
+            "builddate": "20250318223503",
+            "doknr": "BJNR0540A0025"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999"
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
                         ],
                         "amtabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
                         ],
                         "ausfertigung-datum": [
                             {
-                                "_": "1999-12-16",
+                                "_": "2025-03-13",
                                 "$": {
                                     "manuell": "ja"
                                 }
@@ -35,28 +35,12 @@
                                     "BGBl I"
                                 ],
                                 "zitstelle": [
-                                    "1999, 2402"
+                                    "2025, Nr. 84"
                                 ]
                             }
-                        ],
-                        "kurzue": [
-                            "DM-Beendigungsgesetz"
                         ],
                         "langue": [
-                            "Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf\nDeutsche Mark lautenden Banknoten und der auf Deutsche Mark oder\nDeutsche Pfennig lautenden Bundesmünzen"
-                        ],
-                        "standangabe": [
-                            {
-                                "$": {
-                                    "checked": "ja"
-                                },
-                                "standtyp": [
-                                    "Stand"
-                                ],
-                                "standkommentar": [
-                                    "Geändert durch Art. 7 G v. 14.9.2005 I 2746"
-                                ]
-                            }
+                            "Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundesamtes für Bauwesen und Raumordnung"
                         ]
                     }
                 ],
@@ -67,11 +51,21 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "(+++ Textnachweis ab: 1.1.2002 +++)",
                                             {
-                                                "_": " Das Gesetz ist als Artikel 1 G v. 16.12.1999 I 2402 vom Bundestag beschlossen. Es ist gem. Art. 8 dieses G mWv 1.1.2002 in Kraft getreten. § 1 ist bereits mWv 22.12.1999 in Kraft getreten.",
                                                 "BR": [
                                                     ""
+                                                ],
+                                                "pre": [
+                                                    {
+                                                        "_": "(+++ Textnachweis ab: 8.12.2021 +++)",
+                                                        "$": {
+                                                            "xml:space": "preserve"
+                                                        },
+                                                        "BR": [
+                                                            "",
+                                                            ""
+                                                        ]
+                                                    }
                                                 ]
                                             }
                                         ]
@@ -84,16 +78,58 @@
             },
             {
                 "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000100310"
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025BJNE000100000"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
+                        ],
+                        "enbez": [
+                            "Eingangsformel"
+                        ]
+                    }
+                ],
+                "textdaten": [
+                    {
+                        "text": [
+                            {
+                                "$": {
+                                    "format": "XML"
+                                },
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "Nach Artikel 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl. I S. 1286) ordne ich an:"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "$": {
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025BJNE000200000"
+                },
+                "metadaten": [
+                    {
+                        "jurabk": [
+                            "BBRErnAnO"
                         ],
                         "enbez": [
                             "§ 1"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Ausübung des Rechts zur Ernennung und Entlassung",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
                         ]
                     }
                 ],
@@ -107,7 +143,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Mit Ablauf des 31. Dezember 2001 verlieren die von der Deutschen Bundesbank ausgegebenen, auf Deutsche Mark lautenden Banknoten und die von der Bundesrepublik Deutschland ausgegebenen, auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen ihre Eigenschaft als gesetzliches Zahlungsmittel. Die Deutsche Bundesbank tauscht im Rahmen von Artikel 16 der Verordnung (EG) Nr. 974/98 des Rates vom 3. Mai 1998 über die Einführung des Euro (ABl. EG Nr. L 139 S. 1) die in Satz 1 bezeichneten Banknoten und Bundesmünzen ab 1. Januar 2002 zum gemäß der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember 1998 über die Umrechnungskurse zwischen dem Euro und den Währungen der Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S. 1), unwiderruflich festgelegten Umrechnungskurs in Euro-Banknoten und Euro-Münzen um."
+                                            "Der Präsidentin oder dem Präsidenten des Bundesamtes für Bauwesen und Raumordnung wird die Ausübung des Rechtes zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundes der Besoldungsgruppen bis einschließlich A 15 widerruflich übertragen."
                                         ]
                                     }
                                 ]
@@ -118,16 +154,24 @@
             },
             {
                 "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000200310"
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025BJNE000300000"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
                         ],
                         "enbez": [
                             "§ 2"
+                        ],
+                        "titel": [
+                            {
+                                "_": "Vorbehaltsklausel",
+                                "$": {
+                                    "format": "XML"
+                                }
+                            }
                         ]
                     }
                 ],
@@ -141,7 +185,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Die Deutsche Bundesbank ist nicht verpflichtet, für auf Deutsche Mark lautende vernichtete, verlorene, falsche oder verfälschte Banknoten Ersatz zu leisten. Sie darf für beschädigte auf Deutsche Mark lautende Banknoten Ersatz nur leisten, wenn der Inhaber entweder Teile einer Note vorlegt, die insgesamt größer sind als die Hälfte der Note, oder den Nachweis führt, dass der Rest der Note, von der er nur die Hälfte oder einen geringeren Teil vorlegt, vernichtet ist."
+                                            "Für besondere Fälle bleibt die Ernennung und Entlassung der unter § 1 genannten Beamtinnen und Beamten vorbehalten."
                                         ]
                                     }
                                 ]
@@ -152,53 +196,24 @@
             },
             {
                 "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000301377"
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025BJNE000400000"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
                         ],
                         "enbez": [
                             "§ 3"
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
+                        ],
+                        "titel": [
                             {
+                                "_": "Inkrafttreten",
                                 "$": {
                                     "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Die Deutsche Bundesbank ist nicht verpflichtet, auf Deutsche Mark oder Deutsche Pfennig lautende Bundesmünzen in gesetzliche Zahlungsmittel umzutauschen, wenn diese verfälscht, durchlöchert oder anders als durch den gewöhnlichen Umlauf verändert sind."
-                                        ]
-                                    }
-                                ]
+                                }
                             }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000500310"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "DMBeEndG"
-                        ],
-                        "enbez": [
-                            "§ 4"
                         ]
                     }
                 ],
@@ -212,44 +227,7 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "-"
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "fussnoten": [
-                            ""
-                        ]
-                    }
-                ]
-            },
-            {
-                "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000600310"
-                },
-                "metadaten": [
-                    {
-                        "jurabk": [
-                            "DMBeEndG"
-                        ],
-                        "enbez": [
-                            "§ 5"
-                        ]
-                    }
-                ],
-                "textdaten": [
-                    {
-                        "text": [
-                            {
-                                "$": {
-                                    "format": "XML"
-                                },
-                                "Content": [
-                                    {
-                                        "P": [
-                                            "Die für die Verfolgung einer Straftat auf dem Gebiet der Geldfälschung geltenden Vorschriften der Strafprozessordnung gelten entsprechend für die Verfolgung einer Straftat nach § 4 in Verbindung mit einer dort genannten Vorschrift des Strafgesetzbuches. Die für die Verfolgung einer Geldfälschung nach § 146 des Strafgesetzbuches geltenden Vorschriften der Strafprozessordnung gelten entsprechend für die Verfolgung einer Straftat nach § 4 in Verbindung mit § 146 des Strafgesetzbuches."
+                                            "Diese Anordnung tritt mit Wirkung vom 8. Dezember 2021 in Kraft."
                                         ]
                                     }
                                 ]
@@ -260,16 +238,16 @@
             },
             {
                 "$": {
-                    "builddate": "20250319223513",
-                    "doknr": "BJNR240210999BJNE000700310"
+                    "builddate": "20250318223503",
+                    "doknr": "BJNR0540A0025BJNE000500000"
                 },
                 "metadaten": [
                     {
                         "jurabk": [
-                            "DMBeEndG"
+                            "BBRErnAnO"
                         ],
                         "enbez": [
-                            "§ 6"
+                            "Schlussformel"
                         ]
                     }
                 ],
@@ -283,7 +261,11 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "§ 4 ist auf Taten, die während seiner Geltung begangen sind, auch dann anzuwenden, wenn er außer Kraft getreten ist."
+                                            {
+                                                "SP": [
+                                                    "Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen"
+                                                ]
+                                            }
                                         ]
                                     }
                                 ]
