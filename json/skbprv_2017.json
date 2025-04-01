@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20241023214021",
+            "builddate": "20250331224020",
             "doknr": "BJNR151900017"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20241023214021",
+                    "builddate": "20250331224020",
                     "doknr": "BJNR151900017"
                 },
                 "metadaten": [
@@ -102,8 +102,8 @@
             },
             {
                 "$": {
-                    "builddate": "20241023214021",
-                    "doknr": "BJNR151900017BJNE000102377"
+                    "builddate": "20250331224020",
+                    "doknr": "BJNR151900017BJNE000103377"
                 },
                 "metadaten": [
                     {
@@ -141,7 +141,9 @@
                                                             "4.",
                                                             "5.",
                                                             "6.",
-                                                            "7."
+                                                            "7.",
+                                                            "8.",
+                                                            "9."
                                                         ],
                                                         "DD": [
                                                             {
@@ -215,7 +217,7 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Kommando Cyber- und Informationsraum und",
+                                                                        "_": "Kommando Cyber- und Informationsraum,",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }
@@ -228,7 +230,33 @@
                                                                 },
                                                                 "LA": [
                                                                     {
-                                                                        "_": "Territoriales Führungskommando der Bundeswehr.",
+                                                                        "_": "Territoriales Führungskommando der Bundeswehr,",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Unterstützungskommando der Bundeswehr und",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
+                                                                        "_": "Operatives Führungskommando der Bundeswehr.",
                                                                         "$": {
                                                                             "Size": "normal"
                                                                         }

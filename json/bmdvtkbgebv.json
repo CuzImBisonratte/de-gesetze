@@ -1,13 +1,13 @@
 {
     "dokumente": {
         "$": {
-            "builddate": "20250211223001",
+            "builddate": "20250331224001",
             "doknr": "BJNR0010A0024"
         },
         "norm": [
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024"
                 },
                 "metadaten": [
@@ -109,7 +109,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000100000"
                 },
                 "metadaten": [
@@ -143,8 +143,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
-                    "doknr": "BJNR0010A0024BJNE000201130"
+                    "builddate": "20250331224001",
+                    "doknr": "BJNR0010A0024BJNE000202129"
                 },
                 "metadaten": [
                     {
@@ -175,7 +175,7 @@
                                     {
                                         "P": [
                                             {
-                                                "_": "(1) Die Bundesnetzagentur und das Bundesamt für Sicherheit in der Informationstechnik erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden: ",
+                                                "_": "(1) Die Bundesnetzagentur, das Bundesamt für Sicherheit in der Informationstechnik und die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit erheben in ihrem Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die aufgrund der folgenden Rechtsvorschriften erbracht werden: ",
                                                 "DL": [
                                                     {
                                                         "$": {
@@ -190,7 +190,8 @@
                                                             "5.",
                                                             "6.",
                                                             "7.",
-                                                            "8."
+                                                            "8.",
+                                                            "9."
                                                         ],
                                                         "DD": [
                                                             {
@@ -277,6 +278,19 @@
                                                                 },
                                                                 "LA": [
                                                                     {
+                                                                        "_": "Einwilligungsverwaltungsverordnung vom 6. Februar 2025 (BGBl. 2025 I Nr. 32),",
+                                                                        "$": {
+                                                                            "Size": "normal"
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "$": {
+                                                                    "Font": "normal"
+                                                                },
+                                                                "LA": [
+                                                                    {
                                                                         "_": "Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,",
                                                                         "$": {
                                                                             "Size": "normal"
@@ -301,21 +315,29 @@
                                                     }
                                                 ]
                                             },
-                                            "(2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur und dem Bundesamt für Sicherheit in der Informationstechnik aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen."
+                                            "(2) Die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur, dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit aufgrund anderer als der in Absatz 1 genannten Rechtsvorschriften erbracht werden, wird durch diese Verordnung nicht ausgeschlossen."
                                         ]
                                     }
                                 ]
                             }
                         ],
                         "fussnoten": [
-                            ""
+                            {
+                                "Content": [
+                                    {
+                                        "P": [
+                                            "(+++ § 1 Abs. 1 Nr. 7: Eingef. durch Art. 2 Nr. 1 Buchst. a DBuchst. bb V v. 6.2.2025 I Nr. 32 mWv 1.4.2025 (aufgrund offensichtlicher Unrichtigkeit wurde am Ende der Aufzählung ein Komma ergänzt)+++)"
+                                        ]
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000300000"
                 },
                 "metadaten": [
@@ -358,7 +380,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000400000"
                 },
                 "metadaten": [
@@ -402,7 +424,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000500000"
                 },
                 "metadaten": [
@@ -446,8 +468,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
-                    "doknr": "BJNR0010A0024BJNE000600000"
+                    "builddate": "20250331224001",
+                    "doknr": "BJNR0010A0024BJNE000601129"
                 },
                 "metadaten": [
                     {
@@ -477,18 +499,21 @@
                                 "Content": [
                                     {
                                         "P": [
-                                            "Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur und des Bundesamtes für Sicherheit in der Informationstechnik des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung."
+                                            "Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur, des Bundesamtes für Sicherheit in der Informationstechnik und der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung."
                                         ]
                                     }
                                 ]
                             }
+                        ],
+                        "fussnoten": [
+                            ""
                         ]
                     }
                 ]
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000900130"
                 },
                 "metadaten": [
@@ -533,7 +558,7 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
+                    "builddate": "20250331224001",
                     "doknr": "BJNR0010A0024BJNE000701130"
                 },
                 "metadaten": [
@@ -579,8 +604,8 @@
             },
             {
                 "$": {
-                    "builddate": "20250211223001",
-                    "doknr": "BJNR0010A0024BJNE000805130"
+                    "builddate": "20250331224001",
+                    "doknr": "BJNR0010A0024BJNE000806129"
                 },
                 "metadaten": [
                     {
@@ -618,7 +643,7 @@
                                                     {
                                                         "kommentar": [
                                                             {
-                                                                "_": "(Fundstelle: BGBl. 2024 I Nr. 1, S. 4 - 12)",
+                                                                "_": "(Fundstelle: BGBl. 2024 I Nr. 1, S. 4 - 12; bzgl. der einzelnen Änderungen vgl. Fußnote)",
                                                                 "$": {
                                                                     "typ": "Fundstelle"
                                                                 }
@@ -627,7 +652,6 @@
                                                     }
                                                 ]
                                             },
-                                            "",
                                             {
                                                 "DL": [
                                                     {
@@ -4377,6 +4401,52 @@
                                                                                 "_": "Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TDDDG",
                                                                                 "$": {
                                                                                     "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "nach Zeitaufwand",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "5",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Prüfung der Anerkennungsvoraussetzungen nach § 10 EinwV",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "align": "left"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "nach Zeitaufwand",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "entry": [
+                                                                            {
+                                                                                "_": "6",
+                                                                                "$": {
+                                                                                    "VJ": "1"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Widerruf der Anerkennung nach § 16 EinwV",
+                                                                                "$": {
+                                                                                    "VJ": "1",
+                                                                                    "align": "left"
                                                                                 }
                                                                             },
                                                                             {
